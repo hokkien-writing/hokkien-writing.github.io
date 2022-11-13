@@ -8,6 +8,7 @@ tags:
 
 原始資料來源為教育部《[臺灣閩南語常用詞辭典](http://twblg.dict.edu.tw/)》（[CC BY-ND 3.0 臺灣授權](http://twblg.dict.edu.tw/holodict_new/compile1_6_1.jsp)），辭典本文的著作權仍為教育部所有。
 
+<!--more-->
 * [天文·地理](../tianwen-dili)
 * [時間·空間](../shijian-kongjian)
 * [動物](../dongwu)
