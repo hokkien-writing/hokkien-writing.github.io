@@ -14,8 +14,8 @@ banner:
 sidebar: right
 widgets:
 # - tip
+- tagcloud
 - recent_posts
 # - category
-- tagcloud
 # - qrcode
 # - archive
