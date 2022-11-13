@@ -1,0 +1,21 @@
+# Header
+menu:
+  頭頁: /
+  資料: /
+  GitHub: https://github.com/hokkien-writing
+
+# Content
+excerpt_link: 繼續閱讀
+
+# Banner
+banner:
+
+# Sidebar
+sidebar: right
+widgets:
+# - tip
+- recent_posts
+# - category
+- tagcloud
+# - qrcode
+# - archive
