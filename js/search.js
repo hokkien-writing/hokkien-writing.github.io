@@ -2,7 +2,7 @@ var searchFunc = function (path, search_id, content_id) {
   'use strict';
   var $input = document.getElementById(search_id);
   var $resultContent = document.getElementById(content_id);
-  $resultContent.innerHTML = "<ul><span class='local-search-empty'>稍等片刻……<span></ul>";
+  $resultContent.innerHTML = "<ul><span class='local-search-empty'>等頃……<span></ul>";
   $.ajax({
     url: path,
     dataType: "xml",
@@ -91,7 +91,7 @@ var searchFunc = function (path, search_id, content_id) {
         });
         str += "</ul>";
         if (str.indexOf('<li>') === -1) {
-          return $resultContent.innerHTML = "<ul><span class='local-search-empty'>没有找到内容，请尝试更换检索词。<span></ul>";
+          return $resultContent.innerHTML = "<ul><span class='local-search-empty'>查無內容<span></ul>";
         }
         $resultContent.innerHTML = str;
       });
