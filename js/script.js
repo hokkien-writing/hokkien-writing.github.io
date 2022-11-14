@@ -12,6 +12,8 @@
     setTimeout(function () {
       isSearchAnim = false;
       callback && callback();
+      $('#local-search-input').val('');
+      $('#local-search-result').html('');
     }, searchAnimDuration);
   };
 
@@ -28,8 +30,6 @@
   $('.search-form-input').on('blur', function () {
     startSearchAnim();
     $searchWrap.removeClass('on');
-    $('#local-search-input').val('');
-    $('#local-search-result').html('');
     stopSearchAnim();
   });
 

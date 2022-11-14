@@ -57,7 +57,7 @@ var searchFunc = function (path, search_id, content_id) {
             isMatch = false;
           }
           if (isMatch) {
-            str += "<li><a href='" + data_url + "' class='search-result-title' target='_blank'>" + orig_data_title + "</a>";
+            str += "<li><a href='" + data_url + "' class='search-result-title' target='_self'>" + orig_data_title + "</a>";
             var content = orig_data_content;
             if (first_occur >= 0) {
               // cut out 100 characters
@@ -96,10 +96,6 @@ var searchFunc = function (path, search_id, content_id) {
         $resultContent.innerHTML = str;
       });
     }
-  });
-  $(document).on('click', '#local-search-close', function() {
-    $('#local-search-input').val('');
-    $('#local-search-result').html('');
   });
 }
 
