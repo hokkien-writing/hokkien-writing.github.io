@@ -58,14 +58,15 @@
         <a id="nav-search-btn" class="nav-icon" title="搜尋"></a>
       </nav>
       <div id="search-form-wrap">
-        <!-- <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://hokkien-writing.github.io"></form> -->
-        <form action="//cn.bing.com/search" method="get" accept-charset="UTF-8" class="search-form">
-          <input type="search" name="q" class="search-form-input" placeholder="搜尋">
-          <button type="submit" class="search-form-submit"></button>
-          <input type="hidden" name="sitesearch" value="url">
-        </form>
+        <div class="search-form">
+          <input type="search" id="local-search-input" name="q" results="0" placeholder="搜尋"
+            class="search-form-input" />
+        </div>
       </div>
     </div>
+
+    <div id="local-search-result" class="local-search-result-cls"></div>
+
   </div>
 </header>
       <div class="outer">
@@ -380,7 +381,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://hokkien-writing.github.io/holodict/jianzhu-jusuo/" data-id="clafjkn560005mr9khxdo4vjk" class="article-share-link">分享</a>
+      <a data-url="https://hokkien-writing.github.io/holodict/jianzhu-jusuo/" data-id="clagvl33u0003qx9k1fny4o89" class="article-share-link">分享</a>
       
       
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E8%87%BA%E7%81%A3%E9%96%A9%E5%8D%97%E8%AA%9E%E5%B8%B8%E7%94%A8%E8%A9%9E%E8%BE%AD%E5%85%B8/" rel="tag">臺灣閩南語常用詞辭典</a></li></ul>
@@ -391,11 +392,11 @@
     
 <nav id="article-nav">
   
-    <a href="/holodict/main/" id="article-nav-newer" class="article-nav-link-wrap">
+    <a href="/holodict/dongwu/" id="article-nav-newer" class="article-nav-link-wrap">
       <strong class="article-nav-caption">下一篇</strong>
       <div class="article-nav-title">
         
-          臺灣閩南語常用詞辭典
+          臺灣閩南語常用詞辭典之動物
         
       </div>
     </a>
@@ -436,19 +437,19 @@
           </li>
         
           <li>
+            <a href="/holodict/caiwujingji/">臺灣閩南語常用詞辭典之財務經濟</a>
+          </li>
+        
+          <li>
+            <a href="/holodict/dongwu/">臺灣閩南語常用詞辭典之動物</a>
+          </li>
+        
+          <li>
             <a href="/holodict/jianzhu-jusuo/">臺灣閩南語常用詞辭典之建築·居所</a>
           </li>
         
           <li>
             <a href="/holodict/fa-zheng-junshi/">臺灣閩南語常用詞辭典之法·政·軍事</a>
-          </li>
-        
-          <li>
-            <a href="/holodict/jiaotong-xunxi/">臺灣閩南語常用詞辭典之交通·訊息</a>
-          </li>
-        
-          <li>
-            <a href="/holodict/quntijijiating/">臺灣閩南語常用詞辭典之群體及家庭</a>
           </li>
         
       </ul>
@@ -495,6 +496,14 @@
     
 
 <script src="//cdn.bootcss.com/jquery/2.0.3/jquery.min.js"></script>
+<script src="/js/search.js"></script> 
+
+  <script type="text/javascript" id="local.search.active">
+    var inputArea       = document.querySelector("#local-search-input");
+    inputArea.onclick   = function(){ getSearchFile(); this.onclick = null }
+    inputArea.onkeydown = function(){ if(event.keyCode == 13) return false }
+  </script>
+
 
 
   

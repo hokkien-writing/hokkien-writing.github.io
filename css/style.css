@@ -486,20 +486,88 @@ body {
 .search-form-input::-webkit-search-cancel-button {
   -webkit-appearance: none;
 }
-.search-form-submit {
-  position: absolute;
-  top: 50%;
-  right: 10px;
-  margin-top: -7px;
-  font: 13px FontAwesome;
-  border: none;
-  background: none;
-  color: #bbb;
-  cursor: pointer;
+.local-search-input-cls {
+  width: 200px;
+  margin: 10px 0;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  color: #666;
+  font-size: 14px;
 }
-.search-form-submit:hover,
-.search-form-submit:focus {
-  color: #777;
+.local-search-result-cls {
+  position: absolute;
+  z-index: 99;
+  width: 400px;
+  top: 50px;
+  right: 0;
+}
+.local-search-result-cls .local-search-empty {
+  color: #888;
+  line-height: 44px;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+  font-weight: normal;
+}
+.local-search-result-cls ul {
+  width: 360px;
+  max-height: 450px;
+  min-height: 0;
+  height: auto;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px 20px;
+  background: #fff;
+  -webkit-box-shadow: 1px 2px 4px #ccc;
+  box-shadow: 1px 2px 4px #ccc;
+}
+.local-search-result-cls ul li {
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  line-height: 30px;
+  font-weight: normal;
+}
+.local-search-result-cls ul li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+.local-search-result-cls ul li a {
+  margin-top: 20px;
+  font-size: 16px;
+}
+.local-search-result-cls ul li p {
+  margin-top: 10px;
+  font-size: 14px;
+  max-height: 124px;
+  overflow: hidden;
+}
+.local-search-result-cls ul li em.search-keyword {
+  color: #e58c7c;
+}
+.local-search-plugin .local-search-input-cls {
+  opacity: 0.6;
+  width: 160px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.local-search-plugin .local-search-input-cls:hover {
+  opacity: 1;
+  width: 200px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.local-search-plugin .icon {
+  position: relative;
+  left: -30px;
+  color: #999;
+  cursor: pointer;
 }
 .article {
   margin: 36px 0;
