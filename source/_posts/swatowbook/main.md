@@ -43,7 +43,7 @@ All Rights Reserved.
 [Exercises](../excersise-v),	„ V	14
 [A List of Introductory Adjectives](../a-list-of-introductory-adjectives),	„ VI	20
 [Exercises](../excersise-vii),	„ VII	26
-Numeral,	„ VIII	37
+[Numeral](../numeral),	„ VIII	37
 Tones, Hyphens,	„ IX	40
 Grammar,	„ X	42
 Time generally,	„ XI	49
