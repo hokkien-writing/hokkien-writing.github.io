@@ -38,12 +38,12 @@ All Rights Reserved.
 
 ## CONTENTS.
 
-[Introductory](../introductory),	Lesson I-III	1-6
-[A List of Introductory Verbs](../a-list-of-introductory-verbs),	„ IV	6
-[Exercises](../excersise-v),	„ V	14
-[A List of Introductory Adjectives](../a-list-of-introductory-adjectives),	„ VI	20
-[Exercises](../excersise-vii),	„ VII	26
-[Numeral](../numeral),	„ VIII	37
+[Introductory](/swatowbook/introductory),	Lesson I-III	1-6
+[A List of Introductory Verbs](/swatowbook/a-list-of-introductory-verbs),	„ IV	6
+[Exercises](/swatowbook/excersise-v),	„ V	14
+[A List of Introductory Adjectives](/swatowbook/a-list-of-introductory-adjectives),	„ VI	20
+[Exercises](/swatowbook/excersise-vii),	„ VII	26
+[Numeral](/swatowbook/numeral),	„ VIII	37
 Tones, Hyphens,	„ IX	40
 Grammar,	„ X	42
 Time generally,	„ XI	49

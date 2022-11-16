@@ -6,7 +6,7 @@ tags:
 - 汕頭話讀本
 ---
 
-[↩️ 轉回總目錄](../main)
+[↩️ 轉回總目錄](/swatowbook/main)
 
 ## Lesson IV. A List of Introductory Verbs.
 
