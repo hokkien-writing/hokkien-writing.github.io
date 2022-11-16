@@ -40,9 +40,9 @@ All Rights Reserved.
 
 [Introductory](../introductory),	Lesson I-III	1-6
 [A List of Introductory Verbs](../a-list-of-introductory-verbs),	„ IV	6
-Exercises,	„ V	14
-A List of Introductory Adjectives,	„ VI	20
-Exercises,	„ VII	26
+[Exercises](../excersise-v),	„ V	14
+[A List of Introductory Adjectives](../a-list-of-introductory-adjectives),	„ VI	20
+[Exercises](../excersise-vii),	„ VII	26
 Numeral,	„ VIII	37
 Tones, Hyphens,	„ IX	40
 Grammar,	„ X	42
