@@ -44,9 +44,9 @@ All Rights Reserved.
 [A List of Introductory Adjectives](/swatowbook/a-list-of-introductory-adjectives),	„ VI	20
 [Exercises](/swatowbook/excersise-vii),	„ VII	26
 [Numeral](/swatowbook/numeral),	„ VIII	37
-Tones, Hyphens,	„ IX	40
-Grammar,	„ X	42
-Time generally,	„ XI	49
+[Tones, Hyphens](/swatowbook/tones-hyphens),	„ IX	40
+[Grammar](/swatowbook/grammar),	„ X	42
+[Time generally](/swatowbook/time-generally),	„ XI	49
 A Building &c,	„ XII	53
 Human Body &c,	„ XIII	60
 Household Furniture &c,	„ XIV	65
