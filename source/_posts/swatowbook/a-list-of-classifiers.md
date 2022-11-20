@@ -1,5 +1,5 @@
 ---
-title: Handbook of the Swatow Vernacular / A list of classifiers. (汕頭話讀本之量詞列表)
+title: Handbook of the Swatow Vernacular / A list of classifiers (汕頭話讀本之量詞列表)
 p: swatowbook/a-list-of-classifiers
 date: 2022-11-20 23:39:00
 tags: 
