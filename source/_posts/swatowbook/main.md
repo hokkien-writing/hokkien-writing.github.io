@@ -47,16 +47,16 @@ All Rights Reserved.
 [Tones, Hyphens](/swatowbook/tones-hyphens),	„ IX	40
 [Grammar](/swatowbook/grammar),	„ X	42
 [Time generally](/swatowbook/time-generally),	„ XI	49
-A Building &c,	„ XII	53
-Human Body &c,	„ XIII	60
-Household Furniture &c,	„ XIV	65
-Garden,	„ XV	80
-A List of Words used in Cooking,	„ XVI	83
-Provisions, Fish, Vegetable and Fruit,	„ XVII	86
-On Dress,	„ XVIII	99
-Nautical,	„ XIX	102
-Medical,	„ XX	108
-Commercial,	„ XXI	114
+[A Building &c](/swatowbook/a-building),	„ XII	53
+[Human Body &c](/swatowbook/human-body),	„ XIII	60
+[Household Furniture &c](/swatowbook/household-furniture),	„ XIV	65
+[Garden](/swatowbook/garden),	„ XV	80
+[A List of Words used in Cooking](/swatowbook/a-list-of-words-used-in-cooking),	„ XVI	83
+[Provisions, Fish, Vegetable and Fruit](/swatowbook/provisions-fish-vegetables-and-fruit),	„ XVII	86
+[On Dress](/swatowbook/on-dress),	„ XVIII	99
+[Nautical](/swatowbook/nautical),	„ XIX	102
+[Medical](/swatowbook/medical),	„ XX	108
+[Commercial](/swatowbook/commercial),	„ XXI	114
 „ Piece-goods,	„ „	114
 „ Mineral &c,	„ „	116
 „ Miscellaneous Articles,	„ „	117
@@ -66,19 +66,19 @@ Commercial,	„ XXI	114
 „ Monetary,	„ „	126
 „ A List of Words Used in Commerce,	„ „	129
 „ Weights and Measures,	„ „	135
-Judicial,	„ XXII	137
-Hostilities,	„ XXIII	143
-Religious,	„ XXIV	145
-Relationships,	„ XXV	146
-A List of Animals and Birds,	„ XXVI	154
-A List of Classifiers,	„ XXVII	157
-Notes—Nautical,	„ XXVIII	159
-Notes—Medical,	„ XXIX	161
-Notes—Commercial,	„ XXX	163
-Notes—Judicial,	„ XXXI	165
-Notes—Hostilities,	„ XXII	167
-Notes—Religious,	„ XXIII	168
-A Dictionary of some of the more important words in the Swatow dialect.
+[Judicial](/swatowbook/judicial),	„ XXII	137
+[Hostilities](/swatowbook/hostilities),	„ XXIII	143
+[Religious](/swatowbook/religious),	„ XXIV	145
+[Relationships](/swatowbook/relationships),	„ XXV	146
+[A List of Animals and Birds](/swatowbook/a-list-of-animals-and-birds),	„ XXVI	154
+[A List of Classifiers](/swatowbook/a-list-of-classifiers),	„ XXVII	157
+[Notes—Nautical](/swatowbook/notes-nautical),	„ XXVIII	159
+[Notes—Medical](/swatowbook/notes-medical),	„ XXIX	161
+[Notes—Commercial](/swatowbook/notes-commercial),	„ XXX	163
+[Notes—Judicial](/swatowbook/notes-judicial),	„ XXXI	165
+[Notes—Hostilities](/swatowbook/notes-hostilities),	„ XXII	167
+[Notes—Religious](/swatowbook/notes-religious),	„ XXIII	168
+[A Dictionary of some of the more important words in the Swatow dialect](/swatowbook/a-dictionary-of-some-of-the-more-important-words-in-the-swatow-dialect).
 
 ------
 
