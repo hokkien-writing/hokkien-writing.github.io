@@ -51,7 +51,7 @@ tags:
 * 【伊就去被官府審】(I chiũ khṳ̀-pun kuaⁿ-hú sím) And he went to be tried by the mandarin.
 * 【老爺戴頂就出來在堂】(Lãu-tia tì-téng chiũ tshut--lâi tsõ-tn̂g) The mandarin put on his button, and came out and sat on the bench.
 * 【秀才就跪落去】(Sìu-tsâi chiũ kũi--lóh-khṳ̀) The graduate knelt down.
-* 【老爺審到甚久了。人𤍠在】(Lãu-tia sím kàu hoh-kú--lō, nâng zuáh-tsãi) The mandarin after a long trial found it rather warm.
+* 【老爺審到甚久了。人![](https://glyphwiki.org/glyph/u24360.50px.png)在 人熱在】(Lãu-tia sím kàu hoh-kú--lō, nâng zuáh-tsãi) The mandarin after a long trial found it rather warm.
 * 【粒頂就脫丢放在床頂】(Liáp-téng chiũ thut-tiòu pàng tõ tshn̂g-téng) And he took off his hat to which the button was attached and put it on the table.
 * 【秀才在跪隨時就起來】(Siù-tsâi tõ-kũi sûi-sî chiû khí--lâi) The graduate who was kneeling down at once got up.
 * 【老爺問伊呾。爾爲何起來也】(Lãu-tia mn̄g i tàⁿ, "lṳ́ tsò-nîⁿ khí--lâi nē?") The mandarin asked him and said, "Why do you get up"?

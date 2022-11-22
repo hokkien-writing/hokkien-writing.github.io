@@ -33,7 +33,7 @@ tags:
 * 【葵扇壹枝若干錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
 * 【壹枝捌個錢】(Ki poih-kâi chîⁿ) Eight cash each.
 * 【此近時無生理】(Chí-chùaⁿ-sî bô seng-lí) My trade is very dull of late.
-* 【恁個生理好𤍠】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
+* 【恁個生理好![](https://glyphwiki.org/glyph/u24360.50px.png) 熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
 * 【四個銀。弍式。四個錢】(Sì-kâi-ngṳ̂n, nõⁿ-sek sì-kâi chîⁿ) Four dollars, twenty cents and four cash.
 * 【百伍個錢】(Peh-ngõu kâi chîⁿ) Hundred and fifty cash.
 * 【陸斤四】(Lák-kṳn-si) Six catties and four taels.
@@ -42,4 +42,4 @@ tags:
 * 【頂正。不可頂減】(Téng-chiàⁿ, m̄-móⁿ téng-siám) Weigh properly, and don't cheat in weighing.
 * 【個銀携去找錢】(Kâi-ngṳ̂n khiéh-khṳ̀ táu-chîⁿ) Take the dollar and change it into cash.
 * 【個銀不足重。無七弍】(Kâi-ngṳ̂n m̄-kàu-tãng, bô chhit-jī) The dollar is short in weight, it's not 7 candareens and 2 mace.
-* 【鬧𤍠】(Lãu-jiét.) A phrase used by customers or visitor on leaving the shop, which means may your shop be crowded with customers.
+* 【鬧![](https://glyphwiki.org/glyph/u24360.50px.png) 鬧熱】(Lãu-jiét.) A phrase used by customers or visitor on leaving the shop, which means may your shop be crowded with customers.

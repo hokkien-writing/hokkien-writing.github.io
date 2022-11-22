@@ -13,7 +13,7 @@ tags:
 ### Provisions.
 
 * 【Food】(Chiáh, bí-niêⁿ) 食　米糧
-* 【Bread】(Mīⁿ-pau) 麫包
+* 【Bread】(Mīⁿ-pau) 麫包 麵包
 * 【Butter】(Gû-nĩⁿ-iû) 牛乳油
 * 【Soup, Gravy】(Thng) 湯
 * 【Fowl】(Koi) 雞
@@ -57,7 +57,7 @@ tags:
 * 【Flour】(Mīⁿ) 麫
 * 【Sago】(Siâ-gō-hún) 斜莪粉
 * 【„ in pills】(Siâ-gō-îⁿ) 斜莪員
-* 【Vermicelli】(Mīⁿ-sùaⁿ) 麫線
+* 【Vermicelli】(Mīⁿ-sùaⁿ) 麫線 麵線
 * 【Salt】(Iâm) 鹽
 
 ------
@@ -117,7 +117,7 @@ tags:
 * 【Shrimps】(Hê) 蝦
 * 【Lobster】(Lêng-hê) 龍蝦
 * 【Shell-fish】(Lô) 螺
-* 【Turtle】(Hang-ku) 魴𬺞
+* 【Turtle】(Hang-ku) 魴![](https://glyphwiki.org/glyph/u2ce9e@11.50px.png)(⿱⺈黾) 魴龜
 * 【Oysters】(Ô) 蠔
 * 【Cockles】(Ham) 蚶
 * 【Dried salt fish】(Hṳ̂-kuaⁿ, hṳ̂-póu) 魚干　魚脯

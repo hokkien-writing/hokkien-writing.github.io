@@ -57,8 +57,8 @@ tags:
 * 【Divination by bamboo slips】(Lok-chhiam) 搖籤
 * 【„ roots】(Puáh-pue) 拔杯
 * 【Offering, an】(Hõng) 奉
-* 【The three kinds of offerings】(Saⁿ-seⁿ) 三性
-* 【The five „】(Ngóu-seⁿ) 伍性
+* 【The three kinds of offerings】(Saⁿ-seⁿ) 三牲
+* 【The five „】(Ngóu-seⁿ) 伍牲
 * 【Festival day】(Tsò-tsoih) 做節
 * 【Theatre, a】(Hì) 戲
 * 【Procession of a god】(Iâⁿ-lâu-iâ) 迎老爺

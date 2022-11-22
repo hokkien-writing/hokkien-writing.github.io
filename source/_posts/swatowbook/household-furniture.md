@@ -65,7 +65,7 @@ tags:
 * 【是趣味在】(Sĩ tshù-bi̍ tsãi) They are very funny indeed.
 * 【火爐有起火或未】(Húe-lôu ũ khí-húe a-būe?) Have you made a fire in the grate?
 * 【未。我此時正要來起】(Bũ7e, uá chí-tsûn chiàⁿ-àiⁿ lâi-khí) Not yet, I am just going to make one.
-* 【猛猛冷在。火起𤍠𤍠】(Méⁿ méⁿ chhìn-tsãi, húe-khí jiét-jiét) Look sharp, it is very cold, and make the fire very fierce.
+* 【猛猛冷在。火起![](https://glyphwiki.org/glyph/u24360.50px.png)![](https://glyphwiki.org/glyph/u24360.50px.png) 熱熱】(Méⁿ méⁿ chhìn-tsãi, húe-khí jiét-jiét) Look sharp, it is very cold, and make the fire very fierce.
 * 【塗炭落多多】(Thôu-thùaⁿ lóh tsōi-tsōi) Put plenty of coals on.
 * 【此領氈携去伯丢塗粉】(Chí-niáⁿ chiⁿ khiéh khṳ̀ pũaⁿ-tiòu thôu-hún) Take this rug and beat off the dust.
 * 【在此好放壹張四方床】(Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g) Here can be put a square table.
@@ -232,7 +232,7 @@ tags:
 * 【我煩惱。我卽割爾個工錢】(Uá huân-ló, uá li kuah lṳ́ kâi kang-chiⁿ) I don't care, I will cut your wages.
 * 【無。爾來買壹個來賠我】(Bô, lṳ́ li khṳ̀-bói chék-kâi lâi pûe uá) Otherwise, you had better go and buy one to compensate me.
 * 【爾此近時惰在。做事無詳細】(Lṳ́ chí-chùaⁿ-sî tũaⁿ-tsāi, tsò-sṳ̄ bô tsṳ́-sòi) You have been very idle of late, and do things carelessly.
-* 【我要𫂁爾歇】(Uá àiⁿ-sǹg lṳ́ hiah) I want to discharge you.
+* 【我要算爾歇】(Uá àiⁿ-sǹg lṳ́ hiah) I want to discharge you.
 * 【食便。搖鐘】(Chiáh piēn, iẽ-cheng) Ring the bell, when the dinner is ready.
 
 ### Kitchen.
@@ -244,7 +244,7 @@ tags:
 * 【鍋仔】(Ue-kiáⁿ) A Chinese earthen kettle.
 * 【燉鉢】(Tũn-puah) A Chinese earthen cooking vessel.
 * 【鼎】(Tiáⁿ) A pan.
-* 【盖】(Khòiⁿ) -
+* 【盖】(Khòiⁿ) A lid, a cover.
 * 【-】(Khàm) A lid, a cover.
 * 【砧】(Tiam) A chopping block.
 * 【方刀】(Pang-to) A chopper.
@@ -259,8 +259,8 @@ tags:
 * 【竹椅】(Tek-íⁿ) A bamboo seat.
 * 【椅頭】(Íⁿ-thâu) A high stool.
 * 【椅仔】(Íⁿ-kiáⁿ) A little stool.
-* 【⿰石臼】(Khũ) A mortar.
-* 【⿰石臼仔】(Khũ-kiáⁿ) A little mortar.
+* 【![](https://glyphwiki.org/glyph/u309b9@3.50px.png)(⿰石臼)】(Khũ) A mortar.
+* 【![](https://glyphwiki.org/glyph/u309b9@3.50px.png)(⿰石臼)仔】(Khũ-kiáⁿ) A little mortar.
 * 【磨刀石】(Bûa-to-chiéh) Whetstone.
 * 【燈盞】(Teng-chuáⁿ) A Chinese table lamp.
 * 【紙輦燈】(Chúa-luán-teng) A paper spill.

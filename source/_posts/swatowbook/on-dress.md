@@ -13,7 +13,7 @@ tags:
 * 【衫褲】(Saⁿ-khòu) Clothes.
 * 【服色】(Hók-sek) Coloured clothes.
 * 【衫】(Saⁿ) A coat.
-* 【𤍠衫】(Zuáh-saⁿ) A Summer coat.
+* 【![](https://glyphwiki.org/glyph/u24360.50px.png)衫 熱衫】(Zuáh-saⁿ) A Summer coat.
 * 【裘】(Hiûⁿ) A Winter coat.
 * 【長衫】(Tn̂g-saⁿ) A long coat.
 <!--more-->

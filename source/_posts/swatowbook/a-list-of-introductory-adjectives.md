@@ -133,7 +133,7 @@ tags:
 * 【Warm】(Zuáh) 爇
 * 【Weak】(Khùn) 軟弱
 * 【Wet】(Tâm) 濕
-* 【Wet, (thoroughly.)】(Lok) -
+* 【Wet, (thoroughly.)】(Lok) 漉
 * 【White】(Péh) 白
 * 【Wicked】(Ak, phái) 惡　敗
 * 【Wrong】(M̄-tiéh, tshò) 不着　錯

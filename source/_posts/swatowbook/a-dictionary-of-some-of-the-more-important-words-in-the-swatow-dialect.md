@@ -60,7 +60,7 @@ tags:
 * 【Alone】(Tuaⁿ-nâng; ka-kī) 單人　自己
 * 【Aloud】(Tūa-siaⁿ) 大聲
 * 【Alphabet】(Jī-bó) 字母
-* 【Alter, to】(Kói) 攺
+* 【Alter, to】(Kói) 攺 改
 * 【Alternate】(Sie-lûn; sie-thòi) 相輪　相貸
 * 【Although】(Sui-jiên) 誰然
 * 【Altogether】(Chék-khài; lóng-tsóng) 壹㮣　俱皆
@@ -75,7 +75,7 @@ tags:
 * 【Animal】(Khîm-siù) 禽獸
 * 【„ domestic】(Cheng-seⁿ) 種生
 * 【Annex】(Chiap; tùe) 接　連
-* 【Annoy】(Pa-lói; tṳ̂) 狡擾
+* 【Annoy】(Pa-lói; tṳ̂) 狡擾 攪擾
 * 【Anxiety】(Khùa-lṳ̃) 掛慮
 * 【Appearance】(Iēⁿ) 樣
 * 【Appetite】(Õi-chiáh) 會食
@@ -85,7 +85,7 @@ tags:
 * 【Approach】(Kiâⁿ-bûa) 行近
 * 【Arise】(Khí; khí--lâi) 起　起來
 * 【Arm】(Chhiú) 手
-* 【„ to clasp in the】(Nám) -
+* 【„ to clasp in the】(Nám) 攬
 * 【„ to carry with the】(Phõ) 抱
 * 【Arrange】(Pâi-pí; sṳ̃-lí; muéh-hó) 排列　料理　修好
 * 【Arrest】(Liáh) 拿
@@ -122,7 +122,7 @@ tags:
 * 【Banish】(Tshong-kun; liû-thû) 𭀚軍　流徒
 * 【Bank, river】(Khoi-kîⁿ) 溪墘
 * 【„ sand】(Sua-pà) 沙埧
-* 【Barbarian】(Huan-nâng; huan[1]) 畨人　畨
+* 【Barbarian】(Huan-nâng; huan[1]) 畨人　畨  番
 * 【Barber】(Thì-thâu; thì-thâu-kiáⁿ) 剃頭　剃頭子
 * 【Bare, body】(Thǹg-theh-theh) 赤身
 * 【„ foot】(Thǹg-chiah-kha) 赤脚
@@ -159,7 +159,7 @@ tags:
 * 【Belly】(Tóu) 肚
 * 【Belong】(Sók) 屬
 * 【Belt】(Khòu-thâu-tūa) 褲頭帶
-* 【Bench】(Íⁿ; tn̂g-íⁿ) 𬃪　長𬃪
+* 【Bench】(Íⁿ; tn̂g-íⁿ) 椅　長椅
 * 【Bench, magistrate's】(Uàⁿ-tshǹg) 案床
 * 【Bend】(Á-uan; muéh-uan) 拗灣　物灣
 * 【Beneath】(Ẽ) 下
@@ -282,7 +282,7 @@ tags:
 * 【Bright】(Kng) 光
 * 【„ very】(Tãng-tãng-kng) 光光
 * 【Bring】(Khiéh--lâi; tsah--lâi; tūa) 携來　帶來
-* 【Brisk, as trade】(Jiét; lāu-jiét) 𤍠　鬧𤍠
+* 【Brisk, as trade】(Jiét; lāu-jiét) ![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)　鬧![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)
 * 【Brittle】(Sou) 酥
 * 【Broad】(Khuah; khùaⁿ) 濶　寛
 * 【Broken】(Phùa) 破
@@ -548,7 +548,7 @@ tags:
 * 【Connect】(Sie-chiap) 相接
 * 【Conquer】(Kuán; phah) 管　打
 * 【Consent】(Hàuⁿ; khéng) 允　肯
-* 【Consider】(Siẽⁿ; phah-sǹg; pheⁿ-phah) 想　打𮅕　斟酌
+* 【Consider】(Siẽⁿ; phah-sǹg; pheⁿ-phah) 想　打算　斟酌
 * 【Conspire】(Kàu-niêⁿ) 商量
 * 【Constantly】(Siêⁿ-siêⁿ; tsong-kú) 常常　終久
 * 【Constitution, good】(Sin-hūn tsàng; sin-hūn kiāⁿ) 身分壯　身分健
@@ -813,7 +813,7 @@ tags:
 * 【„ literature】(Kháu; kháu-mn̄g) 考　考問
 * 【Example】(Iēⁿ) 樣
 * 【Exchange】(Sie-uāⁿ; uāⁿ) 相喚　換
-* 【Exclude】(Tṳ̂; màiⁿ-sǹg) 除　勿𮅕
+* 【Exclude】(Tṳ̂; màiⁿ-sǹg) 除　勿算
 * 【Exercise, take】(Kiâⁿ-tsáu; uáh-tõng) 行走　活動
 * 【Exert, oneself】(Khat-khóu; kṳn-sim) 刻苦　謹心
 * 【„ strength】(Tshut-lát) 出力
@@ -824,7 +824,7 @@ tags:
 * 【Expenditure】(Só-hùi) 需費
 * 【Expensive】(Kùi; tát-chîⁿ) 貴　値錢
 * 【„ living】(Só-hùi-tūa) 需費大
-* 【Experience】(Sék) 𤍠
+* 【Experience】(Sék) ![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)
 * 【Expire】(Tñg-khùi; kùe--khṳ̀) 斷氣　過去
 * 【Explain】(Kói-sueh) 攺說
 * 【Explode, as gun-powder】(Tóh-húe) 發火
@@ -836,7 +836,7 @@ tags:
 * 【Faint】(M̄-tsai-nâng; hîn) 不知人　眩
 * 【False】(Ké) 假
 * 【Fame】(Miâⁿ-siaⁿ) 名聲
-* 【Familiar】(Sék) 𤍠
+* 【Familiar】(Sék) ![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)
 * 【Family】(Ke; ke-kuàn) 家 家眷
 * 【Famine】(Ki-hng) 饑荒
 * 【Famous】(Tshut-miâⁿ) 出名
@@ -867,7 +867,7 @@ tags:
 * 【Ferocious】(Iá) 强
 * 【Festival】(Tsoih) 節
 * 【Fiddle】(Hîⁿ) 弦
-* 【Fierce, of fire】(Jiét) 𤍠
+* 【Fierce, of fire】(Jiét) ![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)
 * 【Filial】(Kiâⁿ-hàu; ũ-hàu) 行孝　有孝
 * 【Fill, as water】(Tshō) 裝
 * 【Filthy】(Nah-sap; chhi-gî; o-tso) 汚穢
@@ -907,7 +907,7 @@ tags:
 * 【Friend】(Phêng-iú) 朋友
 * 【Frighten, people】(Muéh-nâng-kiaⁿ; phièn-nâng-kiaⁿ) 物人驚　騙人驚
 * 【Fuel】(Muéh-hiâⁿ) -
-* 【Full】(Tĩⁿ) 𣼛
+* 【Full】(Tĩⁿ) 滿
 * 【Fun, to make】(Sńg) 耍
 * 【Funny】(Tshù-bī) 趣味
 * 【Funds】(Pńg) 本
@@ -949,7 +949,7 @@ tags:
 * 【Grow, as trees】(Huat) 發
 * 【„ as produce】(Seⁿ) 生
 * 【Grudge】(Tòu-chhiû; tòu-hṳ̃u; khieh-hṳ̃n) 鬦仇　鬦恨
-* 【Grumble】(Liām-lōu) 𫝹路
+* 【Grumble】(Liām-lōu) ![](https://glyphwiki.org/glyph/u2b779@11.50px.png)(⿱人忈)路 念路
 * 【Guarantee】(Pau-niáⁿ) 保領
 * 【Guess】(Ieh) 約
 * 【Guest】(Nâng-kheh) 人客
@@ -960,7 +960,7 @@ tags:
 * 【Gutter, on roof】(Lāu-bó-tsô) 水槽
 * 【Habit】(Khuán) 欵
 * 【Habituated】(Kùiⁿ-sìⁿ) 慣
-* 【Half】(Pùaⁿ; chék-pùaⁿ; chék-uê; chék-pôiⁿ; chék-kuéh) 半　壹半　壹畔　壹𰉗
+* 【Half】(Pùaⁿ; chék-pùaⁿ; chék-uê; chék-pôiⁿ; chék-kuéh) 半　壹半　壹畔　壹![](https://glyphwiki.org/glyph/u21240@8.50px.png)(⿱八土)
 * 【Hammer】(Thih-thûi; tshâ-thûi) 鐵槌　柴槌
 * 【Hand】(Chhiú) 手
 * 【„ right】(Chiàⁿ-chhiú) 左手
@@ -1041,7 +1041,7 @@ tags:
 * 【Instruct】(Kà) 教
 * 【Instrument】(Khì-kũ) 器具
 * 【Intercourse】(Lâi-uáng) 來往
-* 【Interfere, with other's affair】(Tshap-nâng-kâi-sṳ̄) 挿人個事
+* 【Interfere, with other's affair】(Tshap-nâng-kâi-sṳ̄) 挿人個事 插人個事
 * 【Interior】(Lãi; lãi-pôiⁿ) 內　內畔
 * 【Interpret】(Hûe; hûe-uē) 囘　囘話
 * 【Interpreter】(Hûe-uē) 囘話
@@ -1054,7 +1054,7 @@ tags:
 * 【Investigate】(Kháu-mn̄g; sím-mn̄g) 考問　審問
 * 【Item, an】(Chek-tiôu) 壹條
 * 【Ivory】(Gê) 牙
-* 【Jetty】(Bé-thâu) 馬頭
+* 【Jetty】(Bé-thâu) 馬頭 碼頭
 * 【Join】(Chiap) 接
 * 【Joint】(Chat) 節
 * 【Joke, in play】(Sńg) 耍
@@ -1508,7 +1508,7 @@ tags:
 * 【„ to, as a boat】(Kò) 掉槳
 * 【„ in】(Hâng; lék) 行　歴
 * 【Rub, as knives】(Bûa) 磨
-* 【„ as spoons】(Chhiù) -
+* 【„ as spoons】(Chhiù) 漱
 * 【„ as with towel】(Chhit) 刷
 * 【Rubbish, domestic】(Nah-sap) 穢褻
 * 【„ filth】(Tôu-pùn) 塗糞
@@ -1661,7 +1661,7 @@ tags:
 * 【Single】(Tuaⁿ; chék) 單　一
 * 【„ fold】(Tuaⁿ-têng) 單重
 * 【Sink】(Tîm) 沉
-* 【Sisters】(Chí-mūeⁿ-kiáⁿ; ché-mūeⁿ-kiáⁿ) 𡛰妹仔
+* 【Sisters】(Chí-mūeⁿ-kiáⁿ; ché-mūeⁿ-kiáⁿ) ![](https://glyphwiki.org/glyph/u216f0@14.50px.png)(⿰女只)妹仔 姐妹囝
 * 【Skeleton】(Kut-thâu) 骨頭
 * 【Sketch, to】(Uê) 畫
 * 【Skin】(Phûe) 皮

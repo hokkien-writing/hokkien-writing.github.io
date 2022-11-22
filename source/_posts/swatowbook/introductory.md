@@ -69,12 +69,13 @@ tags:
 * 【從　在】(Tshông, tõ) From.
 * 【到】(Kàu) To.
 * 【豈】(Khah) Too.
-* 【約量】(Iak-liãng) 差不多
-* 【Tsha-but-to】(About.) 或者
-* 【Pa-lak】(Perhaps.) 那是
-* 【Nān-sĩ】(If.) 亞是
-* 【A-sĩ】(Or.) 亞無
-* 【A-bô】(罵) Mē
+* 【約量】(Iak-liãng) About.
+* 【差不多】(Tsha-but-to) About.
+* 【或者】(Pa-lak) Perhaps.
+* 【那是】(Nān-sĩ) If.
+* 【亞是】(A-sĩ) Or.
+* 【亞無】(A-bô) Or not? Interrogative Signs.
+* 【罵】(Mē) Or not? Interrogative Signs.
 * 【拎】(Nē) Or not? Interrogative Signs.
 
 ## Lesson III. Exercises.

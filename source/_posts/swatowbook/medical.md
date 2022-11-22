@@ -20,13 +20,13 @@ tags:
 * 【醫袂好】(Ui bõi-hó) Incurable.
 * 【醫難好】(Ui oh-hó) -
 * 【難醫】(Oh-ui) Difficult to cure.
-* 【畧好】(Ióu-hó) -
+* 【畧好】(Ióu-hó) Better.
 * 【-】(Tsuáh) Better.
 * 【全愈】(Tshuân-zú) Quite recovered.
 * 【斷氣】(Tñg-khùi) To expire.
 * 【頭壳痛】(Thâu-khak thiàⁿ) -
 * 【頭壳眩】(Thâu-khak hîn) Headache.
-* 【人𤍠】(Nâng zuáh) -
+* 【人![](https://glyphwiki.org/glyph/u24360.50px.png) 人熱】(Nâng zuáh) -
 * 【發燒】(Huat-sie) Fever.
 * 【畏冷】(Uì-chhìn) Ague.
 * 【發燒畏冷】(Huat-sie ùi-chhìn) Fever and ague.
@@ -80,7 +80,7 @@ tags:
 * 【輩】(Bùi, Pùi) Prickly heat.
 * 【癬】(Sién) Ringworm.
 * 【目痛】(Mák--thiàⁿ) Sore-eyes.
-* 【近視】(Kṳ̃n-sī) -
+* 【近視】(Kṳ̃n-sī) Near-sighted.
 * 【-】(Kṳ̃n-tshṳ̀) Near-sighted.
 * 【睛盲】(Chheⁿ-mêⁿ) Blind.
 * 【眼睛灰】(Mák-chiu-hue) Dimness.

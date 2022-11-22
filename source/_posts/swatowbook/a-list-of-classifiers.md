@@ -26,7 +26,7 @@ tags:
 * 【包】(Pau) „ things in bundles and bales.
 * 【把】(Pé) „ bundles of wood, vegetables, flowers, &c.
 * 【欉】(Châng) „ trees, plants, vegetables.
-* 【𫂉】(Chat) „ spaces between the joints on the finger, or on bamboo, sugarcane, &c.
+* 【![](https://glyphwiki.org/glyph/u7bc0-ue0106.50px.png)節】(Chat) „ spaces between the joints on the finger, or on bamboo, sugarcane, &c.
 * 【隻】(Chiah) „ ships, quadrupeds, birds, fowls, &c.
 * 【儎】(Chāi) „ cargoes, boat loads, &c.
 * 【塊】(Kò) „ lands, gardens, boards &c., and slices or pieces of things.

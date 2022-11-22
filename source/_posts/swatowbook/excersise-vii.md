@@ -119,9 +119,9 @@ tags:
 * 【冬天貧窮人是悽慘】(Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám) In Winter the poor are miserable.
 * 【富個人則穿煖】(Pù--kâi-nâng li chhēng-sie) But the rich are warmly clad.
 * 【冬天冷在】(Tang--thiⁿ chhiⁿ-tsai) In Winter it is very cold.
-* 【夏天就𤍠】(Hē--thiⁿ chiũ-zuáh) But in Summer it is hot.
+* 【夏天就![](https://glyphwiki.org/glyph/u24360.50px.png) 熱】(Hē--thiⁿ chiũ-zuáh) But in Summer it is hot.
 * 【壹年有四季】(Chék-nîⁿ ũ sì-khùi) There are four seasons in a year.
-* 【在祖家夏天無此處向𤍠】(Tõ Tsóu-ke Hē--thiⁿ bô chié hi èⁿ-zuáh) In England the Summer is not so hot as here.
+* 【在祖家夏天無此處向![](https://glyphwiki.org/glyph/u24360.50px.png) 熱】(Tõ Tsóu-ke Hē--thiⁿ bô chié hi èⁿ-zuáh) In England the Summer is not so hot as here.
 * 【冬天愈冷此處】(Tang--thiⁿ zú-chhiǹ chié) In Winter it is colder than here.
 * 【在祖家壹年春天是上好】(Tõ tsóu-ke chék-nîⁿ Tshun--thiⁿ sĩ siãng-hó) In England Spring is the best of the year.
 * 【春天到來草俱皆發】(Tshun--thiⁿ kàu--lâi, tsháu lóng-tsóng huat) When Spring comes, all the grass grow.
@@ -177,12 +177,13 @@ tags:
 * 【大後日】(Tūa--aũ-jít) A day later than above.
 * 【昨日】(Tsa-jít) Yesterday.
 * 【昨夜】(Tsa-mêⁿ) Last night.
-* 【日日】(Jít-jít) 排日
-* 【Pâi-jít】(Every day.) 明年
-* 【Mêⁿ-nîⁿ】(Next year.) 年年
-* 【Nî-niⁿ】(排年) Pâi-niⁿ
-* 【Yearly.】(終久) Tsong-kú
-* 【Always.】(次次) Tsūa-tsūa
+* 【日日】(Jít-jít) Every day.
+* 【排日】(Pâi-jít) Every day.
+* 【明年】(Mêⁿ-nîⁿ) Next year.
+* 【年年】(Nî-niⁿ) Yearly.
+* 【排年】(Pâi-niⁿ) Yearly.
+* 【終久】(Tsong-kú) Always.
+* 【次次】(Tsūa-tsūa) Every occasion.
 * 【吓吓】(Ē-ē) Every occasion.
 ------
 * 【明天早爾着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
