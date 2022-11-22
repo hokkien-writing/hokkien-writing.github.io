@@ -193,7 +193,7 @@ tags:
 * 【尺】(Chhieh) A measure.
 * 【布尺】(Pòu-chhieh) A tape-line, or cloth measure.
 * 【縫】(Thīⁿ) To sew.
-* 【𦂧】(Nn̂g) To stitch.
+* 【![](https://glyphwiki.org/glyph/u260a7@17.50px.png)(⿰糸郎)】(Nn̂g) To stitch.
 * 【摺痕】(Chih-tsūe) To them.
 * 【剪】(Ka) To cut with scissors.
 * 【做衫褲】(Tsò-saⁿ-khòu) To make clothes.
@@ -444,7 +444,7 @@ tags:
 * 【寸】(Tshùn) An inch. (Chinese.)
 * 【尺】(Chhieh) A foot. (Twelve English inches.)
 * 【丈】(Tñg) Ten feet.
-* 【步】(Pōu) -
+* 【步】(Pōu) A pace.
 * 【-】(Huáh) A pace.
 * 【碼】(Bā, Bé) A yard.
 * 【尋】(Siâm) A fathom.
