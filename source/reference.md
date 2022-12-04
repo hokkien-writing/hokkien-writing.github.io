@@ -11,6 +11,7 @@ date: 2022-12-04 15:43:00
 * [臺語萌典](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E) 🎧
 * [臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/index.html) 🎧
 * [小學堂閩語](https://xiaoxue.iis.sinica.edu.tw/minyu)
+* [闽南方言大词典](/pdf/闽南方言大词典.pdf) 📔
 * [厦门话词典](/pdf/厦门话词典.pdf) 📔
 
 ------
