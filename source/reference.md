@@ -8,8 +8,10 @@ date: 2022-12-04 15:43:00
 * [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/) 🎧
 * [Ūn-luī 韻彙](https://unlui.enatsu.top/)
 * [甘字典查詢](http://taigi.fhl.net/dick/index.html)
-* [臺語萌典](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E)
+* [臺語萌典](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E) 🎧
+* [臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/index.html) 🎧
 * [小學堂閩語](https://xiaoxue.iis.sinica.edu.tw/minyu)
+* [厦门话词典](/pdf/厦门话词典.pdf) 📔
 
 ------
 
@@ -19,11 +21,23 @@ date: 2022-12-04 15:43:00
 * [潮语拼音教程](https://kahaani.github.io/gatian/index.html)
 * [潮州母语](https://www.mogher.com/) 🎧
 * [潮州音字典](http://www.czyzd.com/) 🎧
+* [潮汕方言词考释](/pdf/潮汕方言词考释.pdf) 📔
+* [潮汕檢音字表](/pdf/潮汕檢音字表.pdf) 📔
+* [潮音字類辨正](/pdf/潮音字類辨正.pdf) 📔
+* [潮汕方言熟语辞典](/pdf/潮汕方言熟语辞典.pdf) 📔
+* [彙集雅俗十五音全本](/pdf/彙集雅俗十五音全本.pdf) 📔
 * [Handbook of the Swatow Vernacular](/pdf/Handbook_of_the_Swatow_Vernacular.pdf) 📔
+* [A Pronouncing and Defining Dictionary of the Swatow Dialect](/pdf/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf) 📔
+
+------
+
+* [海豐話分類辭表](/pdf/海豐話分類辭表.pdf) 📔
 
 ------
 
 * [iTaigi 愛台語](https://itaigi.tw/k/%E5%8F%B0%E8%AA%9E/) 🎧
+* [台語諺語](/pdf/台語諺語.pdf) 📔
+* [生活常用詞彙華台語對照](/pdf/生活常用詞彙華台語對照.pdf) 📔
 * [講我的名 - 閩南語姓名查詢網站(試用版)](https://miasenn.moe.edu.tw/) 🎧
 
 ## 漢字
