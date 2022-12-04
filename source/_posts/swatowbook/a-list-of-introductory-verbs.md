@@ -135,7 +135,7 @@ tags:
 * 【Speak】(Tàⁿ) 呾
 * 【Spend】(Só-hùi, sái) 使費　使
 * 【Spoil】(Muèh-tiòu) 壞丢
-* 【Stand】(Khiũ) 站
+* 【Stand】(Khiã) 站
 * 【Stop, (silence.)】(Tiām-tiām) 靜靜
 * 【Stop, (discontinue.)】(Hiah) 歇
 * 【Sweep】(Sàu) 掃
