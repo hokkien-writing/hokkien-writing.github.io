@@ -1,8 +1,8 @@
 # Header
 menu:
   頭頁: /
-  # 資料: /
-  GitHub: https://github.com/hokkien-writing
+  參考: /reference
+  源碼: https://github.com/hokkien-writing
 
 # Content
 excerpt_link: 繼續閱讀
