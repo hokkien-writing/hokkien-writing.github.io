@@ -18,7 +18,7 @@ date: 2022-12-04 15:43:00
 
 * [潮汕话拼音 | 南舍郎 | bilibili](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531) 📀
 * [潮州话拼音方案](http://www.czyzd.com/data/chaopin)
-* [潮州話羅馬字注音方案](https://hiteochew.github.io/The-Teochew-Romanization-System/)
+* [潮州話羅馬字注音方案](http://tappcdn.resources.teochew.pw/files/20170114001.pdf) 📔
 * [潮语拼音教程](https://kahaani.github.io/gatian/index.html)
 * [潮州母语](https://www.mogher.com/) 🎧
 * [潮州音字典](http://www.czyzd.com/) 🎧
