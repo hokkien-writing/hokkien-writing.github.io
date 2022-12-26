@@ -22,6 +22,7 @@ date: 2022-12-04 15:43:00
 * [潮语拼音教程](https://kahaani.github.io/gatian/index.html)
 * [潮州母语](https://www.mogher.com/) 🎧
 * [潮州音字典](http://www.czyzd.com/) 🎧
+* [潮汕话同音字汇](/pdf/潮汕话同音字汇.pdf) 📔
 * [潮汕方言词考释](/pdf/潮汕方言词考释.pdf) 📔
 * [潮汕檢音字表](/pdf/潮汕檢音字表.pdf) 📔
 * [潮音字類辨正](/pdf/潮音字類辨正.pdf) 📔
