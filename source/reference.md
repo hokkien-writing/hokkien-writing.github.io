@@ -13,6 +13,7 @@ date: 2022-12-04 15:43:00
 * [小學堂閩語](https://xiaoxue.iis.sinica.edu.tw/minyu)
 * [闽南方言大词典](/pdf/闽南方言大词典.pdf) 📔
 * [厦门话词典](/pdf/厦门话词典.pdf) 📔
+* [彙集雅俗十五音全本](/pdf/彙集雅俗十五音全本.pdf) 📔
 
 ------
 
@@ -27,7 +28,6 @@ date: 2022-12-04 15:43:00
 * [潮汕檢音字表](/pdf/潮汕檢音字表.pdf) 📔
 * [潮音字類辨正](/pdf/潮音字類辨正.pdf) 📔
 * [潮汕方言熟语辞典](/pdf/潮汕方言熟语辞典.pdf) 📔
-* [彙集雅俗十五音全本](/pdf/彙集雅俗十五音全本.pdf) 📔
 * [Handbook of the Swatow Vernacular](/pdf/Handbook_of_the_Swatow_Vernacular.pdf) 📔
 * [A Pronouncing and Defining Dictionary of the Swatow Dialect](/pdf/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf) 📔
 
