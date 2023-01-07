@@ -7,9 +7,11 @@ date: 2022-12-04 15:43:00
 
 * [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/) 🎧
 * [Ūn-luī 韻彙](https://unlui.enatsu.top/)
-* [甘字典查詢](http://taigi.fhl.net/dick/index.html)
+* [ChhoeTaigi 找台語](https://chhoe.taigi.info/)
 * [臺語萌典](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E) 🎧
 * [臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/index.html) 🎧
+* [甘字典查詢](http://taigi.fhl.net/dick/index.html)
+* [台語辭典(台日大辭典台語譯本)](http://minhakka.ling.sinica.edu.tw/taijittian/)
 * [小學堂閩語](https://xiaoxue.iis.sinica.edu.tw/minyu)
 * [闽南方言大词典](/pdf/闽南方言大词典.pdf) 📔
 * [厦门话词典](/pdf/厦门话词典.pdf) 📔
