@@ -847,7 +847,7 @@ tags:
 * 【Fast】(Méⁿ; khûe) 猛　快
 * 【Fasten】(Pák) 縛
 * 【Fat, lard】(Lâ) 朥
-* 【Fatal】(Tiéh-miāⁿ) 着名
+* 【Fatal】(Tiéh-miāⁿ) 着命
 * 【Fate】(Miāⁿ; miāⁿ-ūn) 命　命運
 * 【Father】(A-pẽ; a-tia; a-pa) 亞父　亞爹　亞巴
 * 【Fathom】(Siâm) 尋
