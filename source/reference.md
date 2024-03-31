@@ -35,6 +35,7 @@ date: 2022-12-04 15:43:00
 * [Handbook of the Swatow Vernacular (汕頭話讀本)](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) 🌏
 * [A Pronouncing and Defining Dictionary of the Swatow Dialect](/pdf/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf) 📔
 * [English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典)](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) 🌏
+* [Learn Teochew with Teochew Opera(透過潮劇學習潮州話)](https://learn-teochew.github.io/tc-opera/)
 
 ------
 
