@@ -7,6 +7,9 @@ tags:
 - 汕頭話讀本
 ---
 
+📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) 來，另外提供 PDF版本，[按此地方可睇](/pdf/Handbook_of_the_Swatow_Vernacular.pdf).pdf)。
+
+
 此書乃彙集英潮土語專為英人學習潮語
 潮人學習英語而發第其中華字旁註按以
 潮州土音多有無字可寫者如不要二字之
