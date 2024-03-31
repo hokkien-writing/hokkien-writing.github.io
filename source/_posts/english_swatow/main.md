@@ -32,11 +32,11 @@ ENGLISH PRESBYTERIAN MISSION PRESS.
 
 |   |   |   |   |   |
 | - | - | - | - | - |
-|[A](A.md)|[B](B.md)|[C](C.md)|[D](D.md)|[E](E.md)|
-|[F](F.md)|[G](G.md)|[H](H.md)|[I](I.md)|[J](J.md)|
-|[K](K.md)|[L](L.md)|[M](M.md)|[N](N.md)|[O](O.md)|
-|[P](P.md)|[Q](Q.md)|[R](R.md)|[S](S.md)|[T](T.md)|
-|[U](U.md)|[V](V.md)|[W](W.md)|[Y](Y.md)|[Z](Z.md)|
+|[A](/english_swatow/A)|[B](/english_swatow/B)|[C](/english_swatow/C)|[D](/english_swatow/D)|[E](/english_swatow/E)|
+|[F](/english_swatow/F)|[G](/english_swatow/G)|[H](/english_swatow/H)|[I](/english_swatow/I)|[J](/english_swatow/J)|
+|[K](/english_swatow/K)|[L](/english_swatow/L)|[M](/english_swatow/M)|[N](/english_swatow/N)|[O](/english_swatow/O)|
+|[P](/english_swatow/P)|[Q](/english_swatow/Q)|[R](/english_swatow/R)|[S](/english_swatow/S)|[T](/english_swatow/T)|
+|[U](/english_swatow/U)|[V](/english_swatow/V)|[W](/english_swatow/W)|[Y](/english_swatow/Y)|[Z](/english_swatow/Z)|
 
 ----
 <!--more-->
