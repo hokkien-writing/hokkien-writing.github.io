@@ -1,13 +1,14 @@
 ---
 title: 臺灣閩南語常用詞辭典
-p: holodict/main
+p: holodict
 top: 100
 date: 2021-05-07 15:59:01
 tags: 
 - 臺灣閩南語常用詞辭典
 ---
 
-原始資料來源為教育部《[臺灣閩南語常用詞辭典](http://twblg.dict.edu.tw/)》（[CC BY-ND 3.0 臺灣授權](http://twblg.dict.edu.tw/holodict_new/compile1_6_1.jsp)），辭典本文的著作權仍為教育部所有。
+📌 原始資料對《[臺灣閩南語常用詞辭典](http://twblg.dict.edu.tw/)》（[CC BY-ND 3.0 臺灣授權](http://twblg.dict.edu.tw/holodict_new/compile1_6_1.jsp)）來。
+
 
 * [天文·地理](/holodict/tianwen-dili)
 * [時間·空間](/holodict/shijian-kongjian)

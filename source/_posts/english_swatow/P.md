@@ -1,12 +1,12 @@
 ---
 title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / P
-p: english_swatow_1883/P
+p: english_swatow/P
 date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/english_swatow/main)​
+[↩️ 轉回總目錄](/english_swatow)​
 
 **pace**, pōu; hua̍h. *large*, tōa-hua̍h.
 

@@ -6,7 +6,7 @@ tags:
 - 汕頭話讀本
 ---
 
-[↩️ 轉回總目錄](/swatowbook/main)
+[↩️ 轉回總目錄](/swatowbook)
 
 ## Lesson I.
 

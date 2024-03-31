@@ -5,14 +5,14 @@ date: 2022-12-04 15:43:00
 
 ## 閩南語
 
-* [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/) 🎧
+* [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/) 🎧 🌏
 * [Ūn-luī 韻彙](https://unlui.enatsu.top/)
 * [ChhoeTaigi 找台語](https://chhoe.taigi.info/)
-* [臺語萌典](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E) 🎧
-* [臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/index.html) 🎧
+* [臺語萌典](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E) 🎧 🌏
+* [臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/index.html) 🎧 🌏
 * [甘字典查詢](http://taigi.fhl.net/dick/index.html)
-* [台語辭典(台日大辭典台語譯本)](http://minhakka.ling.sinica.edu.tw/taijittian/)
-* [小學堂閩語](https://xiaoxue.iis.sinica.edu.tw/minyu)
+* [台語辭典(台日大辭典台語譯本)](http://minhakka.ling.sinica.edu.tw/taijittian/) 🌏
+* [小學堂閩語](https://xiaoxue.iis.sinica.edu.tw/minyu) 🌏
 * [闽南方言大词典](/pdf/闽南方言大词典.pdf) 📔
 * [厦门话词典](/pdf/厦门话词典.pdf) 📔
 * [彙集雅俗十五音全本](/pdf/彙集雅俗十五音全本.pdf) 📔
@@ -31,8 +31,10 @@ date: 2022-12-04 15:43:00
 * [潮汕檢音字表](/pdf/潮汕檢音字表.pdf) 📔
 * [潮音字類辨正](/pdf/潮音字類辨正.pdf) 📔
 * [潮汕方言熟语辞典](/pdf/潮汕方言熟语辞典.pdf) 📔
-* [Handbook of the Swatow Vernacular](/pdf/Handbook_of_the_Swatow_Vernacular.pdf) 📔
+* [Handbook of the Swatow Vernacular (汕頭話讀本)](/pdf/Handbook_of_the_Swatow_Vernacular.pdf) 📔
+* [Handbook of the Swatow Vernacular (汕頭話讀本)](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) 🌏
 * [A Pronouncing and Defining Dictionary of the Swatow Dialect](/pdf/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf) 📔
+* [English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典)](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) 🌏
 
 ------
 
@@ -40,14 +42,14 @@ date: 2022-12-04 15:43:00
 
 ------
 
-* [iTaigi 愛台語](https://itaigi.tw/k/%E5%8F%B0%E8%AA%9E/) 🎧
+* [iTaigi 愛台語](https://itaigi.tw/k/%E5%8F%B0%E8%AA%9E/) 🎧 🌏
 * [台語諺語](/pdf/台語諺語.pdf) 📔
 * [生活常用詞彙華台語對照](/pdf/生活常用詞彙華台語對照.pdf) 📔
-* [講我的名 - 閩南語姓名查詢網站(試用版)](https://miasenn.moe.edu.tw/) 🎧
+* [講我的名 - 閩南語姓名查詢網站(試用版)](https://miasenn.moe.edu.tw/) 🎧 🌏
 
 ## 漢字
 
-* [常用國字標準字體筆順學習網](http://stroke-order.learningweb.moe.edu.tw/character.do)
+* [常用國字標準字體筆順學習網](http://stroke-order.learningweb.moe.edu.tw/character.do) 🌏
 * [漢典](https://www.zdic.net/) 🎧
 * [漢語大詞典 | 白雲深處人家海外站](https://homeinmists.ilotus.org/hd/hydcd.php)
 * [說文解字 | 白雲深處人家海外站](https://homeinmists.ilotus.org/shuowen/find_all.php)
@@ -59,7 +61,7 @@ date: 2022-12-04 15:43:00
 * [字統网](https://zi.tools/)
 * [メインページ - GlyphWiki](http://glyphwiki.org/wiki/)
 * [漢語多功能字庫 Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
-* [國際電腦漢字及異體字知識庫](https://chardb.iis.sinica.edu.tw/)
+* [國際電腦漢字及異體字知識庫](https://chardb.iis.sinica.edu.tw/) 🌏
 * [古今文字集成 | 集古今文字释義、字形更革、音韻演變之大全](http://ccamc.co/index.php)
 
 ------

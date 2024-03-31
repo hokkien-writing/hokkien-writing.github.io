@@ -1,6 +1,6 @@
 ---
 title: Handbook of the Swatow Vernacular (汕頭話讀本)
-p: swatowbook/main
+p: swatowbook
 top: 101
 date: 2022-11-15 21:43:00
 tags: 

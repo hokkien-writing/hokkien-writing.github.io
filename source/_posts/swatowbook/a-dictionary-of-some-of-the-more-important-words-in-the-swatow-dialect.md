@@ -6,7 +6,7 @@ tags:
 - 汕頭話讀本
 ---
 
-[↩️ 轉回總目錄](/swatowbook/main)
+[↩️ 轉回總目錄](/swatowbook)
 
 ## A Dictionary of some of the more important words in the Swatow dialect.
 

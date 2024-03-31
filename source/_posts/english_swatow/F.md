@@ -1,12 +1,12 @@
 ---
 title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / F
-p: english_swatow_1883/F
+p: english_swatow/F
 date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/english_swatow/main)​
+[↩️ 轉回總目錄](/english_swatow)​
 
 **fable**, phì-zũ. *to use a*, chieh-phì-zũ; siet-phì. *fabulous*, hṳ-tãng; buáng-tãng; bô-iáⁿ-chiah.
 

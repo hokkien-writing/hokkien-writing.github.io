@@ -1,12 +1,12 @@
 ---
 title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / K
-p: english_swatow_1883/K
+p: english_swatow/K
 date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/english_swatow/main)​
+[↩️ 轉回總目錄](/english_swatow)​
 
 **keep**, siú; thóiⁿ-siú; thóiⁿ-kù; khùaⁿ-kù; lâu; tshûn; lâu--pàng-kò; sīn--pàng-kò. off the sun, chia-ji̍t. silence, khiâm-kháu; m̄-khui-tshùi; tshùi kueⁿ-miⁿ; tiām-tiām; chẽⁿ-chẽⁿ; tiām-tiām mi̍t-mi̍t. in order, kúan; kúan-sok; iak-sok. rules, siú-huap; ha̍h-huap. the watch, siú-keⁿ. the new year, kùe-nîⁿ; tsò-kùe-nîⁿ. a feast, tsò-tsoih. for oneself, ka-kī-ēng. one's word, siú-ieh; chiè-ieh; zû-ieh. keepsake, lâu-ì; kìⁿ-mue̍h sṳ-nâng; piáu-chhêng tshûn-kì.
 

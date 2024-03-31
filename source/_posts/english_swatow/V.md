@@ -1,12 +1,12 @@
 ---
 title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / V
-p: english_swatow_1883/V
+p: english_swatow/V
 date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/english_swatow/main)​
+[↩️ 轉回總目錄](/english_swatow)​
 
 **vacant**, khang; bô-mue̍h-tõ; khang-hṳ. vacancy in office, khueh-jĩm; khueh-ūi; khàng-khueh; hṳ-khueh.
 
