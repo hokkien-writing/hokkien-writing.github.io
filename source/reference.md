@@ -31,11 +31,11 @@ date: 2022-12-04 15:43:00
 * [潮汕檢音字表](/pdf/潮汕檢音字表.pdf) 📔
 * [潮音字類辨正](/pdf/潮音字類辨正.pdf) 📔
 * [潮汕方言熟语辞典](/pdf/潮汕方言熟语辞典.pdf) 📔
-* [Handbook of the Swatow Vernacular (汕頭話讀本)](/pdf/Handbook_of_the_Swatow_Vernacular.pdf) 📔
-* [Handbook of the Swatow Vernacular (汕頭話讀本)](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) 🌏
-* [A Pronouncing and Defining Dictionary of the Swatow Dialect](/pdf/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf) 📔
-* [English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典)](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) 🌏
-* [Learn Teochew with Teochew Opera(透過潮劇學習潮州話)](https://learn-teochew.github.io/tc-opera/)
+* Lim Hiong Seng, 1886, Handbook of the Swatow Vernacular (汕頭話讀本) [本站](/swatowbook) | [Wikisource](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [PDF](/pdf/Handbook_of_the_Swatow_Vernacular.pdf)
+* Rudolf Lechler, Samuel Wells Williams, William Duffus, 1883, English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) [本站](/english_swatow) | [Wikisource](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [PDF](/pdf/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)
+* Josiah Goddard, 1883, A Chinese and English vocabulary, in the Tie-chiu dialect (漢英潮州方言字典) [Wikisource](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [PDF](/pdf/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)
+* Adele Marion Fielde, 1883. A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones(汕頭方言音義字典) [Wikisource](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [PDF](/pdf/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)
+* [Learn Teochew with Teochew Opera (透過潮劇學習潮州話)](https://learn-teochew.github.io/tc-opera/)
 
 ------
 
