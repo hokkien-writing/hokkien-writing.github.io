@@ -1,6 +1,6 @@
 ---
-title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / 
-p: english_swatow/
+title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / M
+p: english_swatow/M
 date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
