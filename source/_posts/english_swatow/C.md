@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **cabal**, táng. *to cabal*, kat-táng; àm-mông; im-nâng.
 

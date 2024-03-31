@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **zealous**, jie̍t-sim; pek-chhiet; huat-hún; tshut-la̍t.
 
@@ -21,4 +22,4 @@ tags:
 
 **zone**, tòa-tãu; sùaⁿ-lōu. *temperate*, un-tãu. *frigid*, hân-tãu.
 
-**zoology**, seⁿ-mue̍h tsóng-lũn.�ng-lũn.
+**zoology**, seⁿ-mue̍h tsóng-lũn.�ng-lũn.

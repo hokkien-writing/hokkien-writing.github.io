@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **habit**, si̍p-so̍k; khì-si̍p. see CUSTOM, habituated, kùiⁿ-sìⁿ; si̍p-kùan; kùan-liēn. habit becomes second nature, si̍p-kùan sêng-tsṳ̃-jiên.
 

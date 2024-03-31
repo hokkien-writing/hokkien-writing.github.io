@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **nail**, teng, iron, thih-teng. to nail, tèng-teng. finger, chhiú-tsóiⁿ-kah; tsńg-kah. toe, kha-chí-kah.
 

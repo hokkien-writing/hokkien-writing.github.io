@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **vacant**, khang; bô-mue̍h-tõ; khang-hṳ. vacancy in office, khueh-jĩm; khueh-ūi; khàng-khueh; hṳ-khueh.
 

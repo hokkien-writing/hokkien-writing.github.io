@@ -5,7 +5,8 @@ date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
 ---
-​
+
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **babble**, thèng-tàⁿ.
 

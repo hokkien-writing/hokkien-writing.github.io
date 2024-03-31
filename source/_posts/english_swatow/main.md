@@ -7,6 +7,8 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 
+📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) 來，另外提供 PDF版本，[按此地方可睇](/pdf/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)。
+
 ENGLISH-CHINESE  
 VOCABULARY  
 OF THE  
@@ -16,11 +18,12 @@ SPOKEN LANGUAGE
 OF  
 SWATOW
 
-![](main/4d2db03355ca86f1a76f1748986eddd2_MD5.png)![](main/5036212801189c51b26e6e35b9d6059f_MD5.png)![](main/ad487b4bc87fb9c746ec13ab01296744_MD5.png)![](main/71da28780abd8ad682a04d8d556f8d25_MD5.png)![](main/5036212801189c51b26e6e35b9d6059f_MD5.png)![](main/31a78c2352a77a2fe1961eaaa1c4ef26_MD5.png)![](main/5036212801189c51b26e6e35b9d6059f_MD5.png)![](main/ad487b4bc87fb9c746ec13ab01296744_MD5.png)![](main/71da28780abd8ad682a04d8d556f8d25_MD5.png)![](main/5036212801189c51b26e6e35b9d6059f_MD5.png)![](main/4d2db03355ca86f1a76f1748986eddd2_MD5.png)
 
 SWATOW:  
 ENGLISH PRESBYTERIAN MISSION PRESS.  
 1883.
+
+[Rudolf Lechler](https://en.wikisource.org/wiki/Author:Rudolf_Lechler)*,* [Samuel Wells Williams](https://en.wikisource.org/wiki/Author:Samuel_Wells_Williams)*,* [William Duffus](https://en.wikisource.org/wiki/Author:William_Duffus)
 
 ----
 

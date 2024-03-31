@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)
 
 **a**, che̍k-kâi; che̍k-chiah; &c.
 

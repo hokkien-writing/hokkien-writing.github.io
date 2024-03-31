@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **wadding**, mîⁿ; mîⁿ-hue. wadded coat, ji̍p-mîⁿ-hiûⁿ. to put in wadding, phou-mîⁿ; ji̍p-mîⁿ.
 

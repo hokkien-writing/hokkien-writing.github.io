@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **fable**, phì-zũ. *to use a*, chieh-phì-zũ; siet-phì. *fabulous*, hṳ-tãng; buáng-tãng; bô-iáⁿ-chiah.
 

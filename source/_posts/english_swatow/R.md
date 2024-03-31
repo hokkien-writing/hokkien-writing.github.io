@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **rabbit**, pe̍h-thòu; gue̍h-tshṳ́; chie̍h-tshṳ́.
 

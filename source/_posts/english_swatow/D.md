@@ -6,6 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
+[↩️ 轉回總目錄](/english_swatow/main)​
 
 **dabble**, *in water*, mak-tsúi; sn̍g-tsúi. *learn superficially*, ēng m̄-kàu-kang; chhién-ha̍k; tshó-lia̍k pat-lân-ló.
 
