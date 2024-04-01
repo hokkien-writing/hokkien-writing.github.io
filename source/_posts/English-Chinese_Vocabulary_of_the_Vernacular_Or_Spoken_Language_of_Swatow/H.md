@@ -1,12 +1,12 @@
 ---
 title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / H
-p: english_swatow/H
+p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/H
 date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/english_swatow)​
+[↩️ 轉回總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
 
 **habit**, si̍p-so̍k; khì-si̍p. see CUSTOM, habituated, kùiⁿ-sìⁿ; si̍p-kùan; kùan-liēn. habit becomes second nature, si̍p-kùan sêng-tsṳ̃-jiên.
 

@@ -1,12 +1,12 @@
 ---
 title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / Q
-p: english_swatow/Q
+p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/Q
 date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/english_swatow)​
+[↩️ 轉回總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
 
 **quack**, a, uãng-lo̍k; kuang-kùn.
 

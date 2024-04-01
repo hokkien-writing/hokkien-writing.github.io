@@ -1,12 +1,12 @@
 ---
 title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) / W
-p: english_swatow/W
+p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/W
 date: 2024-03-31 16:11:00
 tags: 
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/english_swatow)​
+[↩️ 轉回總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
 
 **wadding**, mîⁿ; mîⁿ-hue. wadded coat, ji̍p-mîⁿ-hiûⁿ. to put in wadding, phou-mîⁿ; ji̍p-mîⁿ.
 
