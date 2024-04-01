@@ -6,7 +6,7 @@ tags:
 - 汕頭話讀本
 ---
 
-[↩️ 轉回總目錄](/Handbook_of_the_Swatow_Vernacular)
+[↩️ 轉總目錄](/Handbook_of_the_Swatow_Vernacular)
 
 ## Lesson XXVIII. Notes—Nautical.
 

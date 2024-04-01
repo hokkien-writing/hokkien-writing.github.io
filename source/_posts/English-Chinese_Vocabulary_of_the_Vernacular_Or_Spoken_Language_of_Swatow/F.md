@@ -6,7 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
 
 **fable**, phì-zũ. *to use a*, chieh-phì-zũ; siet-phì. *fabulous*, hṳ-tãng; buáng-tãng; bô-iáⁿ-chiah.
 

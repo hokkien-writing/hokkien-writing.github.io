@@ -7,6 +7,7 @@ tags:
 - 漢英潮州方言字典
 ---
 
+[↩️ 轉總目錄](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect)
 
 The design of the following list of words is to assist in finding any particular character when a teacher, from whom its sound may be learned, is not at hand. Being familiar with the radicals in the preceding table, the learner will readily discover one of them forming a prominent part of the word he wishes to find; and under that radical the word will be found in the following list, accompanied with the syllable under which it is arranged in the Vocabulary. 
 
@@ -21,7 +22,7 @@ The design of the following list of words is to assist in finding any particular
 ### Radical 3.
 
 丶 Tiam 丸𠁽 Iⁿ *Ien* 丹 Tán 主 Chu 
-
+<!--more-->
 ### Radical 4.
 
 丿 Puă 乃 Nai 久乆 Ku Kiu 么 Mó 之 Chù 乍 Chá 乎 Hu 乏 Hwat 乖 Kwai 乘 Seng 

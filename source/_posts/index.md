@@ -1,12 +1,9 @@
 ---
-title: 404 滿地覓無 🐫
-toc: false
-permalink: /404.html
-p: /404
-date: 2024-03-31 21:38:00
+title: Map (地圖)
+p: index
+top: 1000
+date: 2024-04-01 20:33:00
 ---
-
-[點此轉去頭頁](/)，無哩來睇下底個網頁：
 
 * [English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典)](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 * [Handbook of the Swatow Vernacular (汕頭話讀本)](/Handbook_of_the_Swatow_Vernacular)

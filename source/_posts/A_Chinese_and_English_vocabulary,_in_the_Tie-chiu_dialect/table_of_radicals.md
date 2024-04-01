@@ -7,6 +7,7 @@ tags:
 - 漢英潮州方言字典
 ---
 
+[↩️ 轉總目錄](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect)
 
 ### One Stroke.
 **一** 1. It. *Chek.*  
@@ -21,7 +22,7 @@ Bent.
 One; curved.  
 **亅** 6. Kiok. C.  
 Hooked.  
-
+<!--more-->
 ### Two Strokes.
 **二** 7. Ji. *Nó.*  
 Two.  

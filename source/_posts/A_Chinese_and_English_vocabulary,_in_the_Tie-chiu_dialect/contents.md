@@ -7,6 +7,7 @@ tags:
 - 漢英潮州方言字典
 ---
 
+[↩️ 轉總目錄](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect)
 
 ### A.
 
@@ -21,7 +22,7 @@ Bai. Bák. Bát. Bau. Be. Bi. Bie. Bio. Bit. Bo. Bó. Boi. Bu. Bua. Buan. Buang.
 Chá. Chai. Chák. Chám. Chán. Cháng. Cháp. Chát. Chau. Che. Chⁿe. Chek. Cheng. Chi. Chⁿi. Chia. Chⁿia. Chiak. Chiam. Chiàng. Chiap. Chie. Chⁿie. Chien. Chiet. Chim. Chin. Chio. Chip. Chit. Chiu. Cho. Chó. Choi. Chⁿoi. Chok. Chong. Chu. Chù. Chua. Chⁿua. Chuak. Chuan. Chuang. Chuat. Chue. Chui. Chun. Chᵘng. Chut.
 
 Chʽá. Chʽai. Chʽák. Chʽám. Chʽán. Chʽáng. Chʽát. Chʽau. Chʽe. Chʽⁿe. Chʽek. Chʽeng. Chʽi. Chʽⁿi. Chʽia. Chʽiak. Chʽiam. Chʽiàng. Chʽiap. Chʽie. Chʽⁿie. Chʽien. Chʽiet. Chʽim. Chʽin. Chʽio. Chʽip. Chʽit. Chʽiu. Chʽo. Chʽó. Chʽⁿoi. Chʽok. Chʽong. Chʽu. Chʽù. Chʽua. Chʽⁿua. Chʽuan. Chʽuang. Chʽuat. Chʽue. Chʽui. Chʽun. Chʽᵘng. Chʽut.
-
+<!--more-->
 ### E.
 
 E. Eⁿ. Ek. Eng.

@@ -6,7 +6,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 ​
-[↩️ 轉回總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
 
 **each**, kak; múeⁿ; pâi. *man*, kak-nâng. *day*, múeⁿ-ji̍t; pâi-ji̍t. *year*, múeⁿ-nîⁿ; nîⁿ-nîⁿ; pâi-nîⁿ. *each one*, kak-kâi; kak-kak. *each other*, siang; jī-ke. *help each other*, jī-ke sie-hũ. *scold each other*, sie-mēⁿ. *each end*, liáng-thâu; nõⁿ-thâu. *side*, liáng-pôiⁿ; liáng-ke.
 

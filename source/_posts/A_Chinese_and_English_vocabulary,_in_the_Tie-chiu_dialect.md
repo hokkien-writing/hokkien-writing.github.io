@@ -8,13 +8,15 @@ tags:
 - 漢英潮州方言字典
 ---
 
+📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) 來，另外有 PDF版本，[點此地方可睇](/pdf/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)。
+
+
 ## Index.
 
 * [Introduction.(介紹)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect)
 * [CONTENTS.(內容)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/contents)
 * [Table of radicals.(部首表)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/table_of_radicals)
 * [List of words.(詞列)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/list_of_words)
-* [About.(關於)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/about)
 
 ---
 
@@ -41,7 +43,7 @@ AMERICAN PRESBYTERIAN MISSION PRESS.
 1883<span>.</span>
 
 ---
-
+<!--more-->
 ## **Introduction.**
 
 The following work, compiled originally to meet the wants of the writer, is offered to the public, simply with the desire that it may afford assistance in the studies of those who desire to make known the unsearchable riches of Christ to the numerous and interesting people who speak the dialect for which it is prepared. It is designed to embrace most of the words in common use, arranged according to their sounds and tones, with brief definitions, and thus form a convenient manual dictionary sufficient for the common purposes of the student. A large Dictionary must, of course, be at hand for reference in difficult and important cases. But a complete Dictionary in each of the Chinese dialects cannot be expected. The most that can be sought is a complete Dictionary in the Court dialect, and a convenient vocabulary in each of the several dialects which claim the attention of missionaries; and the earlier such a Vocabulary can be prepared the greater will be the saving of time and labor. It is believed that at least one third of the time and labor of acquiring a good knowledge of such a dialect as the Tie Chiu, with only a large Dictionary in the Court dialect, might be saved by the help of such a Vocabulary. 
