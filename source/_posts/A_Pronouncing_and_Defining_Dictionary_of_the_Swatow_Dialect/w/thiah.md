@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **拆**
 - To take to pieces; to pull apart; to unrip; to break up or open by external force; to undo or disjoint.

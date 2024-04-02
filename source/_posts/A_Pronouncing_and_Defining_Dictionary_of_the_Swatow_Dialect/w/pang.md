@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **度數](https://en.wiktionary.org/wiki/度數)pang-bó̤917
 - A certain time, period, distance, or quantity; a fixed amount; a limit or bound.

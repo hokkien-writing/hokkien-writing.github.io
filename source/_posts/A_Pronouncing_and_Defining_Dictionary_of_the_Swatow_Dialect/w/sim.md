@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **心**
 - The heart; the centre; the middle; the mind or  understanding; the will, intention, motive; the affections; desire;  origin, source. 

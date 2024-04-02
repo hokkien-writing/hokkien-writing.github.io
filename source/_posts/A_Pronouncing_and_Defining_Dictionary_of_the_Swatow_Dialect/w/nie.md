@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **両**
 - A tael, the highest weight used in Chinese money transactions, and equivalent to nearly one and a half ounces.

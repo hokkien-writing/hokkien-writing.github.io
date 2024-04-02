@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **列**
 - To arrange or state in order; to place according  to rank or rule; regularly; seriatim; a rank, a series, a file, as of  soldiers; a class, as of officials; each, severally.

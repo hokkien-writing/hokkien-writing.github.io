@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **山**
 - A mountain; hills; heights; a mound; a range; uncultivated, wild, not domesticated or subdued.

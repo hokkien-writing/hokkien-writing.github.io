@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **禮**
 - A step or act, particularly acts of worship, which will bring happiness; propriety, etiquette, ceremony, rites; the decent and decorous in worship and in social life; decorum, manners; official  obeisance, worship, courtesy; offerings, gifts required by usage, vails,

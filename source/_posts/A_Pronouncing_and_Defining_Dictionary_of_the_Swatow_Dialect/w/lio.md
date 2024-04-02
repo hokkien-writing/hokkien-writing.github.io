@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **了**
 - To bring to an end ; finished, done; after a verb  it forms past time ; between two verbs is denotes that the first action  is completed before the second is begun, or a repetition of the act.

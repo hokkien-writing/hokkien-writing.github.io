@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **消**
 - To melt; to liquify; to thaw; to lessen by using;  to do away with; to annul; to need and consume; needed, required,  exigent; to allay; to digest; to exhaust; to eliminate; diminished,  dispersed; sold out; transpiring.

@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **衰**
 - Wearing away, like a garment; diminished; cut off; small; fading, growing old, declining, decaying, unprosperous; to  deteriorate; adversity, misfortune.

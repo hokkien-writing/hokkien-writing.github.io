@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **蒂**
 - The peduncle or footstalk of a flower or fruit; the persistent calyx; the stem of a melon; a rootlet.

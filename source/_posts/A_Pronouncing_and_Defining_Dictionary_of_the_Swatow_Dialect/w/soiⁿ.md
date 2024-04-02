@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **先**
 - First; before; formerly; past; to go ahead; to  regard as first; to put first; a cause; to begin; firstly; previous;  deceased; late; gone before; early; soon; the ancients.

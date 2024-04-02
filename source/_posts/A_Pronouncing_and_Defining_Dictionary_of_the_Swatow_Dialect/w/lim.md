@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **臨**
 - Regarding or visiting an inferior; to look down on sympathizingly; to bless or curse by coming to; commencing, at the  point of, about; during, whilst; time of meeting, and it thus sometimes  makes the present participle; like; to imitate; the 19th diagram,  meaning great.

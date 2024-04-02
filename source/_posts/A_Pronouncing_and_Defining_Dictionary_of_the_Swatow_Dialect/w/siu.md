@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **修**
 - To adorn; to clean up or renovate; to repair; to mend; to adjust; to regulate; to cultivate; to practise; to study how to do; to chasten; to examine and school.

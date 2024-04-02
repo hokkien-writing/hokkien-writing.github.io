@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **活**
 - Running, bubbling, like water; living, lively,  active; bright, cheerful; to live; to vivify; life; motion; the germ of  life; movable; a living; livelihood; occupation; applied to some drugs  to indicate their efficacy. 

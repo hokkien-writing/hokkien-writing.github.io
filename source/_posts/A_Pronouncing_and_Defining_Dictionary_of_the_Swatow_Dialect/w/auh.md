@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **懊惱](https://en.wiktionary.org/wiki/懊惱)auh-pâuh625
 - Vexed, angry, irritated.

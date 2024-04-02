@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **天**
 - The highest of things, heaven both physically and divinely; the ether, the sky, the firmament; Nature; Providence; celestial.

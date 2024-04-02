@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **束**
 - To bind many things together, to tie in a bundle,  as fagots; to restrain, to coerce; a sheaf, a bundle; a classifier of  such things as are bound.

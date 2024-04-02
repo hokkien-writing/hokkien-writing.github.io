@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **仙**
 - An immortal; human souls endued with divine  powers; beings of benign nature, inferior to gods, and having the power  of becoming invisible; fairies; an old recluse who changes into another  form but does not die; to become immortal; deathless; anything puzzling  or curious; graceful.

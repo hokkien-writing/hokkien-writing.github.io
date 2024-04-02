@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **莫**
 - A negative forbidding an act; no need of; a  particle exciting a doubt; if, unless, perhaps; preceding an objective  it forms the superlative; nothing like; incomparable; an adjective of  comparison.

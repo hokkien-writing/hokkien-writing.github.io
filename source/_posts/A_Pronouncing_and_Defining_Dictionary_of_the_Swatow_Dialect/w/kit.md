@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **結**
 - To knit; to fasten; to set, as fruit; to tie; to bolt; to congeal; to fix; to bind by agreement.

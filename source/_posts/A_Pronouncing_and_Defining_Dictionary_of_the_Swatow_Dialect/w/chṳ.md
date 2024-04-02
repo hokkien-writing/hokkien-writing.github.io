@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **舒**
 - To unroll; to open out; to expand; to disburden the mind; at ease; easy; comfortable; exhilarated.

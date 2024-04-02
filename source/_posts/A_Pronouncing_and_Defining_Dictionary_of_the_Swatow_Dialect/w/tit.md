@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **得**
 - To attain; to get the object of one's wishes; may, can, able to be done; after another verb it often expresses the  potential mood, or a form of the past tense; to become; to gain.

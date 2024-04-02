@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **蜾贏](https://en.wiktionary.org/wiki/蜾贏)lin-liang490
 - The solitary wasp or sphex, which imprisons caterpillars in its cell to feed its young.

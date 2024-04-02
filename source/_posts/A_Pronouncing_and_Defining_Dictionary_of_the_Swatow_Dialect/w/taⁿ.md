@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **擔**
 - To carry at the two ends of a pole over the shoulder; to bear, to sustain, to undertake, to be responsible for.

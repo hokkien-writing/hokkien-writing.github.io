@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **失**
 - To lose; to mislay; to omit; to neglect; to  disregard; to fail; to err; to miss; to jeopardize; to leave behind; to  slip; to lose favor; failure; a fault.

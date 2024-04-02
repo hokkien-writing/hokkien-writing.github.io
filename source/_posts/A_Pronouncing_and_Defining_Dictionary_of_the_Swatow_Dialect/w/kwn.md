@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **關**
 - A custom or excise house; a frontier pass ; to bar a door; to guard ; to place a post at; to bear upon, to effect; to  belong to a concern; involving; consequences; results.

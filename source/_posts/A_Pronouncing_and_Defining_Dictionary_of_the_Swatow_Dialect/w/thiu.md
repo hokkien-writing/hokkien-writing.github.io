@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **抽**
 - To take out with the hand; to lift; to levy or  assess, as taxes; to select or draw, as a lot; to expand, as plants in  spring; to raise water; to receive one's portion; a tenth, a tithe; a  fee.

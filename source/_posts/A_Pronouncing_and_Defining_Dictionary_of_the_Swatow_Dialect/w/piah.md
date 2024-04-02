@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **壁**
 - A partition wall; the wall of a house; a screen; a defense or obstruction; a dividing cliff or water-shed.

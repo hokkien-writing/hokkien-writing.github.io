@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **㑉傗](https://en.wiktionary.org/wiki/㑉傗)kiu-niu99
 - Bent down; compelled to stoop; unable to extricate one's self.

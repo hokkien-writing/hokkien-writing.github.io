@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **標**
 - The signal flag or banner used as a marking flag;  the troops under one banner; a corps; a sign- board; a ticket or card; a warrant; to make a signal; to put up a notice; to inscribe.

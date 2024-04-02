@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **當**
 - What is suitable, opportune, convenient or just;  adequate to; competent; to bear; to take the responsibility; to act as;  to be; equal to; to match; to make; to stand in contrast; to meet or  occur; at the time of, when, in which sense it is often a form of the  present participle; to withstand.

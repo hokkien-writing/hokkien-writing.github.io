@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **落**
 - To fall; to tumble; to let fall; to descend; to  come down to; to gather at a place; to make a settlement; to put, set or lay a thing down; to enter, as in an account; the place to which one  falls or goes; a gathering place or abode; fixed, settled, arranged; a *preposition*, at, in; it often merely adds force to the verb which it follows.

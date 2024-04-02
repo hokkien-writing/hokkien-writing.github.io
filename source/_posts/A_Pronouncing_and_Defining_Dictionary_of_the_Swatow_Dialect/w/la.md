@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **拉**
 - To pull; to drag along or up to one; to tug at; to force; to borrow; to buy on credit; to get out in any way where effort  is implied, as coal from a mine.

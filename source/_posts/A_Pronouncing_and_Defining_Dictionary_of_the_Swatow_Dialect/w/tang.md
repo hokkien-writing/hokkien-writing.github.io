@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **中**
 - The middle; the centre; the I heart or core of; in the middle; within; in; inner; medium in size or quality; to fill; to  estimate a quantity; undeviating.

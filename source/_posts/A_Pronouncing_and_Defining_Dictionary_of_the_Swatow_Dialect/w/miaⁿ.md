@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **名**
 - A name, that which designates a person or thing;  the given name of people, as distinguished from the clan name, and from  the style or title; a person; fame; reputation; a title; credit; merit;  renowned; celebrated; well known; nominal; to name, to designate.

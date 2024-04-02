@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **努**
 - To exert the utmost strength; to agonize for; to put forth the last effort; a desperate, deadly struggle.

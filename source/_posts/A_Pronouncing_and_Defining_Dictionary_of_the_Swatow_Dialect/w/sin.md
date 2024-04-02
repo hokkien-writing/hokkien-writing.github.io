@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **身**
 - The body, the trunk, the main part of a thing; the hull; one's self; personal; the presence; one's character or duty.

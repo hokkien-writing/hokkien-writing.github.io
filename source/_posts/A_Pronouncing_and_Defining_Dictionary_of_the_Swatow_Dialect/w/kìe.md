@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **呌**
 - To call to or upon; to cry out; the cries or voices of animals or birds; to send for; to name; to command;

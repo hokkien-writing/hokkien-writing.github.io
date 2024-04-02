@@ -6,6 +6,9 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
+
 ## The radicals.—jī-bó̤.
 
 The number of the radical, the radical, its  contracted form, the page on which it may be found in Williams’  Dictionary, its name, its common designation, and its meaning. 

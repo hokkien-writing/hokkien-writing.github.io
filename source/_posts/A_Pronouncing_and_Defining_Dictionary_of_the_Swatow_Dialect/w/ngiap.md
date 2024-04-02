@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **業**
 - A calling, occupation, pursuit, art, or trade; an  estate, a patrimony; that which has been acquired by a calling; merit,  or a title to reward for what has been done; to transmit a calling or a  post; deserving, meritorious.

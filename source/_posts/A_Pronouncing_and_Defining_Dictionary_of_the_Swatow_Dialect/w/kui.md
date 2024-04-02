@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **規**
 - To rule by law; to line out; to regulate; a regulation; a by-law; custom; usage; a fee; a rate for taking a farm.

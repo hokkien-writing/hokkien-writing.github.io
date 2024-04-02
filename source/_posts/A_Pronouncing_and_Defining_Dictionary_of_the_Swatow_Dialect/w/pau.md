@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **包**
 - To wrap up, to envelope; to contain, to hold; to  be included in; to be patient; to undertake; to manage an affair; to  assume; to engage; to warrant; to insure; a bundle, a bale, a wrapper;  plated, as with gold.

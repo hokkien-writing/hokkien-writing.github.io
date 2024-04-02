@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **謊唐](https://en.wiktionary.org/wiki/謊唐)huang-thâng861
 - Boasting talk, gasconade, exaggeration.

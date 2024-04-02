@@ -6,6 +6,8 @@ tags:
 - 汕頭方言音義字典
 ---
 
+[↩️ 轉總目錄](/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect)
+
 
 **節**
 - A joint, a section; a period or regular interval; a set way of doing a thing; temperance, continence; to keep within  limits; to economize; to maintain dignity; an emergency.
