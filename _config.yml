@@ -43,14 +43,14 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   auto_detect: false
-  tab_replace: ''
+  tab_replace: '  '
   wrap: true
   hljs: false
 prismjs:
