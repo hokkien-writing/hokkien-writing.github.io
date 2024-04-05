@@ -56,7 +56,7 @@ source: https://github.com/hokkien-writing/reference
 ## 書冊
 
 * 惠亨通, 1891. 省身初學 [PDF](book/省身初學.pdf) | [哈佛圖書館](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941)
-* 1911. 要理問答 [PDF](book/要理問答.pdf)
+* 香港主教師 [准], 1911. 要理問答 [PDF](book/要理問答.pdf)
 * Gibson, John Campbell, 1888. Iak-na tsu Tiejiu peh ue(約拿書-潮州白話) [PDF](book/Iak-na_tsu_Tiejiu_peh_ue.pdf) | [哈佛圖書館](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263180203941)
 * Duffus, William, 1894. Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書-潮州白話) [PDF](book/Ma-thai_hok_im_tsu_Tie-chiu_peh_ue.pdf) | [哈佛圖書館](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941)
 
