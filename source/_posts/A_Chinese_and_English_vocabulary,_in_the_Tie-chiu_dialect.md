@@ -8,7 +8,7 @@ tags:
 - 漢英潮州方言字典
 ---
 
-📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) 來，另外有 PDF版本，[點此地方可睇](/pdf/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)。
+📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) 來，另外有 PDF版本，[點此地方可睇](https://github.com/hokkien-writing/reference/blob/main/book/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)。
 
 
 ## Index.

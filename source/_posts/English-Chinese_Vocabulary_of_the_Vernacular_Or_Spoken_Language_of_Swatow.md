@@ -7,7 +7,7 @@ tags:
 - 英漢汕頭方言口語詞典
 ---
 
-📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) 來，另外有 PDF版本，[點此地方可睇](/pdf/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)。
+📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) 來，另外有 PDF版本，[點此地方可睇](https://github.com/hokkien-writing/reference/blob/main/book/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)。
 
 
 ENGLISH-CHINESE  

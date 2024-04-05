@@ -7,7 +7,7 @@ tags:
 - 汕頭方言音義字典
 ---
 
-📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) 來，另外有 PDF版本，[點此地方可睇](/pdf/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)。
+📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) 來，另外有 PDF版本，[點此地方可睇](https://github.com/hokkien-writing/reference/blob/main/book/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)。
 
 
 A
