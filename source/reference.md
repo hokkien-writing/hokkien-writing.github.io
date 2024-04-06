@@ -17,22 +17,22 @@ source: https://github.com/hokkien-writing/reference
 * [iTaigi 愛台語](https://itaigi.tw/k/%E5%8F%B0%E8%AA%9E/) 🗣️ 
 * [潮州母语](https://www.mogher.com/) 🗣️
 * [潮州音字典](http://www.czyzd.com/) 🗣️
-* 周长楫, 2006. 闽南方言大词典 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/闽南方言大词典.pdf) 
-* 周長楫, 1993. 廈門方言詞典 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/厦门话词典.pdf) 
+* 周长楫, 2006. 闽南方言大词典 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/闽南方言大词典.pdf) 
+* 周長楫, 1993. 廈門方言詞典 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/厦门话词典.pdf) 
 * 黃晉波, 2012. 當代泉州音字彙 [PDF](book/當代泉州音字彙.pdf)
-* 臺灣閩南語推薦用字700字表 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/臺灣閩南語推薦用字700字表.pdf) 
-* 生活常用詞彙華台語對照 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/生活常用詞彙華台語對照.pdf) 
-* 彙集雅俗十五音全本 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/彙集雅俗十五音全本.pdf) 
+* 臺灣閩南語推薦用字700字表 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/臺灣閩南語推薦用字700字表.pdf) 
+* 生活常用詞彙華台語對照 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/生活常用詞彙華台語對照.pdf) 
+* 彙集雅俗十五音全本 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/彙集雅俗十五音全本.pdf) 
 * 潮州話羅馬字注音方案 [PDF](http://tappcdn.resources.teochew.pw/files/20170114001.pdf) 
-* 潮汕话同音字汇 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/潮汕话同音字汇.pdf) 
-* 潮汕方言词考释 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/潮汕方言词考释.pdf) 
-* 潮汕檢音字表 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/潮汕檢音字表.pdf) 
-* 潮音字類辨正 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/潮音字類辨正.pdf) 
-* 海豐話分類辭表 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/海豐話分類辭表.pdf) 
-* Lim Hiong Seng, 1886. Handbook of the Swatow Vernacular (汕頭話讀本) [Hokkien-writing](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [PDF](https://github.com/hokkien-writing/reference/blob/main/book/Handbook_of_the_Swatow_Vernacular.pdf)
-* Rudolf Lechler, Samuel Wells Williams, William Duffus, 1883. English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) [Hokkien-writing](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [PDF](https://github.com/hokkien-writing/reference/blob/main/book/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)
-* Josiah Goddard, 1883. A Chinese and English vocabulary, in the Tie-chiu dialect (漢英潮州方言字典)  [Hokkien-writing](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [PDF](https://github.com/hokkien-writing/reference/blob/main/book//A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)
-* Adele Marion Fielde, 1883. A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones(汕頭方言音義字典) [Hokkien-writing](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [PDF](https://github.com/hokkien-writing/reference/blob/main/book/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)
+* 潮汕话同音字汇 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕话同音字汇.pdf) 
+* 潮汕方言词考释 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕方言词考释.pdf) 
+* 潮汕檢音字表 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕檢音字表.pdf) 
+* 潮音字類辨正 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮音字類辨正.pdf) 
+* 海豐話分類辭表 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/海豐話分類辭表.pdf) 
+* Lim Hiong Seng, 1886. Handbook of the Swatow Vernacular (汕頭話讀本) [Hokkien-writing](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Handbook_of_the_Swatow_Vernacular.pdf)
+* Rudolf Lechler, Samuel Wells Williams, William Duffus, 1883. English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典) [Hokkien-writing](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)
+* Josiah Goddard, 1883. A Chinese and English vocabulary, in the Tie-chiu dialect (漢英潮州方言字典)  [Hokkien-writing](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)
+* Adele Marion Fielde, 1883. A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones(汕頭方言音義字典) [Hokkien-writing](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)
 
 ---
 
@@ -50,15 +50,19 @@ source: https://github.com/hokkien-writing/reference
 
 ## 熟語
 
-* 台語諺語 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/台語諺語.pdf) 
-* 潮汕方言熟语辞典 [PDF](https://github.com/hokkien-writing/reference/blob/main/book/潮汕方言熟语辞典.pdf) 
+* 台語諺語 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/台語諺語.pdf) 
+* 潮汕方言熟语辞典 [PDF](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕方言熟语辞典.pdf) 
 
 ## 書冊
 
-* 惠亨通, 1891. 省身初學 [PDF](book/省身初學.pdf) | [哈佛圖書館](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941)
+* 惠亨通, 1891. 省身初學(福州話) [PDF](book/省身初學.pdf) | [哈佛圖書館](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941)
+* L. B. Peet, R. S. Maclay, S. F. Woodin, S. L. Baldwin, 1866. 約伯記畧(福州話) [PDF](book/約伯記畧.pdf) | [哈佛圖書館](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263560203941)
+* 里人何求. 閩都別記 [PDF](book/闽都别记.pdf)
+* Charles Hartwell, 1893. 眞理三字經 [Wikisource](https://wikisource.org/wiki/%E7%9C%9F%E7%90%86%E4%B8%89%E5%AD%97%E7%B6%93) | [信望愛](https://bible.fhl.net/ob/nob.html?book=38) | [PDF](book/眞理三字經.pdf)
 * 香港主教師 [准], 1911. 要理問答 [PDF](book/要理問答.pdf)
 * Gibson, John Campbell, 1888. Iak-na tsu Tiejiu peh ue(約拿書-潮州白話) [PDF](book/Iak-na_tsu_Tiejiu_peh_ue.pdf) | [哈佛圖書館](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263180203941)
 * Duffus, William, 1894. Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書-潮州白話) [PDF](book/Ma-thai_hok_im_tsu_Tie-chiu_peh_ue.pdf) | [哈佛圖書館](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941)
+* 觀塘潮語浸信會, 2013. 新約潮語聖經漢字版: (與和合本對照)
 
 ## 教學
 
