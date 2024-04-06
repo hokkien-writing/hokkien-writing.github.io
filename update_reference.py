@@ -7,6 +7,9 @@ title: 參考資料
 date: 2022-12-04 15:43:00
 source: https://github.com/hokkien-writing/reference
 ---
+
+📌 若有缺漏，歡迎移步 [hokkien-writing/reference](https://github.com/hokkien-writing/reference) 相輔修訂。
+
 """
 
 url = "https://raw.githubusercontent.com/hokkien-writing/reference/main/README.md"

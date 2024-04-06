@@ -4,6 +4,9 @@ date: 2022-12-04 15:43:00
 source: https://github.com/hokkien-writing/reference
 ---
 
+📌 若有缺漏，歡迎移步 [hokkien-writing/reference](https://github.com/hokkien-writing/reference) 相輔修訂。
+
+
 ## 字詞
 
 * [Ūn-luī 韻彙](https://unlui.enatsu.top/)
