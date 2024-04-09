@@ -73,8 +73,15 @@ source: https://github.com/hokkien-writing/reference
 
 ## 書冊
 
+* 明朝,《荔鏡記(陳三五娘)》
+	* 明朝嘉靖丙寅年（四十五年、1566）刊本《重刊五色潮泉插科增入詩詞北曲勾欄荔鏡記戲文全集》[中國哲學書電子化計劃 📖](https://ctext.org/wiki.pl?if=gb&chapter=127506) | [網路展書讀 📖](http://cls.lib.ntu.edu.tw/LM/origin1/all_Text.ASP) | [書格](https://www.shuge.org/view/li_jing_ji/) | [黑白版PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/重刊五色潮泉插科增入诗词北曲勾栏荔镜记戏文.明嘉靖四十五年新安余氏刊本.黑白版.pdf)
+		* 吳守禮校勘, 施炳華校釋[《荔鏡記》校釋念白欣賞 📖](https://taiwanopera.moc.gov.tw/index/zh-tw/MirrorVideo)
+	* 萬曆辛巳年刊本《新刻增補全像鄉談荔枝記》
+	* 清朝順治辛卯年刊本《新刊時興泉潮雅調陳伯卿荔枝記大全》
+	* 光緒十年刊本《繡像荔枝記真本——陳伯卿新調》
 * 清朝乾嘉時期, 里人何求.《閩都別記》
 	* 1987, 福建人民出版社.《闽都别记》(全三册) [PDF ⬇️](book/闽都别记.pdf)
+* 1843, [Samuel Dyer(撒母耳·台約爾)](https://en.wikipedia.org/wiki/Samuel_Dyer), [John Stronach(約翰·施敦力)](https://en.wikipedia.org/wiki/John_Stronach).《Aesop's Fables in Hokkien(伊索寓言)》: 第一部分，也就是福建方言部分由撒母耳·台約爾先生和約翰·施敦力先生合作譯成，第二部分，即潮州方言部分則全由約翰·施敦力一人完成。
 * 1866, L. B. Peet, R. S. Maclay, S. F. Woodin, S. L. Baldwin.《約伯記畧》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263560203941) | [PDF ⬇️](book/約伯記畧.pdf)
 * 1888, Gibson, John Campbell.《Iak-na tsu Tiejiu peh ue(約拿書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263180203941) | [PDF ⬇️](book/Iak-na_tsu_Tiejiu_peh_ue.pdf)
 * 1890, Cheah Toon Hoon(謝敦倫).《Excellent Ancient Adages, Together with Notes on the Writings of Chinese Romanized in the Hokkien Dialect(昔時賢文)》 [Wikisource 📖](https://en.wikisource.org/wiki/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect) | [PDF ⬇️](book/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect.pdf)
