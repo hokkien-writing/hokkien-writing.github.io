@@ -49,7 +49,7 @@ source: https://github.com/hokkien-writing/reference
 * 2006, 周长楫.《闽南方言大词典》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/闽南方言大词典.pdf) 
 * 2009,《臺灣閩南語推薦用字700字表》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/臺灣閩南語推薦用字700字表.pdf) 
 * 2010, 周耀文.《潮汕话同音字汇》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕话同音字汇.pdf) 
-* 2012, 黃晉波.《當代泉州音字彙》 [PDF ⬇️](book/當代泉州音字彙.pdf)
+* 2012, 黃晉波.《當代泉州音字彙》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/當代泉州音字彙.pdf)
 * 2017, 潮州話正音正字促進會.《潮州話羅馬字注音方案(第二版)》 [PDF ⬇️](http://tappcdn.resources.teochew.pw/files/20170114001.pdf) 
 * 《生活常用詞彙華台語對照》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/生活常用詞彙華台語對照.pdf) 
 
@@ -84,18 +84,22 @@ source: https://github.com/hokkien-writing/reference
 	* 萬曆辛巳年刊本《新刻增補全像鄉談荔枝記》
 	* 清朝順治辛卯年刊本《新刊時興泉潮雅調陳伯卿荔枝記大全》
 	* 光緒十年刊本《繡像荔枝記真本——陳伯卿新調》
+* 明代萬歷年間,《蘇六娘》 [中國哲學書電子化計劃 📖](https://ctext.org/wiki.pl?if=gb&chapter=171350)
+	* 明末,《重補摘錦潮調金花女一卷明末刊本-卷一》[東洋文化研究所 📖](http://shanben.ioc.u-tokyo.ac.jp/main_p.php?nu=D8423400&order=rn_no&no=01753) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/重補摘錦潮調金花女一卷_明末刊本-卷一.pdf)
+	* 1972, 吳守禮.《金花女·蘇六娘》國立北京大學中國民俗學會民俗叢書第80卷 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/金花女·蘇六娘_國立北京大學中國民俗學會民俗叢書第80卷.pdf)
+	* 曾憲通.《明本潮州戲文〈蘇六娘〉人文背景考察》[PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/明本潮州戲文〈蘇六娘〉人文背景考察.pdf)
 * 清朝乾嘉時期, 里人何求.《閩都別記》
-	* 1987, 福建人民出版社.《闽都别记》(全三册) [PDF ⬇️](book/闽都别记.pdf)
+	* 1987, 福建人民出版社.《闽都别记》(全三册) [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/闽都别记.pdf)
 * 1843, [Samuel Dyer(撒母耳·台約爾)](https://en.wikipedia.org/wiki/Samuel_Dyer), [John Stronach(約翰·施敦力)](https://en.wikipedia.org/wiki/John_Stronach).《Aesop's Fables in Hokkien(伊索寓言)》: 第一部分，也就是福建方言部分由撒母耳·台約爾先生和約翰·施敦力先生合作譯成，第二部分，即潮州方言部分則全由約翰·施敦力一人完成。
-* 1866, L. B. Peet, R. S. Maclay, S. F. Woodin, S. L. Baldwin.《約伯記畧》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263560203941) | [PDF ⬇️](book/約伯記畧.pdf)
-* 1888, Gibson, John Campbell.《Iak-na tsu Tiejiu peh ue(約拿書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263180203941) | [PDF ⬇️](book/Iak-na_tsu_Tiejiu_peh_ue.pdf)
-* 1890, Cheah Toon Hoon(謝敦倫).《Excellent Ancient Adages, Together with Notes on the Writings of Chinese Romanized in the Hokkien Dialect(昔時賢文)》 [Wikisource 📖](https://en.wikisource.org/wiki/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect) | [PDF ⬇️](book/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect.pdf)
-* 1891, 惠亨通.《省身初學》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941) | [PDF ⬇️](book/省身初學.pdf)
-* 1893, Charles Hartwell.《眞理三字經》 [Wikisource 📖](https://wikisource.org/wiki/%E7%9C%9F%E7%90%86%E4%B8%89%E5%AD%97%E7%B6%93) | [信望愛 📖](https://bible.fhl.net/ob/nob.html?book=38) | [PDF ⬇️](book/眞理三字經.pdf)
-* 1894, Duffus, William.《Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941) | [PDF ⬇️](book/Ma-thai_hok_im_tsu_Tie-chiu_peh_ue.pdf)
+* 1866, L. B. Peet, R. S. Maclay, S. F. Woodin, S. L. Baldwin.《約伯記畧》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263560203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/約伯記畧.pdf)
+* 1888, Gibson, John Campbell.《Iak-na tsu Tiejiu peh ue(約拿書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263180203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Iak-na_tsu_Tiejiu_peh_ue.pdf)
+* 1890, Cheah Toon Hoon(謝敦倫).《Excellent Ancient Adages, Together with Notes on the Writings of Chinese Romanized in the Hokkien Dialect(昔時賢文)》 [Wikisource 📖](https://en.wikisource.org/wiki/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect.pdf)
+* 1891, 惠亨通.《省身初學》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/省身初學.pdf)
+* 1893, Charles Hartwell.《眞理三字經》 [Wikisource 📖](https://wikisource.org/wiki/%E7%9C%9F%E7%90%86%E4%B8%89%E5%AD%97%E7%B6%93) | [信望愛 📖](https://bible.fhl.net/ob/nob.html?book=38) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/眞理三字經.pdf)
+* 1894, Duffus, William.《Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Ma-thai_hok_im_tsu_Tie-chiu_peh_ue.pdf)
 * 1898, S. B. Partridge(帕特里克), W. Ashmore(耶士謨).《新約全書(汕頭土白)》
 	* 2013, 香港觀塘潮語浸信會. 《新約潮語聖經漢字版: (與和合本對照)》
-* 1911, 香港主教師 [准].《要理問答》 [PDF ⬇️](book/要理問答.pdf)
+* 1911, 香港主教師 [准].《要理問答》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/要理問答.pdf)
 * 1993, 林伦伦.《潮汕方言熟语辞典》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕方言熟语辞典.pdf) 
 * 台語諺語 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/台語諺語.pdf) 
 
