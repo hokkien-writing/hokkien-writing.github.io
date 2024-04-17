@@ -9,18 +9,18 @@ source: https://github.com/hokkien-writing/reference
 
 ## 字詞
 
-* [Ūn-luī 韻彙](https://unlui.enatsu.top/)
-* [ChhoeTaigi 找台語](https://chhoe.taigi.info/)
-* [臺語萌典](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E) 🗣️ 
+* Ūn-luī 韻彙 [官網 🔍](https://unlui.enatsu.top/)
+* ChhoeTaigi 找台語 [官網 🔍](https://chhoe.taigi.info/)
+* 臺語萌典 [官網 🔍🗣️](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E)
 * 臺灣閩南語常用詞辭典 [官網 📖🗣️](https://twblg.dict.edu.tw/holodict_new/index.html) | [Hokkien-writing 📖](https://hokkien-writing.github.io/holodict/) 
-* [甘字典查詢](http://taigi.fhl.net/dick/index.html)
-* [廈英大辭典](https://minhakka.ling.sinica.edu.tw/bkg/chong-su-tian.php)
-* [台語辭典(台日大辭典台語譯本)](http://minhakka.ling.sinica.edu.tw/taijittian/) 
-* [小學堂閩語](https://xiaoxue.iis.sinica.edu.tw/minyu) 
-* [iTaigi 愛台語](https://itaigi.tw/k/%E5%8F%B0%E8%AA%9E/) 🗣️ 
-* [潮州母语](https://www.mogher.com/) 🗣️
-* [潮州音字典](http://www.czyzd.com/) 🗣️
-* [講我的名 - 閩南語姓名查詢網站(試用版)](https://miasenn.moe.edu.tw/) 🗣️ 
+* 甘字典查詢 [官網 🔍](http://taigi.fhl.net/dick/index.html)
+* 廈英大辭典 [官網 🔍](https://minhakka.ling.sinica.edu.tw/bkg/chong-su-tian.php)
+* 台語辭典(台日大辭典台語譯本) [官網 🔍🗣️](http://minhakka.ling.sinica.edu.tw/taijittian/) 
+* 小學堂閩語 [官網 🔍🗣️](https://xiaoxue.iis.sinica.edu.tw/minyu) 
+* iTaigi 愛台語 [官網 🔍🗣️](https://itaigi.tw/k/%E5%8F%B0%E8%AA%9E/)
+* 潮州母语 [官網 🔍🗣️](https://www.mogher.com/) 
+* 潮州音字典 [官網 🔍🗣️](http://www.czyzd.com/) 
+* 講我的名 - 閩南語姓名查詢網站(試用版) [官網 🔍🗣️](https://miasenn.moe.edu.tw/) 
 
 ---
 
@@ -37,10 +37,11 @@ source: https://github.com/hokkien-writing/reference
 	* 2009, 高田時雄.《SANGLEY 語研究的一種資料—彼得・齊瑞諾的『漢西辭典』》[PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/SANGLEY%20語研究的一種資料—彼得・齊瑞諾的『漢西辭典』.pdf)
 * 1600-1650, Nieva, Domingo.《Bocabulario de lengua sangleya por las letras de el A. B. C.(生理人話辭彙按 ABC 字母編排)》: 藏於大英圖書館。
 * 1832, Medhurst, Walter Henry.《A dictionary of the Hok-këèn dialect of the Chinese language(福建方言字典)》[互聯網檔案館 📖](https://archive.org/details/dictionaryofhokk00medhrich) | [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990130728340203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Dictionary_of_the_Hok-këèn_Dialect_of_the_Chinese_Language.pdf)
-* 1883, Rudolf Lechler, Samuel Wells Williams, William Duffus.《English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow(英漢汕頭方言口語詞典)》 [Hokkien-writing 📖](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource 📖](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)
-* 1883, Josiah Goddard.《A Chinese and English vocabulary, in the Tie-chiu dialect(漢英潮州方言字典)  [Hokkien-writing 📖](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)
-* 1883, Adele Marion Fielde.《A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones(汕頭方言音義字典)》 [Hokkien-writing 📖](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)
-* 1886, Lim Hiong Seng.《Handbook of the Swatow Vernacular(汕頭話讀本)》 [Hokkien-writing 📖](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource 📖](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Handbook_of_the_Swatow_Vernacular.pdf)
+* 1841, William Dean([美]璘为仁, 憐為仁).《First Lessons in the Tie-chiw Dialect(潮州話初級教程)》[Wikisource 📖](https://en.wikisource.org/wiki/First_Lessons_in_the_Tie-chiw_Dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/First_lessons_in_the_Tie-chiw_dialect.pdf)
+* 1883, Rudolf Lechler([德]黎力基), Samuel Wells Williams([美]衛三畏), William Duffus([英]卓威廉).《English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow(英漢汕頭方言口語詞典)》 [Hokkien-writing 📖](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource 📖](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)
+* 1883, Josiah Goddard([美]高德, 哥達德).《A Chinese and English vocabulary, in the Tie-chiu dialect(漢英潮州方言字典)  [Hokkien-writing 📖](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)
+* 1883, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones(汕頭方言音義字典)》 [Hokkien-writing 📖](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)
+* 1886, Lim Hiong Seng([新加坡]林雄成).《Handbook of the Swatow Vernacular(汕頭話讀本)》 [Hokkien-writing 📖](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource 📖](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Handbook_of_the_Swatow_Vernacular.pdf)
 * 1915, 江夏懋亭氏.《彙集雅俗十五音全本》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/彙集雅俗十五音全本.pdf) 
 * 1933, 潘載和.《潮汕檢音字表》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕檢音字表.pdf) 
 * 1936, 潭平章.《潮音字類辨正》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮音字類辨正.pdf) 
@@ -54,29 +55,30 @@ source: https://github.com/hokkien-writing/reference
 * 2013, 吳昭新.《新編台灣閩南語用字彙編》[PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/新編台灣閩南語用字彙編.pdf)
 * 2017, 潮州話正音正字促進會.《潮州話羅馬字注音方案(第二版)》 [PDF ⬇️](http://tappcdn.resources.teochew.pw/files/20170114001.pdf) 
 * 《生活常用詞彙華台語對照》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/生活常用詞彙華台語對照.pdf) 
+* 林倫倫, 朱永鍇.《潮州話一月通》[傳統漢字版 EPUB ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮州話一月通.epub) | [简体字版 EPUB ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮州话一月通.epub) | [潮舖 YouTube 📀](https://www.youtube.com/watch?v=ZWEzSVDanGE&ab_channel=%E6%BD%AE%E8%88%96theteochewstore) | [潮舖 🛒](https://www.theteochewstore.org/collections/teochew-language/products/chaozhouhua-yiyuetong-fantiziban)
 
 ---
 
-* [用十分鐘學讀學寫福建文](https://www.speakhokkien.org/oh-thak-oh-sia)
-* [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/) 🗣️ 
-* [潮汕话拼音 | 南舍郎 | bilibili](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531) 📀
-* [潮州话拼音方案](http://www.czyzd.com/data/chaopin)
-* [潮语拼音教程](https://kahaani.github.io/gatian/index.html)
-* [Learn Teochew with Teochew Opera (透過潮劇學習潮州話)](https://learn-teochew.github.io/tc-opera/)
+* 用十分鐘學讀學寫福建文 [官網 📖](https://www.speakhokkien.org/oh-thak-oh-sia)
+* 臺灣閩南語羅馬字拼音教學網 [官網 📖🗣️](https://tailo.moe.edu.tw/)
+* 南舍郎. 潮汕话拼音 [Bilibili 📀](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531)
+* 潮州话拼音方案 [潮州音字典 📖](http://www.czyzd.com/data/chaopin) | [Wikipedia 📖](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E8%A9%B1%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88) | [百度百科](https://baike.baidu.com/item/%E6%BD%AE%E5%B7%9E%E8%AF%9D%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88/2344643)
+* 腾达. 潮语拼音教程 [官網 📖](https://kahaani.github.io/gatian/index.html)
+* Learn Teochew with Teochew Opera (透過潮劇學習潮州話) [官網 📖](https://learn-teochew.github.io/tc-opera/)
 
 ---
 
-* [漢典](https://www.zdic.net/) 🗣️
-* [常用國字標準字體筆順學習網](http://stroke-order.learningweb.moe.edu.tw/character.do)
-* [漢語大詞典 | 白雲深處人家海外站](https://homeinmists.ilotus.org/hd/hydcd.php)
-* [說文解字 | 白雲深處人家海外站](https://homeinmists.ilotus.org/shuowen/find_all.php)
-* [康熙字典 | 白雲深處人家海外站](https://homeinmists.ilotus.org/kangxi/Kangxi.php)
-* [康熙字典](http://kangxi.adcs.org.tw/kangxizidian/)
-* [字統网](https://zi.tools/)
-* [メインページ - GlyphWiki](http://glyphwiki.org/wiki/)
-* [漢語多功能字庫 Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
-* [國際電腦漢字及異體字知識庫](https://chardb.iis.sinica.edu.tw/)
-* [古今文字集成 | 集古今文字释義、字形更革、音韻演變之大全](http://ccamc.co/index.php)
+* 漢典 [官網 🔍🗣️](https://www.zdic.net/)
+* 常用國字標準字體筆順學習網 [官網 🔍🗣️](https://stroke-order.learningweb.moe.edu.tw/home.do)
+* 漢語大詞典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/hd/hydcd.php) | [古音小鏡](http://www.kaom.nethttps://raw.githubusercontent.com/hokkien-writing/reference/main/book_hanyudacidian.php)
+* 漢語大字典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/hd/hydzd.php)
+* 說文解字 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/shuowen/find_all.php)
+* 康熙字典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/kangxi/Kangxi.php) | [中華開放古籍協會 🔍](http://kangxi.adcs.org.tw/kangxizidian/)
+* 字統网 [官網 🔍](https://zi.tools/)
+* メインページ - GlyphWiki [官網 🔍](http://glyphwiki.org/wiki/)
+* 漢語多功能字庫 Multi-function Chinese Character Database [官網 🔍](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+* 國際電腦漢字及異體字知識庫 [官網 🔍](https://chardb.iis.sinica.edu.tw/)
+* 古今文字集成 [官網 🔍](http://ccamc.co/index.php)
 
 ## 書冊
 
@@ -97,11 +99,11 @@ source: https://github.com/hokkien-writing/reference
 	* 1893,《Iong-sim Ju-gian(養心喩言)》: 藏於國立臺灣大學。[台灣白話字文獻館 📖](https://pojbh.lib.ntnu.edu.tw/artical-src11659.htm) | [數位典藏與學習聯合目錄 📖](https://catalog.digitalarchives.tw/item/00/44/f8/d7.html) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Iong-sim_Ju-gian.pdf)
 	* 2020, 陳旭《漢訳イソップにおける方言訳に関する研究 : 福建方言訳を中心に》 [国立国会図書館サーチ](https://ndlsearch.ndl.go.jphttps://raw.githubusercontent.com/hokkien-writing/reference/main/books/R000000004-I030391361) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/漢訳イソップにおける方言訳に関する研究.pdf)
 * 1866, L. B. Peet, R. S. Maclay, S. F. Woodin, S. L. Baldwin.《約伯記畧》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263560203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/約伯記畧.pdf)
-* 1888, Gibson, John Campbell.《Iak-na tsu Tiejiu peh ue(約拿書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263180203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Iak-na_tsu_Tiejiu_peh_ue.pdf)
+* 1888, John Campbell Gibson([英]汲約翰).《Iak-na tsu Tiejiu peh ue(約拿書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263180203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Iak-na_tsu_Tiejiu_peh_ue.pdf)
 * 1890, Cheah Toon Hoon(謝敦倫).《Excellent Ancient Adages, Together with Notes on the Writings of Chinese Romanized in the Hokkien Dialect(昔時賢文)》 [Wikisource 📖](https://en.wikisource.org/wiki/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect.pdf)
 * 1891, 惠亨通.《省身初學》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/省身初學.pdf)
 * 1893, Charles Hartwell.《眞理三字經》 [Wikisource 📖](https://wikisource.org/wiki/%E7%9C%9F%E7%90%86%E4%B8%89%E5%AD%97%E7%B6%93) | [信望愛 📖](https://bible.fhl.net/ob/nob.html?book=38) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/眞理三字經.pdf)
-* 1894, Duffus, William.《Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Ma-thai_hok_im_tsu_Tie-chiu_peh_ue.pdf)
+* 1894, William Duffus([英]卓威廉).《Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Ma-thai_hok_im_tsu_Tie-chiu_peh_ue.pdf)
 * 1898, S. B. Partridge(帕特里克), W. Ashmore(耶士謨).《新約全書(汕頭土白)》
 	* 2013, 香港觀塘潮語浸信會. 《新約潮語聖經漢字版: (與和合本對照)》
 * 1911, 香港主教師 [准].《要理問答》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/要理問答.pdf)
@@ -110,22 +112,22 @@ source: https://github.com/hokkien-writing/reference
 
 ## 輸入法
 
-* [信望愛台語客語輸入法](http://taigi.fhl.net/TaigiIME/)
-* [臺灣閩南語漢字輸入法](https://language.moe.gov.tw/files/people_files/blgsujip%201110721.pdf)
-* Phah Tâi-gí 臺語輸入法 [Android](https://play.google.com/store/apps/details?id=com.taccotap.phahtaigi) | [IOS](https://apps.apple.com/tw/app/phahtaigi-%E5%8F%B0%E8%AA%9E%E8%BC%B8%E5%85%A5%E6%B3%95/id1455093650)
-* [潮州話拍字方案](https://github.com/hokkien-writing/rime-teochew)
+* 信望愛台語客語輸入法 [官網](http://taigi.fhl.net/TaigiIME/)
+* 臺灣閩南語漢字輸入法 [官網](https://language.moe.gov.tw/files/people_files/blgsujip%201110721.pdf)
+* Phah Tâi-gí 臺語輸入法 [Android ⬇️](https://play.google.com/store/apps/details?id=com.taccotap.phahtaigi) | [IOS ⬇️](https://apps.apple.com/tw/app/phahtaigi-%E5%8F%B0%E8%AA%9E%E8%BC%B8%E5%85%A5%E6%B3%95/id1455093650)
+* 潮州話拍字方案 [官網](https://github.com/hokkien-writing/rime-teochew)
 
 ## 部落格
 
-* [鹭水芗南－閩南語部落](https://hokkienese.com)
+* 鹭水芗南－閩南語部落 [官網](https://hokkienese.com)
 
 ## 社區
 
-* [海墘閩語論壇](https://www.ispeakmin.com/bbs/)
+* 海墘閩語論壇 [官網](https://www.ispeakmin.com/bbs/)
 
 ## 運動
 
-* [講福建話運動(SPEAK HOKKIEN CAMPAIGN)](https://www.speakhokkien.org/)
+* 講福建話運動(SPEAK HOKKIEN CAMPAIGN) [官網](https://www.speakhokkien.org/)
 
 
 > 備註：頭頂資料均蒐集自網路。若有侵權，麻煩着 [Issue頁面](https://github.com/hokkien-writing/reference/issues) 告知。
