@@ -12,7 +12,7 @@ source: https://github.com/hokkien-writing/reference
 * Ūn-luī 韻彙 [官網 🔍](https://unlui.enatsu.top/)
 * ChhoeTaigi 找台語 [官網 🔍](https://chhoe.taigi.info/)
 * 臺語萌典 [官網 🔍🗣️](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E)
-* 臺灣閩南語常用詞辭典 [官網 📖🗣️](https://twblg.dict.edu.tw/holodict_new/index.html) | [Hokkien-writing 📖](https://hokkien-writing.github.io/holodict/) 
+* 臺灣閩南語常用詞辭典 [官網 📖🗣️](https://sutian.moe.edu.tw/zh-hant/) | [Hokkien-writing 📖](https://hokkien-writing.github.io/holodict/) 
 * 甘字典查詢 [官網 🔍](http://taigi.fhl.net/dick/index.html)
 * 廈英大辭典 [官網 🔍](https://minhakka.ling.sinica.edu.tw/bkg/chong-su-tian.php)
 * 台語辭典(台日大辭典台語譯本) [官網 🔍🗣️](http://minhakka.ling.sinica.edu.tw/taijittian/) 
