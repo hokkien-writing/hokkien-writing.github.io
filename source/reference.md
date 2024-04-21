@@ -114,6 +114,8 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa(廈門音新字典
 * 1911, 香港主教師 [准].《要理問答》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/要理問答.pdf)
 * 1993, 林伦伦.《潮汕方言熟语辞典》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕方言熟语辞典.pdf) 
 * 台語諺語 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/台語諺語.pdf) 
+* 三字經 [Wikibooks 📖](https://zh.wikibooks.org/wiki/%E8%87%BA%E7%81%A3%E8%A9%B1/%E4%B8%89%E5%AD%97%E7%B6%93%E8%AE%80%E9%9F%B3)
+* 千字文 [Wikibooks 📖](https://zh.wikibooks.org/zh-hk/%E8%87%BA%E7%81%A3%E8%A9%B1/%E5%8D%83%E5%AD%97%E6%96%87%E8%AE%80%E9%9F%B3)
 
 ## 輸入法
 
