@@ -7,7 +7,7 @@ source: https://github.com/hokkien-writing/reference
 📌 若有缺漏，歡迎移步 [hokkien-writing/reference](https://github.com/hokkien-writing/reference) 相輔修訂。
 
 
-## 字詞
+## 🔍 查詞
 
 * Ūn-luī 韻彙 [官網 🔍](https://unlui.enatsu.top/)
 * ChhoeTaigi 找台語 [官網 🔍](https://chhoe.taigi.info/)
@@ -21,6 +21,29 @@ source: https://github.com/hokkien-writing/reference
 * 潮州母语 [官網 🔍🗣️](https://www.mogher.com/) 
 * 潮州音字典 [官網 🔍🗣️](http://www.czyzd.com/) 
 * 講我的名 - 閩南語姓名查詢網站(試用版) [官網 🔍🗣️](https://miasenn.moe.edu.tw/) 
+* 榕典 [官網 🔍🗣️](https://www.ydict.net)
+
+---
+
+* 漢典 [官網 🔍🗣️](https://www.zdic.net/)
+* 常用國字標準字體筆順學習網 [官網 🔍🗣️](https://stroke-order.learningweb.moe.edu.tw/home.do)
+* 漢語大詞典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/hd/hydcd.php) | [古音小鏡](http://www.kaom.nethttps://raw.githubusercontent.com/hokkien-writing/reference/main/book_hanyudacidian.php)
+* 漢語大字典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/hd/hydzd.php)
+* 說文解字 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/shuowen/find_all.php)
+* 康熙字典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/kangxi/Kangxi.php) | [中華開放古籍協會 🔍](http://kangxi.adcs.org.tw/kangxizidian/)
+* 字統网 [官網 🔍](https://zi.tools/)
+* メインページ - GlyphWiki [官網 🔍](http://glyphwiki.org/wiki/)
+* 漢語多功能字庫 Multi-function Chinese Character Database [官網 🔍](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+* 國際電腦漢字及異體字知識庫 [官網 🔍](https://chardb.iis.sinica.edu.tw/)
+* 古今文字集成 [官網 🔍](http://ccamc.co/index.php)
+
+## 🧑‍🏫 教程
+
+* 用十分鐘學讀學寫福建文 [官網 📖](https://www.speakhokkien.org/oh-thak-oh-sia)
+* 臺灣閩南語羅馬字拼音教學網 [官網 📖🗣️](https://tailo.moe.edu.tw/)
+* 腾达. 潮语拼音教程 [官網 📖](https://kahaani.github.io/gatian/index.html) | [Github](https://github.com/kahaani/gatian)
+* 南舍郎. 潮汕话拼音 [Bilibili 📀](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531)
+* 潮州话拼音方案 [潮州音字典 📖](http://www.czyzd.com/data/chaopin) | [Wikipedia 📖](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E8%A9%B1%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88) | [百度百科](https://baike.baidu.com/item/%E6%BD%AE%E5%B7%9E%E8%AF%9D%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88/2344643)
 
 ---
 
@@ -45,11 +68,15 @@ Spoken Amoy. (增補廈音大辭典)》[互聯網檔案館 📖](https://archive
 * 1883, Josiah Goddard([美]高德, 哥達德).《A Chinese and English vocabulary, in the Tie-chiu dialect(漢英潮州方言字典)  [Hokkien-writing 📖](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)
 * 1883, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones(汕頭方言音義字典)》 [Hokkien-writing 📖](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)
 * 1886, Lim Hiong Seng([新加坡]林雄成).《Handbook of the Swatow Vernacular(汕頭話讀本)》 [Hokkien-writing 📖](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource 📖](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/Handbook_of_the_Swatow_Vernacular.pdf)
+* 1871, Baldwin, C. C. (Caleb Cook).《A Manual of the Foochow Dialect(榕腔初學撮要)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990058288570203941) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book//A_Manual_of_the_Foochow_Dialect.pdf)
+* 1908, C. M. S. and A. E. Champness.《A Manual of the Foochow Dialect In Twenty Lessons(福州話入門二十課)》[Wikisource 📖](https://en.wikisource.org/wiki/A_Manual_of_the_Foochow_Dialect_In_Twenty_Lessons) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Manual_of_the_Foochow_Dialect_in_Twenty_Lessons.pdf)
 * 1913, William Campbell(甘爲霖).《A Dictionary of the Amoy Vernacular Spoken
 through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa(廈門音新字典)》[互聯網檔案館 📖](https://archive.org/details/dictionaryofamoy00camp) | [甘字典查詢 🔍](http://taigi.fhl.net/dick/index.html) | [Google Books 📖](https://play.google.comhttps://raw.githubusercontent.com/hokkien-writing/reference/main/books/reader?id=dJo3AQAAMAAJ&pg=GBS.PP1&hl=en) [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/A_Dictionary_of_the_Amoy_Vernacular_Spoken_throughout_the_Prefectures_of_Chin-chiu,_Chiang-chiu,_and_Formosa.pdf)
 * 1915, 江夏懋亭氏.《彙集雅俗十五音全本》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/彙集雅俗十五音全本.pdf) 
 * 1933, 潘載和.《潮汕檢音字表》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕檢音字表.pdf) 
-* 1936, 潭平章.《潮音字類辨正》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮音字類辨正.pdf) 
+* 1936, 潭平章.《潮音字類辨正》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮音字類辨正.pdf)
+* 1965, Leo Chen, Jerry Norman.《An introduction to the Foochow dialect(閩語入門)》
+	* 中文本 [互聯網檔案館 📖](https://archive.org/details/ERIC_ED010342) | [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/閩語入門.pdf)
 * 1992, 李新魁, 林伦伦.《潮汕方言词考释》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕方言词考释.pdf) 
 * 1993, 周長楫.《廈門方言詞典》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/厦门话词典.pdf) 
 * 1995, 羅志海, 鍾顯坤.《海豐話分類辭表》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/海豐話分類辭表.pdf) 
@@ -62,30 +89,7 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa(廈門音新字典
 * 《生活常用詞彙華台語對照》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/生活常用詞彙華台語對照.pdf) 
 * 林倫倫, 朱永鍇.《潮州話一月通》[傳統漢字版 EPUB ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮州話一月通.epub) | [简体字版 EPUB ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮州话一月通.epub) | [潮舖 YouTube 📀](https://www.youtube.com/watch?v=ZWEzSVDanGE&ab_channel=%E6%BD%AE%E8%88%96theteochewstore) | [潮舖 🛒](https://www.theteochewstore.org/collections/teochew-language/products/chaozhouhua-yiyuetong-fantiziban)
 
----
-
-* 用十分鐘學讀學寫福建文 [官網 📖](https://www.speakhokkien.org/oh-thak-oh-sia)
-* 臺灣閩南語羅馬字拼音教學網 [官網 📖🗣️](https://tailo.moe.edu.tw/)
-* 南舍郎. 潮汕话拼音 [Bilibili 📀](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531)
-* 潮州话拼音方案 [潮州音字典 📖](http://www.czyzd.com/data/chaopin) | [Wikipedia 📖](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E8%A9%B1%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88) | [百度百科](https://baike.baidu.com/item/%E6%BD%AE%E5%B7%9E%E8%AF%9D%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88/2344643)
-* 腾达. 潮语拼音教程 [官網 📖](https://kahaani.github.io/gatian/index.html)
-* Learn Teochew with Teochew Opera (透過潮劇學習潮州話) [官網 📖](https://learn-teochew.github.io/tc-opera/)
-
----
-
-* 漢典 [官網 🔍🗣️](https://www.zdic.net/)
-* 常用國字標準字體筆順學習網 [官網 🔍🗣️](https://stroke-order.learningweb.moe.edu.tw/home.do)
-* 漢語大詞典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/hd/hydcd.php) | [古音小鏡](http://www.kaom.nethttps://raw.githubusercontent.com/hokkien-writing/reference/main/book_hanyudacidian.php)
-* 漢語大字典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/hd/hydzd.php)
-* 說文解字 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/shuowen/find_all.php)
-* 康熙字典 [白雲深處人家海外站 🔍](https://homeinmists.ilotus.org/kangxi/Kangxi.php) | [中華開放古籍協會 🔍](http://kangxi.adcs.org.tw/kangxizidian/)
-* 字統网 [官網 🔍](https://zi.tools/)
-* メインページ - GlyphWiki [官網 🔍](http://glyphwiki.org/wiki/)
-* 漢語多功能字庫 Multi-function Chinese Character Database [官網 🔍](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
-* 國際電腦漢字及異體字知識庫 [官網 🔍](https://chardb.iis.sinica.edu.tw/)
-* 古今文字集成 [官網 🔍](http://ccamc.co/index.php)
-
-## 書冊
+## 📚 著作
 
 * 明朝,《荔鏡記(陳三五娘)》
 	* 明朝嘉靖丙寅年（四十五年、1566）刊本《重刊五色潮泉插科增入詩詞北曲勾欄荔鏡記戲文全集》[中國哲學書電子化計劃 📖](https://ctext.org/wiki.pl?if=gb&chapter=127506) | [網路展書讀 📖](http://cls.lib.ntu.edu.tw/LM/origin1/all_Text.ASP) | [書格](https://www.shuge.org/view/li_jing_ji/) | [黑白版PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/重刊五色潮泉插科增入诗词北曲勾栏荔镜记戏文.明嘉靖四十五年新安余氏刊本.黑白版.pdf)
@@ -117,24 +121,40 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa(廈門音新字典
 * 三字經 [Wikibooks 📖](https://zh.wikibooks.org/wiki/%E8%87%BA%E7%81%A3%E8%A9%B1/%E4%B8%89%E5%AD%97%E7%B6%93%E8%AE%80%E9%9F%B3)
 * 千字文 [Wikibooks 📖](https://zh.wikibooks.org/zh-hk/%E8%87%BA%E7%81%A3%E8%A9%B1/%E5%8D%83%E5%AD%97%E6%96%87%E8%AE%80%E9%9F%B3)
 
-## 輸入法
+## ⌨️ 輸入法
 
 * 信望愛台語客語輸入法 [官網](http://taigi.fhl.net/TaigiIME/)
 * 臺灣閩南語漢字輸入法 [官網](https://language.moe.gov.tw/files/people_files/blgsujip%201110721.pdf)
 * Phah Tâi-gí 臺語輸入法 [Android ⬇️](https://play.google.com/store/apps/details?id=com.taccotap.phahtaigi) | [IOS ⬇️](https://apps.apple.com/tw/app/phahtaigi-%E5%8F%B0%E8%AA%9E%E8%BC%B8%E5%85%A5%E6%B3%95/id1455093650)
+* 潮语拼音输入法 [官網](https://kahaani.github.io/dieghv) | [Github](https://github.com/kahaani/dieghv)
 * 潮州話拍字方案 [官網](https://github.com/hokkien-writing/rime-teochew)
+* 真鳥囝福州话输入法 [官網](https://www.zingzeu.org/)
 
-## 部落格
+## 📝 部落格
 
 * 鹭水芗南－閩南語部落 [官網](https://hokkienese.com)
+* 台語半桶師雜記 [官網](https://hik-u-tw.blogspot.com/)
 
-## 社區
+## 🧩 社區
 
 * 海墘閩語論壇 [官網](https://www.ispeakmin.com/bbs/)
+* Tâi-bûn Pit-hōe 台文筆會 [官網](https://pen.de-han.org/journal/index.htm)
+	* 台文筆會年刊 Taiwanese Pen Annual Selections [官網](https://pen.de-han.org/journal/index.htm)
+	* Tâioânjī 台灣字雙月刊 Taiwanese Scripts [官網](https://pen.de-han.org/taioanji/index.htm)
 
-## 運動
+## 🐈 開源項目
 
-* 講福建話運動(SPEAK HOKKIEN CAMPAIGN) [官網](https://www.speakhokkien.org/)
+* 閩南語書寫 hokkien-writing [官網](https://hokkien-writing.github.io) | [Github](https://github.com/hokkien-writing)
+* 真鸟囝 zingzeu [官網](http://www.zingzeu.com) | [Github](https://github.com/zingzeu)
+	* 榕典 [官網](https://www.ydict.net/) | [Github](https://github.com/zingzeu/yngdieng)
+* 閩東語實驗室 MindongLab [Github](https://github.com/MindongLab)
+	* 福州話熟語大全 MindongLab/foochow-idioms [Github](https://github.com/MindongLab/foochow-idioms)
+* 電子化平話字音表 only3km/ciklinbekin [Github](https://github.com/only3km/ciklinbekin)
+* 閩東語福州話的資源整合列表 ztl8702/awesome-hokchew [Github](https://github.com/ztl8702/awesome-hokchew)
+* Learn Teochew [官網](https://learn-teochew.github.io/) | [Github](https://github.com/learn-teochew)
+	* Learn Teochew with Teochew Opera [官網](https://learn-teochew.github.io/tc-opera/) | [Github](https://github.com/learn-teochew/tc-opera)
+	* Teochew songbooks 潮州歌冊 [Github](https://github.com/learn-teochew/tc-songbooks)
+	* Teochew Bibles 潮州話基督教聖經 [Github](https://github.com/learn-teochew/tc-bibles)
 
 
 > 備註：頭頂資料攏蒐集自網絡，僅供個人學習參考，其中內容毋代表本站觀點。若有侵權，麻煩着 [Issue頁面](https://github.com/hokkien-writing/reference/issues) 告知。
