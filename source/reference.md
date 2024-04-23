@@ -41,9 +41,12 @@ source: https://github.com/hokkien-writing/reference
 
 * 用十分鐘學讀學寫福建文 [官網 📖](https://www.speakhokkien.org/oh-thak-oh-sia)
 * 臺灣閩南語羅馬字拼音教學網 [官網 📖🗣️](https://tailo.moe.edu.tw/)
+* 2009,《臺灣閩南語推薦用字700字表》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/臺灣閩南語推薦用字700字表.pdf) 
 * 腾达. 潮语拼音教程 [官網 📖](https://kahaani.github.io/gatian/index.html) | [Github](https://github.com/kahaani/gatian)
 * 南舍郎. 潮汕话拼音 [Bilibili 📀](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531)
 * 潮州话拼音方案 [潮州音字典 📖](http://www.czyzd.com/data/chaopin) | [Wikipedia 📖](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E8%A9%B1%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88) | [百度百科](https://baike.baidu.com/item/%E6%BD%AE%E5%B7%9E%E8%AF%9D%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88/2344643)
+* 2017, 潮州話正音正字促進會.《潮州話羅馬字注音方案(第二版)》 [PDF ⬇️](http://tappcdn.resources.teochew.pw/files/20170114001.pdf) 
+* 林倫倫, 朱永鍇.《潮州話一月通》[傳統漢字版 EPUB ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮州話一月通.epub) | [简体字版 EPUB ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮州话一月通.epub) | [潮舖 YouTube 📀](https://www.youtube.com/watch?v=ZWEzSVDanGE&ab_channel=%E6%BD%AE%E8%88%96theteochewstore) | [潮舖 🛒](https://www.theteochewstore.org/collections/teochew-language/products/chaozhouhua-yiyuetong-fantiziban)
 
 ---
 
@@ -81,13 +84,10 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa(廈門音新字典
 * 1993, 周長楫.《廈門方言詞典》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/厦门话词典.pdf) 
 * 1995, 羅志海, 鍾顯坤.《海豐話分類辭表》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/海豐話分類辭表.pdf) 
 * 2006, 周长楫.《闽南方言大词典》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/闽南方言大词典.pdf) 
-* 2009,《臺灣閩南語推薦用字700字表》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/臺灣閩南語推薦用字700字表.pdf) 
 * 2010, 周耀文.《潮汕话同音字汇》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮汕话同音字汇.pdf) 
 * 2012, 黃晉波.《當代泉州音字彙》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/當代泉州音字彙.pdf)
 * 2013, 吳昭新.《新編台灣閩南語用字彙編》[PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/新編台灣閩南語用字彙編.pdf)
-* 2017, 潮州話正音正字促進會.《潮州話羅馬字注音方案(第二版)》 [PDF ⬇️](http://tappcdn.resources.teochew.pw/files/20170114001.pdf) 
 * 《生活常用詞彙華台語對照》 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/生活常用詞彙華台語對照.pdf) 
-* 林倫倫, 朱永鍇.《潮州話一月通》[傳統漢字版 EPUB ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮州話一月通.epub) | [简体字版 EPUB ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/潮州话一月通.epub) | [潮舖 YouTube 📀](https://www.youtube.com/watch?v=ZWEzSVDanGE&ab_channel=%E6%BD%AE%E8%88%96theteochewstore) | [潮舖 🛒](https://www.theteochewstore.org/collections/teochew-language/products/chaozhouhua-yiyuetong-fantiziban)
 
 ## 📚 著作
 
