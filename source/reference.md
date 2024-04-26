@@ -120,6 +120,7 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa(廈門音新字典
 * 台語諺語 [PDF ⬇️](https://raw.githubusercontent.com/hokkien-writing/reference/main/book/台語諺語.pdf) 
 * 三字經 [Wikibooks 📖](https://zh.wikibooks.org/wiki/%E8%87%BA%E7%81%A3%E8%A9%B1/%E4%B8%89%E5%AD%97%E7%B6%93%E8%AE%80%E9%9F%B3)
 * 千字文 [Wikibooks 📖](https://zh.wikibooks.org/zh-hk/%E8%87%BA%E7%81%A3%E8%A9%B1/%E5%8D%83%E5%AD%97%E6%96%87%E8%AE%80%E9%9F%B3)
+* 聖經 bible.com [現代台語譯本漢字版 📖](https://www.bible.com/bible/3620/GEN.1.TTVH) | [現代台語譯本羅馬字版 📖](https://www.bible.com/bible/3619/GEN.1.TTVR)
 
 ## ⌨️ 輸入法
 
@@ -144,6 +145,8 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa(廈門音新字典
 
 ## 🐈 開源項目
 
+* 閩南語維基百科 [官網](https://zh-min-nan.wikipedia.org/wiki)
+* 閩東語維基百科 [官網](https://cdo.wikipedia.org/wiki)
 * 閩南語書寫 hokkien-writing [官網](https://hokkien-writing.github.io) | [Github](https://github.com/hokkien-writing)
 * 真鸟囝 zingzeu [官網](http://www.zingzeu.com) | [Github](https://github.com/zingzeu)
 	* 榕典 [官網](https://www.ydict.net/) | [Github](https://github.com/zingzeu/yngdieng)
