@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Introductory (汕頭話讀本之入門)
 p: Handbook_of_the_Swatow_Vernacular/introductory
 date: 2022-11-15 21:43:00

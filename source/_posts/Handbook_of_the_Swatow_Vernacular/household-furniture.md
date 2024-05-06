@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Household furniture &c. (汕頭話讀本之家私)
 p: Handbook_of_the_Swatow_Vernacular/household-furniture
 date: 2022-11-20 21:59:00

@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: 臺灣閩南語常用詞辭典之人物品評
 p: holodict/renwupinping
 date: 2021-05-07 15:59:01

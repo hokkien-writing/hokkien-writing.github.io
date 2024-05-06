@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / A List of Introductory Adjectives (汕頭話讀本之初階形容詞列表)
 p: Handbook_of_the_Swatow_Vernacular/a-list-of-introductory-adjectives
 date: 2022-11-16 20:15:00

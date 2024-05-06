@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Notes—Nautical (汕頭話讀本之行船(補))
 p: Handbook_of_the_Swatow_Vernacular/notes-nautical
 date: 2022-11-20 23:41:00

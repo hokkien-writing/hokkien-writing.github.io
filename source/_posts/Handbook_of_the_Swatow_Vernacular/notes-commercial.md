@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Notes—Commercial (汕頭話讀本之商業(補))
 p: Handbook_of_the_Swatow_Vernacular/notes-commercial
 date: 2022-11-20 23:44:00

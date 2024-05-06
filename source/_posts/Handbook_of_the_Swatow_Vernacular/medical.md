@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Medical (汕頭話讀本之醫藥)
 p: Handbook_of_the_Swatow_Vernacular/medical
 date: 2022-11-20 23:02:00

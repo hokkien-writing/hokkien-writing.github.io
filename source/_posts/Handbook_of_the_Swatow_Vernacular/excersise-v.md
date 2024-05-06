@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Exercises V (汕頭話讀本之練習)
 p: Handbook_of_the_Swatow_Vernacular/exercises-v
 date: 2022-11-16 20:14:00

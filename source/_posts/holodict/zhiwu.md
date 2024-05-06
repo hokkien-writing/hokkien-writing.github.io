@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: 臺灣閩南語常用詞辭典之植物
 p: holodict/zhiwu
 date: 2021-05-07 15:59:01

@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / A building &c. (汕頭話讀本之建築)
 p: Handbook_of_the_Swatow_Vernacular/a-building
 date: 2022-11-20 21:38:00

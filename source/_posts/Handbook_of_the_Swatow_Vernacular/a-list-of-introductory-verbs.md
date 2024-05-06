@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / A List of Introductory Verbs (汕頭話讀本之初階動詞列表)
 p: Handbook_of_the_Swatow_Vernacular/a-list-of-introductory-verbs
 date: 2022-11-15 21:43:00

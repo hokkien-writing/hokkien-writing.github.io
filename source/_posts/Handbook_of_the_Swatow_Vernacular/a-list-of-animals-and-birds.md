@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / A list of animals and birds. (汕頭話讀本之動物及鳥類列表)
 p: Handbook_of_the_Swatow_Vernacular/a-list-of-animals-and-birds
 date: 2022-11-20 23:36:00

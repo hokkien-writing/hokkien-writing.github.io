@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / A list of words used in cooking (汕頭話讀本之煮食用語)
 p: Handbook_of_the_Swatow_Vernacular/a-list-of-words-used-in-cooking
 date: 2022-11-20 22:11:00

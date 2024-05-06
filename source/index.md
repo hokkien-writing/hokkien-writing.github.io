@@ -1,8 +1,9 @@
 ---
-title: Map (地圖)
-p: index
+title: 地圖
+toc: false
+permalink: /index.html
+p: /index
 top: 1000
-date: 2024-04-01 20:33:00
 ---
 
 * [English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow (英漢汕頭方言口語詞典)](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)

@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Provisions, fish, vegetables and fruit. (汕頭話讀本之糧魚蔬菓)
 p: Handbook_of_the_Swatow_Vernacular/provisions-fish-vegetables-and-fruit
 date: 2022-11-20 22:19:00

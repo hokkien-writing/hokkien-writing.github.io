@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: 臺灣閩南語常用詞辭典之生養·醫療
 p: holodict/shengyang-yiliao
 date: 2021-05-07 15:59:01

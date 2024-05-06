@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: 臺灣閩南語常用詞辭典之特殊詞類
 p: holodict/teshucilei
 date: 2021-05-07 15:59:01

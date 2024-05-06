@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Religious (汕頭話讀本之宗教)
 p: Handbook_of_the_Swatow_Vernacular/religious
 date: 2022-11-20 23:31:00

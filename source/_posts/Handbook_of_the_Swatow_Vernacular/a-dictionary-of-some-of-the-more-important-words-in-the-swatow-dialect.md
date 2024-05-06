@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / A Dictionary of some of the more important words in the Swatow dialect (汕頭話讀本之一些重要詞彙)
 p: Handbook_of_the_Swatow_Vernacular/a-dictionary-of-some-of-the-more-important-words-in-the-swatow-dialect
 date: 2022-11-20 23:55:00

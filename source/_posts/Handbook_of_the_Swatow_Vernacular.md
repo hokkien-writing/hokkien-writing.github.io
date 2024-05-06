@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular (汕頭話讀本)
 p: Handbook_of_the_Swatow_Vernacular
 top: 101

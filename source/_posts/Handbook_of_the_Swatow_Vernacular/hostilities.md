@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Hostilities (汕頭話讀本之戰爭)
 p: Handbook_of_the_Swatow_Vernacular/hostilities
 date: 2022-11-20 23:30:00

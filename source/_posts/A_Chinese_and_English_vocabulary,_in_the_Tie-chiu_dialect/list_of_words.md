@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: A Chinese and English vocabulary, in the Tie-chiu dialect
  (漢英潮州方言字典) / List of Words
 p: A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/list_of_words

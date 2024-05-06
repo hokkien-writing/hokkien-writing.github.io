@@ -1,4 +1,5 @@
 ---
+hiden: true
 title: Handbook of the Swatow Vernacular / Human body &c. (汕頭話讀本之人體)
 p: Handbook_of_the_Swatow_Vernacular/human-body
 date: 2022-11-20 21:44:00
