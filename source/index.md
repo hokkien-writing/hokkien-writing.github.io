@@ -1,5 +1,5 @@
 ---
-title: 地圖
+title: 歡迎到此
 toc: false
 permalink: /index.html
 p: /index

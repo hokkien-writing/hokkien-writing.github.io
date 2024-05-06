@@ -14,10 +14,10 @@ tags:
 
 ## Index.
 
-* [Introduction.(介紹)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect)
-* [CONTENTS.(內容)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/contents)
-* [Table of radicals.(部首表)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/table_of_radicals)
-* [List of words.(詞列)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/list_of_words)
+* [Introduction.(介紹)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/)
+* [CONTENTS.(內容)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/contents/)
+* [Table of radicals.(部首表)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/table_of_radicals/)
+* [List of words.(詞列)](/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect/list_of_words/)
 
 ---
 
