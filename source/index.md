@@ -1,6 +1,6 @@
 ---
-title: 歡迎行入閩南語其世界
-date: 2024-05-08 20:11:00
+title: 頭頁
+date: 2024-05-09 06:44:55
 source: https://github.com/hokkien-writing/reference
 ---
 

@@ -4,7 +4,7 @@ import requests
 import datetime
 
 header = f"""---
-title: 歡迎行入閩南語其世界
+title: 頭頁
 date: { datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') }
 source: https://github.com/hokkien-writing/reference
 ---
