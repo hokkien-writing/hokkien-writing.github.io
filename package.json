@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "cp _config.yml  _config.tmp.yml && cp _config.search.yml _config.yml && hexo generate && mv public/search.xml . && mv _config.tmp.yml  _config.yml && hexo generate &&  mv ./search.xml public/search.xml",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server"
@@ -24,7 +24,8 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^0.0.3"
+    "hexo-theme-landscape": "^0.0.3",
+    "yaml": "^2.4.2"
   },
   "devDependencies": {
     "object-assign": "^4.1.1"
