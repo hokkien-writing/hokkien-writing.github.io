@@ -1,10 +1,11 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 import requests
+import datetime
 
-header = """---
-title: 參考資料
-date: 2022-12-04 15:43:00
+header = f"""---
+title: 歡迎行入閩南語其世界
+date: { datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') }
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -20,10 +21,10 @@ lines = content.split("\n")
 lines = lines[1:]
 
 modified_lines = [
-    line.replace("/book", "https://raw.githubusercontent.com/hokkien-writing/reference/main/book")
+    line.replace("/book", "https://github.com/hokkien-writing/reference/blob/main/book")
     for line in lines
 ]
 
-with open("source/reference.md", 'w', encoding='utf-8') as f:
+with open("source/index.md", 'w', encoding='utf-8') as f:
     f.write(header)
     f.write("\n".join(modified_lines))
