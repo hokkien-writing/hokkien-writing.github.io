@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2024-05-09 06:44:55
+date: 2024-05-12 23:14:59
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -12,7 +12,7 @@ source: https://github.com/hokkien-writing/reference
 * Ūn-luī 韻彙 [官網 🔍](https://unlui.enatsu.top/)
 * ChhoeTaigi 找台語 [官網 🔍](https://chhoe.taigi.info/)
 * 臺語萌典 [官網 🔍🗣️](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E)
-* 臺灣閩南語常用詞辭典 [官網 📖🗣️](https://sutian.moe.edu.tw/zh-hant/) | [Hokkien-writing 📖](https://hokkien-writing.github.io/holodict/) 
+* 臺灣閩南語常用詞辭典 [官網 📖🗣️](https://sutian.moe.edu.tw/zh-hant/) | [本站 📖](https://hokkien-writing.github.io/holodict/) 
 * 甘字典查詢 [官網 🔍](http://taigi.fhl.net/dick/index.html)
 * 廈英大辭典 [官網 🔍](https://minhakka.ling.sinica.edu.tw/bkg/chong-su-tian.php)
 * 台語辭典(台日大辭典台語譯本) [官網 🔍🗣️](http://minhakka.ling.sinica.edu.tw/taijittian/) 
@@ -67,10 +67,10 @@ source: https://github.com/hokkien-writing/reference
 * 1873, Carstairs Douglas(杜嘉德).《廈英大辭典》(Chinese-English Dictionary of Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects)
 	* 1923, Thomas Barclay(巴克禮).《增補廈音大辭典》(Supplement to Dictionary of the Vernacular or
 Spoken Amoy.) [互聯網檔案館 📖](https://archive.org/details/chineseenglish00doug) | [Google Books 📖](https://www.google.comhttps://github.com/hokkien-writing/reference/blob/main/books/edition/Chinese_English_Dictionary_of_the_Vernac/KoNkAAAAMAAJ) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/Chinese-English_Dictionary_of_the_Vernacular_Or_Spoken_Language_of_Amoy_Supplement.pdf)
-* 1883, Rudolf Lechler([德]黎力基), Samuel Wells Williams([美]衛三畏), William Duffus([英]卓威廉).《英漢汕頭方言口語詞典》(English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow) [Hokkien-writing 📖](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource 📖](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)
-* 1883, Josiah Goddard([美]高德, 哥達德).《漢英潮州方言字典》(A Chinese and English vocabulary, in the Tie-chiu dialect) [Hokkien-writing 📖](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)
-* 1883, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《汕頭方言音義字典》(A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones) [Hokkien-writing 📖](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)
-* 1886, Lim Hiong Seng([新加坡]林雄成).《汕頭話讀本》(Handbook of the Swatow Vernacular) [Hokkien-writing 📖](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource 📖](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/Handbook_of_the_Swatow_Vernacular.pdf)
+* 1883, Rudolf Lechler([德]黎力基), Samuel Wells Williams([美]衛三畏), William Duffus([英]卓威廉).《英漢汕頭方言口語詞典》(English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow) [本站 📖](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource 📖](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow.pdf)
+* 1883, Josiah Goddard([美]高德, 哥達德).《漢英潮州方言字典》(A Chinese and English vocabulary, in the Tie-chiu dialect) [本站 📖](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect.pdf)
+* 1883, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《汕頭方言音義字典》(A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones) [本站 📖](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf)
+* 1886, Lim Hiong Seng([新加坡]林雄成).《汕頭話讀本》(Handbook of the Swatow Vernacular) [本站 📖](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource 📖](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/Handbook_of_the_Swatow_Vernacular.pdf)
 * 1871, Baldwin, C. C. (Caleb Cook).《榕腔初學撮要》(A Manual of the Foochow Dialect) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990058288570203941) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book//A_Manual_of_the_Foochow_Dialect.pdf)
 * 1908, C. M. S. and A. E. Champness.《福州話入門二十課》(A Manual of the Foochow Dialect In Twenty Lessons) [Wikisource 📖](https://en.wikisource.org/wiki/A_Manual_of_the_Foochow_Dialect_In_Twenty_Lessons) | [PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/A_Manual_of_the_Foochow_Dialect_in_Twenty_Lessons.pdf)
 * 1913, William Campbell(甘爲霖).《廈門音新字典》(A Dictionary of the Amoy Vernacular Spoken
@@ -131,6 +131,10 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 * 潮州話拍字方案 [官網](https://github.com/hokkien-writing/rime-teochew)
 * 真鳥囝福州话输入法 [官網](https://www.zingzeu.org/)
 
+## 🧐 研究
+
+* 2010, 潘家懿, 鄭守治.《粵東閩南語的分布及方言片的劃分》[PDF ⬇️](https://github.com/hokkien-writing/reference/blob/main/book/粵東閩南語的分布及方言片的劃分.pdf) 
+
 ## 📝 部落格
 
 * 鹭水芗南－閩南語部落 [官網](https://hokkienese.com)
@@ -142,6 +146,11 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 * Tâi-bûn Pit-hōe 台文筆會 [官網](https://pen.de-han.org/journal/index.htm)
 	* 台文筆會年刊 Taiwanese Pen Annual Selections [官網](https://pen.de-han.org/journal/index.htm)
 	* Tâioânjī 台灣字雙月刊 Taiwanese Scripts [官網](https://pen.de-han.org/taioanji/index.htm)
+* 香港潮汕文化協進會 [官網](https://www.tc-culture.hk/)
+	* 潮州歌冊 [官網](https://www.tc-culture.hk/songbook/index.html)
+	* 潮語課堂 [官網](https://www.tc-culture.hk/lang/index.html)
+	* 潮州文藝 [官網](https://www.tc-culture.hk/art/index.html)
+	* 作田人瑣事 [官網](https://www.tc-culture.hk/farmer/index.html)
 
 ## 🐈 開源項目
 
