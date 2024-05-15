@@ -22,7 +22,7 @@ source: https://github.com/hokkien-writing/reference
 * 潮州音字典 [官網 🔍🗣️](http://www.czyzd.com/) 
 * 講我的名 - 閩南語姓名查詢網站(試用版) [官網 🔍🗣️](https://miasenn.moe.edu.tw/) 
 * 榕典 [官網 🔍🗣️](https://www.ydict.net)
-
+<!--more-->
 ---
 
 * 漢典 [官網 🔍🗣️](https://www.zdic.net/)

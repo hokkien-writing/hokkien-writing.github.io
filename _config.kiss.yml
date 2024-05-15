@@ -2,6 +2,13 @@
 menu:
   頭頁: /
   相輔: https://github.com/hokkien-writing
+  工具冊: 
+    臺灣閩南語常用詞辭典: /holodict
+    汕頭話讀本: /Handbook_of_the_Swatow_Vernacular
+    汕頭方言音義字典: /A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect
+    英漢汕頭方言口語詞典: /English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow
+    漢英潮州方言字典: /A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect
+
 
 # Content
 excerpt_link: 繼續閱讀
@@ -13,9 +20,9 @@ banner: "https://hokkien-writing.github.io/banner.jpg"
 sidebar: right
 widgets:
 # - tip
-- tagcloud
+# - tagcloud
 - recent_posts
-# - category
+- category
 # - qrcode
 # - archive
 
