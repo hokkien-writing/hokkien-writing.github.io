@@ -109,14 +109,3 @@ deploy:
   repository: git@hokkien:hokkien-writing/hokkien-writing.github.io.git
   branch: release
 
-hide_posts:
-  enable: true
-  filter: hiden
-  noindex: false
-  # Generators in the allowlist will have access to the hidden posts.
-  # Common generators in Hexo: 'index', 'tag', 'category', 'archive', 'sitemap', 'feed'
-  allowlist_generators: ['tag','sitemap','feed']
-
-  # Generators in the blocklist can *not* access the hidden posts.
-  # The allowlist has higher priority than the blocklist, if both set.
-  # blocklist_generators: ['index', 'archive']
