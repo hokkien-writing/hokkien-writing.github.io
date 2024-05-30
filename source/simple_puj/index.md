@@ -1,6 +1,6 @@
 ---
 title: 簡明潮州白話字（Simple PUJ）
-date: 2024-05-30 21:45:46
+date: 2024-05-31 00:07:01
 source: https://github.com/hokkien-writing/simple-puj
 ---
 
@@ -110,20 +110,20 @@ source: https://github.com/hokkien-writing/simple-puj
 
 #### 鼻化音
 
-| 韻母 | 大寫 | IPA  | 例字                                   |
-| ---- | ---- | ---- | -------------------------------------- |
-| aiⁿ  | Aiⁿ  | ãĩ   | àiⁿ愛  màiⁿ無愛\|勿                    |
-| auⁿ  | Auⁿ  | ãũ   | mauⁿ包  hàuⁿ好                         |
+| 韻母 | 大寫 | IPA  | 例字                                |
+| ---- | ---- | ---- |-----------------------------------|
+| aiⁿ  | Aiⁿ  | ãĩ   | àiⁿ愛  màiⁿ無愛\|勿                   |
+| auⁿ  | Auⁿ  | ãũ   | mauⁿ包  hàuⁿ好                      |
 | oiⁿ  | Oiⁿ  | õĩ   | ôiⁿ閒  póiⁿ反  koiⁿ間  thóiⁿ睇  hôîⁿ還 |
-| ouⁿ  | Ouⁿ  | õũ   | hóuⁿ虎                                 |
-|      |      |      |                                        |
+| ouⁿ  | Ouⁿ  | õũ   | hóuⁿ虎                             |
+|      |      |      |                                   |
 | iaⁿ  | Iaⁿ  | ĩã   | iáⁿ影  piaⁿ冰  tiāⁿ定  kiaⁿ京  hiaⁿ兄  |
-| ieⁿ  | Ieⁿ  | ĩẽ   | iêⁿ羊  tieⁿ張  kieⁿ薑  hieⁿ鄉          |
-| iuⁿ  | Iuⁿ  | ĩũ   | iùⁿ幼  hiuⁿ休                          |
-|      |      |      |                                        |
+| ieⁿ  | Ieⁿ  | ĩẽ   | iêⁿ羊  tieⁿ張  kieⁿ薑  hieⁿ鄉         |
+| iuⁿ  | Iuⁿ  | ĩũ   | iùⁿ幼  hiuⁿ休                       |
+|      |      |      |                                   |
 | uaⁿ  | Uaⁿ  | ũã   | uàⁿ案  puàⁿ半  tuaⁿ單  kuaⁿ官  huaⁿ歡  |
-| ueⁿ  | Ueⁿ  | ũẽ   | kueⁿ關  kúeⁿ果  hûeⁿ橫                 |
-| uiⁿ  | Uiⁿ  | ũĩ   | kũiⁿ跪  mûiⁿ微                         |
+| ueⁿ  | Ueⁿ  | ũẽ   | mûeⁿ糜 kueⁿ關  kúeⁿ果  hûeⁿ橫         |
+| uiⁿ  | Uiⁿ  | ũĩ   | kũiⁿ跪  mûiⁿ微                      |
 
 #### 入聲
 
