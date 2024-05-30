@@ -4,8 +4,8 @@
 
 # Site
 title: 閩南語書寫
-subtitle: ''
-description: ''
+subtitle: 'HOKKIEN WRITING'
+description: '閩南語 潮州話 廈門話 臺語 漳州話 泉州話 汕頭話 揭陽話 潮汕話 海豐話'
 keywords:
 author: Lim
 language:
@@ -43,14 +43,14 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   auto_detect: false
-  tab_replace: ''
+  tab_replace: '  '
   wrap: true
   hljs: false
 prismjs:
@@ -65,7 +65,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 20
+  per_page: 8
   order_by: -date
 
 # Category & Tag
@@ -88,7 +88,7 @@ updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 20
+per_page: 8
 pagination_dir: page
 
 # Include / Exclude file(s)
@@ -108,3 +108,26 @@ deploy:
   type: git
   repository: git@hokkien:hokkien-writing/hokkien-writing.github.io.git
   branch: release
+
+# Markdown-it config
+## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  plugins:
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-sub
+    - markdown-it-sup
+  # anchors:
+  #   level: 2
+  #   collisionSuffix: 'v'
+  #   permalink: true
+  #   permalinkClass: header-anchor
+  #   permalinkSymbol: "# "
