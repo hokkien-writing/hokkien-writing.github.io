@@ -9,9 +9,9 @@ description: '閩南語 潮州話 廈門話 臺語 漳州話 泉州話 汕頭話
 keywords:
 author: Lim
 language:
-- zh-TW
-- zh-CN
-- en
+  - zh-TW
+  - zh-CN
+  - en
 timezone: 'Asia/Shanghai'
 
 # URL
