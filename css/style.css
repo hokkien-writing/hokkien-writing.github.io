@@ -725,6 +725,9 @@ a.article-title:hover {
   margin-top: 1.6em;
   margin-bottom: 1.6em;
 }
+.article-entry li li {
+  margin-left: 24px;
+}
 .article-entry li img {
   display: inline !important;
 }
@@ -763,7 +766,15 @@ a.article-title:hover {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1em;
   margin: 1.6em 20px;
-  text-align: center;
+  text-align: left;
+}
+.article-entry blockquote ul,
+.article-entry blockquote ol,
+.article-entry blockquote dl {
+  margin-top: 0.5em;
+}
+.article-entry blockquote p {
+  margin: 0;
 }
 .article-entry blockquote footer {
   font-size: 15px;
