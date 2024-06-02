@@ -4945,7 +4945,7 @@ In the list of words, the common sound, or that under which it is arranged in th
 **拔-4** To pull out; eradicate; draw forth.  
 **八4** Eight.  
 
-### Pⁿio.
+### Pⁿoi.
 **板-2** A flat board; a board on which lists are made.  
 **秘3** Blasted grain; tares; small; minute.  
 **稗3** Tares; weeds similar to grain.  
