@@ -23,7 +23,7 @@
     "hexo-renderer-markdown-it": "^7.1.1",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "yaml": "^2.4.2"
+    "yaml": "^2.4.3"
   },
   "devDependencies": {
     "object-assign": "^4.1.1"
