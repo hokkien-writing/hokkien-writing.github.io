@@ -1,6 +1,6 @@
 ---
 title: 潮州話怎呢呾？(beta)
-date: 2024-06-06 23:43:40
+date: 2024-06-08 09:01:40
 source: https://github.com/hokkien-writing/teochew-mandarin
 ---
 
