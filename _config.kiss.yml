@@ -15,6 +15,9 @@ menu:
     漢英潮州方言字典: /A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect
   GitHub: https://github.com/hokkien-writing
 
+# Favicon
+favicon: "favicon.ico"
+favicon_app_touch: "apple-touch-icon.png"
 
 # Content
 excerpt_link: 繼續閱讀
