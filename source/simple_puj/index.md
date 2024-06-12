@@ -1,6 +1,6 @@
 ---
 title: 簡明潮州白話字 (Simple PUJ) 
-date: 2024-06-12 22:49:25
+date: 2024-06-12 22:52:05
 source: https://github.com/hokkien-writing/simple-puj
 ---
 
@@ -9,7 +9,7 @@ source: https://github.com/hokkien-writing/simple-puj
     
 潮州白話字（Tiê-chiu Pe̍h-ūe-jī），簡稱 PUJ，是潮州話（廣義）其羅馬字書寫系統。因其源自十九世紀其教會羅馬字，是故又喊做汕頭教會羅馬字。PUJ 自成系統，書寫簡便，尤其適合無字可寫其情況，是每個呾潮州話其儂居家必備良方。
 
-本冊參考維基百科之[潮州白話字](https://zh.wikipedia.org/wiki/潮州白話字)、徐宇航其《十九世紀的潮州方言音系》以及「潮正會」其《潮州話羅馬字注音方案》，取十九世紀潮州話各類記錄之最大公約數而成，力求簡明易懂，僅供學習參考。若有錯漏，有勞在[Issue頁面](https://github.com/hokkien-writing/simple-puj/issues)登記。
+本冊參考維基百科之[潮州白話字](https://zh.wikipedia.org/wiki/潮州白話字)、徐宇航博士其《十九世紀的潮州方言音系》以及「潮正會」其《潮州話羅馬字注音方案》，取十九世紀潮州話各類記錄之最大公約數而成，力求簡明易懂，僅供學習參考。若有錯漏，有勞在[Issue頁面](https://github.com/hokkien-writing/simple-puj/issues)登記。
 
 ## 聲母
 
