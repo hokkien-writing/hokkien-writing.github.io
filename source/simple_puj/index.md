@@ -1,7 +1,8 @@
 ---
 title: 簡明潮州白話字 (Simple PUJ) 
-date: 2024-06-12 22:52:05
+date: 2024-06-12 23:27:36
 source: https://github.com/hokkien-writing/simple-puj
+dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/simple-puj](https://github.com/hokkien-writing/simple-puj) 相輔修訂。

@@ -4,9 +4,9 @@ menu:
   項目:
     簡明潮州白話字: /simple_puj
     潮州話拍字方案 (beta): /rime_teochew
+    潮州話同音字表 (beta): /teochew_homophone_list
     潮州話詞庫 (beta): /teochew_lexicon
-#    潮州話同音字表 (beta): /teochew_homophone_list
-#    潮州話怎呢呾？(beta): /teochew_mandarin
+  #    潮州話怎呢呾？(beta): /teochew_mandarin
   工具冊:
     臺灣閩南語常用詞辭典: /holodict
     汕頭話讀本: /Handbook_of_the_Swatow_Vernacular
