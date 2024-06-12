@@ -1,6 +1,6 @@
 ---
 title: 簡明潮州白話字 (Simple PUJ) 
-date: 2024-06-08 09:01:39
+date: 2024-06-12 22:49:25
 source: https://github.com/hokkien-writing/simple-puj
 ---
 
@@ -255,7 +255,6 @@ source: https://github.com/hokkien-writing/simple-puj
 ### 大寫
 
 1. 句首字母大寫。
-
 2. 專有名詞首字母大寫。
 
 ### 連接
