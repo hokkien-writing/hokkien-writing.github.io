@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2024-06-12 23:27:36
+date: 2024-06-12 23:37:45
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -81,7 +81,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |ph| ① pho 陂   ② phó 頗{颇}   ④ phoh 粕   ⑤ phô 繁   ⑥ phõ 抱  |
 |b| ② bó 拇 母   ⑤ bô 亡 無{无} 毋   ⑦ bō 帽 磨  |
 |m| ② mó 孬   ④ moh 麼{么}   ⑤ mô 毛 摸 摹 蘑 模 摩 魔   ⑥ mõ 墓 暮 幕 募 慕   ⑦ mō 麼{么} 望   ⑧ mo̍h 膜 漠  |
-|t| ① to 刀 哆 多   ② tó 倒`(拍~/phah-~)` 短 朵   ③ tò 戴 倒`(~茶/~-tê)` 地   ④ toh 卓 桌 琢 啄 棹   ⑤ tô 垛 躲 朵 剁 逃 淘   ⑥ tõ 跺 在   ⑦ tō 代`(古~/kú-~)` 袋   ⑧ to̍h 掇 奪{夺} 擇{择} 着  |
+|t| ① to 刀 哆 多   ② tó 倒`(拍~/phah-~)` 短 朵   ③ tò 戴 倒`(~茶/~-tê)` 地   ④ toh 卓 桌 琢 啄 棹   ⑤ tô 垛 躲 朵 剁 逃 淘   ⑥ tõ 跺 在   ⑦ tō 代`(古~/kóu-~)` 袋   ⑧ to̍h 掇 奪{夺} 擇{择} 着  |
 |th| ① tho 胎 推   ② thó 討{讨} 橢{椭} 妥   ③ thò 蛻{蜕} 褪 退   ④ thoh 魄 托`(~舉/~-kṳ́)` 託{托}`(委~/úi-~,拜~/pài-~)`   ⑤ thô 萄 桃 鴕{鸵} 陀 馱{驮}   ⑥ thõ 唾   ⑧ tho̍h 駝{驼}  |
 |n| ③ nò 努 怒 懦 糯 駑{驽}   ⑤ nô 娜 挪   ⑥ nõ 二 貳{贰} 兩{两}   ⑦ nō 怒  |
 |l| ② ló 裹 顆{颗} 潦 裸 腦{脑} 惱{恼}   ⑤ lô 牢 蘿{萝} 螺 羅{罗} 邏{逻} 鑼{锣} 籮{箩} 騾{骡} 囉{啰} 醪   ⑦ lō 咯   ⑧ lo̍h 落 駱{骆}  |
@@ -816,7 +816,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 | | ① ng 秧   ② ńg 尹   ⑤ n̂g 黃{黄} 磺  |
 |p| ① png 方   ⑦ pn̄g 飯{饭}  |
 |m| ② mńg 晚   ⑤ mn̂g 門{门} 們{们}   ⑦ mn̄g 問{问}  |
-|t| ① tng 當{当}`(~家/~-ke)`   ② tńg 轉{转}   ③ tǹg 擋{挡}`(摒~/pín-~)` 頓{顿} 當{当}`(安步~車/an-pōu-~-chhia)`   ⑤ tn̂g 長{长}`(~短/~-tó)` 腸{肠}`(~粉/~-hún)` 塘 堂 唐   ⑥ tñg 斷{断} 丈   ⑦ tn̄g 傳{传}`(古~/kú-~)` 段 緞{缎}  |
+|t| ① tng 當{当}`(~家/~-ke)`   ② tńg 轉{转}   ③ tǹg 擋{挡}`(摒~/pín-~)` 頓{顿} 當{当}`(安步~車/an-pōu-~-chhia)`   ⑤ tn̂g 長{长}`(~短/~-tó)` 腸{肠}`(~粉/~-hún)` 塘 堂 唐   ⑥ tñg 斷{断} 丈   ⑦ tn̄g 傳{传}`(古~/kóu-~)` 段 緞{缎}  |
 |th| ① thng 湯{汤}   ③ thǹg 燙{烫} 褪   ⑤ thn̂g 糖   ⑦ thn̄g 捅  |
 |n| ② nńg 女 軟{软}   ③ nǹg 鑽{钻}   ⑤ nn̂g 郎 瓤   ⑥ nñg 卵   ⑦ nn̄g 浪  |
 |ts| ① tsng 贓{赃} 磚{砖} 莊{庄} 裝{装}   ② tsńg 指   ③ tsǹg 葬 鑽{钻} 圳   ⑦ tsn̄g 狀{状} 旋  |
