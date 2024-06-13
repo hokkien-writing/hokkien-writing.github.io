@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2024-06-13 22:49:08
+date: 2024-06-13 22:55:49
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -118,7 +118,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 | |ṳ / ṳh|
 |-|----|
-| | ① ṳ 于`(~右任/~-iũ-jĩm)` 於{于}`(屬~/so̍k-~)`   ② ṳ́ 予 與{与}   ③ ṳ̀ 淤 翳   ⑤ ṳ̂ 輿{舆} 予 余 餘{余}`(剩~/sīn-~,~數/~-siàu)`   ⑥ ṳ̃ 與{与} 譽{誉} 預{预} 豫   ⑦ ṳ̄ 與{与}  |
+| | ① ṳ 于`(~右任/~ iũ-jĩm)` 於{于}`(屬~/so̍k-~)`   ② ṳ́ 予 與{与}   ③ ṳ̀ 淤 翳   ⑤ ṳ̂ 輿{舆} 予 余 餘{余}`(剩~/sīn-~,~數/~-siàu)`   ⑥ ṳ̃ 與{与} 譽{誉} 預{预} 豫   ⑦ ṳ̄ 與{与}  |
 |t| ① tṳ 豬{猪}   ⑤ tṳ̂ 鋤{锄}`(~頭/~-thâu)` 除  |
 |l| ② lṳ́ 汝   ⑤ lṳ̂ 勞{劳} 驢{驴} 閭{闾}   ⑥ lṳ̃ 呂{吕} 鋁{铝} 侶{侣} 慮{虑} 濾{滤}  |
 |ts| ① tsṳ 書{书} 芝 之 茲{兹} 諮{咨} 資{资} 姿 滋 淄 孜 孳 齎{赍} 輜{辎} 鷀{鹚}   ② tsṳ́ 煮 仔 籽 子   ③ tsṳ̀ 漬{渍} 恣   ⑤ tsṳ̂ 薯   ⑥ tsṳ̃ 自  |
