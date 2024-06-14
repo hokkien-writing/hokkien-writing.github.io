@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2024-06-14 19:59:53
+date: 2024-06-14 22:34:36
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -169,7 +169,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |ch| ① chiⁿ 氏 支`(~持/~-thî)` 吱 歧 肢 脂 薦{荐} 氈{毡}   ② chíⁿ 稚   ③ chìⁿ 煎 箭 擠{挤}   ⑤ chîⁿ 錢{钱} 薺{荠}  |
 |chh| ① chhiⁿ 鮮{鲜}   ⑤ chhîⁿ 尋{寻}  |
 |s| ③ sìⁿ 扇`(紙~/tsuá-~)`  |
-|k| ③ kìⁿ 見{见}   ⑤ kîⁿ 舷 墘  |
+|k| ③ kìⁿ 見{见}   ⑤ kîⁿ 舷 墘`(海~/hái-~)`  |
 |kh| ⑤ khîⁿ 鉗{钳}  |
 |h| ⑤ hîⁿ 弦 舷   ⑥ hĩⁿ 耳  |
 
@@ -286,7 +286,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |p| ① pie 標{标} 錶{表}`(手~/chhiú-~)`   ② pié 表`(~兄/~-hiaⁿ)`   ③ piè 漂  |
 |ph| ③ phiè 票   ⑤ phiê 萍  |
 |b| ⑤ biê 描 瞄   ⑦ biē 廟{庙}  |
-|t| ⑤ tiê 潮   ⑧ tie̍h 着  |
+|t| ⑤ tiê 潮`(~州/~-chiu)`   ⑧ tie̍h 着  |
 |th| ① thie 挑   ③ thiè 糶{粜}  |
 |n| ② nié 兩{两}  |
 |l| ⑤ liê 撈{捞}  |
@@ -329,7 +329,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |th| ① thua 拖   ④ thuah 獺{獭}  |
 |l| ④ luah 烙   ⑤ luâ 籮{箩}   ⑦ luā 賴{赖}   ⑧ lua̍h 辣`(芥~/kài-~)` 閱{阅}  |
 |ts| ① tsua 抓 撾{挝}   ② tsuá 紙{纸}   ⑤ tsuâ 蛇   ⑧ tsua̍h 絀{绌}  |
-|tsh| ② tshuá 歪   ③ tshuà 蔡   ⑦ tshuā 娶  |
+|tsh| ② tshuá 歪   ③ tshuà 蔡   ⑦ tshuā 𤆬 娶  |
 |s| ① sua 沙 砂 鯊{鲨}   ② suá 徙   ④ suah 殺{杀} 宿 煞 撒  |
 |z| ⑧ zua̍h 熱{热}  |
 |k| ① kua 柯 歌   ② kuá 剮{剐} 寡   ③ kuà 旰 掛{挂} 蓋{盖} 褂   ④ kuah 割 葛 渴 噶  |
@@ -361,7 +361,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 | |ui|
 |-|----|
-| | ① ui 衣 威 醫{医}   ② úi 委 韋{韦} 萎 偉{伟} 葦{苇} 渭 緯{纬} 韙{韪}   ③ ùi 謂{谓}   ⑤ ûi 韋{韦} 桅 違{违} 圍{围} 爲{为}   ⑥ ũi 謂{谓}   ⑦ ūi 位 胃  |
+| | ① ui 衣 威 醫{医}   ② úi 委 韋{韦} 萎 偉{伟} 葦{苇} 渭 煒{炜} 緯{纬} 韙{韪}   ③ ùi 謂{谓}   ⑤ ûi 韋{韦} 桅 違{违} 圍{围} 爲{为}   ⑥ ũi 謂{谓}   ⑦ ūi 位 胃  |
 |p| ① pui 卑 悲 壞{坏}   ⑤ pûi 肥   ⑦ pūi 吠  |
 |ph| ② phúi 呸 啡   ③ phùi 屁 啡  |
 |m| ② múi 美 鎂{镁}   ⑤ mûi 微  |
@@ -715,7 +715,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |ph| ② phóng 捧 搿   ③ phòng 碰   ④ phok 仆`(前~後繼/tsôiⁿ-~-ãu-kì)` 朴`(~樹/~-chhiū)` 撲{扑} 樸{朴}`(~素/~-sù)` 爆   ⑤ phông 蓬 縫{缝} 篷 鵬{鹏}  |
 |m| ② móng 某 晚   ③ mòng 貿{贸}   ⑤ mông 芒 摸 蒙`(~古/~-kóu,啟~/khí-~,~難/~-lān)` 謀{谋} 濛{蒙}`(~煙/~-in)` 檬 朦`(~朧/~-lông)` 矇{蒙}`(~矓/~-lông,~騙/~-phièn)` 蠓   ⑥ mõng 茂 舞   ⑧ mo̍k 木 沒{没} 沐 牧 疫 莫 漠 寞 睦 穆  |
 |t| ① tong 中 冬 東{东} 忠   ② tóng 董 懂   ③ tòng 中 凍{冻} 疼 棟{栋}   ④ tok 斫{斲}`(~斷/~-tñg)` 督 築{筑}   ⑥ tõng 仲 重 動{动}   ⑧ to̍k 毒 逐 獨{独} 篤{笃} 犢{犊}  |
-|th| ① thong 通   ② thóng 捅 統{统} 寵{宠}   ③ thòng 痛   ④ thok 禿{秃}   ⑤ thông 仝 彤 侗 恫 洞 桐 童 衕{同}`(衚~/hû-~)` 酮 幢`(~幡/-~huan)` 瞳   ⑦ thōng 洞  |
+|th| ① thong 通`(~身/~-sin)`   ② thóng 捅 統{统} 寵{宠}   ③ thòng 痛   ④ thok 禿{秃}   ⑤ thông 仝 彤 侗 恫 洞 桐 童 衕{同}`(衚~/hû-~)` 酮 幢`(~幡/-~huan)` 瞳   ⑦ thōng 洞  |
 |l| ② lóng 壟{垄} 攏{拢} 籠{笼}   ⑤ lông 隆 農{农} 窿 濃{浓} 膿{脓} 朧{胧} 矓{眬} 囊   ⑥ lõng 弄   ⑧ lo̍k 洛 烙 陸{陆}`(~續/~-so̍k)` 祿{禄} 絡{络} 貉 酪 碌 磊 戮 骼 錄{录} 駱{骆} 麓  |
 |ts| ① tsong 宗 終{终} 綜{综} 蹤{踪}   ② tsóng 種{种} 總{总}   ③ tsòng 衆{众} 縱{纵}   ④ tsok 足 祝 屬{属} 囑{嘱} 矚{瞩}   ⑧ tso̍k 族 粥 簇  |
 |tsh| ① tshong 匆 充 囪{囱} 忡 沖{冲}`(~茶/~ tê,相~/siang-~)` 衷 蔥{葱} 種{种} 衝{冲}`(~擊/~-khek,要~/iàu-~)` 聰{聪}   ③ tshòng 衝{冲}`(~勁/~-kèⁿ)`   ④ tshok 亍 促 捉 簇 戳 蹴 觸{触} 齬{龉} 矗   ⑤ tshông 崇 從{从}  |
