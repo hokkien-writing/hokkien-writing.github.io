@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2024-06-14 19:54:11
+date: 2024-06-14 19:59:53
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -112,7 +112,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |k| ① ku 佝 咕 孤 辜 駒{驹} 龜{龟}   ② kú 久 古 韭 賈{贾} 蠱{蛊}   ③ kù 句 灸 固 故 顧{顾}   ⑥ kũ 具 舅 懼{惧}   ⑦ kū 故 舊{旧}  |
 |kh| ① khu 丘 邱 拘 區{区} 樞{枢} 軀{躯} 驅{驱}   ④ khuh 窟   ⑥ khũ 臼  |
 |g| ⑤ gû 牛  |
-|h| ① hu 夫 乎 孚 呼 俘 孵 腐 敷 膚{肤}   ② hú 父 缶 府 俯 釜 栩 許{许} 腑   ③ hù 付 咐 赴 訃{讣} 副 傅 賦{赋}   ⑤ hû 扶 芙 和 狐 弧 胡`(~說/~-sueh,~椒/~-chie)` 符 壺{壶} 葫 瑚 蝴 衚{胡}`(~衕/~-thông)` 糊`(~塗/~-thû)`   ⑥ hũ 互 附 阜 負{负} 婦{妇} 酗 瓠 煦 輔{辅} 滬{沪} 駙{驸} 護{护}   ⑦ hū 夫 腐  |
+|h| ① hu 夫 乎 孚 呼 俘 孵 腐 敷 膚{肤}   ② hú 父 缶 府 俯 釜 栩 許{许} 腑   ③ hù 付 咐 赴 訃{讣} 副 傅 賦{赋}   ⑤ hû 扶 芙 和 狐 弧 胡`(~說/~-sueh,~椒/~-chie)` 符 壺{壶} 葫 瑚 蝴 衚{胡}`(~衕/~-thông)` 糊`(~塗/~-thû)`   ⑥ hũ 互 附 阜 負{负} 婦{妇} 酗 瓠 煦 輔{辅}`(相~/sie-~)` 滬{沪} 駙{驸} 護{护}   ⑦ hū 夫 腐  |
 
 ## ṳ / ṳh
 
