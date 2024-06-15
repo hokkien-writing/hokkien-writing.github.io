@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2024-06-14 22:34:36
+date: 2024-06-15 10:06:40
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -251,7 +251,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |l| ② lóu 鹵{卤}`(~鹽/~-iâm)` 惱{恼} 摟{搂} 滷{卤}`(~卵/~-nñg)`   ⑤ lôu 盧{卢} 廬{庐} 爐{炉} 鱸{鲈} 鸕{鸬}   ⑥ lõu 陋   ⑦ lōu 路 露  |
 |ts| ① tsou 租 鄒{邹} 謅{诌}   ② tsóu 祖   ⑥ tsõu 驟{骤}  |
 |tsh| ① tshou 粗   ③ tshòu 湊{凑} 揍 醋   ⑤ tshôu 愁  |
-|s| ① sou 酥 甦{苏}`(~醒/~-chhéⁿ)` 蘇{苏}`(~州/~-chiu)`   ② sóu 艘 擻{擞}  |
+|s| ① sou 酥 甦{苏}`(~醒/~-chhéⁿ)` 蘇{苏}`(~州/~-chiu)`   ② sóu 瘦 艘 擻{擞}  |
 |k| ① kou 估 沽 孤 姑 枯 菇 辜   ② kóu 古 估 苟 股 牯 鼓 嘏   ③ kòu 妒 垢 夠{够} 構{构} 僱{雇} 購{购} 顧{顾}   ⑤ kôu 餬{糊}`(麵線~/mīⁿ-suàⁿ-~)`  |
 |kh| ① khou 呼 枯 箍   ② khóu 苦 許{许}   ③ khòu 庫{库} 寇 蔻 褲{裤}  |
 |g| ⑤ gôu 吳{吴}   ⑦ gōu 誤{误}  |
@@ -565,7 +565,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |l| ② lán 懶{懒}   ⑤ lân 零 闌{阑} 難{难}`(困~/khùn-~)` 攔{拦} 蘭{兰} 瀾{澜} 欄{栏} 鱗{鳞} 讕{谰}   ⑥ lãn 爛{烂}   ⑦ lān 難{难}`(逃~/tô-~)`  |
 |ts| ③ tsàn 棧{栈} 贊{赞}`(~同/~-tâng)` 攢{攒} 讚{赞}`(~嘆/~-thàm,點~/tiám-~)` 鑽{钻}   ④ tsat 節{节}   ⑤ tsân 層{层}   ⑧ tsa̍t 實{实}  |
 |tsh| ① tshan 孱 餐   ② tshán 鏟{铲}`(~平/~-pêⁿ)`   ③ tshàn 燦{灿}   ⑤ tshân 田 殘{残}   ⑥ tshãn 羼  |
-|s| ① san 三 山 刪{删} 珊 柵{栅}   ② sán 瘦   ③ sàn 疝 霰  |
+|s| ① san 三 山 刪{删} 珊 柵{栅}   ② sán 瘦 㾪   ③ sàn 疝 霰  |
 |k| ① kan 干`(天~地支/thiⁿ-~-tī-chiⁿ,無相~/bô-siang-~)` 奸`(~臣/~-chhîn)` 杆`(欄~/lân-~)` 竿 姦{奸}`(強~/khiâng-~)` 乾{干}`(~灱/~-ta,~杯/~-pue)` 間{间}`(中~/tong-~)` 艱{艰}   ② kán 柬 稈{秆} 揀{拣} 澗{涧} 簡{简}   ③ kàn 旰 幹{干}`(樹~/chhiū-~,~部/~-põu,才~/tshâi-~)`   ④ kat 結{结}  |
 |kh| ① khan 刊 牽{牵} 纖{纤}   ③ khàn 看   ⑤ khân 刊  |
 |ng| ② ngán 眼   ③ ngàn 唁   ⑤ ngân 元 言 凝`(~天時/~-thiⁿ-sî)` 顏{颜}   ⑥ ngãn 彥{彦} 雁 諺{谚} 贗{赝}  |
@@ -616,7 +616,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 | |ṳn / ṳt|
 |-|----|
-| | ① ṳn 恩   ② ṳ́n 隱{隐}  |
+| | ① ṳn 恩   ② ṳ́n 尹 隱{隐}  |
 |k| ① kṳn 巾 斤 均 根 筋 鈞{钧} 跟   ② kṳ́n 僅{仅} 謹{谨}   ③ kṳ̀n 靳   ⑤ kṳ̂n 凝`(油~~/iû-~-~)`   ⑥ kṳ̃n 近  |
 |kh| ④ khṳt 乞   ⑤ khṳ̂n 芹 勤  |
 |ng| ④ ngṳt 吃`(~驚/~-kiaⁿ)` 迄 屹 疙 訖{讫}   ⑤ ngṳ̂n 靳 銀{银}  |
@@ -813,7 +813,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 | |ng / ngh1|
 |-|----|
-| | ① ng 秧   ② ńg 尹   ⑤ n̂g 黃{黄} 磺  |
+| | ① ng 秧   ⑤ n̂g 黃{黄} 磺  |
 |p| ① png 方   ⑦ pn̄g 飯{饭}  |
 |m| ② mńg 晚   ⑤ mn̂g 門{门} 們{们}   ⑦ mn̄g 問{问}  |
 |t| ① tng 當{当}`(~家/~-ke)`   ② tńg 轉{转}   ③ tǹg 頓{顿} 當{当}`(安步~車/an-pōu-~-chhia)` 擋{挡}`(摒~/pín-~)`   ⑤ tn̂g 長{长}`(~短/~-tó)` 唐 堂 腸{肠}`(~粉/~-hún)` 塘   ⑥ tñg 丈 斷{断}   ⑦ tn̄g 段 傳{传}`(古~/kóu-~)` 緞{缎}  |
