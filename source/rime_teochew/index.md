@@ -1,6 +1,6 @@
 ---
 title: 潮州話拍字方案 (beta)
-date: 2024-06-16 15:27:29
+date: 2024-06-16 15:29:51
 source: https://github.com/hokkien-writing/rime-teochew
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -78,7 +78,7 @@ Linux系統其就免加句囉，參考 [RIME官網](https://rime.im/download/) �
 
 若手機是蘋果系統(IOS)，推薦「[倉輸入法](https://apps.apple.com/cn/app/仓输入法/id6446617683)」，安裝後按照下底視頻配置。
 
-📀 視頻可往 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) 查睇。
+📀 視頻可往 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) | [阿里雲盤](https://www.alipan.com/s/UpgDQ19iLSi)  查睇。
 
 若是不便，也可微信掃碼關注下底視頻號來睇。
 
