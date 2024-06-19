@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2024-06-16 15:57:00
+date: 2024-06-19 20:29:12
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -144,13 +144,13 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 > 2. [漢典](https://www.zdic.net/ts/fulu/2019/05/12.html)
 > 3. [如何在计算机中显示所有汉字](https://keqingrong.cn/blog/2019-10-01-how-to-display-all-chinese-characters-on-the-computer/)
 
-* 花園明朝, 宋體, 11萬余漢字, [字形維基](http://zht.glyphwiki.org/wiki/GlyphWiki:首頁), 開源免費 [官方 ⬇️](https://glyphwiki.org/hanazono/hanazono-20170904.zip) | [微軟雲盤⬇️](https://1drv.ms/f/s!AgqX3Jd3VLa4gSAG3YRatPI65c8L?e=TEtm5Z)
+* 花園明朝, 宋體, 11萬余漢字, [字形維基](http://zht.glyphwiki.org/wiki/GlyphWiki:首頁), 開源免費 [官方 ⬇️](https://glyphwiki.org/hanazono/hanazono-20170904.zip) | [微軟雲盤⬇️](https://1drv.ms/f/s!AgqX3Jd3VLa4gSAG3YRatPI65c8L?e=TEtm5Z) | [騰訊微雲⬇️](https://share.weiyun.com/CyMxuyu5)
   * HanaMinA.ttf, 支持 CJK基本區到擴展 A區及增補其字計共 51,991字
   * HanaMinB.ttf, 支持 CJK 擴展 B區到擴展 F區計共 60,317字
-* BabelStone Han, 宋體, 12萬余漢字, Andrew C. West(魏安),  [Arphic Public License](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)  [微軟雲盤⬇️](https://1drv.ms/f/s!AgqX3Jd3VLa4gSAG3YRatPI65c8L?e=TEtm5Z)
+* BabelStone Han, 宋體, 12萬余漢字, Andrew C. West(魏安),  [Arphic Public License](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE) | [微軟雲盤⬇️](https://1drv.ms/f/s!AgqX3Jd3VLa4gSAG3YRatPI65c8L?e=TEtm5Z) | [騰訊微雲⬇️](https://share.weiyun.com/CyMxuyu5)
   * BabelStoneHan.ttf, 支持 CJK基本區到擴展 I區及兼容字計共 57,700 字, [官方 ⬇️](https://www.babelstone.co.uk/Fonts/Download/BabelStoneHan.zip)
   * BabelStoneHanPUA.ttf, 支持 PUA私人使用區 65,535 字, [官方 ⬇️](https://www.babelstone.co.uk/Fonts/Download/BabelStoneHanPUA.ttf)
-* 开心宋体,  宋體, [國學大師](https://www.guoxuedashi.net/), 20萬余漢字, [官方 ⬇️](https://www.guoxuedashi.net/zidian/bujian/KaiXinSong.php)| [微軟雲盤⬇️](https://1drv.ms/f/s!AgqX3Jd3VLa4gSAG3YRatPI65c8L?e=TEtm5Z)
+* 开心宋体,  宋體, [國學大師](https://www.guoxuedashi.net/), 20萬余漢字, [官方 ⬇️](https://www.guoxuedashi.net/zidian/bujian/KaiXinSong.php)| [微軟雲盤⬇️](https://1drv.ms/f/s!AgqX3Jd3VLa4gSAG3YRatPI65c8L?e=TEtm5Z) | [騰訊微雲⬇️](https://share.weiyun.com/CyMxuyu5)
   * KaiXinSongA.ttf, CJK基本區到擴展 A區及兼容字
   * KaiXinSongB.ttf, 支持 CJK擴展 B區到擴展 I區
 * 中华书局宋体, 宋體, 15萬余漢字, 北京北大方正電子有限公司與古聯公司共同所有, 僅限籍合網用戶使用 [官方 ⬇️](https://www.ancientbooks.cn/downloadFile?downType=fontFile)
