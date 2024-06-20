@@ -1,6 +1,6 @@
 ---
 title: 同文輸入法伴潮州話拍字方案
-date: 2024-06-20 21:07:40
+date: 2024-06-20 21:45:18
 source: https://github.com/hokkien-writing/trime-with-teochew
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -27,6 +27,9 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ## 下載
 
 現在大家儂哩快活(khuàⁿ-ua̍h)了，只要在 [騰訊微雲](https://share.weiyun.com/yxVJfsN7) 、 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk)  或者 [GitHub Release](https://github.com/hokkien-writing/trime-with-teochew/releases) 下載同文輸入法潮州話定製版，然後按照下底視頻方式安裝即用。
+
+> <img src="assets/微信視頻號-不輟集.jpeg" height="250"><br/>
+> 微信視頻號《不輟集》
 
 ## 拍包
 
