@@ -24,7 +24,7 @@ date: 2022-11-20 23:02:00
 * 【斷氣】(Tñg-khùi) To expire.
 * 【頭壳痛】(Thâu-khak thiàⁿ) -
 * 【頭壳眩】(Thâu-khak hîn) Headache.
-* 【人![](https://glyphwiki.org/glyph/u24360.50px.png) 人熱】(Nâng zuáh) -
+* 【人熱】(Nâng zuáh) -
 * 【發燒】(Huat-sie) Fever.
 * 【畏冷】(Uì-chhìn) Ague.
 * 【發燒畏冷】(Huat-sie ùi-chhìn) Fever and ague.

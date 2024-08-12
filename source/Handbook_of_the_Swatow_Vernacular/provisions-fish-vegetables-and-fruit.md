@@ -115,7 +115,7 @@ date: 2022-11-20 22:19:00
 * 【Shrimps】(Hê) 蝦
 * 【Lobster】(Lêng-hê) 龍蝦
 * 【Shell-fish】(Lô) 螺
-* 【Turtle】(Hang-ku) 魴![](https://glyphwiki.org/glyph/u2ce9e@11.50px.png)(⿱⺈黾) 魴龜
+* 【Turtle】(Hang-ku) 魴⿱⺈黾 魴龜
 * 【Oysters】(Ô) 蠔
 * 【Cockles】(Ham) 蚶
 * 【Dried salt fish】(Hṳ̂-kuaⁿ, hṳ̂-póu) 魚干　魚脯

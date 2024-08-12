@@ -25,7 +25,7 @@ date: 2022-11-20 23:22:00
 * 【烏布】(Ou-pòu) Black cloth.
 * 【青布】(Chhíⁿ-pòu) Blue cloth.
 * 【膠𤿤】(Ka-pùa) Cotton cloth.
-* 【![](https://glyphwiki.org/glyph/u24360.50px.png)布 熱布】(Zuáh-pòu) Grass cloth.
+* 【熱布】(Zuáh-pòu) Grass cloth.
 * 【樹皮】(Chhiū-phûe) Holland.
 * 【花布】(Hue-pòu) Chintz.
 * 【蔴布】(Mûaⁿ-pòu) Sack-cloth.
@@ -191,7 +191,7 @@ date: 2022-11-20 23:22:00
 * 【尺】(Chhieh) A measure.
 * 【布尺】(Pòu-chhieh) A tape-line, or cloth measure.
 * 【縫】(Thīⁿ) To sew.
-* 【![](https://glyphwiki.org/glyph/u260a7@17.50px.png)(⿰糸郎)】(Nn̂g) To stitch.
+* 【⿰糸郎】(Nn̂g) To stitch.
 * 【摺痕】(Chih-tsūe) To them.
 * 【剪】(Ka) To cut with scissors.
 * 【做衫褲】(Tsò-saⁿ-khòu) To make clothes.

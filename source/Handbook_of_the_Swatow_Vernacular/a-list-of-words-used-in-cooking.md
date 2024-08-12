@@ -47,7 +47,7 @@ date: 2022-11-20 22:11:00
 * 【冇】(Phàⁿ) Porous, soft.
 * 【參】(Tsham) To mix.
 * 【擾】(chhiou) To stir.
-* 【![](https://glyphwiki.org/glyph/u2bfa3@6.50px.png)(⿰高支) 敲】(Khau) To scrape; to scratch.
+* 【⿰高支 敲】(Khau) To scrape; to scratch.
 * 【剝皮】(Pak-phûe) To peel, as skin.
 * 【舂】(Cheng) To pound.
 * 【試】(Chhì) To taste, to try.
@@ -60,7 +60,7 @@ date: 2022-11-20 22:11:00
 * 【淡】(Chiáⁿ) Insipid or tasteless.
 * 【苦】(Khóu) Bitter.
 * 【辣】(Hiam) Pungent.
-* 【![](https://glyphwiki.org/glyph/u24360.50px.png) 熱】(Jiét) Hot, like ginger.
+* 【熱】(Jiét) Hot, like ginger.
 * 【香】(Phang) Fragrant, nice, well-flavoured.
 * 【甘】(Kam) Sour and sweet, like olives.
 * 【澁】(Siap) Bitter and sour, like unripe fruit.

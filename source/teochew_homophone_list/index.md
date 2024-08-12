@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2024-06-15 10:06:40
+date: 2024-06-20 21:52:30
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---

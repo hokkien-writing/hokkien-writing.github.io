@@ -34,7 +34,7 @@ date: 2022-11-20 23:36:00
 * 【Sparrow】(MÛaⁿ-chiah-chióu) 麻隻鳥
 * 【Pigeon】(Hún-chióu) 粉鳥
 * 【Butterfly】(Búe-iáh) 蝴蝶
-* 【Dragon-fly】(Sua-meⁿ) 沙![](https://glyphwiki.org/glyph/u272ce@8.50px.png)(⿰虫里)
+* 【Dragon-fly】(Sua-meⁿ) 沙⿰虫里
 * 【Grasshopper】(Tsháu-méⁿ) 草蟒
 * 【Bee】(Phang) 蜂
 * 【Buffalo】(Tsúi-gû) 水牛

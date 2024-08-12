@@ -42,13 +42,13 @@ date: 2022-11-20 21:38:00
 * 【樓頂樓枋亦是如是】(Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ) The floor up-stairs the same.
 * 【每個禮拜着洗清潔清潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
 * 【灰埕亦着洗】(Hue-tiâⁿ iā tiéh sói) The lime floor must be washed.
-* 【此處無明朝早![](https://glyphwiki.org/glyph/u24360.50px.png)在 熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
+* 【此處無明朝早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
 * 【我要作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
 * 【爾呌司阜霎時來】(Lṳ́ kiè sai-pẽ khiã-tiām lâi) You tell the carpenter to come bye-and-bye.
 * 【共伊呾我此處要作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
 * 【司阜個內在何處爾知否】(Sai-pẽ kâi lãi tõ tî-kò lṳ́ tsai mē?) Do you know where the carpenter's place is?
 * 【知亞】(Tsai--a) Oh yes, I know.
-* 【![](https://glyphwiki.org/glyph/u24360.50px.png)在 熱在。我霎時正來去】(Zuáh-tsãi, uá khiã-tiām chiàⁿ-lâi-khṳ̀) It is very warm (now), I will go bye-and-bye.
+* 【熱在。我霎時正來去】(Zuáh-tsãi, uá khiã-tiām chiàⁿ-lâi-khṳ̀) It is very warm (now), I will go bye-and-bye.
 
 ### section II.
 
@@ -90,7 +90,7 @@ date: 2022-11-20 21:38:00
 * 【此携去藏房貯貨房】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
 * 【窓閉玻璃免用閉】(Theng kueⁿ, po-lî mín-ēng kueⁿ) Shut the window, you needn't shut the glass.
 * 【若是有雨鱟伯策就着閉】(Naⁿ-sĩ ũ hõu hāu-peh-chheh chiũ tiéh-kueⁿ) If there is rain, then shut the venetians.
-* 【要落樓梯勿![](https://glyphwiki.org/glyph/u306c4@1.50px.png)![](https://glyphwiki.org/glyph/u306c5@1.50px.png)(⿰㇇亅⿰亅𡿨)呌】(Àiⁿ-lóh lâu-thui màiⁿ pĩn-põng-kiè[1]) If you are coming down the stair-case, don't make a trampling noise.
+* 【要落樓梯勿⿰㇇亅⿰亅𡿨呌】(Àiⁿ-lóh lâu-thui màiⁿ pĩn-põng-kiè) If you are coming down the stair-case, don't make a trampling noise.
 * 【火爐起火】(Húe-lôu khí-húe) Make a fire in the grate.
 * 【爾去伙食房呌火頭來】(Lṳ́ khṳ̀ húe-sít-pâng kiè húe-thâu lâi) You go to the kitchen, and tell the cook to come.
 

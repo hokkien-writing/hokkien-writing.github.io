@@ -63,7 +63,7 @@ date: 2022-11-20 21:59:00
 * 【是趣味在】(Sĩ tshù-bi̍ tsãi) They are very funny indeed.
 * 【火爐有起火或未】(Húe-lôu ũ khí-húe a-būe?) Have you made a fire in the grate?
 * 【未。我此時正要來起】(Bũ7e, uá chí-tsûn chiàⁿ-àiⁿ lâi-khí) Not yet, I am just going to make one.
-* 【猛猛冷在。火起![](https://glyphwiki.org/glyph/u24360.50px.png)![](https://glyphwiki.org/glyph/u24360.50px.png) 熱熱】(Méⁿ méⁿ chhìn-tsãi, húe-khí jiét-jiét) Look sharp, it is very cold, and make the fire very fierce.
+* 【猛猛冷在。火起熱熱】(Méⁿ méⁿ chhìn-tsãi, húe-khí jiét-jiét) Look sharp, it is very cold, and make the fire very fierce.
 * 【塗炭落多多】(Thôu-thùaⁿ lóh tsōi-tsōi) Put plenty of coals on.
 * 【此領氈携去伯丢塗粉】(Chí-niáⁿ chiⁿ khiéh khṳ̀ pũaⁿ-tiòu thôu-hún) Take this rug and beat off the dust.
 * 【在此好放壹張四方床】(Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g) Here can be put a square table.
@@ -257,8 +257,8 @@ date: 2022-11-20 21:59:00
 * 【竹椅】(Tek-íⁿ) A bamboo seat.
 * 【椅頭】(Íⁿ-thâu) A high stool.
 * 【椅仔】(Íⁿ-kiáⁿ) A little stool.
-* 【![](https://glyphwiki.org/glyph/u309b9@3.50px.png)(⿰石臼)】(Khũ) A mortar.
-* 【![](https://glyphwiki.org/glyph/u309b9@3.50px.png)(⿰石臼)仔】(Khũ-kiáⁿ) A little mortar.
+* 【⿰石臼】(Khũ) A mortar.
+* 【⿰石臼仔】(Khũ-kiáⁿ) A little mortar.
 * 【磨刀石】(Bûa-to-chiéh) Whetstone.
 * 【燈盞】(Teng-chuáⁿ) A Chinese table lamp.
 * 【紙輦燈】(Chúa-luán-teng) A paper spill.

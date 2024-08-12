@@ -16,7 +16,7 @@ date: 2022-11-20 23:49:00
 <!--more-->
 * 【是。爾有要聽零些否】(Sĩ, lṳ́ ũ àiⁿ-thiaⁿ lân-ló mē?) Yes, do you wish to hear me a little?
 * 【我有閑。我來去禮拜堂聽】(Uá ũ-ôiⁿ, uá lâi-khṳ̀ lói-pài-tn̂g thiaⁿ) If I have time, I shall go to the church and hear.
-* 【今日菴埠閙![](https://glyphwiki.org/glyph/u24360.50px.png) 閙熱】(Kíaⁿ-jît Am-pou lãu-jiét) To-day is a festival day in Am-pou.
+* 【今日菴埠閙熱】(Kíaⁿ-jît Am-pou lãu-jiét) To-day is a festival day in Am-pou.
 * 【做弍拾棚戯。共迎老爺】(Tsò jī-tsáp-pêⁿ hì, kah iâⁿ-lãu-iâ) They have twenty theatre stages besides a procession.
 * 【來去遊玩】(Lâi-khṳ̀ thit-thô) Let us go for amusement.
 * 【我要去拜老爺】(Uá àiⁿ-khṳ̀ pài-lãu-iâ) I am going to worship the idol.

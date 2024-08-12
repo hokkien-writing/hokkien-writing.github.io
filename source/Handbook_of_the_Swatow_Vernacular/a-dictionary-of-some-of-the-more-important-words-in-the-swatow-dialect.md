@@ -52,7 +52,7 @@ date: 2022-11-20 23:55:00
 * 【Alas!】(Āi--ā!) 哀哉
 * 【Allow】(Tsún; hàuⁿ; khéng; iòng) 準　好　肯　容
 * 【Almanac】(Láh-jít) 曆日
-* 【Almost】(Tsha-m̄-to; tsha-put-to; hiám-hiám; lím-lím) 差不多　險險　凜凜
+* 【Almost】(Tsha-m̄-to; tsha-put-to; hiám-hiám; lím-lím) 差毋多　差不多　險險　凜凜
 * 【Alms, to give】(Si; chì-phîn) 施　濟貧
 * 【Alms, to give, rice】(Si-bí) 施米
 * 【Alone】(Tuaⁿ-nâng; ka-kī) 單人　自己
@@ -131,7 +131,7 @@ date: 2022-11-20 23:55:00
 * 【Bawl】(Jiáng) 嚷
 * 【Beak】(Chióu-tshùi) 鳥嘴
 * 【Bear, endure】(Nãiⁿ) 奈
-* 【„ when painful or miserable】(Lún; khat-khóu-lún; khat-khóu-nãiⁿ) 忍　刻苦忍
+* 【„ when painful or miserable】(Lún; khat-khóu-lún; khat-khóu-nãiⁿ) 忍　刻苦忍　刻苦耐
 * 【„ cannot】(Nãiⁿ-m̄-khṳ̀; tòng-m̄-tiôu) 忍不去
 * 【Beast】(Khîm-siù) 禽獸
 * 【Beastly】(Tṳ-káu khîm-siù) 猪狗禽獸
@@ -176,7 +176,7 @@ date: 2022-11-20 23:55:00
 * 【Beware】(Tsai-kuan) 知觀
 * 【Bewildered】(Kông-khṳ̀) 迷亂
 * 【Beyond, to go】(Kùe) 過
-* 【Bind】(Pák; khún; hâ) 綁　綑
+* 【Bind】(Pák; khún; hâ) 綁　綑　縖
 * 【„ book】(Kap-tsṳ-chheh) 夾書册
 * 【„ feet】(Tîⁿ-kha) 纏脚
 * 【Birthday】(Seⁿ-jít) 令旦
@@ -187,7 +187,7 @@ date: 2022-11-20 23:55:00
 * 【„ as pepper】(Soh) 束
 * 【Bitter】(Khóu) 苦
 * 【Black】(Ou) 烏
-* 【Blackguard】(Tshàu-nâng; aù-nâng; bô-hē bô-lóh--kâi-nâng) 臭人　爛人
+* 【Blackguard】(Tshàu-nâng; aù-nâng; bô-hē bô-lóh--kâi-nâng) 臭人　爛人　-
 * 【Blacksmith】(Phah-thih) 打鐵
 * 【Bladder】(Jiē-pha; tsúi-pha; lān-pha[2]) 膀胱
 * 【Blade, of a knife】(To-nék) 刀肉
@@ -280,7 +280,7 @@ date: 2022-11-20 23:55:00
 * 【Bright】(Kng) 光
 * 【„ very】(Tãng-tãng-kng) 光光
 * 【Bring】(Khiéh--lâi; tsah--lâi; tūa) 携來　帶來
-* 【Brisk, as trade】(Jiét; lāu-jiét) ![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)　鬧![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)
+* 【Brisk, as trade】(Jiét; lāu-jiét) 熱　鬧熱
 * 【Brittle】(Sou) 酥
 * 【Broad】(Khuah; khùaⁿ) 濶　寛
 * 【Broken】(Phùa) 破
@@ -822,7 +822,7 @@ date: 2022-11-20 23:55:00
 * 【Expenditure】(Só-hùi) 需費
 * 【Expensive】(Kùi; tát-chîⁿ) 貴　値錢
 * 【„ living】(Só-hùi-tūa) 需費大
-* 【Experience】(Sék) ![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)
+* 【Experience】(Sék) 熱
 * 【Expire】(Tñg-khùi; kùe--khṳ̀) 斷氣　過去
 * 【Explain】(Kói-sueh) 攺說
 * 【Explode, as gun-powder】(Tóh-húe) 發火
@@ -834,7 +834,7 @@ date: 2022-11-20 23:55:00
 * 【Faint】(M̄-tsai-nâng; hîn) 不知人　眩
 * 【False】(Ké) 假
 * 【Fame】(Miâⁿ-siaⁿ) 名聲
-* 【Familiar】(Sék) ![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)
+* 【Familiar】(Sék) 熱
 * 【Family】(Ke; ke-kuàn) 家 家眷
 * 【Famine】(Ki-hng) 饑荒
 * 【Famous】(Tshut-miâⁿ) 出名
@@ -865,7 +865,7 @@ date: 2022-11-20 23:55:00
 * 【Ferocious】(Iá) 强
 * 【Festival】(Tsoih) 節
 * 【Fiddle】(Hîⁿ) 弦
-* 【Fierce, of fire】(Jiét) ![](https://glyphwiki.org/glyph/u24360.50px.png)(熱)
+* 【Fierce, of fire】(Jiét) 熱
 * 【Filial】(Kiâⁿ-hàu; ũ-hàu) 行孝　有孝
 * 【Fill, as water】(Tshō) 裝
 * 【Filthy】(Nah-sap; chhi-gî; o-tso) 汚穢
@@ -947,7 +947,7 @@ date: 2022-11-20 23:55:00
 * 【Grow, as trees】(Huat) 發
 * 【„ as produce】(Seⁿ) 生
 * 【Grudge】(Tòu-chhiû; tòu-hṳ̃u; khieh-hṳ̃n) 鬦仇　鬦恨
-* 【Grumble】(Liām-lōu) ![](https://glyphwiki.org/glyph/u2b779@11.50px.png)(⿱人忈)路 念路
+* 【Grumble】(Liām-lōu) ⿱人忈路 念路
 * 【Guarantee】(Pau-niáⁿ) 保領
 * 【Guess】(Ieh) 約
 * 【Guest】(Nâng-kheh) 人客
@@ -958,7 +958,7 @@ date: 2022-11-20 23:55:00
 * 【Gutter, on roof】(Lāu-bó-tsô) 水槽
 * 【Habit】(Khuán) 欵
 * 【Habituated】(Kùiⁿ-sìⁿ) 慣
-* 【Half】(Pùaⁿ; chék-pùaⁿ; chék-uê; chék-pôiⁿ; chék-kuéh) 半　壹半　壹畔　壹![](https://glyphwiki.org/glyph/u21240@8.50px.png)(⿱八土)
+* 【Half】(Pùaⁿ; chék-pùaⁿ; chék-uê; chék-pôiⁿ; chék-kuéh) 半　壹半　壹畔　壹⿱八土
 * 【Hammer】(Thih-thûi; tshâ-thûi) 鐵槌　柴槌
 * 【Hand】(Chhiú) 手
 * 【„ right】(Chiàⁿ-chhiú) 左手
@@ -1659,7 +1659,7 @@ date: 2022-11-20 23:55:00
 * 【Single】(Tuaⁿ; chék) 單　一
 * 【„ fold】(Tuaⁿ-têng) 單重
 * 【Sink】(Tîm) 沉
-* 【Sisters】(Chí-mūeⁿ-kiáⁿ; ché-mūeⁿ-kiáⁿ) ![](https://glyphwiki.org/glyph/u216f0@14.50px.png)(⿰女只)妹仔 姐妹囝
+* 【Sisters】(Chí-mūeⁿ-kiáⁿ; ché-mūeⁿ-kiáⁿ) ⿰女只妹仔 姐妹囝
 * 【Skeleton】(Kut-thâu) 骨頭
 * 【Sketch, to】(Uê) 畫
 * 【Skin】(Phûe) 皮
@@ -2164,4 +2164,4 @@ date: 2022-11-20 23:55:00
 
 [1] In the Straits Settlements Europeans or other nationalities are not called huan-nâng as they do in China, but are distinguished according to their nationalities; and the word huan-nâng is only applied to the Malays.
 [2] Vulgar.
-[3] Vulgar
+[3] Vulga

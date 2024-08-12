@@ -11,7 +11,7 @@ date: 2022-11-20 23:43:00
 * 【我今日人不好】(Uá kiáⁿ-jít nâng m̄-móⁿ) I am unwell to-day.
 * 【爾能可去睡】(Lṳ́ nêng-kò khṳ̀-tó) You had better go and lie down.
 * 【爾個人如何】(Lṳ́ kâi nâng tsò-nîⁿ?) What is the matter with you?
-* 【人![](https://glyphwiki.org/glyph/u24360.50px.png) 人熱】(Nâng zuáh) I have got fever.
+* 【人熱】(Nâng zuáh) I have got fever.
 * 【要請先生否】(Âiⁿ-chhiáⁿ sin-seⁿ mē?) Do you wish to engage a doctor?
 <!--more-->
 * 【爾個脉猛】(Lṳ́ kâi méhⁿ méⁿ) Your pulse is fast.

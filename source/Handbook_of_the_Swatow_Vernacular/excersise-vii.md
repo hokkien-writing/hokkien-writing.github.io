@@ -117,9 +117,9 @@ date: 2022-11-16 20:16:00
 * 【冬天貧窮人是悽慘】(Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám) In Winter the poor are miserable.
 * 【富個人則穿煖】(Pù--kâi-nâng li chhēng-sie) But the rich are warmly clad.
 * 【冬天冷在】(Tang--thiⁿ chhiⁿ-tsai) In Winter it is very cold.
-* 【夏天就![](https://glyphwiki.org/glyph/u24360.50px.png) 熱】(Hē--thiⁿ chiũ-zuáh) But in Summer it is hot.
+* 【夏天就熱】(Hē--thiⁿ chiũ-zuáh) But in Summer it is hot.
 * 【壹年有四季】(Chék-nîⁿ ũ sì-khùi) There are four seasons in a year.
-* 【在祖家夏天無此處向![](https://glyphwiki.org/glyph/u24360.50px.png) 熱】(Tõ Tsóu-ke Hē--thiⁿ bô chié hi èⁿ-zuáh) In England the Summer is not so hot as here.
+* 【在祖家夏天無此處向熱】(Tõ Tsóu-ke Hē--thiⁿ bô chié hi èⁿ-zuáh) In England the Summer is not so hot as here.
 * 【冬天愈冷此處】(Tang--thiⁿ zú-chhiǹ chié) In Winter it is colder than here.
 * 【在祖家壹年春天是上好】(Tõ tsóu-ke chék-nîⁿ Tshun--thiⁿ sĩ siãng-hó) In England Spring is the best of the year.
 * 【春天到來草俱皆發】(Tshun--thiⁿ kàu--lâi, tsháu lóng-tsóng huat) When Spring comes, all the grass grow.
