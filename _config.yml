@@ -109,6 +109,10 @@ deploy:
   repository: git@github_hk:hokkien-writing/hokkien-writing.github.io.git
   branch: release
 
+# search
+search:
+  field: all
+
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
 markdown:
