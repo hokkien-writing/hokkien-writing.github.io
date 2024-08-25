@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/E
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **each**, kak; múeⁿ; pâi. *man*, kak-nâng. *day*, múeⁿ-ji̍t; pâi-ji̍t. *year*, múeⁿ-nîⁿ; nîⁿ-nîⁿ; pâi-nîⁿ. *each one*, kak-kâi; kak-kak. *each other*, siang; jī-ke. *help each other*, jī-ke sie-hũ. *scold each other*, sie-mēⁿ. *each end*, liáng-thâu; nõⁿ-thâu. *side*, liáng-pôiⁿ; liáng-ke.
 
@@ -12,7 +12,7 @@ date: 2024-03-31 16:11:00
 
 **eagle**, eng-chiáu.
 
-**ear**, hĩⁿ. *orifice of*, hĩⁿ-khang. *earlap*, hĩⁿ-tûi. *ear-brush*, hĩⁿ-tshóiⁿ. *ear-pick*, hĩⁿ-pê. *ear-wax*, hĩⁿ-sái. *ear-ring*, hĩⁿ-kau; hĩⁿ-hûan; hĩⁿ-thūi. *ear-drum (tympanum)*, ​hĩⁿ-kiàⁿ. *pierce the ear*, tshng-hĩⁿ. *whisper in one's ear*, phak-tõ hĩⁿ-khang-kháu tàⁿ; hĩⁿ-piⁿ tàⁿ-ūe. *ear-witness*, chhin-hĩⁿ thiaⁿ-kìⁿ. *ear of rice*, chhek-sūi.
+**ear**, hĩⁿ. *orifice of*, hĩⁿ-khang. *earlap*, hĩⁿ-tûi. *ear-brush*, hĩⁿ-tshóiⁿ. *ear-pick*, hĩⁿ-pê. *ear-wax*, hĩⁿ-sái. *ear-ring*, hĩⁿ-kau; hĩⁿ-hûan; hĩⁿ-thūi. *ear-drum (tympanum)*, hĩⁿ-kiàⁿ. *pierce the ear*, tshng-hĩⁿ. *whisper in one's ear*, phak-tõ hĩⁿ-khang-kháu tàⁿ; hĩⁿ-piⁿ tàⁿ-ūe. *ear-witness*, chhin-hĩⁿ thiaⁿ-kìⁿ. *ear of rice*, chhek-sūi.
 
 **early**, tsá. *in the morning*, mn̂g-khí-tsá; tsá-sîn. *very*, tsá-tsá. *too*, khah-tsá. *still*, hûan-liáu-tsá; iáu-tsá. *early and late*, tsá-mńg; tsá-àm; tsá-ùaⁿ. *in early times*, kóu-tsá. *as early as possible*, kúaⁿ-tsá; thàu-tsá.
 
@@ -38,7 +38,7 @@ date: 2024-03-31 16:11:00
 
 **eccentric**, kùai-phiah; kóu-kuài; kú-kùai.
 
-​**echo**, tâng-siaⁿ siang-ìn; hûe-siaⁿ ìn-tap; ìn-siaⁿ hûe-tap; tõu-kiàng-kúi ìn. *among hills*, suaⁿ siang-ìn.
+**echo**, tâng-siaⁿ siang-ìn; hûe-siaⁿ ìn-tap; ìn-siaⁿ hûe-tap; tõu-kiàng-kúi ìn. *among hills*, suaⁿ siang-ìn.
 
 **eclipse**, ji̍t si̍h. *lunar*, gue̍h si̍h. *beginning of*, tsho-si̍h. *maximum*, ke̍k-si̍h. *end of*, ho̍k-îⁿ.
 
@@ -84,7 +84,7 @@ date: 2024-03-31 16:11:00
 
 **eight**, poih. *eighteen*, tsa̍p-poih. *eighty*, poih-tsa̍p. *eighth*, tõiⁿ-poih.
 
-**either**, *you may have either you pleas*, sûi-suán; jîm-suán; sûi-lṳ́-súan; zuãn--tî-kâi hó pun-lṳ́-suán. *either way will do*, sûi-piẽn; sûi-piẽn-hó; sûi-sûi piẽn-piẽn; chièⁿ-seⁿ iā-hó. hièⁿ-seⁿ iā-hó. *any way will do*, ​ tou-hó. *on either side*, liáng-pôiⁿ. *either....or*, ho̍k....ho̍k.
+**either**, *you may have either you pleas*, sûi-suán; jîm-suán; sûi-lṳ́-súan; zuãn--tî-kâi hó pun-lṳ́-suán. *either way will do*, sûi-piẽn; sûi-piẽn-hó; sûi-sûi piẽn-piẽn; chièⁿ-seⁿ iā-hó. hièⁿ-seⁿ iā-hó. *any way will do*,  tou-hó. *on either side*, liáng-pôiⁿ. *either....or*, ho̍k....ho̍k.
 
 **eject**, to̍k-tshut; kek-tshut; jiāu-tshut; chhek-to̍k; khu-tshut; kúaⁿ-tshut. *from mouth*, phùi--tshut-lâi. *from stomach*, thòu--tshut-lâi.
 
@@ -138,7 +138,7 @@ date: 2024-03-31 16:11:00
 
 **embargo**, *on ship*, huang-tsûn bô i tshut-kháu.
 
-​**embark**, lo̍h-tsûn; chiẽⁿ-tsûn; tah-tsûn.
+**embark**, lo̍h-tsûn; chiẽⁿ-tsûn; tah-tsûn.
 
 **embarrassed**, chìn-thò liáng-lân; m̄-káⁿ kìⁿ-nâng. *embarrassing*, thām-thūi.
 
@@ -190,7 +190,7 @@ date: 2024-03-31 16:11:00
 
 **empower**, hù-thoh; úi; thoh; pun-khûan-jĩm khṳ̃-i.
 
-**empty**, khang; khang-khak; khang-hṳ; khang-phàⁿ. *handed*, khang-chhiú. *to empty out*, tò-tiāu. *empty from*​*one vessel to another, backwards and forwards*, tò-kùe-lâi tò-kùe-khṳ̀; piâⁿ-lâi piâⁿ-khṳ̀. *empty show*, hṳ-hua.
+**empty**, khang; khang-khak; khang-hṳ; khang-phàⁿ. *handed*, khang-chhiú. *to empty out*, tò-tiāu. *empty from**one vessel to another, backwards and forwards*, tò-kùe-lâi tò-kùe-khṳ̀; piâⁿ-lâi piâⁿ-khṳ̀. *empty show*, hṳ-hua.
 
 **emulate**, o̍h; o̍h-iēⁿ; hãu-o̍h; hãu-huap.
 
@@ -228,7 +228,7 @@ date: 2024-03-31 16:11:00
 
 **endeavour**, chhì. *to do any thing*, chhì-thóiⁿ; thèng-tsãu-hùe. *do one's best endeavour*, chĩn-la̍t; tshut-la̍t.
 
-​**endow**, sṳ̀; kien-ngĩ-tsou. *natural endowments*, tshâi-chhêng; pún-sṳ̄; pún-niáⁿ. *good ditto*, sèⁿ-chieh hó; hó-tshâi-chhêng.
+**endow**, sṳ̀; kien-ngĩ-tsou. *natural endowments*, tshâi-chhêng; pún-sṳ̄; pún-niáⁿ. *good ditto*, sèⁿ-chieh hó; hó-tshâi-chhêng.
 
 **endure**, nãiⁿ; khat-nãiⁿ; lún; khat-khóu-lún. *cold*, nãiⁿ-chhìn; lún-chhìn. *hunger*, lún tóu khùn; lún-ki lún-gō. *affliction*, nãiⁿ-kan-khóu. *patient endurance*, jím-nãiⁿ. *cannot endure*, nãiⁿ-m̄-khṳ̀; jím-put-tit; lân-nãiⁿ. *not to be endured (scolding)*, put-kham.
 
@@ -264,7 +264,7 @@ date: 2024-03-31 16:11:00
 
 **enlist**, chie-kun bói-bé; chie-ióng; chie-ngĩ-mîn; mi̍t-piaⁿ chie-ióng.
 
-**enmity**, *to be at*, tsò-uan-ke; kat-chhiû; kat-uàn; ​kat-ngia̍p; ùan-hṳ̃n. *to cherish*, khieh-hṳ̃n; huâi-hṳ̃n; hia̍p-hṳ̃n; hia̍p-hiâm.
+**enmity**, *to be at*, tsò-uan-ke; kat-chhiû; kat-uàn; kat-ngia̍p; ùan-hṳ̃n. *to cherish*, khieh-hṳ̃n; huâi-hṳ̃n; hia̍p-hṳ̃n; hia̍p-hiâm.
 
 **ennui**, phî-kũan; khùn-tõaⁿ; bô-cheng-sîn.
 
@@ -306,7 +306,7 @@ date: 2024-03-31 16:11:00
 
 **entitled***to*, kham-kai-tit; eng-kai-tit.
 
-​**entrails**, tn̂g; sim-tn̂g; tóu-tn̂g; tn̂g-tõu.
+**entrails**, tn̂g; sim-tn̂g; tóu-tn̂g; tn̂g-tõu.
 
 **entrance**, kháu; mn̂g. *no entrance*, bô-lōu hó-ji̍p; bô-lōu-mn̂g. *refuse entrance*, bô-i-ji̍p. *force an entrance*, khiâng-ji̍p.
 
@@ -362,7 +362,7 @@ date: 2024-03-31 16:11:00
 
 **equivalent**, tùi-uāⁿ; tùi-táu.
 
-​**equivocal**, sang-kuan liáng-ì; che̍k-sṳ̂ liáng-ngĩ.
+**equivocal**, sang-kuan liáng-ì; che̍k-sṳ̂ liáng-ngĩ.
 
 **eradicate**, po̍ih-kṳn; pi̍t-po̍ih-tiāu; tín-túi-tiāu; tsám-tsháu tṳ̂-kṳn.
 
@@ -408,7 +408,7 @@ date: 2024-03-31 16:11:00
 
 **estranged**, jī-ke siang-gūa; lî-sim.
 
-​**eternal**, ióng; ióng-ién; ióng-kú; kú-kú bô-liáu; bô-sí bô-tsong. *eternity*, ióng-sì; sì-sì bô-liáu.
+**eternal**, ióng; ióng-ién; ióng-kú; kú-kú bô-liáu; bô-sí bô-tsong. *eternity*, ióng-sì; sì-sì bô-liáu.
 
 **ethics**, lûn-lí; lûn-siêⁿ.
 
@@ -438,7 +438,7 @@ date: 2024-03-31 16:11:00
 
 **everlasting**, ióng-kú; kú-tn̂g; ióng-ién; bô-liáu. *life*, ióng-seⁿ; siêⁿ-seⁿ; chhiâng-seⁿ put-láu; chhiâng-seⁿ put-sí.
 
-**every**, kak. *body*, kak-nâng; nâng-nâng; mih-nâng. *day*, múeⁿ-ji̍t; ji̍t-ji̍t; pâi-ji̍t. *one*, kak-kak; kak-kâi; kâi-kâi. *where*, kak-tshù; kak-kò; múaⁿ-tî-kò; múaⁿ-kò; múaⁿ-sì-tshù. *thing*, kak-kiãⁿ; kiãⁿ-kiãⁿ; put-lũn ​sĩ-mih-mue̍h; huâm-sĩ-mih-mue̍h. *every tenth man*, tsa̍p-nâng tshú-che̍k. *every four years*, sì-nîⁿ che̍k-pái. *every fall of rain will make it cooler*, pàn-hõu pàn-liâng.
+**every**, kak. *body*, kak-nâng; nâng-nâng; mih-nâng. *day*, múeⁿ-ji̍t; ji̍t-ji̍t; pâi-ji̍t. *one*, kak-kak; kak-kâi; kâi-kâi. *where*, kak-tshù; kak-kò; múaⁿ-tî-kò; múaⁿ-kò; múaⁿ-sì-tshù. *thing*, kak-kiãⁿ; kiãⁿ-kiãⁿ; put-lũn sĩ-mih-mue̍h; huâm-sĩ-mih-mue̍h. *every tenth man*, tsa̍p-nâng tshú-che̍k. *every four years*, sì-nîⁿ che̍k-pái. *every fall of rain will make it cooler*, pàn-hõu pàn-liâng.
 
 **evidence**, phêng-kṳ̃; pêng-kṳ̃; chèng-kṳ̃. *in court*, tn̂g-keng; kháu-keng. *to recant*, húan-kháu-keng; húan-keng.
 
@@ -474,7 +474,7 @@ date: 2024-03-31 16:11:00
 
 **excise**, hiàng-sùe; hiàng-ngṳ̂n.
 
-**excite**, *people*, tõng-nâng-sim; kám-tõng. *excite and*​*draw upon oneself, as trouble*, jiá; ín-jiá. *instigate*, kòiⁿ-so; kà-so; kà-lā. *an enemy to battle*, jiá-chièn. *cause excitement*, seⁿ-sṳ̄. *public excitement*, nâng-sim iâu-tõng.
+**excite**, *people*, tõng-nâng-sim; kám-tõng. *excite and**draw upon oneself, as trouble*, jiá; ín-jiá. *instigate*, kòiⁿ-so; kà-so; kà-lā. *an enemy to battle*, jiá-chièn. *cause excitement*, seⁿ-sṳ̄. *public excitement*, nâng-sim iâu-tõng.
 
 **exclaim**, hàm; kiè; khui-siaⁿ; tōa-siaⁿ-tàⁿ; jiáng.
 
@@ -516,7 +516,7 @@ date: 2024-03-31 16:11:00
 
 **exile**, *see***BANISH**.
 
-​**exist**, ũ; tõ. *still in existence*, huân-tshûn--tõ-kò.
+**exist**, ũ; tõ. *still in existence*, huân-tshûn--tõ-kò.
 
 **exit**, tshut; tshut--khṳ̀. *end*, tsong. *door*, lōu-mn̂g.
 
@@ -568,7 +568,7 @@ date: 2024-03-31 16:11:00
 
 **explore**, places, *for amusement*, iû-kuan; iû-ngúan. search, chhîm-tshūe; thàm-chhîm. *with a clue*, thàm-soh.
 
-​**export**, *to*, tsài-hùe tshut-kháu. *exports*, tshut-kháu kâi-hùe-mue̍h.
+**export**, *to*, tsài-hùe tshut-kháu. *exports*, tshut-kháu kâi-hùe-mue̍h.
 
 **expose**, lòu-tshut. *one's life*, piàⁿ-miāⁿ; tì-miāⁿ; m̄-kù sèⁿ-miāⁿ; put-sieh sin-miāⁿ. *criminals' heads*, hiau-siú sī-chèng. *oneself to the sun*, pha̍k-ji̍t. *people's motives*, sueh-phùa nâng-sim.
 
@@ -606,7 +606,7 @@ date: 2024-03-31 16:11:00
 
 **extort**, *a false confession*, khut-phah sêng-chiau. *extortion*, le̍k-sok; khek-pak; pak-le̍k; khiâng-tshú khiâng-to̍h.
 
-​**extract**, po̍ih; khie̍h-tshut; thiu-tshut; túi--tshut. *from a book*, ín-tsṳ-kù; lo̍k-tsṳ; ín-lo̍k.
+**extract**, po̍ih; khie̍h-tshut; thiu-tshut; túi--tshut. *from a book*, ín-tsṳ-kù; lo̍k-tsṳ; ín-lo̍k.
 
 **extraordinary**, khî-sṳ̄; khî-ĩ; tshut-khî; hui-siêⁿ; koh-iēⁿ; chié-ũ; hán-tit thóiⁿ--kìⁿ; hán-ngõ. *extraordinarily good*, khî-hó; hó kàu-koh-iēⁿ.
 
@@ -624,4 +624,4 @@ date: 2024-03-31 16:11:00
 
 **exuviae**, tsûa pak-khak; thâng pak-khak.
 
-**eye**, ma̍k; ma̍k-chiu. *sharp*, ma̍k-chiu lêng; ma̍k-chiu lêng-lāi. *dim*, ma̍k-chiu hue; ma̍k mông-bū; ma̍k bū. *sore*, ma̍k-chiu thiàⁿ. *open*, ma̍k peh-kim; ma̍k khui-khui. *close*, ma̍k ha̍p-miⁿ; ma̍k miⁿ-miⁿ. *red*, ma̍k-kṳn âng. *inflamed*, ma̍k seⁿ-húe; ma̍k âng; ma̍k pãu-thiàⁿ. *turn up the white of*, ma̍k póiⁿ-pe̍h. *wink*, nihⁿ-ma̍k; ma̍k-chiu khap-khap-nihⁿ. *as signal*, su̍h-ma̍k. *squint*, siâ-chiáu-ma̍k; tshúa-ma̍k. *near-sighted*, kṳ̃n-sĩ-ma̍k. *wide and staring, as thief's*, ma̍k kok-kok-kim. *pupil of*, thông-jîn; sien-nâng-thâu. *brows*, ma̍k-bâi. *ball*, ma̍k-chiu-jîn. *white of*, ma̍k-pe̍h-jîn. *lashes*, ma̍k-chhì-môⁿ. *lids*, ma̍k-kha-phûe; ma̍k-pau. *inner corner*, ma̍k-thâu. *outer corner*, ma̍k-búe. *eye-hollow*, ma̍k-khóng; ma̍k-khuang; ma̍k-úaⁿ. *sight*, ma̍k-chiu kng. *eye-glass*, ma̍k-kiàⁿ. *eyeless*, sit-mêng; chheⁿ-mêⁿ; hak-ngán. *medicine*, ma̍k-ie̍h-tsúi. *salve*, ma̍k-ie̍h-ko. *eye-witness*, chhin-ma̍k thóiⁿ--kìⁿ. *of spectacles*, ma̍k-kiàⁿ-jîn; ma̍k-kiàⁿ-ne̍k. *of needle*, tsam-phīⁿ; tsam-khang. *bull's-eye*, pá-sim. *to hit it*, tòng-âng-sim. *please the eye*, ha̍h-ma̍k; zua̍t-ma̍k. *make the eyes smart (as pepper)*, soh--tie̍h ma̍k. *get a mote in the eye*, ma̍k eng--tie̍h. *before the eyes of all*, tõ-chèng-nâng mīn-tsôiⁿ. *great in one's own eyes*, ka-kī tsṳ̃-sĩ tsò-tōa; ​ tsṳ̃-tsun. *wise in one's own eyes*, tsṳ̃-gâu; tsṳ̃-hiên. *fix the eyes on one*, ma̍k kim-kim tõ-thóiⁿ.thóiⁿ.
+**eye**, ma̍k; ma̍k-chiu. *sharp*, ma̍k-chiu lêng; ma̍k-chiu lêng-lāi. *dim*, ma̍k-chiu hue; ma̍k mông-bū; ma̍k bū. *sore*, ma̍k-chiu thiàⁿ. *open*, ma̍k peh-kim; ma̍k khui-khui. *close*, ma̍k ha̍p-miⁿ; ma̍k miⁿ-miⁿ. *red*, ma̍k-kṳn âng. *inflamed*, ma̍k seⁿ-húe; ma̍k âng; ma̍k pãu-thiàⁿ. *turn up the white of*, ma̍k póiⁿ-pe̍h. *wink*, nihⁿ-ma̍k; ma̍k-chiu khap-khap-nihⁿ. *as signal*, su̍h-ma̍k. *squint*, siâ-chiáu-ma̍k; tshúa-ma̍k. *near-sighted*, kṳ̃n-sĩ-ma̍k. *wide and staring, as thief's*, ma̍k kok-kok-kim. *pupil of*, thông-jîn; sien-nâng-thâu. *brows*, ma̍k-bâi. *ball*, ma̍k-chiu-jîn. *white of*, ma̍k-pe̍h-jîn. *lashes*, ma̍k-chhì-môⁿ. *lids*, ma̍k-kha-phûe; ma̍k-pau. *inner corner*, ma̍k-thâu. *outer corner*, ma̍k-búe. *eye-hollow*, ma̍k-khóng; ma̍k-khuang; ma̍k-úaⁿ. *sight*, ma̍k-chiu kng. *eye-glass*, ma̍k-kiàⁿ. *eyeless*, sit-mêng; chheⁿ-mêⁿ; hak-ngán. *medicine*, ma̍k-ie̍h-tsúi. *salve*, ma̍k-ie̍h-ko. *eye-witness*, chhin-ma̍k thóiⁿ--kìⁿ. *of spectacles*, ma̍k-kiàⁿ-jîn; ma̍k-kiàⁿ-ne̍k. *of needle*, tsam-phīⁿ; tsam-khang. *bull's-eye*, pá-sim. *to hit it*, tòng-âng-sim. *please the eye*, ha̍h-ma̍k; zua̍t-ma̍k. *make the eyes smart (as pepper)*, soh--tie̍h ma̍k. *get a mote in the eye*, ma̍k eng--tie̍h. *before the eyes of all*, tõ-chèng-nâng mīn-tsôiⁿ. *great in one's own eyes*, ka-kī tsṳ̃-sĩ tsò-tōa;  tsṳ̃-tsun. *wise in one's own eyes*, tsṳ̃-gâu; tsṳ̃-hiên. *fix the eyes on one*, ma̍k kim-kim tõ-thóiⁿ.thóiⁿ.

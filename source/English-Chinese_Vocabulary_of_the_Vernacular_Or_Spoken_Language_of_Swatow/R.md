@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/R
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **rabbit**, pe̍h-thòu; gue̍h-tshṳ́; chie̍h-tshṳ́.
 
@@ -24,7 +24,7 @@ date: 2024-03-31 16:11:00
 <!--more-->
 **radical**, kṳn-pún. the radicals, jī-bó; jī-bó-põu. this character belongs to the radical "nang", chí-kâi-jī sĩ-so̍k "nâng"-põu.
 
-​**radius**, pùaⁿ-keⁿ-sùaⁿ.
+**radius**, pùaⁿ-keⁿ-sùaⁿ.
 
 **raft**, sam-pâi; tek-pâi.
 
@@ -76,7 +76,7 @@ date: 2024-03-31 16:11:00
 
 **ransack**, chhîm-kàu-thàu; púe (looking for things in a heap). a city, sàu-chĩn; sàu-chẽng.
 
-**ransom**, so̍k; so̍k-tńg; chhiú; chhiú-so̍k. for sin, so̍k-tsũe. ​**rap**, khà.
+**ransom**, so̍k; so̍k-tńg; chhiú; chhiú-so̍k. for sin, so̍k-tsũe. **rap**, khà.
 
 **rapacious**, lãm-thun; hiau-thun; khiâng-thun; tham-sim.
 
@@ -116,7 +116,7 @@ date: 2024-03-31 16:11:00
 
 **ravish**, khiâng-kan; khiâng-to̍h. ravishing, lêng-î uá-chhêng; õi-î-súa nâng kâi-chhêng-ì.
 
-**raw**, chheⁿ; m̄-se̍k. ​**ray**, ji̍t-tsam; ji̍t-kuang-siā.
+**raw**, chheⁿ; m̄-se̍k. **ray**, ji̍t-tsam; ji̍t-kuang-siā.
 
 **razor**, thì-to; thì-thâu-to; mīn-to. -strop, huah-to-phûe; huah-thì-to-phûe.
 
@@ -168,7 +168,7 @@ date: 2024-03-31 16:11:00
 
 **reckon**, sǹg; sǹg-siàu. anything to be so & so, sǹg-tsò.
 
-​**reclaim**, from evil, khǹg-kòi kui-chiàⁿ.
+**reclaim**, from evil, khǹg-kòi kui-chiàⁿ.
 
 **recline**, khùa-ie; uá-ie; gu̍t--lo̍h-khṳ̀.
 
@@ -212,7 +212,7 @@ date: 2024-03-31 16:11:00
 
 **refer**, chí; ín-tsṳ (to a passage).
 
-**refine**, gold, liēn-kim. the heart, liēn-sím. sugar, se̍k-thn̂g; lāu-thn̂g; pak-pe̍h-thn̂g. lacking refinement, tshou-lõu. ​**reflect**, tui-siẽⁿ; chhim-siẽⁿ; sṳ-siẽⁿ. light, húan-chiè.
+**refine**, gold, liēn-kim. the heart, liēn-sím. sugar, se̍k-thn̂g; lāu-thn̂g; pak-pe̍h-thn̂g. lacking refinement, tshou-lõu. **reflect**, tui-siẽⁿ; chhim-siẽⁿ; sṳ-siẽⁿ. light, húan-chiè.
 
 **reflections**, liãm-thâu; siẽⁿ-thâu.
 
@@ -266,7 +266,7 @@ date: 2024-03-31 16:11:00
 
 **rehearse**, to one, o̍h pun-i-thiaⁿ.
 
-**reign**, tsò-huâng-tì; tî-kok; tsõ-ūi; lí-kok-chèng; lí-chhiâu-chèng. in the reign of Tao-Kwang, Tãu-kuang nîⁿ--kan; Tãu-kuang tsõ-ūi. ​**reins**, bé-soh. to hold, khan-bé-soh.
+**reign**, tsò-huâng-tì; tî-kok; tsõ-ūi; lí-kok-chèng; lí-chhiâu-chèng. in the reign of Tao-Kwang, Tãu-kuang nîⁿ--kan; Tãu-kuang tsõ-ūi. **reins**, bé-soh. to hold, khan-bé-soh.
 
 **reiterate**, têng-tàⁿ; tàⁿ-liáu tsài-tàⁿ; tàⁿ-ūe têng-têng tha̍h-tha̍h; têng-tha̍h-tàⁿ. teaching, teng-lêng kàu-kài; tsài-saⁿ teng-lêng; teng-lêng tsok-hù.
 
@@ -308,7 +308,7 @@ date: 2024-03-31 16:11:00
 
 **remind**, me, lṳ́ thói-úa it-tit; lṳ́ kāng-úa sie-hũ it-tit.
 
-**remiss**, tũaⁿ; hân-hẽ; chhìn-tshái; kóu-chhiáⁿ; pàng-làng-sang (as one in authority). ​**remit**, sià; sià-mién. taxes, sià-niêⁿ. rent, sià-tsou; kien-tsou; mién-tsou.
+**remiss**, tũaⁿ; hân-hẽ; chhìn-tshái; kóu-chhiáⁿ; pàng-làng-sang (as one in authority). **remit**, sià; sià-mién. taxes, sià-niêⁿ. rent, sià-tsou; kien-tsou; mién-tsou.
 
 **remonstrate**, khǹg-kòi; khǹg-kàn; cheh-lũn.
 
@@ -354,7 +354,7 @@ date: 2024-03-31 16:11:00
 
 **represent**, by drawing, ūe-tôu. a matter, thîn-mêng; piâⁿ--kùe. stand for, thòi; àiⁿ-tsò; thòi-tsò. as a plaintiff, phõ-kò.
 
-**repress**, at-chí; iap-chí; kìm-chí. anger, lún-khì. one's feelings & keep silent, lún-khì thun-siaⁿ. ​**reprieve**, see RESPITE.
+**repress**, at-chí; iap-chí; kìm-chí. anger, lún-khì. one's feelings & keep silent, lún-khì thun-siaⁿ. **reprieve**, see RESPITE.
 
 **reprimand**, kéng-cheh; cheh-pĩ; hiâm; cheh-hiâm.
 
@@ -408,7 +408,7 @@ date: 2024-03-31 16:11:00
 
 **resolute**, ũ-chì; káⁿ-káⁿ; kuat-tuàn; kuat-ì; li̍p-sim; che̍k-kuat. resolution, tsú-ì; sim-chì; kuat-ì; ngí-tiāⁿ.
 
-**resolve**, li̍p-ì; li̍p-sim; tiāⁿ-tsú-ì; li̍p-tiāⁿ tsú-ì; tiāⁿ-tie̍h-àiⁿ; kuat-ì-àiⁿ. an unalterable, che̍k-tiāⁿ put-e̍k. ​**resort**, to, uáng-lâi. place of, lāu-jie̍t tī-hng.
+**resolve**, li̍p-ì; li̍p-sim; tiāⁿ-tsú-ì; li̍p-tiāⁿ tsú-ì; tiāⁿ-tie̍h-àiⁿ; kuat-ì-àiⁿ. an unalterable, che̍k-tiāⁿ put-e̍k. **resort**, to, uáng-lâi. place of, lāu-jie̍t tī-hng.
 
 **resource**, thâu-lōu; pōu. no, bô-pōu; bô-pièn; bô-thâu-lōu; chĩn-thâu-lêng. no resource but to, bô-nãiⁿ-hô; bô-ta-ûa; bô-nãiⁿ; bô-khó nãiⁿ-hô.
 
@@ -454,7 +454,7 @@ date: 2024-03-31 16:11:00
 
 **retinue**, sûi-tsõng; kṳn-pan.
 
-**retire**, thò; thò-khui; tiàm-bûa; tô-pī. from office, sî-kuaⁿ; sià-cheh. into seclusion, ṳ́n-kṳ; ṳ́n-kṳ chẽⁿ-siú. retired place, hiu-chẽⁿ; hiu-phiah; siám-phiah; tò-kak. ​**retort**, to, sie-tũ; poh-khùi; à; tò-hiâm-i.
+**retire**, thò; thò-khui; tiàm-bûa; tô-pī. from office, sî-kuaⁿ; sià-cheh. into seclusion, ṳ́n-kṳ; ṳ́n-kṳ chẽⁿ-siú. retired place, hiu-chẽⁿ; hiu-phiah; siám-phiah; tò-kak. **retort**, to, sie-tũ; poh-khùi; à; tò-hiâm-i.
 
 **retract**, thò-sok; ta̍h-nńg (as slander); chia̍h-ngân; húan-kháu; tàⁿ-tńg.
 
@@ -498,7 +498,7 @@ date: 2024-03-31 16:11:00
 
 **reward**, siéⁿ; pò; pò-siéⁿ; pò-tap. good and evil, siéⁿ-siẽn hua̍t-ak. to offer a, tshut-siéⁿ-keh; tshut-siéⁿ-thiap.
 
-**rheumatism**, sng-nńg; sng-nńg-thiàⁿ; huang; huang-thiàⁿ; huang-khì. in head, thâu-huang. in arm, chhiú-huang; chhiú sng-thiàⁿ. in the joints, kut-tsat-huang. ​**rhinoceros**, sai-gû.
+**rheumatism**, sng-nńg; sng-nńg-thiàⁿ; huang; huang-thiàⁿ; huang-khì. in head, thâu-huang. in arm, chhiú-huang; chhiú sng-thiàⁿ. in the joints, kut-tsat-huang. **rhinoceros**, sai-gû.
 
 **rhubarb**, tōa-n̂g.
 
@@ -538,7 +538,7 @@ date: 2024-03-31 16:11:00
 
 **ring**, a, huân; khuan; khou. arm, chhiú-huân. finger, chhiú-tsat; chhiú-chí; kài-chí.
 
-​**ring**, to, a bell, iẽ-leng; lõng-leng; khà-cheng; phah-cheng. ringing in the ears, hĩⁿ-khang ōng-ōng-kiè; hĩⁿ-khang-kúi kî-kî-kiè.
+**ring**, to, a bell, iẽ-leng; lõng-leng; khà-cheng; phah-cheng. ringing in the ears, hĩⁿ-khang ōng-ōng-kiè; hĩⁿ-khang-kúi kî-kî-kiè.
 
 **ringleader**, thâu-nâng. of thieves or rebels, tsha̍t-thâu.
 ring-worm, sién; pe̍h-sién; âng-sién; gue̍h-īn-sién; gû-phûe-sién; sip-sién.
@@ -581,7 +581,7 @@ ring-worm, sién; pe̍h-sién; âng-sién; gue̍h-īn-sién; gû-phûe-sién; si
 
 **robust**, tsàng; tsàng-kiẽn; kiẽn-tsàng; khin-kiāⁿ; khang-kiẽn; khiâng-tsâng.
 
-**rock**, chie̍h; chie̍h-pûaⁿ; tōa-chie̍h. strike on a rock, ​tsûn lṳ̂-chie̍h; tsûn ta̍k--tie̍h chie̍h. rockery, ke-suaⁿ; ké-suaⁿ.
+**rock**, chie̍h; chie̍h-pûaⁿ; tōa-chie̍h. strike on a rock, tsûn lṳ̂-chie̍h; tsûn ta̍k--tie̍h chie̍h. rockery, ke-suaⁿ; ké-suaⁿ.
 
 **rock**, to, iê; iẽ. rocking basket (cradle), iê-nâⁿ.
 
@@ -631,7 +631,7 @@ ring-worm, sién; pe̍h-sién; âng-sién; gue̍h-īn-sién; gû-phûe-sién; si
 
 **row**, hâng; lie̍t; tsūe. in rows, che̍k-hâng che̍k-hâng; che̍k-lie̍t che̍k-lie̍t.
 
-​**row**, to make a, kî-kâ bó-jiáng; tshàu-nãuⁿ.
+**row**, to make a, kî-kâ bó-jiáng; tshàu-nãuⁿ.
 
 **row**, to, kò-tsûn; kò-chiéⁿ.
 
@@ -669,7 +669,7 @@ ring-worm, sién; pe̍h-sién; âng-sién; gue̍h-īn-sién; gû-phûe-sién; si
 
 **rumpled**, jiâu; jiâu-jiâu; niàuⁿ-niàuⁿ; póu-póu; seⁿ-hûn; chhi̍p kàu-póu-póu. don't rumple it, màiⁿ-chhi̍p-jiâu.
 
-**run**, tsáu; pháu-tsáu; phun-tsáu; liãu-tsáu; tsáu-méⁿ. away secretly, thua-tsáu. from danger, pī-tsáu; tô-tsáu. round and round, khuan-tsáu; hui-tsáu. over, as liquid, lâu--tshut; iah-tshut; múaⁿ--tshut; kài--tshut. out, as liquid, lāu; lāu-tiāu. after, jiāu; tui-jiāu; kúaⁿ-jiāu. into harbour, sái-tsûn ji̍p-káng. run ​into (collide with), lṳ̂; lôi; tsũang; sie-khãm; sie-tiaⁿ (lightly).
+**run**, tsáu; pháu-tsáu; phun-tsáu; liãu-tsáu; tsáu-méⁿ. away secretly, thua-tsáu. from danger, pī-tsáu; tô-tsáu. round and round, khuan-tsáu; hui-tsáu. over, as liquid, lâu--tshut; iah-tshut; múaⁿ--tshut; kài--tshut. out, as liquid, lāu; lāu-tiāu. after, jiāu; tui-jiāu; kúaⁿ-jiāu. into harbour, sái-tsûn ji̍p-káng. run into (collide with), lṳ̂; lôi; tsũang; sie-khãm; sie-tiaⁿ (lightly).
 
 **running**, water, ua̍h-tsúi. sore, sia̍p n̂g-sûaⁿ-tsúi kâi-tshng-kháu. hand of writing, tshó-jī.
 

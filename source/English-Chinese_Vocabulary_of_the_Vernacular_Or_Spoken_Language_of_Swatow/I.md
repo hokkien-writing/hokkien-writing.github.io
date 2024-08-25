@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/I
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **I**, uá. see WE.
 
@@ -24,7 +24,7 @@ date: 2024-03-31 16:11:00
 <!--more-->
 **idol**, ngóu-sièⁿ; phû-sat; lãu-iâ; tshâ-sîn. idolatry, pài-tshâ-sîn; pài-ngóu-sièⁿ.
 
-​**if**, jia̍k; zû-jia̍k; tháng-jia̍k; kiá-sái; kiá-lẽng; kóu-sek; phah-tsò; kiá-zû; zû-ho̍k; khó-pí; phì-zû; pí-huang. if you are going, lṳ́ jia̍k-sĩ àiⁿ-khṳ̀. but if you won't go, nãⁿ-sĩ lṳ́ m̃-khṳ̀. if not, zû-m̄-sĩ; iā-sĩ-bô. as if (comparison), phì-zû; pí-zû; hāi--kùe; tǹg--kùe; chhin-chhiẽⁿ; khó-pí. even if, tsòng; tsòng-jiên; tsòng-sái.
+**if**, jia̍k; zû-jia̍k; tháng-jia̍k; kiá-sái; kiá-lẽng; kóu-sek; phah-tsò; kiá-zû; zû-ho̍k; khó-pí; phì-zû; pí-huang. if you are going, lṳ́ jia̍k-sĩ àiⁿ-khṳ̀. but if you won't go, nãⁿ-sĩ lṳ́ m̃-khṳ̀. if not, zû-m̄-sĩ; iā-sĩ-bô. as if (comparison), phì-zû; pí-zû; hāi--kùe; tǹg--kùe; chhin-chhiẽⁿ; khó-pí. even if, tsòng; tsòng-jiên; tsòng-sái.
 ignis fatuus, kúi-húe.
 
 **ignite**, to̍h-húe; huat-húe.
@@ -68,7 +68,7 @@ ill-fated, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ ph
 
 **image**, sièⁿ. to cast, tsù-sièⁿ. to draw, ūe-sièⁿ. to carve, khek-sièⁿ.
 
-​**imagine**, siẽⁿ. I imagine it is, iak-móⁿ-liãng; thóu-siẽⁿ. imaginable, siẽⁿ-tit-tshut; sǹg-tit-tshut. it is all imagination, phû-huang tshok-iáⁿ; bô-iáⁿ-chiah. I imagined he would not come, uá khue-tiāⁿ i m̃-lâi.
+**imagine**, siẽⁿ. I imagine it is, iak-móⁿ-liãng; thóu-siẽⁿ. imaginable, siẽⁿ-tit-tshut; sǹg-tit-tshut. it is all imagination, phû-huang tshok-iáⁿ; bô-iáⁿ-chiah. I imagined he would not come, uá khue-tiāⁿ i m̃-lâi.
 
 **imbecile**, tshún-jia̍k; ngô-jia̍k. see IDIOT.
 
@@ -114,7 +114,7 @@ ill-fated, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ ph
 
 **impart**, sṳ̀; pun; khṳt. instruction, si-kà. news, thûan-sie-sit; pò-sie-sit.
 
-**impartial**, bô-phien-sim; bô-lia̍h khin-tãng; kong-phêng ​thãi-nâng; phêng-sim khúan-thãi; kuaⁿ-chiàⁿ; kong-tãu thãi-nâng.
+**impartial**, bô-phien-sim; bô-lia̍h khin-tãng; kong-phêng thãi-nâng; phêng-sim khúan-thãi; kuaⁿ-chiàⁿ; kong-tãu thãi-nâng.
 
 **impassable**, bõi-tit-kùe; bô-lōu hó-kiâⁿ; khu̍t-thâu-lōu.
 
@@ -164,7 +164,7 @@ ill-fated, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ ph
 
 **imports**, ji̍p-kháu kâi-hùe.
 
-**importune**, khṳ́n-khiû; chhiet-khiû. importunate, ​kau-tîⁿ chhiet-khiû.
+**importune**, khṳ́n-khiû; chhiet-khiû. importunate, kau-tîⁿ chhiet-khiû.
 
 **impose**, a fine, hua̍t-ngṳ̂n. upon, phièn; tshuah-nâng; kuang-phièn; khi-phièn. impostor, láu-kiáⁿ; ké-kha ké-chhiú.
 
@@ -204,7 +204,7 @@ ill-fated, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ ph
 
 **inaccessible**, bõi-tit-kàu.
 
-**inaccurate**, ũ-tshò; ũ-m̄-tùi; ũ-tsha-tshak; ​ũ-tsáu-tsua̍h; ũ-tshò-niũⁿ; õi-m̄-tie̍h; õi-tāⁿ.
+**inaccurate**, ũ-tshò; ũ-m̄-tùi; ũ-tsha-tshak; ũ-tsáu-tsua̍h; ũ-tshò-niũⁿ; õi-m̄-tie̍h; õi-tāⁿ.
 
 **inactive**, bô-tõng-chhiú; m̄-tshut-sin; ôiⁿ-kṳ; ôiⁿ-khiã; ôiⁿ-tsũ.
 
@@ -255,7 +255,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **inclose**, pau-huang; ûi-tsũ; ûi.
 
-​**include**, pau-hâm; pau-kuat. included, tõ-lãi.
+**include**, pau-hâm; pau-kuat. included, tõ-lãi.
 
 **incognito**, ṳ́n-kiâⁿ; àm-húang; àm-chẽⁿ tshut--lâi.
 
@@ -305,7 +305,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **incur**, one's anger, tshok--tie̍h i-khì.
 
-​**incurable**, m̄-hó-ui; lân-ui. disease, hùi-chi̍t.
+**incurable**, m̄-hó-ui; lân-ui. disease, hùi-chi̍t.
 
 **indebted**, khiàm--nâng; khiàm-chè; khiàm-chîⁿ; khiàm-siàu. to feel under obligations for kindness received, kám-nâng-ṳn; kám-ṳn tài-tek.
 
@@ -353,7 +353,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **indisposed**, m̄-sóng-khùai; m̄-tsṳ̃-tsãi; m̄-phêng-an; cheng-sîn kù-m̄-kàu; ien-siên. unwilling, bô-siẽⁿ-àiⁿ-tsò; ùi-ùi; m̄-nguãn.
 
-**indisputable**, m̄-hó poh-khùi; piẽn-poh m̄-kùe; ​à-m̄-khṳ̀; chin--kâi bõi-lêng à-tit-ké.
+**indisputable**, m̄-hó poh-khùi; piẽn-poh m̄-kùe; à-m̄-khṳ̀; chin--kâi bõi-lêng à-tit-ké.
 
 **indistinct**, m̄-hīn; mông-hũn; bū-bū; mông-bū; bô-mêng-pe̍h; hun-hun; m̄-chheng-tshó; tàⁿ-ūe kâm-kôu; lú-lú.
 
@@ -405,7 +405,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **infinite**, bô-hãn bô-liãng; bô-sí bô-tsong.
 
-**infirm**, sin-hūn lám; sin-hūn phàⁿ. of purpose, ​sim-chì m̄-kien-kù; sim m̄-kien; sim kōi-iâu-i̍t; iêⁿ-hue tsúi-sèⁿ. an infirmity, mâuⁿ-pēⁿ.
+**infirm**, sin-hūn lám; sin-hūn phàⁿ. of purpose, sim-chì m̄-kien-kù; sim m̄-kien; sim kōi-iâu-i̍t; iêⁿ-hue tsúi-sèⁿ. an infirmity, mâuⁿ-pēⁿ.
 
 **inflammation**, húe; jie̍t; âng-jie̍t. of eyes, ma̍k-chiu jie̍t-thiàⁿ; pãu-thiàⁿ. remove, thò-húe.
 
@@ -447,7 +447,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **injure**, sún; sún-hāi; sieⁿ-hāi; sún-sieⁿ; hām-hāi; sún-phùa; tshâng-hāi; sieⁿ-tshâng; khui-sún. injurious, hāi-nâng; lĩ-hāi; ũ-sún bô-iah; hām-hāi.
 
-**injustice**, hui-ngĩ; put-ngĩ. indignant at injustice done to another, put-phêng; ũi-put-phêng. ​**ink**, ba̍k (solid); ba̍k-tsúi (liquid). one piece of ink, che̍k-tiâu-ba̍k. -stone, ba̍k-īⁿ. rub, bûa-ba̍k. -bottle, ba̍k-tsúi-ti̍h; ba̍k-tsúi-kùan; ba̍k-tsúi-tãng.
+**injustice**, hui-ngĩ; put-ngĩ. indignant at injustice done to another, put-phêng; ũi-put-phêng. **ink**, ba̍k (solid); ba̍k-tsúi (liquid). one piece of ink, che̍k-tiâu-ba̍k. -stone, ba̍k-īⁿ. rub, bûa-ba̍k. -bottle, ba̍k-tsúi-ti̍h; ba̍k-tsúi-kùan; ba̍k-tsúi-tãng.
 
 **inland**, lãi-tī; suaⁿ-lãi.
 
@@ -493,7 +493,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **insidious**, àm-hāi; àm-chìⁿ; kan-tsà.
 
-​**insincere**, bô-si̍t-sim; bô-sêng-si̍t.
+**insincere**, bô-si̍t-sim; bô-sêng-si̍t.
 
 **insignificant**, bô-siang-kan; bô-kài-tsài; bô-chhiet-iàu; kàu tî-kò-khṳ̀.
 
@@ -544,7 +544,7 @@ instead of, thòi.
 
 **insupportable**, tng-m̄-khí; siũ-m̄-khṳ̀; nãiⁿ-m̄-khṳ̀; lân-tng.
 
-​**insure**, goods &c, pó-ke (of insurance compaby); pa̍k-pó-ke-jī (of the insurer). insurance office, pó-ke. policy, pó-ke-jī; pó-ke-toaⁿ; pó-ke-tsúa.
+**insure**, goods &c, pó-ke (of insurance compaby); pa̍k-pó-ke-jī (of the insurer). insurance office, pó-ke. policy, pó-ke-jī; pó-ke-toaⁿ; pó-ke-tsúa.
 
 **insurrection**, tsak-luãn; huán; mông-huán; puãn-luãn; huán-puãn; húan-lũan; puãn-nge̍k.
 
@@ -590,7 +590,7 @@ instead of, thòi.
 
 **interleave**, kòiⁿ-khang-tsúa; kòiⁿ-khang-pe̍h.
 
-**interline**, soih-jī-tsat; póu-tsù. ​**intermarry**, sie-kè-tshūa.
+**interline**, soih-jī-tsat; póu-tsù. **intermarry**, sie-kè-tshūa.
 
 **intermediate**, sie-keh; tõ-tìn-tang.
 
@@ -644,7 +644,7 @@ instead of, thòi.
 
 **invaluable**, bô-kè-pó; chì-pó-pùe.
 
-​**invariable**, ióng-kú put-e̍k; che̍k-tiāⁿ put-e̍k; siêⁿ-tãu.
+**invariable**, ióng-kú put-e̍k; che̍k-tiāⁿ put-e̍k; siêⁿ-tãu.
 
 **inveigle**, kau-ín; iú-phièn; ín-iú; kuang-lau-nâng.
 
@@ -688,7 +688,7 @@ instead of, thòi.
 
 **irreverence**, put-kèng; khin-bũan; siet-to̍k.
 
-**irresolute**, thiû-thû; thiû-siẽⁿ; tsú-ì m̄-tiāⁿ; būe-ũ kuatⁿì; thiû-thû put-lêng che̍k-kuat; chìn-chìn thò-thò. ​**irrevocable**, tui-m̄-tńg; che̍k-ngân kì-tshut sì-bé lân-tui.
+**irresolute**, thiû-thû; thiû-siẽⁿ; tsú-ì m̄-tiāⁿ; būe-ũ kuatⁿì; thiû-thû put-lêng che̍k-kuat; chìn-chìn thò-thò. **irrevocable**, tui-m̄-tńg; che̍k-ngân kì-tshut sì-bé lân-tui.
 
 **irrigate**, pàng-tsúi lo̍h-tshân; hòu-tsúi; ak-tsúi.
 

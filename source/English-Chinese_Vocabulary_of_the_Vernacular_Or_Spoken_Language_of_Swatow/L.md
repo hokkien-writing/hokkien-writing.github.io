@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/L
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **label**, hō-phiâu; jī-hō; gūa-phiâu; thiap-ma̍k.
 
@@ -20,7 +20,7 @@ date: 2024-03-31 16:11:00
 
 **ladle**, tsúi-kóng; khat-kóng. use, ēng-kóng lâi-ié-tsúi.
 
-​**lady**, a-niêⁿ; niêⁿ-niêⁿ; a-náiⁿ; thài-thài (wife of mandarin); hu-jîn (still higher).
+**lady**, a-niêⁿ; niêⁿ-niêⁿ; a-náiⁿ; thài-thài (wife of mandarin); hu-jîn (still higher).
 <!--more-->
 **lag**, behind, lo̍h-ãu; tùe-m̄-tie̍h; m̄-chìn-tsôiⁿ.
 
@@ -60,7 +60,7 @@ date: 2024-03-31 16:11:00
 
 **lard**, tṳ-lâ; tṳ-iû. to melt, luah-lâ. to fry in lard, chien-lâ.
 
-​**large**, tōa; khuah-tōa; kûiⁿ-tōa; tōa-bó-kâi; lō-ho. large-hearted, hái-liãng; liãng-tōu khuan-khuah.
+**large**, tōa; khuah-tōa; kûiⁿ-tōa; tōa-bó-kâi; lō-ho. large-hearted, hái-liãng; liãng-tōu khuan-khuah.
 
 **largess**, siéⁿ-mue̍h; khèng-siéⁿ; tãi-siéⁿ; pù-si (or sì); khàu-siéⁿ (to soldiers).
 
@@ -106,7 +106,7 @@ date: 2024-03-31 16:11:00
 
 **lavender**, water, hue-lōu-tsúi.
 
-​**lavish**, lâng-hùi; hṳ̂-hùi; phah-phún-sái; chhia-chhíⁿ; chhia-hûa.
+**lavish**, lâng-hùi; hṳ̂-hùi; phah-phún-sái; chhia-chhíⁿ; chhia-hûa.
 
 **law**, huap; lu̍t-huap; lu̍t-lī; huap-tōu. keep, siú-huap. break, huãm-huap. lawful, ha̍h-huap. lawless, bô-huap; nge̍k-huap.
 
@@ -146,7 +146,7 @@ date: 2024-03-31 16:11:00
 
 **least**, siãng-sòi; tsùe-sòi; tsùe-mûiⁿ. in the least, hâu-lî; sut-kiáⁿ; se-su-kiáⁿ. not in the least, pẽng-bô; bô che̍k-sut-kiáⁿ. at the very least, siãng-kiám.
 
-​**leather**, phûe; se̍k-phûe. to dress, se̍k-phûe. shoes, phûe-ôi.
+**leather**, phûe; se̍k-phûe. to dress, se̍k-phûe. shoes, phûe-ôi.
 
 **leave**, lī; lī-khui; lī-pie̍t; sie-pie̍t. off, kài; keh; kói; hiah. to take, sî-pie̍t; chiãm-pie̍t. behind, pàng-tiāu; ka-lau̍h; khì-tiāu; zũi-lo̍h (at death). loath to leave, siá-m̄-tit; siá put-tit-khṳ̀. leavings, só-tshûn.
 
@@ -196,7 +196,7 @@ date: 2024-03-31 16:11:00
 
 **lest**, mién; sái-kàu-mín; khióng-ùi; khióng-phàⁿ; kiaⁿ-ùi; ṳ̃-hûang; ṳ̃-mín.
 
-**let**, hṳ́; ṳ́; hàuⁿ; tsún. a house, sùe-tshù pun nâng. into, ji̍p. down, pàng-lo̍h. go, pàng. me see, pun-uá-thóiⁿ. let us go, lâi-khṳ̀. let him do it, thèng-i khṳ̀-tsò; kui-i khṳ̀-tsò; thãi-i khṳ̀-tsò. off a gun, pàng-phàu; khui-chhèng. off crackers, ​phah-phòng-phiẽ. let not one remain, màiⁿ-tshûn che̍k-kâi. let the request be granted, tsún i-só-khiû. let alone, chhiú màiⁿ-thãng; kṳ̀-i-khṳ̀.
+**let**, hṳ́; ṳ́; hàuⁿ; tsún. a house, sùe-tshù pun nâng. into, ji̍p. down, pàng-lo̍h. go, pàng. me see, pun-uá-thóiⁿ. let us go, lâi-khṳ̀. let him do it, thèng-i khṳ̀-tsò; kui-i khṳ̀-tsò; thãi-i khṳ̀-tsò. off a gun, pàng-phàu; khui-chhèng. off crackers, phah-phòng-phiẽ. let not one remain, màiⁿ-tshûn che̍k-kâi. let the request be granted, tsún i-só-khiû. let alone, chhiú màiⁿ-thãng; kṳ̀-i-khṳ̀.
 
 **letter**, sìn; tsṳ-sìn; phoi-sìn. one, che̍k-tieⁿ-jī; che̍k-kò-sìn; che̍k-huang-sìn. to send, kià-phoi; kià-sìn. letters, jī. of alphabet, jī-bó. a man of, ũ-ha̍k-mn̄g.
 
@@ -245,7 +245,7 @@ date: 2024-03-31 16:11:00
 **lie**, down, tó--loo̍h-khṳ̀ gu̍t. with, tsò-pû-gu̍t. in ambush, mâiⁿ-ho̍k; bih-tiām; bih-bûa.
 lieutenant -governor, bú-īⁿ; bú-thâi.
 
-**life**, miāⁿ; sèⁿ-miāⁿ. present, kim-sì; tõ-seⁿ; seⁿ-tsôiⁿ. future, lâi-seⁿ; sí-ãu. life and death, seⁿ-sí. life-time, che̍k-sì-nâng; che̍k-seⁿ-nâng; tsong-sin. all one's ​life-time, chĩn-che̍k-sì. regardless of life, m̄-kù-miāⁿ; m̄-kù sèⁿ-miāⁿ. lifeless, bõi-ua̍h; sí--liáu; pùaⁿ-seⁿ pùaⁿ-sí. to see life, kìⁿ--kùe sì-chhêng. take life, suah-miāⁿ. long, tn̂g-miāⁿ; tn̂g-siū.
+**life**, miāⁿ; sèⁿ-miāⁿ. present, kim-sì; tõ-seⁿ; seⁿ-tsôiⁿ. future, lâi-seⁿ; sí-ãu. life and death, seⁿ-sí. life-time, che̍k-sì-nâng; che̍k-seⁿ-nâng; tsong-sin. all one's life-time, chĩn-che̍k-sì. regardless of life, m̄-kù-miāⁿ; m̄-kù sèⁿ-miāⁿ. lifeless, bõi-ua̍h; sí--liáu; pùaⁿ-seⁿ pùaⁿ-sí. to see life, kìⁿ--kùe sì-chhêng. take life, suah-miāⁿ. long, tn̂g-miāⁿ; tn̂g-siū.
 
 **lift**, khie̍h-khí; khie̍h-phû; hû-phû; hû-khí; kng-phû; kiah. a screen, hien-liâm; kiah-liâm. one's clothes, piáu-phû; tsah-phû; túi-phû. the head, thâu-khak tièⁿ-taⁿ. with lever, kiãu-phû; kiãu-khí. off a lid, iãuⁿ-khàm; khàm iãuⁿ-phû. up a child, phõ--khí-lâi.
 
@@ -271,7 +271,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **lime**, hue. burn, sie-hue. slack, huat-hue; huat-hue-pôu. mix, chhiau-hue. sift, thai-hue. sifted, hue-kiáⁿ. refuse, hue-thâu. kiln, hue-iê. debris of shells for making lime, sap.
 
-**limit**, hãn; kài-hãn; hãn-liãng; tōu-hãn; hãn-chí. pass the limited time, kùe-hãn-khî. ​**limp**, to, chhiãng. adj., nńg; lùn.
+**limit**, hãn; kài-hãn; hãn-liãng; tōu-hãn; hãn-chí. pass the limited time, kùe-hãn-khî. **limp**, to, chhiãng. adj., nńg; lùn.
 
 **limpid**, chheng; chheng-chẽng.
 
@@ -325,7 +325,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **litter**, iâng-kiē.
 
-​**little**, sòi; chié; se-su; se-su-kiáⁿ; se-kiáⁿ; lân-ló; sut-kiáⁿ; tiám-kiáⁿ; tshoh-kiáⁿ-niⁿ; ni̍hⁿ-ni̍hⁿ-kiáⁿ; lân-su; su-su-kiáⁿ. little by little, chiãm-chiãm. a little, tshó-lia̍k; chhiáu-chhiáu. wait a little, tán--khùn-kiáⁿ; khiã-tiām--chē; chhiáⁿ-thẽng--chē. see SMALL.
+**little**, sòi; chié; se-su; se-su-kiáⁿ; se-kiáⁿ; lân-ló; sut-kiáⁿ; tiám-kiáⁿ; tshoh-kiáⁿ-niⁿ; ni̍hⁿ-ni̍hⁿ-kiáⁿ; lân-su; su-su-kiáⁿ. little by little, chiãm-chiãm. a little, tshó-lia̍k; chhiáu-chhiáu. wait a little, tán--khùn-kiáⁿ; khiã-tiām--chē; chhiáⁿ-thẽng--chē. see SMALL.
 
 **liturgy**, khî-táu-sek; khî-táu-bûn. to chant, liām-keng.
 
@@ -379,7 +379,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **longevity**, chhiâng-siū; tn̂g-miāⁿ; siū-nguân tn̂g.
 
-​**longitude**, keⁿ-sùaⁿ. and latitude, keⁿ-hūi.
+**longitude**, keⁿ-sùaⁿ. and latitude, keⁿ-hūi.
 
 **look**, thóiⁿ. take a, thóiⁿ-che̍k-ē; thóiⁿ-che̍k-ma̍k. up, tièⁿ--khí-lâi thóiⁿ. down, thóiⁿ-kẽ; phak--lo̍h-lâi thóiⁿ. back, ut-tńg-thâu thóiⁿ; hûe-thâu thóiⁿ. askance, siâ-ma̍k-thóiⁿ. after, kuan-thóiⁿ; kuan-siú; thóiⁿ-siú; chéⁿ. over, kiám-tiám (many items); tshó-lia̍k-thóiⁿ (cursorily, as book or letter). looker-on, phâng-piⁿ-thóiⁿ kâi-nâng. looking-glass, mīn-kiàⁿ. lookout turret, mōⁿ-lâu. look up a dictionary, chhê-jī-tién.
 
@@ -405,7 +405,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **lotus**, nôiⁿ-hue.
 
-**loud**, tōa-siaⁿ. noise, tōa-ē-hiáng. thunder, lûi ​kia-leh; lûi phah-kia-leh.
+**loud**, tōa-siaⁿ. noise, tōa-ē-hiáng. thunder, lûi kia-leh; lûi phah-kia-leh.
 
 **louse**, sat-bó. breed, seⁿ-sat-bó; seⁿ-sat. comb out, pìn-tiāu sat. catch, lia̍h-sat. crush with nails or teeth, tak-sat.
 
@@ -439,7 +439,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **lunch**, tiám-sim; chia̍h-ji̍t-tàu; chia̍h-pùaⁿ-kùa; chia̍h-tǹg-kiáⁿ.
 
-​**lungs**, hùi; phàⁿ-kuaⁿ. disease of, hùi-pēⁿ; sieⁿ-hùi; lãi-siang; hṳ-sún. inflammation of, hùi-húe.
+**lungs**, hùi; phàⁿ-kuaⁿ. disease of, hùi-pēⁿ; sieⁿ-hùi; lãi-siang; hṳ-sún. inflammation of, hùi-húe.
 
 **lurk**, tiàm; mâiⁿ-ho̍k tiàm-miⁿ; bih; bih-bûa.
 

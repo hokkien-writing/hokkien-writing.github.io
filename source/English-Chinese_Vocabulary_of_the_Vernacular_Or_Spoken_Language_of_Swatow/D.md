@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **dabble**, *in water*, mak-tsúi; sn̍g-tsúi. *learn superficially*, ēng m̄-kàu-kang; chhién-ha̍k; tshó-lia̍k pat-lân-ló.
 
@@ -46,7 +46,7 @@ date: 2024-03-31 16:11:00
 
 **dash**, *against*, tsuãng--tie̍h. *dash to pieces*, tsuãng-phùa; tsuãng-hāi. *on the ground*, kuàn--lo̍h-khṳ̀; sek-tõ-tī. *dash in the face*, tsuah i-kâi-mīn; phuah i-kâi-mīn. *dash out writing*, tiám-tiāu-jī.
 
-​**dastard**, bô-táⁿ; tò-thò-táⁿ; táⁿ khiap; bun-táⁿ.
+**dastard**, bô-táⁿ; tò-thò-táⁿ; táⁿ khiap; bun-táⁿ.
 
 **date**, ji̍t-chí; nîⁿ-ji̍t. *to date a letter*, siá-ji̍t-chí.
 
@@ -68,7 +68,7 @@ date: 2024-03-31 16:11:00
 
 **dead**, sí. *man*, sí-nâng. *body*, sin-si; si-hâi; si-siú. *he is dead*, kùe-sì--liáu; sî-sì--liáu; sí--khṳ̀. *dead tree*, chhiū kou-ta. *dead drunk*, tsùi kàu--mîⁿ-mîⁿ; tsùi kàu hun-hun mîⁿ-mîⁿ. *among the dead*, im--kan; àm--thâu. *deadly poison*, ta̍k; ta̍k-sí-nâng. *deadly hatred*, put-kāng tài-thiⁿ kâi-chhiû.
 
-**deaf**, hĩⁿ lâng. *slightly*, hĩⁿ se-su-kiáⁿ-lâng. *deafening*, ​hĩⁿ-khang-kúi ōng-ōng-kiè. pretend to be deaf and dumb, tèⁿ-lâng tèⁿ-é; tsuang-lâng tsuang-é; tèⁿ-tsò thiaⁿ-m̄-kìⁿ; tèⁿ-lâng tèⁿ-sat.
+**deaf**, hĩⁿ lâng. *slightly*, hĩⁿ se-su-kiáⁿ-lâng. *deafening*, hĩⁿ-khang-kúi ōng-ōng-kiè. pretend to be deaf and dumb, tèⁿ-lâng tèⁿ-é; tsuang-lâng tsuang-é; tèⁿ-tsò thiaⁿ-m̄-kìⁿ; tèⁿ-lâng tèⁿ-sat.
 
 **deal**, trade, bói-bōi; tsò-seng-lí; kau-e̍k; kau-kuan. a good deal, hoh-tsōi. deal well with any one, hó-khúan-thãi; kãu-thãi. a deal board, che̍k-kò-pang; che̍k-phièn-pang; che̍k-liàm-pang.
 
@@ -106,7 +106,7 @@ date: 2024-03-31 16:11:00
 
 **decay**, sue; sue-mûiⁿ. rot, àu; àu-tshàu. decayed tooth, tsù-khí.
 
-​**decease**, kùe-sì; kùe-sin. *deceased parents*, kháu-pí. *my deceased father*, lẽng-soiⁿ-kháu; lẽng-soiⁿ-tsun.
+**decease**, kùe-sì; kùe-sin. *deceased parents*, kháu-pí. *my deceased father*, lẽng-soiⁿ-kháu; lẽng-soiⁿ-tsun.
 
 **deceit**, kan-tsà; khũi-kòi; kan-kòi; khũi-phièn; kuang-phièn; tshuah *(in trade)*. *deception*, ké-sṳ̄; mûaⁿ-mâng-ma̍k; iám-sek.
 
@@ -150,7 +150,7 @@ date: 2024-03-31 16:11:00
 
 **deem**, siẽⁿ. *to deem it insufficient*, thóiⁿ-tsò m̄-kàu; íⁿ-ûi put-tsok.
 
-​**deep**, chhim; chhim-tîm. *the deep*, chhim-uan; chhim-thâm. *deep thought*, chhim-sṳ; chhim-siẽⁿ. *deep colour*, chhim-sek; sek-esúi chhim. *dig deep*, liú-chhim. *deeply learned*, ha̍k-mn̄g chhim; tsṳ-lí chhim. *deep voise*, siaⁿ lô-lô; tàⁿ-ūe o-o-kiè. *deeply absorbed in anything*, ji̍p-sîn. *a deep and dangerous fellow*, im-thim-hāi.
+**deep**, chhim; chhim-tîm. *the deep*, chhim-uan; chhim-thâm. *deep thought*, chhim-sṳ; chhim-siẽⁿ. *deep colour*, chhim-sek; sek-esúi chhim. *dig deep*, liú-chhim. *deeply learned*, ha̍k-mn̄g chhim; tsṳ-lí chhim. *deep voise*, siaⁿ lô-lô; tàⁿ-ūe o-o-kiè. *deeply absorbed in anything*, ji̍p-sîn. *a deep and dangerous fellow*, im-thim-hāi.
 
 **deer**, te̍k. *sinews*, te̍k-kṳn. *horns*, te̍k-zông. *musk-deer*, siā-káu.
 
@@ -194,7 +194,7 @@ date: 2024-03-31 16:11:00
 
 **degenerate**, *times*, hong-so̍k pí-soiⁿ m̄-tâng. *children*, put-siàu-tsṳ́; put-siàu kiáⁿ-tĩ.
 
-**degrade**, *officially*, kàng-khip. *three degrees*, ​kàng-saⁿ-khip. *without dismissal*, khṳ̍-cheh lâu-jīm. *entirely*, thut-cheh; le̍h-cheh.
+**degrade**, *officially*, kàng-khip. *three degrees*, kàng-saⁿ-khip. *without dismissal*, khṳ̍-cheh lâu-jīm. *entirely*, thut-cheh; le̍h-cheh.
 
 **degree**, téng; téng-khip; pín-khip. *to have a degree*, ũ-kong-miâⁿ. *to get the 1st literary degree*, ji̍p-o̍h; ji̍p-siù-tsâi. *the 2nd*, tèng-kṳ́-jîn. *the 3rd*, tèng-chìn-sṳ̃. *the 4th*, tiám-hân-lîm. *a purchased degree*, kàm-seng. *to buy such*, kiẽn-kàm-seng. *a graduate by competition*, chiàⁿ-thû; chiàⁿ-lōu. *a graduate by purchase*, phien-thû; ĩ-lōu. *degrees of relationship*, káu-tso̍k; ngóu-ho̍k; chhin-so. *by degrees*, chiãm-chiãm; che̍k-tsâng che̍k-tsâng; che̍k-tsãm che̍k-tsãm.
 
@@ -226,7 +226,7 @@ date: 2024-03-31 16:11:00
 
 **delirious**, kông; kông-kông; hun-kông; m̄-tsai-nâng; put-tsai nâng-sṳ̄; hũn-tàⁿ; thèng-tàⁿ-ūe; sim hũn; kông-tien kông-tien.
 
-**deliver**, kiù; chín-kiù; kiù-iẽn; kiù-tshut; khan-kiù; kiù-tsõ. *over*, kau; kau-hôiⁿ; kau-hù; kòi-sàng. *up*, ​kiáu; kiáu-hôiⁿ; hõng-hôiⁿ; kau-hûe; khie̍h tn̍g-lâi-hôiⁿ; khie̍h-hôiⁿ. *an order*, thûan-mẽng. *deliver up oneself*, ka-kī tshut--lâi jīn-tsũe; ka-kī sàng-ka-kī. *be delivered of a child*, seⁿ-kiáⁿ; a-nôuⁿ tshut-sì.
+**deliver**, kiù; chín-kiù; kiù-iẽn; kiù-tshut; khan-kiù; kiù-tsõ. *over*, kau; kau-hôiⁿ; kau-hù; kòi-sàng. *up*, kiáu; kiáu-hôiⁿ; hõng-hôiⁿ; kau-hûe; khie̍h tn̍g-lâi-hôiⁿ; khie̍h-hôiⁿ. *an order*, thûan-mẽng. *deliver up oneself*, ka-kī tshut--lâi jīn-tsũe; ka-kī sàng-ka-kī. *be delivered of a child*, seⁿ-kiáⁿ; a-nôuⁿ tshut-sì.
 
 **delude**, mîⁿ-ho̍k; iú-ho̍k; mûaⁿ-phièn. *delusion*, àm-mũeⁿ.
 
@@ -272,7 +272,7 @@ date: 2024-03-31 16:11:00
 
 **depend**, *on*, kõu; íⁿ-kõu; íⁿ-nãiⁿ; úa; khùa-chiãng; khùa-pn̄g; tit-pn̄g; úa-kõu. *it depends on you*, tõ-lṳ́ tsú-ì.
 
-​**deplore**, pui-ai; khàu; hûan-ló. *deplorable*, khó-sieh; khó-thiàⁿ; khó-siang.
+**deplore**, pui-ai; khàu; hûan-ló. *deplorable*, khó-sieh; khó-thiàⁿ; khó-siang.
 
 **deposition**, kháu-keng.
 
@@ -320,7 +320,7 @@ date: 2024-03-31 16:11:00
 
 **desert**, *to*, khì-tso̍h; pàng-tiāu; khì-tiāu. *an army*, tô-kun; tsáu-kun; pī-kun. *in face of the enemy*, lîm-tīn kũ-phàⁿ; lîm-tīn thò-sok.
 
-​**deserve**, eng-kai; kham-kai. *death*, kai-sí. *deserving*, ũ-kong; kham-kai-tit.
+**deserve**, eng-kai; kham-kai. *death*, kai-sí. *deserving*, ũ-kong; kham-kai-tit.
 
 **desiccate**, khùa-ta; pha̍k-ta *(in the sun)*; lā-ta *(in the wind)*; sài-ta; sài-kang.
 
@@ -362,7 +362,7 @@ date: 2024-03-31 16:11:00
 
 **detach**, thiah-khui; hun-buah *(as dif. persons to dif. pieces of work)*.
 
-**detain**, lâu; tau-lâu; lâu-tsũ; lâu-kiâⁿ; tam-koh. *as*​*guest*, lâu--nâng chia̍h-pn̄g; lâu-nāⁿ-kò chia̍h. *by force*, khiâng-lâu; ngẽ-lâu.
+**detain**, lâu; tau-lâu; lâu-tsũ; lâu-kiâⁿ; tam-koh. *as**guest*, lâu--nâng chia̍h-pn̄g; lâu-nāⁿ-kò chia̍h. *by force*, khiâng-lâu; ngẽ-lâu.
 
 **detect**, thóiⁿ-phùa; tshūe--tie̍h; siau--tie̍h; chhê--tshut; lia̍h.
 
@@ -422,7 +422,7 @@ date: 2024-03-31 16:11:00
 
 **diary**, hêng-ûi-phõu; ji̍t-kì-lo̍k.
 
-​**dice**, tâu-kiáⁿ; kut-tâu. *dice box*, tâu-kiáⁿ-a̍p. *gamble with dice*, pua̍h-tâu-kiáⁿ. *loaded dice*, kùan-în-tâu.
+**dice**, tâu-kiáⁿ; kut-tâu. *dice box*, tâu-kiáⁿ-a̍p. *gamble with dice*, pua̍h-tâu-kiáⁿ. *loaded dice*, kùan-în-tâu.
 
 **dictate**, hun-hù; mẽng-lẽng. *write to my dictation*, uá-liām lṳ́-siá.
 
@@ -466,7 +466,7 @@ date: 2024-03-31 16:11:00
 
 **diminish**, kiám; tṳ̂-kiám; khà-kiám; kiám-chié. *the population*, *as epidemic*, kiám-nâng-kháu.
 
-​**dimity**, siâ-bûn-pòu.
+**dimity**, siâ-bûn-pòu.
 
 **dimple**, *in chin*, ẽ-hâi-tsuh. *in cheeks*, chiú-tsuh.
 
@@ -510,7 +510,7 @@ date: 2024-03-31 16:11:00
 
 **discern**, thóiⁿ-tshut; thóiⁿ-tit-tshut. *discernment*, tì-hũi; tì-sek; kièn-sek; tshong-mêng. *quick*, ũ-mién-tshâi.
 
-​**discharge**, *servant*, sî; màiⁿ; m̃-ēng; keh-tiāu. *a prisoner*, sek-pàng. *cargo*, khí-hùe. *duty*, chĩn-pńg-hūn. *an account*, khou-tiāu-siàu.
+**discharge**, *servant*, sî; màiⁿ; m̃-ēng; keh-tiāu. *a prisoner*, sek-pàng. *cargo*, khí-hùe. *duty*, chĩn-pńg-hūn. *an account*, khou-tiāu-siàu.
 
 **disciple**, mn̂g-seng; ha̍k-seng; tĩ-tsṳ́; mn̂g-thû.
 
@@ -558,7 +558,7 @@ date: 2024-03-31 16:11:00
 
 **disdain**, thóiⁿ-khin; thóiⁿ-m̄-chiẽⁿ; miáuⁿ-sĩ; thóiⁿ-m̄-chiẽⁿ-ma̍k; lia̍h--nâng iàm-khì. *disdainful*, thóiⁿ-nâng m̄-tõ-ma̍k; ma̍k-khang khuah.
 
-​**disease**, pēⁿ; mâuⁿ-pēⁿ; pēⁿ-thiàⁿ; pēⁿ-chèng. *chronic*, kú-tn̂g-pēⁿ; kú-chi̍t. *have disease*, ũ-pēⁿ; tì-pēⁿ; phùa-pēⁿ. *cure*, ui-pēⁿ. *diagnosis of*, jīn-pēⁿ. *eye-disease*, ma̍k-chiu thiàⁿ.
+**disease**, pēⁿ; mâuⁿ-pēⁿ; pēⁿ-thiàⁿ; pēⁿ-chèng. *chronic*, kú-tn̂g-pēⁿ; kú-chi̍t. *have disease*, ũ-pēⁿ; tì-pēⁿ; phùa-pēⁿ. *cure*, ui-pēⁿ. *diagnosis of*, jīn-pēⁿ. *eye-disease*, ma̍k-chiu thiàⁿ.
 
 **disembark**, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-tsúi.
 
@@ -606,7 +606,7 @@ date: 2024-03-31 16:11:00
 
 **dismal**, *voice*, ai-siaⁿ; pui-ai kâi-siaⁿ. *solitary*, kou-hâng sok-mo̍k.
 
-​**dismantle**, *a ship*, thiah-tiāu khang-tsûn-tháng.
+**dismantle**, *a ship*, thiah-tiāu khang-tsûn-tháng.
 
 **dismast**, chi̍h-ûi.
 
@@ -654,7 +654,7 @@ date: 2024-03-31 16:11:00
 
 **disproportion**, phùe-m̄-kùe; kah-m̄-kùe.
 
-​**dispute**, cheⁿ-lũn; sie-cheⁿ; piẽn-poh; sie-à; kau-soi. *loud angry disputation*, tshâu-nãuⁿ.
+**dispute**, cheⁿ-lũn; sie-cheⁿ; piẽn-poh; sie-à; kau-soi. *loud angry disputation*, tshâu-nãuⁿ.
 
 **disquieted**, m̄-uaⁿ-sim; sim bô-phêng-an; m̄-kùe-sim; m̄-pàng-sim; khùa-sim; hûan-sim.
 
@@ -702,7 +702,7 @@ date: 2024-03-31 16:11:00
 
 **distance**, hñg-kṳ̃n. *according to*, lũn hñg-kṳ̃n. *what is the?* jie̍h-hñg? *to see at a*, hñg-hñg mōⁿ--kìⁿ. *between Swatow and Ch'ao-chow-foo is 9 leagues*, Sùaⁿ-thâu khṳ̀ Tiê-chiu-hú ũ káu-phòu-lōu.
 
-​**distaste**, m̄-ha̍h-ì; bô-sim-hiàng; bô-hiàng; bô-ì-hiàng.
+**distaste**, m̄-ha̍h-ì; bô-sim-hiàng; bô-hiàng; bô-ì-hiàng.
 
 **distend**, tièⁿ; tièⁿ-khui.
 
@@ -758,7 +758,7 @@ date: 2024-03-31 16:11:00
 
 **dizziness**, thâu-khak hîn; thâu hîn; hîn.
 
-**do**, tsò; tsak; ûi; kiâⁿ; tsãu. *do business*, tsò-seng-lí. *a favour*, si-ṳn; tsò-nâng-chhêng. *to do as we would be*​*done by*, thãi-nâng zû-kí. *do away with*, tṳ̂-khṳ̀; ka̍k-tiāu; kói. *how do you do?* lṳ́ khin-kiāⁿ? *do not*, màiⁿ; m̄-hó; mín. *I have nothing to do with it*, ṳ́-úa bô-kan; bó-tāi; bô-hūn. *this will never do*, m̄-tsò-tit. *it will do*, tsò-tit; õi--tsò-tit. *what shall I do!* aìⁿ-tsò-nî-mue̍h! *I can do nothing but run away*, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ, bô-pa̍t-lōu. *do one's duty*, chĩn-pńg-hūn. *what is all this to do about?* kā-kā-jiáng sĩ-mih ûan-kù?
+**do**, tsò; tsak; ûi; kiâⁿ; tsãu. *do business*, tsò-seng-lí. *a favour*, si-ṳn; tsò-nâng-chhêng. *to do as we would be**done by*, thãi-nâng zû-kí. *do away with*, tṳ̂-khṳ̀; ka̍k-tiāu; kói. *how do you do?* lṳ́ khin-kiāⁿ? *do not*, màiⁿ; m̄-hó; mín. *I have nothing to do with it*, ṳ́-úa bô-kan; bó-tāi; bô-hūn. *this will never do*, m̄-tsò-tit. *it will do*, tsò-tit; õi--tsò-tit. *what shall I do!* aìⁿ-tsò-nî-mue̍h! *I can do nothing but run away*, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ, bô-pa̍t-lōu. *do one's duty*, chĩn-pńg-hūn. *what is all this to do about?* kā-kā-jiáng sĩ-mih ûan-kù?
 
 **docile**, koi-kà-sī; sũn-sũn; thiaⁿ-nâng-tàⁿ.
 
@@ -800,7 +800,7 @@ date: 2024-03-31 16:11:00
 
 **dot**, che̍k-tiám.
 
-​**dotard**, láu-kàu-ngo̍h; láu-kàu-thūe.
+**dotard**, láu-kàu-ngo̍h; láu-kàu-thūe.
 
 **dote**, ne̍k-ài; liẽn-sieh.
 
@@ -844,7 +844,7 @@ date: 2024-03-31 16:11:00
 
 **draught**, *see*[draft](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#draft). *of fish*, che̍k-mãng-hṳ̂. *of wind*, thong-huang. *in a draught*, tng-huang-lōu.
 
-**draw**, thua; po̍ih; túi. *water*, kũaⁿ-tsúi; pua̍h-tsúi. *out*, po̍ih-tshut; mán-tshut; thua-tshut. *teeth*, khieh-khí. *a sliding window*, thuah. *a sword*, po̍ih-kiàm; po̍ih-to. *poison*, po̍ih-ta̍k. *a bow*, khui-keng; mán-keng. *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ. *draw up one's legs*, kha kiu--khí-lâi. *draw breath*, tháu-khùi *(also, to sigh)*. ​*opium-smoke*, kuh-hun; po̍k-hun. *lots*, khieh-khau; po̍ih-chhiam; thiu-chhiam-kiáⁿ. *a carriage*, thua-chhia. *nails*, po̍ih-teng; kiãu-teng. *a net*, po̍ih-mãng; chhiû-mãng. *draw near*, túi-bûa. *near (approach)*, kiâⁿ-bûa; chiũ-kṳ̃n; kṳ̃n-bûa. *attention*, ín-tõng nâng-sim; tõng nâng-sim-ma̍k. *up a line of battle*, pâi-tīn. *a list*, khui-mêng kak-mue̍h; kiám-tiám. *as loadstone*, hiap-bûa. *out of the water*, liâu; kou. *a splinter*, liàm-tshut; túi-tshut; thie-tshut *(with a needle)*. *blood*, lâu-hueh; pàng-tshut-hueh. *money from bank*, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n; tùi-ngṳ̂u. *a curtain*, liâm sa-khui; liâm kiáu-phû. *draw away*, ín-tshūa. *entice*, ín-iú; iú-ho̍k. *draw on stockings*, chhēng-bue̍h. *draw back*, tò-thò; thò; thò-pōu.
+**draw**, thua; po̍ih; túi. *water*, kũaⁿ-tsúi; pua̍h-tsúi. *out*, po̍ih-tshut; mán-tshut; thua-tshut. *teeth*, khieh-khí. *a sliding window*, thuah. *a sword*, po̍ih-kiàm; po̍ih-to. *poison*, po̍ih-ta̍k. *a bow*, khui-keng; mán-keng. *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ. *draw up one's legs*, kha kiu--khí-lâi. *draw breath*, tháu-khùi *(also, to sigh)*. *opium-smoke*, kuh-hun; po̍k-hun. *lots*, khieh-khau; po̍ih-chhiam; thiu-chhiam-kiáⁿ. *a carriage*, thua-chhia. *nails*, po̍ih-teng; kiãu-teng. *a net*, po̍ih-mãng; chhiû-mãng. *draw near*, túi-bûa. *near (approach)*, kiâⁿ-bûa; chiũ-kṳ̃n; kṳ̃n-bûa. *attention*, ín-tõng nâng-sim; tõng nâng-sim-ma̍k. *up a line of battle*, pâi-tīn. *a list*, khui-mêng kak-mue̍h; kiám-tiám. *as loadstone*, hiap-bûa. *out of the water*, liâu; kou. *a splinter*, liàm-tshut; túi-tshut; thie-tshut *(with a needle)*. *blood*, lâu-hueh; pàng-tshut-hueh. *money from bank*, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n; tùi-ngṳ̂u. *a curtain*, liâm sa-khui; liâm kiáu-phû. *draw away*, ín-tshūa. *entice*, ín-iú; iú-ho̍k. *draw on stockings*, chhēng-bue̍h. *draw back*, tò-thò; thò; thò-pōu.
 
 **draw**, *pictures*, ūe-ūe; ūe-ang-kiáⁿ; ūe-sièⁿ. *a line*, ūe-hûn; phah-keh. *a landscape*, ūe-suaⁿ-tsúi. *a map*, ūe-tôu. *one's portrait*, ūe-sièⁿ; ūe-hí-sîn; ūe-siáu-iáⁿ.
 
@@ -870,7 +870,7 @@ date: 2024-03-31 16:11:00
 
 **drenched**, pun-tsúi chìm. *with rain*, khṳt-hõu ak; ak kàu-lok-lok; tsâng kàu-thúe-thúe.
 
-**dress**, tá-pàn; ho̍k-sek; chhēng-saⁿ; i-ho̍k; sin-chhēng. *fine dress*, tá-pàn phâi-chhiâng. *to shew off*, tsuang-pàn iâu-pái. *a wound*, pa̍k-bûa; ūaⁿ-pòu-liâu. *the feet of women*, tîⁿ-kha; ūaⁿ-kha. *the hair*, siu-thâu; siu-thâu-môⁿ; lua̍h-thâu. *food*, tsṳ́-chia̍h; pa-lói-chia̍h; sṳ̃-lí-chia̍h. *skins*, se̍k-phûe. *stone*, phah-chie̍h; chie̍h khieh-kng. *with flags, as ship or street*, kat-tshái. *dressing-gown*, siu-thâu-saⁿ. ​*-case*, kiàⁿ-thâi; kiàⁿ-thâi-keh. *-table*, siu-tsng-thâi. *-room*, siu-thâu-pâng.
+**dress**, tá-pàn; ho̍k-sek; chhēng-saⁿ; i-ho̍k; sin-chhēng. *fine dress*, tá-pàn phâi-chhiâng. *to shew off*, tsuang-pàn iâu-pái. *a wound*, pa̍k-bûa; ūaⁿ-pòu-liâu. *the feet of women*, tîⁿ-kha; ūaⁿ-kha. *the hair*, siu-thâu; siu-thâu-môⁿ; lua̍h-thâu. *food*, tsṳ́-chia̍h; pa-lói-chia̍h; sṳ̃-lí-chia̍h. *skins*, se̍k-phûe. *stone*, phah-chie̍h; chie̍h khieh-kng. *with flags, as ship or street*, kat-tshái. *dressing-gown*, siu-thâu-saⁿ. *-case*, kiàⁿ-thâi; kiàⁿ-thâi-keh. *-table*, siu-tsng-thâi. *-room*, siu-thâu-pâng.
 
 **dribblets**, lân-su; lân-ló.
 
@@ -914,7 +914,7 @@ date: 2024-03-31 16:11:00
 
 **drunk**, chia̍h-chiú-tsùi; tsùi-chiú; tsùi-thûi. *drunkard*, hàuⁿ-chia̍h-chiú; hàuⁿ-chiú; chiú-thû.
 
-​**dry**, ta. *in the sun*, pha̍k-ta. *in the air or wind*, lā-ta; khau-ta; tshue-ta. *at the fire*, pūe-ta. *season*, *as wood*, khùa-ta. *wipe dry*, chhit-ta.
+**dry**, ta. *in the sun*, pha̍k-ta. *in the air or wind*, lā-ta; khau-ta; tshue-ta. *at the fire*, pūe-ta. *season*, *as wood*, khùa-ta. *wipe dry*, chhit-ta.
 
 **dubious**, khó-gî; hó-gî; bô-tiāⁿ-tie̍h.
 
@@ -960,7 +960,7 @@ date: 2024-03-31 16:11:00
 
 **dusk**, mêⁿ-hng; háⁿ-hun; siè-siè-àm; siè-siè thóiⁿ-m̄-kìⁿ nâng-mīn; háⁿ-hun-kiáⁿ; háⁿ-bu.
 
-**dust**, thôu-êng; thôu-hún; tîn-êng; sua-êng; sua-thôu. *dusty*, seⁿ-thôu-hún. *raise*, eng; kiauh-sua; iauh-sua. *beat off*, pũaⁿ-tiāu sua-êng. *shake off*, hĩⁿ-tiāu thôu-hún. *to*​*dust*, tshóiⁿ-tiāu tîn-ai. *duster (of feathers)*, koi-môⁿ-tshóiⁿ. *dust-pan*, pùn-táu. *dust-basket*, pùn-ki.
+**dust**, thôu-êng; thôu-hún; tîn-êng; sua-êng; sua-thôu. *dusty*, seⁿ-thôu-hún. *raise*, eng; kiauh-sua; iauh-sua. *beat off*, pũaⁿ-tiāu sua-êng. *shake off*, hĩⁿ-tiāu thôu-hún. *to**dust*, tshóiⁿ-tiāu tîn-ai. *duster (of feathers)*, koi-môⁿ-tshóiⁿ. *dust-pan*, pùn-táu. *dust-basket*, pùn-ki.
 
 **dutiful**, kiâⁿ-hàu; hàu-tsṳ́; chĩn-pńg-hūn; hàu-sũn; sũn-tshông.
 

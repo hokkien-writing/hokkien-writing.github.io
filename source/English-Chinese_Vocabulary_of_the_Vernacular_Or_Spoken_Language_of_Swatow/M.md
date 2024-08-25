@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/M
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **Macao**, Má-káu; ò-mn̂g.
 
@@ -32,7 +32,7 @@ date: 2024-03-31 16:11:00
 
 **magnet**, hiap-chie̍h.
 
-​**magnificent**, tsun-iông; tsun-tõng. scenery, khî-kéng.
+**magnificent**, tsun-iông; tsun-tõng. scenery, khî-kéng.
 magnifying glass, hién-mûiⁿ-kiàⁿ.
 
 **magpie**, kheh-chiáu; hí-chiáu; hí-chhiak.
@@ -75,7 +75,7 @@ magnifying glass, hién-mûiⁿ-kiàⁿ.
 
 **mammon**, tshâi-sîn-iâ; chiáu-tshâi-iâ; tshâi-pe̍h.
 
-​**man**, nâng. a, kâi-nâng. mankind, nâng-lūi; sì-jîn; sì-kan-nâng; sì--chiēⁿ kâi-nâng. an old, lãu-nâng-ke. bad, ak-nâng; pháiⁿ-nâng. reach manhood, sêng-teng. men (not including women), nâng-teng; lâm-teng. how many men (i. e. males)? kúi-teng? man-of-war, piaⁿ-tsûn; chièn-tsûn. manslaughter, tshò-suah; gōu-suah.
+**man**, nâng. a, kâi-nâng. mankind, nâng-lūi; sì-jîn; sì-kan-nâng; sì--chiēⁿ kâi-nâng. an old, lãu-nâng-ke. bad, ak-nâng; pháiⁿ-nâng. reach manhood, sêng-teng. men (not including women), nâng-teng; lâm-teng. how many men (i. e. males)? kúi-teng? man-of-war, piaⁿ-tsûn; chièn-tsûn. manslaughter, tshò-suah; gōu-suah.
 
 **manacles**, chhiú-khàu; chhiú-kê.
 
@@ -120,7 +120,7 @@ mantle-piece, húe-lôu-téng.
 
 **manuscript**, chhiú-siá; chhiú-tshau; kó; siá.
 
-**many**, tsōi; ke-ke. too, khah-tsōi; kùe-tsōi. not very, ​bô-hièⁿ-tsōi; bô-mih-tsōi. times, ē-ē; ke-ke-tshṳ̀; tsōi-hûe. thanks, to-siā; tsōi-siā; niáⁿ-chhêng.
+**many**, tsōi; ke-ke. too, khah-tsōi; kùe-tsōi. not very, bô-hièⁿ-tsōi; bô-mih-tsōi. times, ē-ē; ke-ke-tshṳ̀; tsōi-hûe. thanks, to-siā; tsōi-siā; niáⁿ-chhêng.
 
 **map**, tī-tôu; tī-lí-tôu.
 
@@ -150,7 +150,7 @@ mantle-piece, húe-lôu-téng.
 
 **martyr**, ũi-tãu tì-sí; ũi-tãu tì-miāⁿ; ũi-tãu siá-sin.
 
-**mask**, mīn-khak; mīn-bôu; kúi-khak. to put on an ugly mask, kùa siáu-kúi-khak. ​**mason**, hue-kang sai-pẽ; thôu-kang sai-pẽ; tsò-nîⁿ-tsúi; nîⁿ-tsúi.
+**mask**, mīn-khak; mīn-bôu; kúi-khak. to put on an ugly mask, kùa siáu-kúi-khak. **mason**, hue-kang sai-pẽ; thôu-kang sai-pẽ; tsò-nîⁿ-tsúi; nîⁿ-tsúi.
 
 **mass**, of people, nâng-mue̍h lāu-jie̍t.
 
@@ -190,7 +190,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **meagre**, sán; sòu. ground, sán-tī.
 
-​**meal**, a, che̍k-tǹg-pn̄g. full, chia̍h-kàu-pá.
+**meal**, a, che̍k-tǹg-pn̄g. full, chia̍h-kàu-pá.
 
 **meal**, be̍h-hún; be̍h-tshōi.
 
@@ -228,7 +228,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **meet**, sie-ngõ; ngõ--tie̍h; hũe-mīn; siang-hũe; siang-kìⁿ-mīn; siang-phòng; phòng--tie̍h (unexpectedly). together, tsũ-chi̍p; tsũ-hũe; hũe-chi̍p; chi̍p-bûa; kiâⁿ-bûa. go to, ngêng-chih.
 
-​**melancholy**, iu-būn; tshôu-sṳ; tshôu-būn; iu-tshôu; ut-kak; ut-ì; iu-ut. affair, hó-huân-ló; khó-liên.
+**melancholy**, iu-būn; tshôu-sṳ; tshôu-būn; iu-tshôu; ut-kak; ut-ì; iu-ut. affair, hó-huân-ló; khó-liên.
 
 **melodious**, ha̍h-im-ūn; im-ūn thiâu-hûa; thiâu-hûa; siaⁿ-im thiâu-hûa.
 
@@ -280,7 +280,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **merino**, ú-siâ.
 
-​**merit**, kong; kong-lâu; kong-tek. accumulate, chek-kong. meritorious, ũ-kong; siu-kong. and demerit, kong-kùe.
+**merit**, kong; kong-lâu; kong-tek. accumulate, chek-kong. meritorious, ũ-kong; siu-kong. and demerit, kong-kùe.
 
 **merry**, huaⁿ-hí; ko-le; lo-li lo-le. merry-thought of a fowl, koi-heng-kut.
 
@@ -328,7 +328,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **mile**, saⁿ-lí (approximately). three miles, che̍k-phòu.
 
-**military**, bú. station, iâⁿ-pûaⁿ; sìn-tī; iâⁿ-sìn. ​profession, bú-gōi. officers, bú-kuaⁿ. laws, kun-huap; kun-lẽng; kun-lu̍t. examination, kháu-bú; bú-khue. graduate, bú-siù-tsâi; bú-kṳ́-jîn; bú-chìn-sṳ̃. civil and, bûn-bú.
+**military**, bú. station, iâⁿ-pûaⁿ; sìn-tī; iâⁿ-sìn. profession, bú-gōi. officers, bú-kuaⁿ. laws, kun-huap; kun-lẽng; kun-lu̍t. examination, kháu-bú; bú-khue. graduate, bú-siù-tsâi; bú-kṳ́-jîn; bú-chìn-sṳ̃. civil and, bûn-bú.
 
 **militia**, hieⁿ-ióng; ióng-tsàn; mîn-tsàn. to raise, mi̍t-ióng; chie-ióng; kòu-ióng.
 
@@ -358,7 +358,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **minstrel**, chhiè-khek; tshue-siau; pûn-siau; tsak-gau̍h; tsáu-chhiàng (travelling).
 
-​**mint**, a, tsù-chîⁿ-ke̍k. master of the, chîⁿ-ke̍k-kuaⁿ.
+**mint**, a, tsù-chîⁿ-ke̍k. master of the, chîⁿ-ke̍k-kuaⁿ.
 
 **mint**, pô-hò; po̍h-hò.
 minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-mûiⁿ. explain minutely, hun-thiah sòi-siâng.
@@ -403,7 +403,7 @@ minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-m�
 
 **misgovern**, tshâng-hāi liâng-mîn; lũan-chèng.
 
-​**misinterpret**, e̍k-tshò; e̍k-tāⁿ; kói-tāⁿ.
+**misinterpret**, e̍k-tshò; e̍k-tāⁿ; kói-tāⁿ.
 
 **mislay**, pàng m̄-kui-ūi. mislaid, buâng-kìⁿ; tshūe-m̄-kìⁿ.
 
@@ -451,7 +451,7 @@ minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-m�
 
 **moderate**, tsat-tōu; tsat-ēng; m̄-kùe-hūn.
 
-​**modern**, kim; kim-sî. literature, sî-bûn.
+**modern**, kim; kim-sî. literature, sî-bûn.
 
 **modest**, liâm-chhí; tsai-siu; hâm-siu.
 
@@ -494,7 +494,7 @@ monk (Buddhist), hûe-siēⁿ.
 
 **monument**, pi; pi-kì; kong-tek-pi; chie̍h-têng; têng-piáu. ancient, kóu-chiah.
 
-**moon**, gu̍eh. full, gu̍eh-îⁿ. crescent, gu̍eh-keng; sin-gue̍h. half, gu̍eh-pùaⁿ; gu̍eh-pôiⁿ; gu̍eh pùaⁿ-îⁿ; pùaⁿ-pôiⁿ-gu̍eh. rising, gu̍eh chiẽⁿ. eclipse, gu̍eh si̍h. round ​again after eclipse (lucky to see), gu̍eh ho̍k-îⁿ. halo, gu̍eh-hûa; gu̍eh īn. moonless night, gue̍h-àm-mêⁿ. gaze at, siéⁿ-gu̍eh.
+**moon**, gu̍eh. full, gu̍eh-îⁿ. crescent, gu̍eh-keng; sin-gue̍h. half, gu̍eh-pùaⁿ; gu̍eh-pôiⁿ; gu̍eh pùaⁿ-îⁿ; pùaⁿ-pôiⁿ-gu̍eh. rising, gu̍eh chiẽⁿ. eclipse, gu̍eh si̍h. round again after eclipse (lucky to see), gu̍eh ho̍k-îⁿ. halo, gu̍eh-hûa; gu̍eh īn. moonless night, gue̍h-àm-mêⁿ. gaze at, siéⁿ-gu̍eh.
 
 **moor**, iá; khuàng-iá.
 
@@ -534,7 +534,7 @@ monk (Buddhist), hûe-siēⁿ.
 
 **moth**, tsù; tsù-thâng; teng-ngô; tsam-teng-ia̍h.
 
-​**mother**, a-bó; bó-chhin; lãu-bó; a-âi; a-neⁿ; a-niⁿ; a-niêⁿ. your, lẽng-thâng. your late mother, lẽng-soiⁿ-thâng; lẽng-soiⁿ-tshṳ̂. my, ke-bó; ke-tshṳ̂. my late mother, ke-soiⁿ-tshṳ̂; ke-soiⁿ-bó. sister of one's, bó-î. brother of, bó-kũ. wife's mother, tiẽⁿ-m-phûa; nga̍k-bó. husband's mother, ta-ke. step-mother, kì-bó; ãu-bó. real mother, seⁿ-bó; chhin-bó. adoptive, iáng-bó. motherless child, bô-âi-kiáⁿ. mother-of-pearl, ô-kiàⁿ-khak.
+**mother**, a-bó; bó-chhin; lãu-bó; a-âi; a-neⁿ; a-niⁿ; a-niêⁿ. your, lẽng-thâng. your late mother, lẽng-soiⁿ-thâng; lẽng-soiⁿ-tshṳ̂. my, ke-bó; ke-tshṳ̂. my late mother, ke-soiⁿ-tshṳ̂; ke-soiⁿ-bó. sister of one's, bó-î. brother of, bó-kũ. wife's mother, tiẽⁿ-m-phûa; nga̍k-bó. husband's mother, ta-ke. step-mother, kì-bó; ãu-bó. real mother, seⁿ-bó; chhin-bó. adoptive, iáng-bó. motherless child, bô-âi-kiáⁿ. mother-of-pearl, ô-kiàⁿ-khak.
 
 **motion**, see MOVE.
 
@@ -568,7 +568,7 @@ monk (Buddhist), hûe-siēⁿ.
 
 **mouth**, tshùi; kháu. of river, káng-kháu. open, khui-tshùi. shut, tshùi kâm-miⁿ; ha̍p-miⁿ. corners of, tshùi-piⁿ. mouthful, che̍k-tshùi. of tobacco smoke, che̍k-kháu-hun.
 
-**move**, tõng; tín-tãng; iê-tõng; iâu-tõng; iê-tãng; pù-pái. things, puaⁿ-mu̍eh. as chair or table, backwards or forwards, tshâu. lodging, puaⁿ-tshù; ​súa-the̍h; î-kṳ; chhien-kṳ; chhien-súa; puaⁿ-súa. a grave, chhien-suaⁿ; khí-tsàng. the heart, kám-tõng. movable, õi-tín-tãng; ua̍h. movables, ke-húe; ke-si mu̍eh-kiãⁿ.
+**move**, tõng; tín-tãng; iê-tõng; iâu-tõng; iê-tãng; pù-pái. things, puaⁿ-mu̍eh. as chair or table, backwards or forwards, tshâu. lodging, puaⁿ-tshù; súa-the̍h; î-kṳ; chhien-kṳ; chhien-súa; puaⁿ-súa. a grave, chhien-suaⁿ; khí-tsàng. the heart, kám-tõng. movable, õi-tín-tãng; ua̍h. movables, ke-húe; ke-si mu̍eh-kiãⁿ.
 
 **much**, ke; to, tsōi. not, ũ-hãn; bô-hièⁿ-tsōi; bô-mih-tsōi. very much, tōa-bó-mu̍eh; tsōi-tsãi. as much again, ke-che̍k-pũe; ke-che̍k-ûe.
 
@@ -610,7 +610,7 @@ monk (Buddhist), hûe-siēⁿ.
 
 **mustard**, seed, kài-chí; kài-lua̍h-chí; pe̍h-kài-chí. powder, kài-lua̍h-hún.
 
-**musty**, chhiẽⁿ-ĩm; seⁿ-sip-khì; seⁿ-ip-chi̍p; tshàu-kou-hièn. ​**mute** (dumb), é; bõi-tàⁿ-ūe. silent, tiām-tiām; bô-khui-tshùi.
+**musty**, chhiẽⁿ-ĩm; seⁿ-sip-khì; seⁿ-ip-chi̍p; tshàu-kou-hièn. **mute** (dumb), é; bõi-tàⁿ-ūe. silent, tiām-tiām; bô-khui-tshùi.
 
 **mutable**, õi-kói-pièn; õi-kói-piⁿ.
 

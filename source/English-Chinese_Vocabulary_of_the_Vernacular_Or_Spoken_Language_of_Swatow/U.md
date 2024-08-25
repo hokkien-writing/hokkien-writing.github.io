@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/U
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **ubiquity**, bô-só put-tõ; bô-só put-kàu.
 
@@ -30,7 +30,7 @@ date: 2024-03-31 16:11:00
 
 **unaccustomed**, m̄-kùiⁿ-sìⁿ; chheⁿ-hūn; chheⁿ-chhiú.
 
-​**unadorned**, phok-si̍t; bô-hua-tshái; bô-bûn-tshái; bô-iām-tshái.
+**unadorned**, phok-si̍t; bô-hua-tshái; bô-bûn-tshái; bô-iām-tshái.
 
 **unadulterated**, bô-sie-tsham; bô-tshàm-tsa̍p; chẽng; tsok-siâⁿ.
 
@@ -78,7 +78,7 @@ date: 2024-03-31 16:11:00
 
 **unclean**, spirit, siâ-mũeⁿ; siâ-sîn; siâ-kúi.
 
-**uncomfortable**, m̄-sóng-khùai; m̄-khùaⁿ-ua̍h; m̄-su-thiàng; kãu-ue̍h. ​**uncommon**, hui-siêⁿ; m̄-phêng-siêⁿ; chié-ũ; hán-ũ; koh-iēⁿ.
+**uncomfortable**, m̄-sóng-khùai; m̄-khùaⁿ-ua̍h; m̄-su-thiàng; kãu-ue̍h. **uncommon**, hui-siêⁿ; m̄-phêng-siêⁿ; chié-ũ; hán-ũ; koh-iēⁿ.
 
 **unconcerned**, bô-kài-ì; m̄-tõ-ì; chhìn-tshái; bô-chhiet-iàu.
 
@@ -124,7 +124,7 @@ date: 2024-03-31 16:11:00
 
 **unfrequented**, bô-nâng chiẽⁿ-lo̍h; sok-chẽⁿ; chẽⁿ chhiáu-chhiáu; bô-lâi bô-khṳ̀; bô-kha-chiah kàu; sok-mo̍kⁿ.
 
-​**ungovernable**, lân-kuán; oh-kuán.
+**ungovernable**, lân-kuán; oh-kuán.
 
 **ungrateful**, buâng-ṳn; hũ-ngĩ; hiau-chhêng; hiau-chhêng tso̍h-ngĩ; siũ-ṳn put-pò; hiau-hũ-ṳn; bô-jîn-ngĩ.
 
@@ -164,7 +164,7 @@ date: 2024-03-31 16:11:00
 
 **unlucky**, m̄-tsãu-hùe. day, ji̍t-chí m̄-hó; ji̍t tshou; hiong-ji̍t; tshou-ji̍t.
 
-​**unmanageable**, as ship, m̄-siũ-tõa; khan-m̄-tshái; tõa-m̄-khṳ̀.
+**unmanageable**, as ship, m̄-siũ-tõa; khan-m̄-tshái; tõa-m̄-khṳ̀.
 
 **unmarried**, man, būe-tì-ke; būe-siũ-sit; būe-tshūa; būe-hun; būe-chêng chhin-ngêng; būe-cheng ngêng-chhin. woman, būe-kè; būe-tshut-mn̂g; būe-kùe-mn̂g; būe-chêng kè-nâng.
 
@@ -222,7 +222,7 @@ date: 2024-03-31 16:11:00
 
 **unsociable**, m̄-hàuⁿ kau-tshap-nâng; kou-bāu; kou-ta̍k.
 
-​**unspeakable**, tàⁿ-m̄-liáu; lân-tàⁿ; tàⁿ bõi-tit--tie̍h-uân; ngân só-put-chĩn; ngân iā-lân-chĩn.
+**unspeakable**, tàⁿ-m̄-liáu; lân-tàⁿ; tàⁿ bõi-tit--tie̍h-uân; ngân só-put-chĩn; ngân iā-lân-chĩn.
 
 **unsubstantial**, hṳ-phû; bô-si̍t-thói; khang-ké; hṳ-khang.
 
@@ -271,7 +271,7 @@ upside down, tin-tò-thâu; táu-tńg-thâu.
 
 **urbanity**, lói-mãuⁿ; ũ-lói-siàu; hiáu--tit lói-ngî.
 
-**urethra**, jiẽ-kńg. stricture of, jiē-kńg sat. ​**urge**, to, tshui; tshui-pek; kek; piàⁿ-kín; tshui-piàⁿ; tshui-kín. urgent, kín; kín-iàu; iàu-kín; pek-chhiet.
+**urethra**, jiẽ-kńg. stricture of, jiē-kńg sat. **urge**, to, tshui; tshui-pek; kek; piàⁿ-kín; tshui-piàⁿ; tshui-kín. urgent, kín; kín-iàu; iàu-kín; pek-chhiet.
 
 **urine**, jiē. to pass, pàng-jiē; sié-kói; sié-piẽn; siáu-piẽn. retention of, sié-piẽn bõi-kiâⁿ; sié-piẽn m̄-thong (or, m̄-lĩ). incontinence of, siàm-jiē. pass involuntarily, as child, tshūa-jiē. urinal, jiē-hû; mêⁿ-hû; piẽn-hû.
 

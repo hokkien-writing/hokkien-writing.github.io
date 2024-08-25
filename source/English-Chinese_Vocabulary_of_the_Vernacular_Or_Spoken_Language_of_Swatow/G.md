@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/G
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **gabble**, chiauh-chiauh-kiè; kā-kā-kiè.
 
@@ -20,7 +20,7 @@ date: 2024-03-31 16:11:00
 
 **gainsay**, poh-khùi; sie-à.
 
-**gait**, kiâⁿ-pān. slow, kiâⁿ-pān ûn-ûn; kiâⁿ-pān mān; kiâⁿ-pān ûn-ûn tshāi-tshāi. quick, kiâⁿ-pān méⁿ-méⁿ ​hiông-hiông. uncertain: running, jumping and slow, chhih-chhih-tshóiⁿ. very feeble, kiâⁿ-pān ûe-ûe jê-jê.
+**gait**, kiâⁿ-pān. slow, kiâⁿ-pān ûn-ûn; kiâⁿ-pān mān; kiâⁿ-pān ûn-ûn tshāi-tshāi. quick, kiâⁿ-pān méⁿ-méⁿ hiông-hiông. uncertain: running, jumping and slow, chhih-chhih-tshóiⁿ. very feeble, kiâⁿ-pān ûe-ûe jê-jê.
 <!--more-->
 **gale**, tōa-huang; khuâng-huang. hurricane, huang-thai. blowing a, thàu-tōa-huang; khuâng-huang tãi-tsak.
 
@@ -68,7 +68,7 @@ date: 2024-03-31 16:11:00
 
 **garter**, bue̍h-tòa; hû-sek.
 
-​**gash**, to, phoh kâi-sieⁿ-kháu; le̍h.
+**gash**, to, phoh kâi-sieⁿ-kháu; le̍h.
 
 **gasp**, kip-khùi; tshuán; tshuán-khì; tshuán-kip.
 
@@ -115,7 +115,7 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **gentleman**, thài-kong (father of graduate); lãu-tia (mandarin, but also wider use); lãu-nâng-ke; lãu-iâ. young, siàu-iâ (son of mandarin). this old gentleman, chí-ūi lãu-nâng-ke.
 
-​**gently**, khin-khin; ûn-ûn; mān-mān; khuaⁿ-khuaⁿ. see GENTLE.
+**gently**, khin-khin; ûn-ûn; mān-mān; khuaⁿ-khuaⁿ. see GENTLE.
 
 **gentry**, hieⁿ-sin; sin-khim; sin-sṳ̃.
 
@@ -163,7 +163,7 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **ginseng**, jîn-siam. foreign, iêⁿ-siam. to buy, táu-siam.
 
-**gird**, hâ; pa̍k; hâ-tòa. up, kiáu-phû soih-tōa. ​**girdle**, ie-tòa; ki-tòa; ki-ie.
+**gird**, hâ; pa̍k; hâ-tòa. up, kiáu-phû soih-tōa. **girdle**, ie-tòa; ki-tòa; ki-ie.
 
 **girl**, tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ; tsáu-kiáⁿ. boys and girls, tsṳ́-nńg. servant-, tsáu-kúi; chhiah-kha; hia-thâu.
 
@@ -201,7 +201,7 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **glory**, iông-kuang; iông-hûa. gloryfy, kui-iông-kuang.
 
-​**gloss**, over a fault, chia-buah; iám-sek. commentary, tsù-kói. glossy, kng-kng.
+**gloss**, over a fault, chia-buah; iám-sek. commentary, tsù-kói. glossy, kng-kng.
 
 **gloves**, chhiú-thàu, put on, lap-chhiú-thàu; kùa-chhiú-thàu.
 
@@ -221,7 +221,7 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **gnaw**, kã; khòi.
 
-**go**, khṳ̀; kiâⁿ; tsáu; uáng. down, kàng; lo̍h; hiã. up, chiẽⁿ; seng; teng; khí. abroad, tshut-khṳ̀-gūa; tshut-gūa; kùe-kok; kùe-huan; kùe-iêⁿ. out, khṳ̀-kháu; tshut-khṳ̀-gūa; tshut-mn̂g; tshut-koi. out, as fire, húe kùe--khṳ̀. home, hûe-ke; tńg-khṳ̀-tshṳ̀; kui-ke. into the house, khṳ̀-lãi. to, khṳ̀-kàu. about, uáng-lâi; chiẽⁿ-lo̍h; kiâⁿ-lâi kiâⁿ-khṳ̀. about, for amusement, thit-thô; múaⁿ-kò-la̍h. about, as ship, kùe-phâng. and bring, khṳ̀-khie̍h--lâi. to stool, kiâⁿ-tãng; chiẽⁿ-chhè; kiâⁿ-tãi-piẽn; tshut-kiong. to bed, khṳ̀-gu̍t. to market, chiẽⁿ-chhĩ; tshut-chhĩ; khṳ̀-chhĩ; tàu-hṳ. on foot, pōu-kiâⁿ; pōu-lién (of a person who would ordinarily have a conveyance). by water, tah-tsûn--khṳ̀. by land, le̍k-lōu--khṳ̀; tùi-lōu--khṳ̀. on board, lo̍h-tsûn. on shore, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-khàm. upstairs, khṳ̀-lâu-téng; chiẽⁿ-lâu. to a feast, hù-sia̍h; khṳ̀-chia̍h-toh; èng-sia̍h. to examination, hù-kháu; èng-kháu; hù-chhì; èng-chhì. to heaven, chiẽⁿ-thiⁿ. quickly, kiâⁿ-méⁿ; tsáu-méⁿ; kúaⁿ-méⁿ. to visit, khṳ̀-sie-sûn; húang-chhin húang-iú; khṳ̀-pài-hāu. let him, iû-i-khṳ̀; thèng-i-khṳ̀; kui-i-khṳ̀; sûi-i-khṳ̀. where are you going? lṳ́ àiⁿ-khṳ̀ tî-kò? where has he gone? i khṳ̀-tî-kò? do not know where to go (or, where he has gone), m̄-tsai-tùi-tî-kò khṳ̀. with the tide, kúaⁿ-lâu; sũn-lâu. all through or over, kiâⁿ-kàu-thàu. together, tsò-pû-kiâⁿ; tsò-pû-khṳ̀; tâng-kiâⁿ. before, soiⁿ-kiâⁿ; thâu-tsôiⁿ-kiâⁿ; ​kiâⁿ tõ-thâu-tsôiⁿ. behind, kiâⁿ ka-chiah-ãu. go to court, chiẽⁿ-chhiâu. to law, phah-kuaⁿ-si. halves, sie-kāng; pêⁿ-pun. and come, lâi-lâi uáng-uáng. and return, lâi-hûe.
+**go**, khṳ̀; kiâⁿ; tsáu; uáng. down, kàng; lo̍h; hiã. up, chiẽⁿ; seng; teng; khí. abroad, tshut-khṳ̀-gūa; tshut-gūa; kùe-kok; kùe-huan; kùe-iêⁿ. out, khṳ̀-kháu; tshut-khṳ̀-gūa; tshut-mn̂g; tshut-koi. out, as fire, húe kùe--khṳ̀. home, hûe-ke; tńg-khṳ̀-tshṳ̀; kui-ke. into the house, khṳ̀-lãi. to, khṳ̀-kàu. about, uáng-lâi; chiẽⁿ-lo̍h; kiâⁿ-lâi kiâⁿ-khṳ̀. about, for amusement, thit-thô; múaⁿ-kò-la̍h. about, as ship, kùe-phâng. and bring, khṳ̀-khie̍h--lâi. to stool, kiâⁿ-tãng; chiẽⁿ-chhè; kiâⁿ-tãi-piẽn; tshut-kiong. to bed, khṳ̀-gu̍t. to market, chiẽⁿ-chhĩ; tshut-chhĩ; khṳ̀-chhĩ; tàu-hṳ. on foot, pōu-kiâⁿ; pōu-lién (of a person who would ordinarily have a conveyance). by water, tah-tsûn--khṳ̀. by land, le̍k-lōu--khṳ̀; tùi-lōu--khṳ̀. on board, lo̍h-tsûn. on shore, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-khàm. upstairs, khṳ̀-lâu-téng; chiẽⁿ-lâu. to a feast, hù-sia̍h; khṳ̀-chia̍h-toh; èng-sia̍h. to examination, hù-kháu; èng-kháu; hù-chhì; èng-chhì. to heaven, chiẽⁿ-thiⁿ. quickly, kiâⁿ-méⁿ; tsáu-méⁿ; kúaⁿ-méⁿ. to visit, khṳ̀-sie-sûn; húang-chhin húang-iú; khṳ̀-pài-hāu. let him, iû-i-khṳ̀; thèng-i-khṳ̀; kui-i-khṳ̀; sûi-i-khṳ̀. where are you going? lṳ́ àiⁿ-khṳ̀ tî-kò? where has he gone? i khṳ̀-tî-kò? do not know where to go (or, where he has gone), m̄-tsai-tùi-tî-kò khṳ̀. with the tide, kúaⁿ-lâu; sũn-lâu. all through or over, kiâⁿ-kàu-thàu. together, tsò-pû-kiâⁿ; tsò-pû-khṳ̀; tâng-kiâⁿ. before, soiⁿ-kiâⁿ; thâu-tsôiⁿ-kiâⁿ; kiâⁿ tõ-thâu-tsôiⁿ. behind, kiâⁿ ka-chiah-ãu. go to court, chiẽⁿ-chhiâu. to law, phah-kuaⁿ-si. halves, sie-kāng; pêⁿ-pun. and come, lâi-lâi uáng-uáng. and return, lâi-hûe.
 
 **goat**, suaⁿ-iêⁿ.
 
@@ -244,7 +244,7 @@ go-down, tsàn-pâng.
 
 **gore**, hueh; hueh-thn̂g; hueh-kò; hueh-phí.
 
-**gore**, to, tak; tak-sieⁿ; sie-kak. ​**gorgeous**, phâi-chhiâng.
+**gore**, to, tak; tak-sieⁿ; sie-kak. **gorgeous**, phâi-chhiâng.
 
 **gormandize**, chia̍h bô-tōu; chia̍h bô-tsat-tōu.
 
@@ -297,7 +297,7 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **grapple**, kau-tsũ; kau-tiām; kau-tîⁿ; khím-kín.
 
-**grasp**, līm-kín; khie̍h-kín; lia̍h-kín; tẽⁿ-kín; phõ-kín. a ​sword, in the scabbard, to be ready, àn-kiàm siang-huâng. the throat, tẽⁿ-âu (with one hand); liū-âu (with both hands).
+**grasp**, līm-kín; khie̍h-kín; lia̍h-kín; tẽⁿ-kín; phõ-kín. a sword, in the scabbard, to be ready, àn-kiàm siang-huâng. the throat, tẽⁿ-âu (with one hand); liū-âu (with both hands).
 
 **grass**, tsháu. -plot, tsháu-pou. green, chheⁿ-tsháu. dry, ta-tsháu. to cut, kuah-tsháu. to burn, hiâⁿ-tsháu. to burn on the hills, pàng-húe sie-suaⁿ. to pull, mán-tsháu. bundle of, che̍k-pé-tsháu. tie up in small bundles for the fire, tîⁿ-oiⁿ; tîⁿ-tsháu-oiⁿ.
 
@@ -329,7 +329,7 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **grease**, lâ. to, buah-lâ. greasy, seⁿ-lâ; seⁿ-iû.
 
-**great**, tōa. and small, tōa-sòi; tãi-siáu. favour, ​tãi-ṳn; kãu-ṳn. crime, tãng-tsũe. -hearted, sim-heng khuah-ta̍t. distance, hñg-tsãi. -coat, hiûⁿ; mîⁿ-hiûⁿ (quilted). the greater part, tōa-pùaⁿ; che̍k-tōa-ûe.
+**great**, tōa. and small, tōa-sòi; tãi-siáu. favour, tãi-ṳn; kãu-ṳn. crime, tãng-tsũe. -hearted, sim-heng khuah-ta̍t. distance, hñg-tsãi. -coat, hiûⁿ; mîⁿ-hiûⁿ (quilted). the greater part, tōa-pùaⁿ; che̍k-tōa-ûe.
 
 **greedy**, tham-sim; tham-chia̍h; hàuⁿ-chia̍h.
 
@@ -383,7 +383,7 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **growl**, hm̄-hm̄-kiè.
 
-**grudge**, or envy, kòu-kĩ. cherish, against another, khieh-hṳ̃n. to give or do, liẽn-sieh; m̄-nguãn; ​m̄-chhêng-nguãn; khat-sí-khóu tshut-chîⁿ; siap; kiâm-siap; kien-liẽn.
+**grudge**, or envy, kòu-kĩ. cherish, against another, khieh-hṳ̃n. to give or do, liẽn-sieh; m̄-nguãn; m̄-chhêng-nguãn; khat-sí-khóu tshut-chîⁿ; siap; kiâm-siap; kien-liẽn.
 
 **gruel**, of rice, mûeⁿ.
 
@@ -435,6 +435,6 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **guzzle**, m̃-thêng-pue lí-lí-chia̍h.
 
-**gybe**, kùe-phâng. ​**gypsum**, chie̍h-ko.
+**gybe**, kùe-phâng. **gypsum**, chie̍h-ko.
 
 **gyrate**, īn-lâi īn-khṳ̀.-khṳ̀.

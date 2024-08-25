@@ -4,7 +4,7 @@ p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B
 date: 2024-03-31 16:11:00
 ---
 
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **babble**, thèng-tàⁿ.
 
@@ -50,7 +50,7 @@ date: 2024-03-31 16:11:00
 
 **bale**, *of goods*, khún; tōa-khún.
 
-​**bale**, *of goods*, khún; tōa-khún. *out water*, ié-tiāu-tsúi.
+**bale**, *of goods*, khún; tōa-khún. *out water*, ié-tiāu-tsúi.
 
 **ball**, kiû. *play foot-ball*, that-kiû. *eye ball*, ma̍k-chiu-jîn.
 
@@ -104,7 +104,7 @@ date: 2024-03-31 16:11:00
 
 **barefaced**, tek-sún-mīn; m̄-tsai siáu-lí; bô-liâm-chhí; mīn-phûe kãu.
 
-​**barely**, *enough*, khat-khat-kàu. *doing any thing*, kṳ́n-kṳ́n; siè-siè.
+**barely**, *enough*, khat-khat-kàu. *doing any thing*, kṳ́n-kṳ́n; siè-siè.
 
 **bargain**, to fix, kè-chîⁿ tàⁿ-tiāⁿ-tie̍h; ieh-tiāⁿ; li̍p-ieh. *bargain maker*, tong-nâng.
 
@@ -166,7 +166,7 @@ date: 2024-03-31 16:11:00
 
 **beacon**, in-tun.
 
-​**bead**, tsu. *one bead*, che̍k-lia̍p-tsu. *a string*, che̍k-kiû *(in a mass)*; che̍k-kũaⁿ *(large string)*; che̍k-tshùan; che̍k-pa̍k. *a string of beads as the mandarins wear them*, sù-tsu; chhiàu-tsu. *rosary*, liãm-tsu.
+**bead**, tsu. *one bead*, che̍k-lia̍p-tsu. *a string*, che̍k-kiû *(in a mass)*; che̍k-kũaⁿ *(large string)*; che̍k-tshùan; che̍k-pa̍k. *a string of beads as the mandarins wear them*, sù-tsu; chhiàu-tsu. *rosary*, liãm-tsu.
 
 **beak**, chiáu-tshùi.
 
@@ -206,7 +206,7 @@ date: 2024-03-31 16:11:00
 
 **beckon**, ia̍h-chhiú; chie-chhiú. *to come*, ia̍h-lâi. *to go*, ia̍h-khṳ̀.
 
-​**bed**, tshn̂g; mîn-tshn̂g. *tressel-bed*, phou. *bed-boards*, phou-pang. *bed-fellow*, tâng-phou; tsò-pô-u̍t. *make ready a bed*, phah-phou. *to go to bed*, lo̍h-mîn-tshn̂g gu̍t. *brought to bed*, lîm-phûn; seⁿ-kiáⁿ; lîm-súaⁿ. *bed-room*, u̍t-pâng; mîn-pâng; õ-pâng. *bed-clothes*, phũe; phũe-toaⁿ *(thin)*. bed-post, mîn-tshn̂g-thiãu. *potato-bed*, huan-tsṳ-sieⁿ.
+**bed**, tshn̂g; mîn-tshn̂g. *tressel-bed*, phou. *bed-boards*, phou-pang. *bed-fellow*, tâng-phou; tsò-pô-u̍t. *make ready a bed*, phah-phou. *to go to bed*, lo̍h-mîn-tshn̂g gu̍t. *brought to bed*, lîm-phûn; seⁿ-kiáⁿ; lîm-súaⁿ. *bed-room*, u̍t-pâng; mîn-pâng; õ-pâng. *bed-clothes*, phũe; phũe-toaⁿ *(thin)*. bed-post, mîn-tshn̂g-thiãu. *potato-bed*, huan-tsṳ-sieⁿ.
 
 **bedust**, seⁿ-eng-têng; mak--tie̍h thôu-hún; seⁿ-tîn-ai.
 
@@ -242,7 +242,7 @@ date: 2024-03-31 16:11:00
 
 **behead**, tsám-siú; thâi-thâu; tsám-thâu; phoh-thâu; tok-thâu.
 
-​**behind**, ãu; ãu-mīn; ãu-pôiⁿ. *one's back*, pùe-ãu; ka-chiah-ãu.
+**behind**, ãu; ãu-mīn; ãu-pôiⁿ. *one's back*, pùe-ãu; ka-chiah-ãu.
 
 **behold**, thóiⁿ.
 
@@ -300,7 +300,7 @@ date: 2024-03-31 16:11:00
 
 **beset**, ûi--tie̍h; ûi-tsũ; ûi-miⁿ; sì-mīn ûi-tsũ.
 
-​**beside**, tsò-pû. *on one side*, tõ-phâng-piⁿ; tõ-che̍k-pôiⁿ; kṳ̃n.
+**beside**, tsò-pû. *on one side*, tõ-phâng-piⁿ; tõ-che̍k-pôiⁿ; kṳ̃n.
 
 **besides**, lêng-gūa; têng-ūaⁿ; tṳ̂-tshṳ́; hûan-liáu; siãng-chhiáⁿ; khùang-chhiáⁿ.
 
@@ -356,7 +356,7 @@ date: 2024-03-31 16:11:00
 
 **bicker**, kháu-kak; kak-kháu; ũ-ūe; sie-à; khau-peh.
 
-​**bid**, hun-hù; hàm; sái. *a price*, tshut-kè. *adieu*, chiãm-pie̍t; sî-pie̍t.
+**bid**, hun-hù; hàm; sái. *a price*, tshut-kè. *adieu*, chiãm-pie̍t; sî-pie̍t.
 
 **bier**, kuaⁿ-tshâ-íⁿ.
 
@@ -414,7 +414,7 @@ date: 2024-03-31 16:11:00
 
 **blameless**, bô-hó-hiàm; bô-phāng hó-cheh; bô-ũ hó-ngí; bô m̄-tie̍h--tshù.
 
-**bland**, un-jiû; un-hûa. *but with hatred in the heart*, kháu ​bi̍t pak kiàm; chhiè-lí tshâng-to.
+**bland**, un-jiû; un-hûa. *but with hatred in the heart*, kháu bi̍t pak kiàm; chhiè-lí tshâng-to.
 
 **blanket**, chiⁿ-tiâu.
 
@@ -472,7 +472,7 @@ date: 2024-03-31 16:11:00
 
 **bloodthirsty**, hàuⁿ-suah; suah-lo̍k tãng; tshâng-pãu; pãu ngia̍k.
 
-​**blossom**, khui-hue. *bud and blossom*, kit-lúi khui-hue; phah-lúi khui-hue.
+**blossom**, khui-hue. *bud and blossom*, kit-lúi khui-hue; phah-lúi khui-hue.
 
 **blot**, *out*, hú-tiāu; khou-tiāu. *of ink*, tih--tie̍h ba̍k; tshak--tie̍h ba̍k.
 
@@ -514,7 +514,7 @@ date: 2024-03-31 16:11:00
 
 **boil**, *rice*, tsṳ́-pm̄g; pû-pn̄g. *tea*, pû-tê. fish, sa̍h-hṳ̂. *a fowl*, tũn-koi. egg, sa̍h-nñg. *half-boil*, sa̍h-thn̄g-sim. *thoroughly*, sa̍h-se̍k; sa̍h-thàng-sim; pû-mîⁿ-mîⁿ; pû-lok-lok. *the rice is not yet boiled*, pn̄g būe-se̍k. *rice boiled but not very soft*, pn̄g khiū. *boil water*, pû-tsúi. *boiling water*, kún-tsúi. boiler, ue; pn̄g-ue; tê-ue; tâng-ue.
 
-​**boil**, a, che̍k-lia̍p-thûe; zua̍h-pauh; pùi kat. *on buttocks*, tsõ-póiⁿ-tshng.
+**boil**, a, che̍k-lia̍p-thûe; zua̍h-pauh; pùi kat. *on buttocks*, tsõ-póiⁿ-tshng.
 
 **boisterous**, *wind*, huang mé; huang tōa; khûang-huang tãi-tsak.
 
@@ -562,7 +562,7 @@ date: 2024-03-31 16:11:00
 
 **bore**, tsǹg. *a hole*, tsǹg-khang; sú-khang. *borer*, tsńg-kiáⁿ; keng-sú.
 
-​**born**, seⁿ; seⁿ-tshut-sì; tshut-sì. again, têng-seⁿ.
+**born**, seⁿ; seⁿ-tshut-sì; tshut-sì. again, têng-seⁿ.
 
 **borrow**, chieh; chhia.
 
@@ -616,7 +616,7 @@ date: 2024-03-31 16:11:00
 
 **brain**, thâu-khak-tshúe; náuⁿ-tshúe.
 
-​**bran**, be̍h-khng; be̍h-phou; be̍h-phou-phûe.
+**bran**, be̍h-khng; be̍h-phou; be̍h-phou-phûe.
 
 **branch**, ki; chhiū-ki; chhiū-pà; chhiū-kàng. *branch off*, pun-ki; khui-a; pun-a.
 
@@ -664,7 +664,7 @@ date: 2024-03-31 16:11:00
 
 **brethren**, hiaⁿ-tĩ.
 
-​**brevity**, káng-piẽn; káng; káng-séⁿ; tó.
+**brevity**, káng-piẽn; káng; káng-séⁿ; tó.
 
 **bribe**, iũ; iũ-lũ; kiâⁿ-iũ; sái-chîⁿ iũ-kuaⁿ; soih-kha; sái-soih; sái-ēng. *receive*, siu-iũ.
 
@@ -726,7 +726,7 @@ date: 2024-03-31 16:11:00
 
 **broom**, sàu-siú; sàu-chiú; sàu-soi.
 
-​**broth**, thng. *chicken*, koi-thng.
+**broth**, thng. *chicken*, koi-thng.
 
 **brothel**, kĩ-kuán; tsa-bóu-kuán; sau-kuán.
 
@@ -788,7 +788,7 @@ date: 2024-03-31 16:11:00
 
 **bulwarks**, *of city*, siâⁿ-chhiêⁿ. *of ship*, tsûn-po.
 
-**bunch**, *of flowers*, che̍k-pé-hue; che̍k-pà-hue; che̍k-tẽⁿ-hue. ​*of grapes*, che̍k-tô. *of plantains*, che̍k-pà keng-chie *(whole large bunch)*; che̍k-keng *(id.)*; che̍k-siu *(portion of large bunch)*.
+**bunch**, *of flowers*, che̍k-pé-hue; che̍k-pà-hue; che̍k-tẽⁿ-hue. *of grapes*, che̍k-tô. *of plantains*, che̍k-pà keng-chie *(whole large bunch)*; che̍k-keng *(id.)*; che̍k-siu *(portion of large bunch)*.
 
 **bundle**, pau; siáu-pau; pau-kó. *of grass*, che̍k-pé-tsháu. *see*[fagot](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/F#fagot).
 
@@ -844,7 +844,7 @@ date: 2024-03-31 16:11:00
 
 **buttock**, kha-tshng; kha-tshng-póiⁿ.
 
-​**button**, niúⁿ; saⁿ-niúⁿ. *made of cloth*, tsó-niuⁿe. *gold*, kim-khàu; kim-niúⁿ. *hole*, niúⁿ-phàng. *on a cap, common*, bō-tsu. *mandarin*, lia̍p-téng.
+**button**, niúⁿ; saⁿ-niúⁿ. *made of cloth*, tsó-niuⁿe. *gold*, kim-khàu; kim-niúⁿ. *hole*, niúⁿ-phàng. *on a cap, common*, bō-tsu. *mandarin*, lia̍p-téng.
 
 **buttress**, chhiêⁿ-tú; chhiêⁿ-tún. *of bridge*, kiê-tún.
 

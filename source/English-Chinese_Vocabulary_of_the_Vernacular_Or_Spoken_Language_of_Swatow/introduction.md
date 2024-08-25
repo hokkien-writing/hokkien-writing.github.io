@@ -4,7 +4,7 @@ p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/int
 date: 2024-03-31 16:11:00
 ---
 
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 This vocabulary is based on a manuscript work prepared about thirty years ago by the Rev. R. Lechler of the Basel Mission, Hongkong, who was the first Protestant Missionary resident in this part of China. Mr Lechler's vocabulary was founded again on one by Dr. S. Wells Williams.
 
@@ -18,7 +18,7 @@ The vocabulary makes no pretension to completeness in any sense. Very many words
 
 When it is stated that the type-setting and printing have been done by two young men who do not know a word of English, and have not even been trained in the art of printing; and further, that the work has sometimes been hampered by scarcity of type, a kind indulgence will be extended to any typographical shortcomings.
 
-Whatever errors may be found to exist in the vocabulary, it is quite certain that their number would have been much greatter but for the kind assistance of Miss C. M. Ricketts and the Rev. H. L. Mackenzie in correcting the proof sheets; and the ​Medical terms owe very much to their revision by Dr Alexander Lyall.
+Whatever errors may be found to exist in the vocabulary, it is quite certain that their number would have been much greatter but for the kind assistance of Miss C. M. Ricketts and the Rev. H. L. Mackenzie in correcting the proof sheets; and the Medical terms owe very much to their revision by Dr Alexander Lyall.
 
 While any benefit to be derived from the vocabulary must be credited to its original author, Mr Lechler, enough has been changed and added to remove from him all responsibility for its mistakes and faults.
 
@@ -82,7 +82,7 @@ There are *four* great classes of tones—1st, Phêⁿ *(*or, Pêⁿ*)*; 2d, Si�
 | 7.   | chiēⁿ-ji̍p  | „    | pat, *to know*.  |
 | 8.   | ẽ-ji̍p      | „    | pa̍t, *another*.  |
 
-In combinations of two or more syllables, very important modifications occur in the tones. A learner is apt to think tliat, the tone of a word having been once fixed, he will find it the same in all circumstances, and to be surprised ​when he hears familiar words pronounced in quite another tone. It would be difficult, and is quite unnecessary, to describe here the characters of the various tones and the changes which they undergo in combination, as they can be most easily and correctly learnt by listening to the speech of a native.
+In combinations of two or more syllables, very important modifications occur in the tones. A learner is apt to think tliat, the tone of a word having been once fixed, he will find it the same in all circumstances, and to be surprised when he hears familiar words pronounced in quite another tone. It would be difficult, and is quite unnecessary, to describe here the characters of the various tones and the changes which they undergo in combination, as they can be most easily and correctly learnt by listening to the speech of a native.
 
 A small ⁿ written above the line at the end of a syllable indicates that the whole syllable becomes nasal. In words beginning with m, n, and ng this symbol has been in some cases omitted where it ought to have been written.
 
@@ -96,7 +96,7 @@ The use of hyphens, though most essential, is yet difficult to regulate by any s
 
 ---
 
-On the next page are a few errors, chiefly misprints, which have been observed. It would be too much to hope that many more will not appear afterwards. ​
+On the next page are a few errors, chiefly misprints, which have been observed. It would be too much to hope that many more will not appear afterwards. 
 
 |                                                    |     |              |      |            |
 |----------------------------------------------------|-----|--------------|------|------------|

@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/N
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **nail**, teng, iron, thih-teng. to nail, tèng-teng. finger, chhiú-tsóiⁿ-kah; tsńg-kah. toe, kha-chí-kah.
 
@@ -24,7 +24,7 @@ date: 2024-03-31 16:11:00
 <!--more-->
 **narrow**, o̍ih; o̍ih-soih; o̍ih-to̍ih. minded, sim o̍ih-soih; bô-tōu-liãng. watch narrowly, ba̍t-hûang; chiéⁿ-kín; kín-hûang; kṳ́n-hûang; chhim-hûang.
 
-**nasty**, u-ùe; nah-sap; lâm-sap; chhi-gî. ​**nation**, kok.
+**nasty**, u-ùe; nah-sap; lâm-sap; chhi-gî. **nation**, kok.
 
 **native**, a, pńg-tī-nâng; pńg-thóu pńg-tī-nâng. place, pńg-hieⁿ; pńg-tī; kū-hieⁿ; kū-thóu; ke-hieⁿ.
 
@@ -66,7 +66,7 @@ date: 2024-03-31 16:11:00
 
 **neither**, more nor less, bô-ke bô-kiám. neither he not I went, i iā bô-khṳ̀, uá iā bô-khṳ̀; pí-tshṳ́ lóng-tsóng bô-khṳ̀.
 
-​**nephew**, tie̍t; gūa-seng (sister's son). generally called tau-sun.
+**nephew**, tie̍t; gūa-seng (sister's son). generally called tau-sun.
 
 **Neptune**, hái-lêng-uâng.
 
@@ -102,7 +102,7 @@ date: 2024-03-31 16:11:00
 
 **nipples**, nîⁿ-thâu.
 
-**nitre**, siau. ​**no**, m̄-sĩ; bô; màiⁿ. matter, bô-lũn; bô-chhiet-iàu; bô-huâng. help for it, bô-nãiⁿ-hô; bô-pōu. nobody, bô-nâng. nothing to eat, bô-thang-chia̍h.
+**nitre**, siau. **no**, m̄-sĩ; bô; màiⁿ. matter, bô-lũn; bô-chhiet-iàu; bô-huâng. help for it, bô-nãiⁿ-hô; bô-pōu. nobody, bô-nâng. nothing to eat, bô-thang-chia̍h.
 
 **noble**, tsun; kùi; tsun-kùi. family, tōa-ke. -man, ũ-chiak-ūi; tãi-láu. minded, kháng-khài.
 
@@ -154,7 +154,7 @@ date: 2024-03-31 16:11:00
 
 **nuisance**, o-tso nah-sap-sièⁿ; tshàu-mu̍eh; jiáu-luãn; jiáu-tsak.
 
-​**nullify**, kui-bô; kui-tsò bô-ũ; hùe-ûi ou-ũ.
+**nullify**, kui-bô; kui-tsò bô-ũ; hùe-ûi ou-ũ.
 
 **numb**, pì; ngûi; ngûi-pì; hiâ-pì; ngûi-ne̍k bõi-thiàⁿ; hueh-khì kuàn-m̄-kàu.
 

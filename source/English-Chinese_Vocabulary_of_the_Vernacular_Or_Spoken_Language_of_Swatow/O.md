@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/O
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **oak**, siãng-chhiū.
 
@@ -22,7 +22,7 @@ date: 2024-03-31 16:11:00
 
 **object**, an, mu̍eh-kiãⁿ. or purpose, sim-só-hiàng; sim-só-àiⁿ; sim-só-nguãn; sim-chì; chì-nguãn; ì-hiàng.
 <!--more-->
-​**object**, to, m̄-nguãn; tsó-chí; poh-khùi (altercation); piẽn-poh (in argument). what objection can there be? ũ-sĩ-mih huâng-gāi? I have no objection, uá na̍p-ì; uá hàuⁿ.
+**object**, to, m̄-nguãn; tsó-chí; poh-khùi (altercation); piẽn-poh (in argument). what objection can there be? ũ-sĩ-mih huâng-gāi? I have no objection, uá na̍p-ì; uá hàuⁿ.
 
 **oblation**, hõng-sîn kâi-mu̍eh-kiãⁿ.
 
@@ -61,7 +61,7 @@ oblige (force), mién-kiáng; ngẽ-lia̍h; khiâng-àiⁿ; khiâng-pek. obliged
 
 **obtrusive**, thèng-ji̍p; zũan-ji̍p; thèng-tiaⁿ thèng-tsũang; tshàm-ngân.
 
-​**obtuse**, lú-tũn; ngûi-phûe.
+**obtuse**, lú-tũn; ngûi-phûe.
 
 **obviate**, mién; pī; tṳ̂; ṳ̃-pī.
 
@@ -98,7 +98,7 @@ of: the water of the sea, hái-tsúi; hái kâi-tsúi; hái-tói kâi-tsúi. a m
 
 **offer**, as price, tshut-kè. as reward, hṳ́; tshut-siéⁿ-keh; tshut-hue-âng. a present, sàng-lói. tribute, chìn-kòng; chìn-hièn. offer it to him, mn̄g i àiⁿ--mé. make an offering, hõng; hièn; hièn-hõng; keng-hõng; keng-hièn; kèng-hõng; kèng-hièn.
 
-**office**, cheh-hūn; kuaⁿ-cheh; cheh-jĩm; cheh-sṳ̄. enter, chiẽⁿ-jīm. one term of, che̍k-jīm. continue for another ​term, liên-jīm; ngûan-jīm. degrade but retain in office, keh-cheh lâu-jīm. put out of, keh-jīm. go out of, lī-jīm. waiting for a vacant, hāu-jīm-khueh.
+**office**, cheh-hūn; kuaⁿ-cheh; cheh-jĩm; cheh-sṳ̄. enter, chiẽⁿ-jīm. one term of, che̍k-jīm. continue for another term, liên-jīm; ngûan-jīm. degrade but retain in office, keh-cheh lâu-jīm. put out of, keh-jīm. go out of, lī-jīm. waiting for a vacant, hāu-jīm-khueh.
 office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **officer**, kuaⁿ; kuaⁿ-hú. fellow, tâng-liâu. military, bú-kuaⁿ.
@@ -145,7 +145,7 @@ office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **only**, chí; put-kùe; put-gūa; kan-kan; to̍k-to̍k; toaⁿ-toaⁿ; tiāⁿ-tiāⁿ. son, toaⁿ-kâi-kiáⁿ; toaⁿ-toaⁿ seⁿ chí-kâi-kiáⁿ tiāⁿ.
 
-​**onset**, thâu-tīn; tng-thâu-tīn; sien-hong; ke-húe sie-chih.
+**onset**, thâu-tīn; tng-thâu-tīn; sien-hong; ke-húe sie-chih.
 
 **onward**, to go, chìn-tsôiⁿ; tsôiⁿ-chìn; chìn-pōu.
 
@@ -181,7 +181,7 @@ office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **opulent**, ũ-chîⁿ; huat-tshâi; pù; pù-ũ; pù-kãu; pù-tsok.
 
-**orange**, kaⁿ; tãi-kit. common, soh-kaⁿ. loose-skinned, phàⁿ-tháng-kaⁿ; bi̍t-tháng-kaⁿ; phòng-tháng-kaⁿ. peel, ​kaⁿ-phûe. jam, chhêng-ko. very small orange, kit; kit-kiáⁿ; tiâm-kit; sng-kit.
+**orange**, kaⁿ; tãi-kit. common, soh-kaⁿ. loose-skinned, phàⁿ-tháng-kaⁿ; bi̍t-tháng-kaⁿ; phòng-tháng-kaⁿ. peel, kaⁿ-phûe. jam, chhêng-ko. very small orange, kit; kit-kiáⁿ; tiâm-kit; sng-kit.
 
 **orb**, of moon, gu̍eh-lûn; gu̍eh-îⁿ.
 
@@ -227,7 +227,7 @@ office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **oven**, húe-lôu; pek-lôu; pue-lôu.
 
-**over**, kùe; gūa; tshut; ṳ̂; tshûn; tṳ̂. and above, lêng-gūa; huân-liáu. all over with mud, che̍k-sin-thôu. night, kùe-mêⁿ. ripe, khah-se̍k; khah-kùe-se̍k; khah-kùe-lâu. fall overboard, pua̍h-lo̍h-tsúi. overbearing, kiau-ngãu; ​̂khiâng-iap. *overcast sky*, thiⁿ chhiẽⁿ-hûn; thiⁿ-sek hun-àm; thiⁿ khàm-khàm; thiⁿ so-tô. *overdone*, pû khah-mîⁿ; khah-kùe-húe. *overflow*, iah--tshut; lâu--tshut; múaⁿ--tshut; chhèng--khí-lâi *(to spout up)*. *overhanging wall*, ngâm-chhiêⁿ; chhiêⁿ hiám àiⁿ-tó. *overhear*, chẽⁿ-thiaⁿ. *overshadow*, chia-ìm; pì-ìm. *overtake*, jiāu--tie̍h; tui-tie̍h; kúaⁿ--tie̍h. *overthrow*, léng-tó; tó-khap.
+**over**, kùe; gūa; tshut; ṳ̂; tshûn; tṳ̂. and above, lêng-gūa; huân-liáu. all over with mud, che̍k-sin-thôu. night, kùe-mêⁿ. ripe, khah-se̍k; khah-kùe-se̍k; khah-kùe-lâu. fall overboard, pua̍h-lo̍h-tsúi. overbearing, kiau-ngãu; ̂khiâng-iap. *overcast sky*, thiⁿ chhiẽⁿ-hûn; thiⁿ-sek hun-àm; thiⁿ khàm-khàm; thiⁿ so-tô. *overdone*, pû khah-mîⁿ; khah-kùe-húe. *overflow*, iah--tshut; lâu--tshut; múaⁿ--tshut; chhèng--khí-lâi *(to spout up)*. *overhanging wall*, ngâm-chhiêⁿ; chhiêⁿ hiám àiⁿ-tó. *overhear*, chẽⁿ-thiaⁿ. *overshadow*, chia-ìm; pì-ìm. *overtake*, jiāu--tie̍h; tui-tie̍h; kúaⁿ--tie̍h. *overthrow*, léng-tó; tó-khap.
 
 **owe**, khiàm; khiàm-chîⁿ; khiàm-chè.
 

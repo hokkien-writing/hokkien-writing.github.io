@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/T
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **tabernacle**, pòu-phâng; tièⁿ-mõⁿ.
 
@@ -30,7 +30,7 @@ date: 2024-03-31 16:11:00
 
 **taint**, tiam-u; jiám; jiám-u; ma̍k--tie̍h. tainted, as fish, ien; sie̍h-bī.
 
-**take**, khie̍h; tshú; niⁿ; lah; put; tsang. your book, khie̍h lṳ́-pńg-chheh. a fort, phah-phùa phàu-thâi. a standard, chhiéⁿ-kî; to̍h-kî. away, khie̍h-khṳ̀; siu-khí; to̍h-tiāu. along with tea, &c, phùe-tê; phùe-tê-chia̍h. with one, thùa-khie̍h. the air, lā-liâng. an inventory, tiám-hùe-mue̍h; kiám-tiám. by lot, khiah-khau. care, tsṳ́-sòi; kṳ́n-sín; sié-sim; kṳ́n-sim; sòi-jī. care of, thóiⁿ-siú; chiàu-kù; liāu-lí. care of oneself, tsṳ̃-kí pó-tõng. ​down, khie̍h--lo̍h-lâi; pak--lo̍h-lâi. exercise, khṳ̀-thit-thô; kiâⁿ-thit-thô; kiâⁿ-siau-iâu; ôiⁿ-pōu; kîn-kiâⁿ; kiâⁿ-lâi kiâⁿ-khṳ̀. one by the hand, khan-chhiú. leave of, kàu-sî; sî-pie̍t; siang-pie̍t; chiãm-pie̍t; kàu-pie̍t. one in (cheat), tshuah; phièn; kuang-phièn. medicine, chia̍h-ie̍h. out of the water, liâu--tie̍h. off, shoes or clothes, thǹg-tiāu. off, a hat, pak-tiāu; hien-tiāu. one's hat to any one, hien-khí-bō tsò-lói-siàu. off a cover, iãuⁿ-khòiⁿ; iãuⁿ-khàm; iãuⁿ-khui. out a splinter, thie-tshuaⁿ; kiah-chhì. snuff, thie-phīⁿ-hun (out of bottle); chia̍h-phīⁿ-hun; hngh-phīⁿ-hun. up, with chopsticks, koih. with two fingers, nuehⁿ; niⁿ. under the arm, ko̍ih tõ koh-ẽ. the right hand path, tùi-chiàⁿ-chhiú-pôiⁿ khṳ̀. a disease, tie̍h-pēⁿ; ùe-tie̍h-pēⁿ; jiám-tie̍h-pēⁿ; thûan-jiám. upon oneself, ka-kī tam-sêng; taⁿ-tng; tsṳ̃-tsuan (without authority). fire, to̍h-húe. a wife, tshūa-chhin; tshūa-bóu; tì-ke. hold of, chhiú lia̍h; khie̍h-kín; khîⁿ; khîⁿ-kín; mán-kín; khan-kín. hold of one's queue, khím-piⁿ; tsáng-piⁿ; mán-piⁿ.
+**take**, khie̍h; tshú; niⁿ; lah; put; tsang. your book, khie̍h lṳ́-pńg-chheh. a fort, phah-phùa phàu-thâi. a standard, chhiéⁿ-kî; to̍h-kî. away, khie̍h-khṳ̀; siu-khí; to̍h-tiāu. along with tea, &c, phùe-tê; phùe-tê-chia̍h. with one, thùa-khie̍h. the air, lā-liâng. an inventory, tiám-hùe-mue̍h; kiám-tiám. by lot, khiah-khau. care, tsṳ́-sòi; kṳ́n-sín; sié-sim; kṳ́n-sim; sòi-jī. care of, thóiⁿ-siú; chiàu-kù; liāu-lí. care of oneself, tsṳ̃-kí pó-tõng. down, khie̍h--lo̍h-lâi; pak--lo̍h-lâi. exercise, khṳ̀-thit-thô; kiâⁿ-thit-thô; kiâⁿ-siau-iâu; ôiⁿ-pōu; kîn-kiâⁿ; kiâⁿ-lâi kiâⁿ-khṳ̀. one by the hand, khan-chhiú. leave of, kàu-sî; sî-pie̍t; siang-pie̍t; chiãm-pie̍t; kàu-pie̍t. one in (cheat), tshuah; phièn; kuang-phièn. medicine, chia̍h-ie̍h. out of the water, liâu--tie̍h. off, shoes or clothes, thǹg-tiāu. off, a hat, pak-tiāu; hien-tiāu. one's hat to any one, hien-khí-bō tsò-lói-siàu. off a cover, iãuⁿ-khòiⁿ; iãuⁿ-khàm; iãuⁿ-khui. out a splinter, thie-tshuaⁿ; kiah-chhì. snuff, thie-phīⁿ-hun (out of bottle); chia̍h-phīⁿ-hun; hngh-phīⁿ-hun. up, with chopsticks, koih. with two fingers, nuehⁿ; niⁿ. under the arm, ko̍ih tõ koh-ẽ. the right hand path, tùi-chiàⁿ-chhiú-pôiⁿ khṳ̀. a disease, tie̍h-pēⁿ; ùe-tie̍h-pēⁿ; jiám-tie̍h-pēⁿ; thûan-jiám. upon oneself, ka-kī tam-sêng; taⁿ-tng; tsṳ̃-tsuan (without authority). fire, to̍h-húe. a wife, tshūa-chhin; tshūa-bóu; tì-ke. hold of, chhiú lia̍h; khie̍h-kín; khîⁿ; khîⁿ-kín; mán-kín; khan-kín. hold of one's queue, khím-piⁿ; tsáng-piⁿ; mán-piⁿ.
 
 **tale**, a, che̍k-tn̄g-kóu; kóu-chheh. to tell tales, o̍h-kóu. -bearer, puaⁿ-sĩ-hui; puaⁿ-pái; puaⁿ-so; kòiⁿ-so.
 
@@ -66,7 +66,7 @@ date: 2024-03-31 16:11:00
 
 **taper**, a, chek.
 
-​**tapering**, chiam.
+**tapering**, chiam.
 
 **tar**, ta-ma-iû.
 
@@ -104,7 +104,7 @@ date: 2024-03-31 16:11:00
 
 **tear**, lì; lì-tiāu; li̍h; phùa; phùa-li̍h. off, as skin of anything, peh-tiāu; lì-tiāu; pak-tiāu.
 
-​**tears**, ma̍k-tsap; ma̍k-lũi. to shed, lâu-ma̍k-tsap; ma̍k-tsap lâu.
+**tears**, ma̍k-tsap; ma̍k-lũi. to shed, lâu-ma̍k-tsap; ma̍k-tsap lâu.
 
 **tease**, kek-náuⁿ; pin-tǹg.
 
@@ -154,7 +154,7 @@ date: 2024-03-31 16:11:00
 
 **tent**, pòu-phâng. to pitch, tah- (nêⁿ-; khui-) pòu-phâng.
 
-**tenth**, the, tõiⁿ-tsa̍p. one, tsa̍p-hūn tsṳ-che̍k; tsa̍p-hūn ​tshú-che̍k. the tenth day of the tenth moon, tsa̍p-gue̍h chhiu-tsa̍p.
+**tenth**, the, tõiⁿ-tsa̍p. one, tsa̍p-hūn tsṳ-che̍k; tsa̍p-hūn tshú-che̍k. the tenth day of the tenth moon, tsa̍p-gue̍h chhiu-tsa̍p.
 
 **tepid**, lā-lun-sie; sie-lun sie-lun.
 
@@ -186,7 +186,7 @@ date: 2024-03-31 16:11:00
 
 **thatch**, tshù-téng khàm-(or, khòiⁿ-) tsháu; tiẽn-kài.
 
-​**thaw**, sng-soh siau-iêⁿ.
+**thaw**, sng-soh siau-iêⁿ.
 
 **theatre**, hì. stage of, hì-thâi; hì-pêⁿ. to go to the, thóiⁿ-hì. theatricals, tsò-hì.
 
@@ -233,7 +233,7 @@ then jiên-ãu; ãu; chiũ; chiàⁿ. at that time, tng-sî; hṳ́-tsûn; hṳ�
 
 **thorax**, heng-tsôiⁿ; sim-kuaⁿ; sim-kuaⁿ-thâu; heng-kuaⁿ-thâu.
 
-​**thorn**, chhì. thorny, seⁿ-chhì. to be pricked by a, chhiah-tie̍h-chhì.
+**thorn**, chhì. thorny, seⁿ-chhì. to be pricked by a, chhiah-tie̍h-chhì.
 
 **thoroughfare**, thong-lōu. no, khu̍t-thâu-hāng (a blind alley).
 
@@ -269,7 +269,7 @@ then jiên-ãu; ãu; chiũ; chiàⁿ. at that time, tng-sî; hṳ́-tsûn; hṳ�
 
 **through**, thong; thàu; thàng. to come through the rain, hãm-hõu-lâi; mãuⁿ-hõu-lâi. to pass through a place, tùi-hṳ́-kò keng-kùe; keng tùi-hṳ́-kò-kùe. through fire and smoke, mãuⁿ-in tu̍t-húe.
 
-**throw**, to, ka̍k; sek; phîn; tiāu; tãⁿ. away, ​ka̍k-tiāu; sek-tiāu; hám-tiāu; khì-tiāu; tiu-tiāu; lòi-tiāu; phau-tiāu. into the water, tâu-tsúi; ka̍k-lo̍h-tsúi. off clothes, thǹg-tiāu; pak-tiāu. one down, léng-pua̍h; léng-nâng tie̍h-pua̍h. the blame on others, keng tõ-pa̍t-nâng--sin-téng. about, iā-sì-tshù; phuah-múaⁿ-kò. dust on head, tsang-sua tha̍h thâu-khak; ēng-sua thãⁿ-tõ thâu-khak. throw up things, as bricks, tiāu-chiẽⁿ; tiāu-kûiⁿ. to throw a net, pha-mãng.
+**throw**, to, ka̍k; sek; phîn; tiāu; tãⁿ. away, ka̍k-tiāu; sek-tiāu; hám-tiāu; khì-tiāu; tiu-tiāu; lòi-tiāu; phau-tiāu. into the water, tâu-tsúi; ka̍k-lo̍h-tsúi. off clothes, thǹg-tiāu; pak-tiāu. one down, léng-pua̍h; léng-nâng tie̍h-pua̍h. the blame on others, keng tõ-pa̍t-nâng--sin-téng. about, iā-sì-tshù; phuah-múaⁿ-kò. dust on head, tsang-sua tha̍h thâu-khak; ēng-sua thãⁿ-tõ thâu-khak. throw up things, as bricks, tiāu-chiẽⁿ; tiāu-kûiⁿ. to throw a net, pha-mãng.
 
 **thrust**, into, tshǹg; tshah; chhiah; kṳ̂. thrust through with a spear, ēng-chhieⁿ tshǹg-thàng--kùe-khṳ̀.
 
@@ -303,7 +303,7 @@ then jiên-ãu; ãu; chiũ; chiàⁿ. at that time, tng-sî; hṳ́-tsûn; hṳ�
 
 **tiffin**, tiám-sim; chia̍h-ji̍t-tàu.
 
-​**tight**, kín; ân. to draw, túi-ân-ân.
+**tight**, kín; ân. to draw, túi-ân-ân.
 
 **tile**, hiã; tshù-hiã. semi-cylindrical, hiã-tâng; hiã-thâng. with hole for skylight, thiⁿ-thàng-hiã. a tile-work, hiã-iê. to put on a roof, khàm-hiã. glazed, chheⁿ-hiã. for eaves, with points turned down, hiã-tâng-thâu.
 
@@ -330,7 +330,7 @@ till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-
 
 **tip**, of nose, phīⁿ-thâu; phīⁿ-tsún; tsún-thâu. of finger, chhiú-tsóiⁿ-thâu. of arrow, chìⁿ-búe; chìⁿ-ne̍k; chìⁿ-chiam. to stand on tiptoe, lèng-khí-kha khiã.
 
-​**tipsy**, tsùi; chia̍h-chiú-tsùi; tsùi-chiú. slightly, ba-bun-tsùi; mah-moh-tsùi.
+**tipsy**, tsùi; chia̍h-chiú-tsùi; tsùi-chiú. slightly, ba-bun-tsùi; mah-moh-tsùi.
 
 **tired**, he̍k; khùn; khùn-tõaⁿ; khùn-kũan; khùn-he̍k; phî-kũan; phî-khùn; phî-tõaⁿ; kha sng, chhiú nńg. very tired with walking, kiâⁿ-kàu-hẽng. to be tired of, iàm; ùi; lóu; màiⁿ. tiresome, khṳt--nâng seⁿ-iàm; tshūa-nâng-ùi.
 
@@ -376,7 +376,7 @@ till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-
 
 **tongs**, thih-kîⁿ; thih-khîⁿ; thih-tṳ̄.
 
-​**tongue**, chi̍h. tip of, chi̍h-thâu. to put out the, chi̍h tshun--tshut-lâi. to scrape the, kueh-chi̍h. tongue scraper, chi̍h-kueh. mother-tongue, pńg-tī-ūe; pńg-thôu-ūe; thôu-im.
+**tongue**, chi̍h. tip of, chi̍h-thâu. to put out the, chi̍h tshun--tshut-lâi. to scrape the, kueh-chi̍h. tongue scraper, chi̍h-kueh. mother-tongue, pńg-tī-ūe; pńg-thôu-ūe; thôu-im.
 
 **tonic**, a, póu-ie̍h; póu-pî-ie̍h; póu-khì-kueh.
 
@@ -420,7 +420,7 @@ till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-
 
 **towards**, hiàng; niàⁿ. fled towards the city, mōⁿ-siâⁿ tsáu.
 
-​**towel**, kṳn; pòu; mīn-pòu; e̍k-pòu.
+**towel**, kṳn; pòu; mīn-pòu; e̍k-pòu.
 
 **tower**, thah; mōⁿ-lâu.
 
@@ -474,7 +474,7 @@ till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-
 
 **transitory**, chiãm-sî; bô-kú.
 
-**translate**, huan-e̍k; e̍k. from book style into colloquial, sueh-tsṳ; kói-sueh; sueh-tsò pe̍h-ūe. a translator or ​interpreter, not of books, thong-sṳ̄; hûe-ūe.
+**translate**, huan-e̍k; e̍k. from book style into colloquial, sueh-tsṳ; kói-sueh; sueh-tsò pe̍h-ūe. a translator or interpreter, not of books, thong-sṳ̄; hûe-ūe.
 
 **translucent**, ũ-mûiⁿ-kuang thàu-kùe-khṳ̀.
 
@@ -530,7 +530,7 @@ till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-
 
 **trials**, see TRY. to undergo, keng-chhì-liēn.
 
-​**triangle**, saⁿ-kak-hêng.
+**triangle**, saⁿ-kak-hêng.
 
 **tribe**, tso̍k; tsong-phài; tsong-chiⁿ; chiⁿ-phài; lūi; chéng; chéng-lūi; chéng-tsa̍t.
 
@@ -578,7 +578,7 @@ till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-
 
 **truce**, thêng-chièn; hiah-thâi.
 
-**true**, chin; si̍t; chin-si̍t; ũ-iáⁿ; si̍t-kṳ̃; chin-ũ. to one's ​word, chién-ngân; ngân--tshut zûi-kiâⁿ; zû-ieh. truly, si̍t-tsãi; kúaⁿ-jiên; kúaⁿ-chin; chin-si̍t.
+**true**, chin; si̍t; chin-si̍t; ũ-iáⁿ; si̍t-kṳ̃; chin-ũ. to one's word, chién-ngân; ngân--tshut zûi-kiâⁿ; zû-ieh. truly, si̍t-tsãi; kúaⁿ-jiên; kúaⁿ-chin; chin-si̍t.
 
 **trumpet**, kak-tâng; hō-tâng; haⁿ-haⁿ; pûn-pu (conch); ti-tâ; kóu-siú. to blow, pûn.
 
@@ -626,7 +626,7 @@ till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-
 
 **turmeric**, kieⁿ-n̂g.
 
-**turn**, tńg; tsúan; póiⁿ; tsũn; huán-tńg; póiⁿ-tńg; huan; húiⁿ-kùe-lâi. revolve, húiⁿ; hui. the head, hûe-thâu; u̍t-tńg-thâu; u̍t-tshúa. right round, hui-tńg-sin. round ​in bed, huan-sin; huan-lâi khah-khṳ̀; huan-kùe-lâi huan-kùe-khṳ̀. back, tńg; tńg--lâi; hûe; hûe-tńg; tò-tńg; kiâⁿ-tò-tńg; suân-tńg. over (overturn), léng-tó. over (invert), póiⁿ-tńg; póiⁿ--kùe-lâi; póiⁿ--khí-lâi; póiⁿ-khap; póiⁿ-chhiè; póiⁿ-phak; póiⁿ-lìn-tńg; póiⁿ-kùe hièⁿ-pôiⁿ; tò-póiⁿ. inside out, as pockets, póiⁿ-lìn-tńg. upside down, tien-táu; tìn-tò-thâu-táu. round, as key, tsũn-só-sî; húiⁿ-só-sî. a horse's head, mán-tńg bé-thâu; mán-bé u̍t-tńg. towards, hiàng; niàⁿ; tùi. the heaven turns, thiⁿ ūn-tõng. to turn in a lathe, chhia. to take turns in doing, sie-lûn; sie-lûn-liû; sie-lûn-tsò; sie-thòi-tsò; lûn-tsúan; lûn-thòi. it is your turn, lûn-tie̍h-lṳ́. to turn one away from service, sî. to turn one out, to̍k-tshut; kúaⁿ-tshut; jiāu-tshut. out of office, khṳ̀-kuaⁿ; thut-kuaⁿ; thut-cheh; pã-cheh. to turn into, tńg--tsò; pìⁿ--tsò; pièn--tsò.
+**turn**, tńg; tsúan; póiⁿ; tsũn; huán-tńg; póiⁿ-tńg; huan; húiⁿ-kùe-lâi. revolve, húiⁿ; hui. the head, hûe-thâu; u̍t-tńg-thâu; u̍t-tshúa. right round, hui-tńg-sin. round in bed, huan-sin; huan-lâi khah-khṳ̀; huan-kùe-lâi huan-kùe-khṳ̀. back, tńg; tńg--lâi; hûe; hûe-tńg; tò-tńg; kiâⁿ-tò-tńg; suân-tńg. over (overturn), léng-tó. over (invert), póiⁿ-tńg; póiⁿ--kùe-lâi; póiⁿ--khí-lâi; póiⁿ-khap; póiⁿ-chhiè; póiⁿ-phak; póiⁿ-lìn-tńg; póiⁿ-kùe hièⁿ-pôiⁿ; tò-póiⁿ. inside out, as pockets, póiⁿ-lìn-tńg. upside down, tien-táu; tìn-tò-thâu-táu. round, as key, tsũn-só-sî; húiⁿ-só-sî. a horse's head, mán-tńg bé-thâu; mán-bé u̍t-tńg. towards, hiàng; niàⁿ; tùi. the heaven turns, thiⁿ ūn-tõng. to turn in a lathe, chhia. to take turns in doing, sie-lûn; sie-lûn-liû; sie-lûn-tsò; sie-thòi-tsò; lûn-tsúan; lûn-thòi. it is your turn, lûn-tie̍h-lṳ́. to turn one away from service, sî. to turn one out, to̍k-tshut; kúaⁿ-tshut; jiāu-tshut. out of office, khṳ̀-kuaⁿ; thut-kuaⁿ; thut-cheh; pã-cheh. to turn into, tńg--tsò; pìⁿ--tsò; pièn--tsò.
 
 **turnip**, tshài-thâu.
 
@@ -672,7 +672,7 @@ till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-
 
 **twins**, sang-seⁿ.
 
-​**twirl**, to, round, khie̍h-tõ-hui. round on one leg, khiã che̍k-chiah-kha u̍t-lâi u̍t-khṳ̀.
+**twirl**, to, round, khie̍h-tõ-hui. round on one leg, khiã che̍k-chiah-kha u̍t-lâi u̍t-khṳ̀.
 
 **twist**, to, tsũn; ká; zûe (by rubbing with the hand). ropes, ká-soh; phah-soh; tsũn-soh.
 

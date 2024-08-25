@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/J
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **jack-fruit**, po-lô-bi̍t.
 
@@ -46,7 +46,7 @@ date: 2024-03-31 16:11:00
 
 **jet**, ou-ge̍k.
 
-**jetty**, bé-thâu. ​**Jew**, Iû-thài-nâng.
+**jetty**, bé-thâu. **Jew**, Iû-thài-nâng.
 
 **jewel**, tien-pó; pó-ge̍k; pó-chie̍h. jeweller, chhia-ge̍k sai-pẽ.
 
@@ -98,7 +98,7 @@ date: 2024-03-31 16:11:00
 
 **jurisdiction**, khuân-pèⁿ.
 
-**just**, kong-ngĩ; kong-tãu; kuaⁿ-chiàⁿ; kong-phêng. now, chí-tsûn; chiàⁿ; hīn-kim; hīn-tsãi. a little ago, ​thâng-kùa; siè-siè; soiⁿ che̍k-khùn-kiáⁿ; tsá--tsûn. about, lím-lím; kah-kah; siè-siè. like, nẽⁿ pêⁿ-pêⁿ-iēⁿ; siãu-tsãi. just so, chiũ-sĩ; sĩ--nōⁿ; ũ-tõ-lí.
+**just**, kong-ngĩ; kong-tãu; kuaⁿ-chiàⁿ; kong-phêng. now, chí-tsûn; chiàⁿ; hīn-kim; hīn-tsãi. a little ago, thâng-kùa; siè-siè; soiⁿ che̍k-khùn-kiáⁿ; tsá--tsûn. about, lím-lím; kah-kah; siè-siè. like, nẽⁿ pêⁿ-pêⁿ-iēⁿ; siãu-tsãi. just so, chiũ-sĩ; sĩ--nōⁿ; ũ-tõ-lí.
 
 **justify**, chheng-ngĩ; sǹg-tsò-ngĩ.
 

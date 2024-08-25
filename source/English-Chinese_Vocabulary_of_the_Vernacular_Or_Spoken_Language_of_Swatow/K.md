@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/K
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **keep**, siú; thóiⁿ-siú; thóiⁿ-kù; khùaⁿ-kù; lâu; tshûn; lâu--pàng-kò; sīn--pàng-kò. off the sun, chia-ji̍t. silence, khiâm-kháu; m̄-khui-tshùi; tshùi kueⁿ-miⁿ; tiām-tiām; chẽⁿ-chẽⁿ; tiām-tiām mi̍t-mi̍t. in order, kúan; kúan-sok; iak-sok. rules, siú-huap; ha̍h-huap. the watch, siú-keⁿ. the new year, kùe-nîⁿ; tsò-kùe-nîⁿ. a feast, tsò-tsoih. for oneself, ka-kī-ēng. one's word, siú-ieh; chiè-ieh; zû-ieh. keepsake, lâu-ì; kìⁿ-mue̍h sṳ-nâng; piáu-chhêng tshûn-kì.
 
@@ -36,7 +36,7 @@ date: 2024-03-31 16:11:00
 
 **kiss**, chim; sie-chim; chim-tshùi (the mouth); chim-kih-kau (the cheek).
 
-​**kitchen**, húe-si̍t-pâng; húe-si̍t-koiⁿ; tôu-pâng. garden, tshài-hn̂g.
+**kitchen**, húe-si̍t-pâng; húe-si̍t-koiⁿ; tôu-pâng. garden, tshài-hn̂g.
 
 **kite**, huang-khîm; tsúa-iē. to fly a, pàng-huang-khîm.
 

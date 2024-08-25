@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/H
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **habit**, si̍p-so̍k; khì-si̍p. see CUSTOM, habituated, kùiⁿ-sìⁿ; si̍p-kùan; kùan-liēn. habit becomes second nature, si̍p-kùan sêng-tsṳ̃-jiên.
 
@@ -42,7 +42,7 @@ date: 2024-03-31 16:11:00
 
 **halo**, lunar, gu̍eh īn. solar, ji̍t īn.
 
-**halt**, hiah; hiah-tiām; khiã-tiām; hiah-kha; thêng-kha; thêng-hiah; suah-hiah; thêng-pōu; chí-pōu. ​lame, kúai-kha; nńg-nîⁿ; nńg-kha; chhiãng-a-chhiãng; kũai-a-kũai.
+**halt**, hiah; hiah-tiām; khiã-tiām; hiah-kha; thêng-kha; thêng-hiah; suah-hiah; thêng-pōu; chí-pōu. lame, kúai-kha; nńg-nîⁿ; nńg-kha; chhiãng-a-chhiãng; kũai-a-kũai.
 
 **halter**, bé-lâng-soh.
 
@@ -74,7 +74,7 @@ date: 2024-03-31 16:11:00
 
 **hank**, of thread, che̍k-tshâng-sùaⁿ.
 
-​**hanker**, lùan-mōⁿ; sim-lùan put-siá; lùan-lùan put-siá; sim kù-kù tõ-mōⁿ.
+**hanker**, lùan-mōⁿ; sim-lùan put-siá; lùan-lùan put-siá; sim kù-kù tõ-mōⁿ.
 
 **haphazard**, thèng-tsãu-hùe; tú-tie̍h-tshái.
 
@@ -118,7 +118,7 @@ date: 2024-03-31 16:11:00
 
 **harpoon**, pie; hṳ̂-pie. to, pie-hṳ̂.
 
-​**harrow**, pê; thih-pê. to, pê-tshân. one, che̍k-tieⁿ-pê.
+**harrow**, pê; thih-pê. to, pê-tshân. one, che̍k-tieⁿ-pê.
 
 **harsh**, kùe-ngiâm; khek-po̍h. khó-khek; ngiâm-khek. rule, ngia̍k-chèng. taste, sng-siap; khóu-siap.
 
@@ -156,7 +156,7 @@ date: 2024-03-31 16:11:00
 
 **hawker**, sié-seng-lí; koiⁿ-thiau kâi seng-lí; koíⁿ-thiau lo̍h-hāng; iê-kóu.
 
-​**hay**, pha̍k-ta-tsháu. haystack, tsháu-khṳ̂n.
+**hay**, pha̍k-ta-tsháu. haystack, tsháu-khṳ̂n.
 
 **hazard**, thèng-tsãu-hùe; phòng-tsãu-hùe; kiâⁿ-hiám hiau-hẽng; hiau-hẽng. hazardous, huang-hiám; ngûi-hiám; m̄-ún-tǹg; m̄-thó-tàng.
 
@@ -182,7 +182,7 @@ date: 2024-03-31 16:11:00
 
 **heat**, húe-khì; jie̍t-khì; zua̍h-khì. to heat over a flame, nãⁿ; hang. water, hiâⁿ-sie-tsúi; un-sie-tsúi; pû-sie. food, tim-sie. red-heat, sie âng-âng.
 
-​**heave**, anchor, khí-tèng; khie̍h-tèng; po̍ih-tèng; chhiû-tèng. a sigh, tháu-khùi.
+**heave**, anchor, khí-tèng; khie̍h-tèng; po̍ih-tèng; chhiû-tèng. a sigh, tháu-khùi.
 
 **heaven**, thiⁿ; thien. in, tõ-thiⁿ-téng. all under, thiⁿ-ẽ (used for China). justice of, thien-lí. heaven-daring, táⁿ pau-thiⁿ. swear by, chí-thiⁿ mêng-sī; tng-thiⁿ chiù-tsūa.
 
@@ -208,7 +208,7 @@ date: 2024-03-31 16:11:00
 
 **help**, pang-tsõ; sie-hũ; hũ-tsõ; pang-chhiú; tô-lông; siang-pang; pang-tsān. up, hû--i khí--lâi; khan-hû; khan-thî; khan-kũaⁿ. to get office, thî-pua̍t. in difficulties or dangers, kiù-chì; chín-kiù; chín-chì; si-chì. help! help! kiù--a! kiù--a! kiù-miāⁿ! kiù-miāⁿ! to call for, hàm-kiè-kiù. no help for it, bô-pōu. no help but to, bô-nãiⁿ-hô; bô-khó nãiⁿ-hô; put-tit-íⁿ; bô-ta-uâ; bô-ta i-ûa. help a man to prosper, chhiâⁿ-nâng-hó. helpless, bô-kiù; chĩn-thâu-lêng.
 
-​**helter skelter**, sì-sùaⁿ; lũan-tsáu; sùaⁿ-tsáu; phî-phê-kiè tsáu.
+**helter skelter**, sì-sùaⁿ; lũan-tsáu; sùaⁿ-tsáu; phî-phê-kiè tsáu.
 
 **helve**, póu-thâu-pèⁿ; póu-pèⁿ.
 
@@ -252,7 +252,7 @@ date: 2024-03-31 16:11:00
 
 **hiccup**, phah-oh-kiáⁿ; thiu-oh-kiáⁿ; khou-oh-kiáⁿ.
 
-**hide**, tshâng; khǹg; tshâng-khǹg; tshâng-miⁿ; khǹg-miⁿ; ​khǹg-bûa; siu-tshâng; ṳ́n-tshâng; khǹg-ba̍t; tshâng-ne̍k; ṳ́n-ne̍k. oneself, pì-ba̍t; pì-bûa; ṳ́n-pì; tiàm-bûa; iám-siám; siám-bûa; siám-miⁿ; siám-sin (make oneself invisible by magic). one's faults, chia-iám; iám-kài; iám-sek; khàm-bûa. hide and seek, aⁿ-ma̍k tsáu-tiàm.
+**hide**, tshâng; khǹg; tshâng-khǹg; tshâng-miⁿ; khǹg-miⁿ; khǹg-bûa; siu-tshâng; ṳ́n-tshâng; khǹg-ba̍t; tshâng-ne̍k; ṳ́n-ne̍k. oneself, pì-ba̍t; pì-bûa; ṳ́n-pì; tiàm-bûa; iám-siám; siám-bûa; siám-miⁿ; siám-sin (make oneself invisible by magic). one's faults, chia-iám; iám-kài; iám-sek; khàm-bûa. hide and seek, aⁿ-ma̍k tsáu-tiàm.
 
 **hide**, a, phûe-sek; chheⁿ-phûe; gû-phûe. to dress a, se̍k-phûe.
 
@@ -286,7 +286,7 @@ date: 2024-03-31 16:11:00
 
 **historiographer**, sṳ́-kuaⁿ.
 
-**history**, kok-sṳ́; sṳ́-kì; sṳ́-tsṳ; sṳ́-kuán; kàm-sṳ́. of ​a person, lâi-le̍h; lí-le̍h; tshut-si̍t. historical and statistical account, e.g. of Ch'ao-chow, Tiê-chiu-chì.
+**history**, kok-sṳ́; sṳ́-kì; sṳ́-tsṳ; sṳ́-kuán; kàm-sṳ́. of a person, lâi-le̍h; lí-le̍h; tshut-si̍t. historical and statistical account, e.g. of Ch'ao-chow, Tiê-chiu-chì.
 
 **hit**, phah--tie̍h. with an arrow, tòng--tie̍h.
 
@@ -328,7 +328,7 @@ date: 2024-03-31 16:11:00
 
 **holiday**, thih-thô-ji̍t; ôiⁿ-ji̍t; iû-ôiⁿ-ji̍t, ôiⁿ-kang-ji̍t; chheng-ôiⁿ-ji̍t; uaⁿ-ôiⁿ-ji̍t.
 
-​**homage**, kiong-kèng. to the emperor, chhiâu-pài. by tributary princes, chhiâu-kòng (includes tribute).
+**homage**, kiong-kèng. to the emperor, chhiâu-pài. by tributary princes, chhiâu-kòng (includes tribute).
 
 **home**, ke; tshù. at, tõ-tshù; tõ-lãi; tõ-ke-lãi; tõ; tõ--kò. go, hûe-ke; khṳ̀-tshù; tńg-khṳ̀-tshù; kui-ke; tńg-tshù; khṳ̀-lãi (if merely going inside). home made, pńg-tī-tsò.
 
@@ -378,7 +378,7 @@ date: 2024-03-31 16:11:00
 
 **horror**, kiaⁿ-kũ kâi-hêng-mãuⁿ; kiaⁿ-kũ kâi-iēⁿ-sièⁿ; kiaⁿ-khiū. see HORRIBLE.
 
-**horse**, bé. one, che̍k-chiah-bé. -shoe, bé-tôi-thih. -hair, ​bé-búe. -dealer, bé-hùan. horseman, khiâ-bé. ride on horseback, khiâ-bé. -comb, bé-siu; bé-pìn. -cloth, bé-phũe.
+**horse**, bé. one, che̍k-chiah-bé. -shoe, bé-tôi-thih. -hair, bé-búe. -dealer, bé-hùan. horseman, khiâ-bé. ride on horseback, khiâ-bé. -comb, bé-siu; bé-pìn. -cloth, bé-phũe.
 
 **hospitable**, kãu-thãi nâng-kheh.
 
@@ -404,7 +404,7 @@ date: 2024-03-31 16:11:00
 
 **hover**, īn; khip-sin (bird, ready to dart).
 
-**how?** tsãi-seⁿ? tsò-nîⁿ? zû-hô? how dare! tsò-káⁿ! how many? jie̍h-tsōi? kúi-kâi? jia̍k-kan? ki-to? how far? jie̍h-hñg? how many times? jie̍h-tsōi-ē? kúi-hûe? kúi-pái? kúi-tńg? kúi-hãng? jie̍h-tsōi-tshṳ̀? hoe large? jie̍h-tōa? how old? jie̍h-tsōi-hùe? tshun-chhiu jie̍h-tsōi? jie̍h-tōa? jie̍h-lãu? kùi-keⁿ? how to do? tsò-nîⁿ-mue̍h? not know how to do it, tsò m̄-pat tò-khṳ̀. how shall I do? zû-hô sĩ-hó? tsò-nîⁿ chiàⁿ-hó? how is this? sṳ̄-sĩ-tsò-nîⁿ? how did it happen? tsò-õi? tsò-ũ? (also expressing incredulity), how can it be otherwise? tsò-m̄-sĩ? how can that be accounted filial piety! chièⁿ seⁿ iau-hó kiè-tsò hàu! how can this be right! khí-ũ ​tshṳ́-lí? how can we get it? tsãi-tit-tie̍h? how much more..., hô-khùang.... how fast! méⁿ-tsãi!
+**how?** tsãi-seⁿ? tsò-nîⁿ? zû-hô? how dare! tsò-káⁿ! how many? jie̍h-tsōi? kúi-kâi? jia̍k-kan? ki-to? how far? jie̍h-hñg? how many times? jie̍h-tsōi-ē? kúi-hûe? kúi-pái? kúi-tńg? kúi-hãng? jie̍h-tsōi-tshṳ̀? hoe large? jie̍h-tōa? how old? jie̍h-tsōi-hùe? tshun-chhiu jie̍h-tsōi? jie̍h-tōa? jie̍h-lãu? kùi-keⁿ? how to do? tsò-nîⁿ-mue̍h? not know how to do it, tsò m̄-pat tò-khṳ̀. how shall I do? zû-hô sĩ-hó? tsò-nîⁿ chiàⁿ-hó? how is this? sṳ̄-sĩ-tsò-nîⁿ? how did it happen? tsò-õi? tsò-ũ? (also expressing incredulity), how can it be otherwise? tsò-m̄-sĩ? how can that be accounted filial piety! chièⁿ seⁿ iau-hó kiè-tsò hàu! how can this be right! khí-ũ tshṳ́-lí? how can we get it? tsãi-tit-tie̍h? how much more..., hô-khùang.... how fast! méⁿ-tsãi!
 
 **however**, hûang-liáu; hûan-iáu.
 
@@ -452,7 +452,7 @@ humming-bird, kim-sai-chiáu. (?)
 
 **hurdle**, keh; tiãm; ôu; tek-lî (bamboo fence).
 
-**hurl**, a spear, pie-chhieⁿ; tong-chhieⁿ. stones, ka̍k-chie̍h. ​**hurricane**, huang-thai; pò-thâu (spring gale).
+**hurl**, a spear, pie-chhieⁿ; tong-chhieⁿ. stones, ka̍k-chie̍h. **hurricane**, huang-thai; pò-thâu (spring gale).
 
 **hurry**, to, piàⁿ-méⁿ. hurry up! méⁿ--chē! piàⁿ-méⁿ--chē! in a desperate, huang-mâng; tsò-sṳ̄ hih-huh-kiè; mâng-kip; mâng-pek. do hurriedly, tshó-lia̍k-tsò; chhìn-tshái-tsò. don't be in such a, tshāi--chē; tshāi-tshāi--nē; ûn-ûn--nē.
 

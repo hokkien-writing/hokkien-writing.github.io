@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/Y
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **yard**, of a ship, tsûn-ûi-kǹg. yard (measure), che̍k-bé.
 
@@ -28,7 +28,7 @@ date: 2024-03-31 16:11:00
 
 **yield**, tâu-hâng; hâng-ho̍k; kui-hâng. the way, jiãng-lōu; sie-tho-kùe. place, jiãng-ūi; sie-tho-tsõ. yielding, khiam-jiãng; tho-jiãng. to one, jiãng--khṳt-i.
 
-**yoke**, a, gû-taⁿ; gû-taⁿ-uaⁿ. ​**yolk**, *of egg*, nñg-jîn.
+**yoke**, a, gû-taⁿ; gû-taⁿ-uaⁿ. **yolk**, *of egg*, nñg-jîn.
 
 **yonder**, hièⁿ-thâu; hṳ́-kò.
 

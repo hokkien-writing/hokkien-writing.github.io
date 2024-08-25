@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/Q
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **quack**, a, uãng-lo̍k; kuang-kùn.
 
@@ -42,7 +42,7 @@ date: 2024-03-31 16:11:00
 
 **quell**, cheng-hua̍t; hua̍t-tsha̍t; phêng-luãn; phêng-tī-hng.
 
-**quench**, fire, kiù-húe; tsâng-kùe-húe (with water). thirst, kói-khuah; chí aû ta. ​**question**, mn̄g; poh-mn̄g; chhê-mn̄g; kiù-mn̄g; huáng-mn̄g; thèng-mn̄g. and answer, mn̄g-tap.
+**quench**, fire, kiù-húe; tsâng-kùe-húe (with water). thirst, kói-khuah; chí aû ta. **question**, mn̄g; poh-mn̄g; chhê-mn̄g; kiù-mn̄g; huáng-mn̄g; thèng-mn̄g. and answer, mn̄g-tap.
 
 **queue**, the, piⁿ. to plait, pĩⁿ-piⁿ. to comb, siu-piⁿ. cut off, kuah-tiāu-piⁿ. to join, chiap-piⁿ; chiap-tsáng.
 

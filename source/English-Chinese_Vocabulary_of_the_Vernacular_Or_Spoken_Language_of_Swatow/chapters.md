@@ -4,7 +4,7 @@ p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/cha
 date: 2024-03-31 16:11:00
 ---
 
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 ## Chapters
 

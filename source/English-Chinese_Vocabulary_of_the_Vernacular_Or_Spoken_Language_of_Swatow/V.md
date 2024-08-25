@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/V
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **vacant**, khang; bô-mue̍h-tõ; khang-hṳ. vacancy in office, khueh-jĩm; khueh-ūi; khàng-khueh; hṳ-khueh.
 
@@ -26,7 +26,7 @@ date: 2024-03-31 16:11:00
 
 **vain**, tsṳ̃-khua; tsṳ̃-sĩ; hàuⁿ-hua; kiau-chhia; hṳ-khua.
 
-​**valiant**, ũ-táⁿ; ũ-táⁿ-lia̍k; ũ-táⁿ-la̍t. valour, káⁿ; ióng-káⁿ; kúaⁿ-káⁿ; ióng.
+**valiant**, ũ-táⁿ; ũ-táⁿ-lia̍k; ũ-táⁿ-la̍t. valour, káⁿ; ióng-káⁿ; kúaⁿ-káⁿ; ióng.
 
 **valley**, suaⁿ-kok; suaⁿ-kok-lok; suaⁿ-khang; suaⁿ-phāng.
 
@@ -74,7 +74,7 @@ date: 2024-03-31 16:11:00
 
 **venerate**, kèng-ùi; tsun-kèng; khim-kèng; khim-tsun; khim-ho̍k.
 
-​**venereal**, disease, lap-ta̍k; huang-ta̍k. congenital, tho-ta̍k.
+**venereal**, disease, lap-ta̍k; huang-ta̍k. congenital, tho-ta̍k.
 
 **venetians**, hāu-peh-chheh. windows, hāu-peh-chheh-theng. leaves, chheh-hie̍h.
 
@@ -132,7 +132,7 @@ date: 2024-03-31 16:11:00
 
 **veteran**, láu-chhiú. troops, chhin-piaⁿ; liēn-piaⁿ.
 
-​**veterinary**, surgeon, ui-gû sin-sin; gû-ui; bé-ui.
+**veterinary**, surgeon, ui-gû sin-sin; gû-ui; bé-ui.
 
 **vex**, lân-ûi; kan-khóu; bûa-lān; thua-bûa; pek. vexed, hûan-ló; iu-būn; khóu-sim; ut-kak; iu-ut; tshôu-ut.
 
@@ -181,7 +181,7 @@ vice-, or second, hù; thòi. vice-president of one of the supreme boards, sĩ-n
 
 **violent**, méⁿ; méⁿ-lie̍t; pãu-ngia̍k. storm, khûang-huang méⁿ-hõu; khûang-huang pãu-hõu.
 
-​**violin**, hîⁿ. to play the, kṳ̀-hîⁿ; khan-hîⁿ.
+**violin**, hîⁿ. to play the, kṳ̀-hîⁿ; khan-hîⁿ.
 
 **viper**, ta̍k-tsûa; pn̄g-sî-thâu.
 
@@ -217,7 +217,7 @@ vice-, or second, hù; thòi. vice-president of one of the supreme boards, sĩ-n
 
 **voice**, siaⁿ; siaⁿ-im. clear, siaⁿ-im chheng-liãng (or, liáu-liãng; mêng-liãng). indistinct, siaⁿ-im lô-lô (or, hâm-hû; kâm-kôu). to lose one's, sit-siaⁿ; bô-siaⁿ; sit-im. to read in a clear loud voice, khui-siaⁿ-tha̍k. to recognize one's, jīn-siaⁿ; piẽn-siaⁿ. with one voice, che̍k-kháu che̍k-sṳ̂.
 
-**void**, see EMPTY. ​**volcano**, húe-suaⁿ; húe-iãm-suaⁿ.
+**void**, see EMPTY. **volcano**, húe-suaⁿ; húe-iãm-suaⁿ.
 
 **volume**, a, che̍k-pńg. several volumes making one work, che̍h-pang; tshûan-põu.
 

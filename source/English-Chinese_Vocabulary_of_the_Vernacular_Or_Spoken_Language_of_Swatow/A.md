@@ -3,7 +3,7 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A
 date: 2024-03-31 16:11:00
 ---
-​
+
 [↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **a**, che̍k-kâi; che̍k-chiah; &c.
@@ -21,7 +21,7 @@ date: 2024-03-31 16:11:00
 **abash**, sit-nâng. kâi-thí-mīn. *abashed*, tshâm-khũi; kièn-siàu; siáu-lí; siu-chhí.
 
 **abate**, kiám; chié. *the price*, sǹg-kiám; tṳ̂-kiám; khà-kiám; khà-tṳ̂; kiám--chē; chié--chē.
-<!--more-->
+
 **abbess** (*Buddhist*), sṳ-hũ; hûe-siēⁿ-phûa; nîⁿ-kou-phûa.
 
 **abbot** (*Buddhist*), sṳ-hũ; hûe-siēⁿ-thâu; tang-ke.
@@ -56,7 +56,7 @@ date: 2024-03-31 16:11:00
 
 **abominable**, khó-ù; tshūa-nâng-lóu.
 
-​**abominate**, ù; lóu; kĩ.
+**abominate**, ù; lóu; kĩ.
 
 **aborigines**, thóu-jîn; pńg-tī-nâng.
 
@@ -124,7 +124,7 @@ date: 2024-03-31 16:11:00
 
 **accident**, ì-gūa kâi-sṳ̄; liāu-m̄-kàu kâi kéng-ngõ. *accidental*, ngóu-jiên; tsõu-jiên.
 
-​**acclivity**, suaⁿ kiã-kiã; pho-lo-sia.
+**acclivity**, suaⁿ kiã-kiã; pho-lo-sia.
 
 **accommodate**, *others*, pang-tsõ; chieh-ēng. *oneself to others*, tshông-khûan; sûi-nâng-ì. *able to a. oneself to circumstances*, ũ-pièn-thong; ũ-khuân-pièn.
 
@@ -180,7 +180,7 @@ date: 2024-03-31 16:11:00
 
 **actor**, *in play*, hì-kiáⁿ; hì-kieh. *personating female*, hì-tòaⁿ.
 
-​**actually**, si̍t-tsãi; kúaⁿ-jiên; khak-si̍t; tek-si̍t.
+**actually**, si̍t-tsãi; kúaⁿ-jiên; khak-si̍t; tek-si̍t.
 
 **acute**, *sharp*, chiam. *ingenious*, kuai-khá. *in discernment*, tshong-mêng.
 
@@ -244,7 +244,7 @@ date: 2024-03-31 16:11:00
 
 **adultery**, kan-îm; kan--nâng chhi-nńg; sṳ-kau; sai-thong; ji̍p-nâng-lãi; sai-chhêng; kan-chhêng.
 
-**advance**, chìn-tsôiⁿ. *daily*, che̍k-ji̍t kìⁿ-ji̍t-chìn. *money*, saiⁿ ​tshut-chîⁿ. *advanced guard*, sien-hong. *in office*, kau-seng; chìn-khip; seng-kûiⁿ.
+**advance**, chìn-tsôiⁿ. *daily*, che̍k-ji̍t kìⁿ-ji̍t-chìn. *money*, saiⁿ tshut-chîⁿ. *advanced guard*, sien-hong. *in office*, kau-seng; chìn-khip; seng-kûiⁿ.
 
 **advantage**, iah; lĩ-iah. *to seek*, thû-lĩ. *of no advantage*, bô-iah. *advantageous*, ũ-iah; hó-tit-lĩ; hó-thàn-chîⁿ.
 
@@ -294,7 +294,7 @@ date: 2024-03-31 16:11:00
 
 **afraid**, kiaⁿ; ùi; kiaⁿ-ùi; khióng-ùi; phàⁿ; hãi-phàⁿ; kiaⁿ-kũ. *dont be*, m̄-ùi.
 
-**after**, aũ. *three days*, saⁿ-ji̍t-aũ; saⁿ-ji̍t tsṳ-aũ; kùe-ke saⁿ-ji̍t. *I shall be after you*, uá sûi-aũ chiũ-lâi. *to follow*, tùe tõ-aũ-mīn. *to pursue*, jiāu; tui. *the pattern*, chiè-iēⁿ; chiè-bôu. *afterwards*, aũ-lâi. *ages*, aũ-sì; ãu-tō. *afternoon*, ẽ-kùa; ​ẽ-ngóu. *after dinner*, chia̍h-ji̍t-tàu-liáu. *afterbirth*, ui.
+**after**, aũ. *three days*, saⁿ-ji̍t-aũ; saⁿ-ji̍t tsṳ-aũ; kùe-ke saⁿ-ji̍t. *I shall be after you*, uá sûi-aũ chiũ-lâi. *to follow*, tùe tõ-aũ-mīn. *to pursue*, jiāu; tui. *the pattern*, chiè-iēⁿ; chiè-bôu. *afterwards*, aũ-lâi. *ages*, aũ-sì; ãu-tō. *afternoon*, ẽ-kùa; ẽ-ngóu. *after dinner*, chia̍h-ji̍t-tàu-liáu. *afterbirth*, ui.
 
 **again**, tsài; lêng-gūa; iũ; têng-gūa; iũ-tsài. *a. and a.*, ē-ē; lú-lú.
 
@@ -346,7 +346,7 @@ date: 2024-03-31 16:11:00
 
 **alias**, *to adopt an*, mâiⁿ-miâⁿ mi̍t-sèⁿ; kói-miâⁿ uāⁿ-sèⁿ.
 
-**alight**, *from a horse*, lo̍h-bé. *from a chair*, lo̍h-kiē; ​tshut-kiē.
+**alight**, *from a horse*, lo̍h-bé. *from a chair*, lo̍h-kiē; tshut-kiē.
 
 **alike**, sie-tâng; pêⁿ-iēⁿ; che̍k-iēⁿ; che̍k-it.
 
@@ -398,7 +398,7 @@ date: 2024-03-31 16:11:00
 
 **altar**, tôaⁿ; chì-tôaⁿ; hieⁿ-tôaⁿ; hieⁿ-uàⁿ.
 
-​**alter**, kói; kói-pièn; kói-uāⁿ; kói-e̍k; kói-chiàⁿ; chhiâⁿ-kói.
+**alter**, kói; kói-pièn; kói-uāⁿ; kói-e̍k; kói-chiàⁿ; chhiâⁿ-kói.
 
 **altercation**, cheⁿ-lũn; sie-à; sie-jiáng; sie-cheⁿ; khau-peh.
 
@@ -458,7 +458,7 @@ date: 2024-03-31 16:11:00
 
 **amputate**, kuah-tiāu; tsám-tiāu; kṳ̀-tiāu; tok-tiāu.
 
-​**amulet**, hieⁿ-húe-lâng; hieⁿ-húe-tō. *to wear*, kùa-hieⁿ-húe.
+**amulet**, hieⁿ-húe-lâng; hieⁿ-húe-tō. *to wear*, kùa-hieⁿ-húe.
 
 **amusement**, sie-sńg; thit-thô, iû-la̍k. *amusing*, tshù-bī. *ramble about for amusement*, iû-nguán; nguán-la̍h.
 
@@ -508,7 +508,7 @@ date: 2024-03-31 16:11:00
 
 **anomalous**, khî-kuài; koh-iēⁿ; bô-lí; bô-lí-lōu; bô-chhêng-lí.
 
-​**anon**, chiet-khek; lîn-sî; liên-sî; sûi-sî; sûi-chiet; chí-tsûn.
+**anon**, chiet-khek; lîn-sî; liên-sî; sûi-sî; sûi-chiet; chí-tsûn.
 
 **anonymous**, *placards*, bô-thâu-thiap; bô-miâⁿ-thiap.
 
@@ -562,7 +562,7 @@ date: 2024-03-31 16:11:00
 
 **appear**, huat-hīn; tshut-hīn; lòu-tshut; hién-lòu; tù-hīn; lòu-hīn; hién-hīn; hién-mêng. *appearance*, hêng-iông; mīn-mãuⁿ; gūa-mãuⁿ; hêng-tsuãng; tsuãng-mãuⁿ.
 
-​**appease**, khǹg-sek; khǹg--nâng màiⁿ-khì; sái--nâng sek-khì; sái--nâng hûe-sim. *appeased*, sek-náuⁿ; sèⁿ lo̍h; siẽⁿ-tńg; siẽⁿ-khui.
+**appease**, khǹg-sek; khǹg--nâng màiⁿ-khì; sái--nâng sek-khì; sái--nâng hûe-sim. *appeased*, sek-náuⁿ; sèⁿ lo̍h; siẽⁿ-tńg; siẽⁿ-khui.
 
 **appellation**, hãu; miâⁿ-jī.
 
@@ -620,7 +620,7 @@ date: 2024-03-31 16:11:00
 
 **arise**, khí; heng; khí--lâi; peh-tsáu-khí.
 
-​**aristocracy**, kong-kheng tãi-hu.
+**aristocracy**, kong-kheng tãi-hu.
 
 **arithmetic**, sǹg-huap; kui-tṳ̂ sêng-pun.
 
@@ -676,7 +676,7 @@ date: 2024-03-31 16:11:00
 
 **artlessly**, tong-ti̍t; bô-nõⁿ-sim; bô-ngũi; láu-si̍t.
 
-**as**, zû; chin-chhiẽⁿ; àn; chiè. *as to*, lũn-ki̍p; lũn-kàu; tàⁿ-kàu; chì-kàu. *as before*, jiông-kū; jêng-kū; i-kū; i-ngûan; chiè-kū; zû-kū. *as you say*, chiè-lṳ́-tàⁿ. *as soon as* ……, ​che̍k-ē …… chiũ. *as he grew up he gradually changed to evil*, i khuaⁿ-khuaⁿ-tōa chiũ chiãm-chiãm pièn-ak.
+**as**, zû; chin-chhiẽⁿ; àn; chiè. *as to*, lũn-ki̍p; lũn-kàu; tàⁿ-kàu; chì-kàu. *as before*, jiông-kū; jêng-kū; i-kū; i-ngûan; chiè-kū; zû-kū. *as you say*, chiè-lṳ́-tàⁿ. *as soon as* ……, che̍k-ē …… chiũ. *as he grew up he gradually changed to evil*, i khuaⁿ-khuaⁿ-tōa chiũ chiãm-chiãm pièn-ak.
 
 **ascend**, chiẽⁿ; khí; teng; seng.
 
@@ -738,7 +738,7 @@ date: 2024-03-31 16:11:00
 
 **astonish**, khṳt--nâng hãi-ĩ; sái-nâng khî-ĩ; hãi-ĩ nâng kâi zṳ́-ma̍k.
 
-​**astounded**, kiaⁿ-kàu hua̍k--chē-kiè; kiaⁿ-kàu hehⁿ--chē-kiè; kiaⁿ-kàu ngo̍h-ngo̍h; kiaⁿ-kàu kông-kông.
+**astounded**, kiaⁿ-kàu hua̍k--chē-kiè; kiaⁿ-kàu hehⁿ--chē-kiè; kiaⁿ-kàu ngo̍h-ngo̍h; kiaⁿ-kàu kông-kông.
 
 **astray**, tsáu-tshò-lōu; kiâⁿ-tāⁿ lōu-thû.
 
@@ -800,7 +800,7 @@ date: 2024-03-31 16:11:00
 
 **austere**, tsang-ngiâm; ngiâm-sok; kùe-ngiâm; ngiâm-khek.
 
-​**authentic**, chin; chin-si̍t; ũ-phêng-kṳ̃; ũ-khak-kṳ̃; si̍t-tsãi.
+**authentic**, chin; chin-si̍t; ũ-phêng-kṳ̃; ũ-khak-kṳ̃; si̍t-tsãi.
 
 **author**, tù-tsṳ; tù-tsṳ li̍p-sueh.
 
@@ -854,6 +854,6 @@ date: 2024-03-31 16:11:00
 
 **axe**, póu-thâu.
 
-​**axle**, hûeⁿ-taⁿ.
+**axle**, hûeⁿ-taⁿ.
 
 **azure**, tshang; chheⁿ; tshùi-lâm. *the azure heaven*, tshang-thiⁿ; chheⁿ-thiⁿ.�-thiⁿ.

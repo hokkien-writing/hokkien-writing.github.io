@@ -3,8 +3,8 @@ title: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 p: English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P
 date: 2024-03-31 16:11:00
 ---
-​
-[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)​
+
+[↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
 **pace**, pōu; hua̍h. *large*, tōa-hua̍h.
 
@@ -30,7 +30,7 @@ date: 2024-03-31 16:11:00
 
 **pair**, *a*, che̍k-sang; che̍k-tùi. *to*, phùe; phùe-ha̍h; phit-phùe.
 
-​**palace**, uâng-keng.
+**palace**, uâng-keng.
 
 **palanauin**, kīe.
 
@@ -80,7 +80,7 @@ date: 2024-03-31 16:11:00
 
 **paralysis**, see PALSY.
 
-​**paramour**, kan-hu; lãu-ĩang.
+**paramour**, kan-hu; lãu-ĩang.
 
 **parapet**, chhiêⁿ-ku̍eh; chhiêⁿ-ûi.
 
@@ -128,7 +128,7 @@ date: 2024-03-31 16:11:00
 
 **particular**, só-tshùi; só-siak; sòi-siâng. *the particulars*, chhêng-iû; che̍k-kiãⁿ che̍k-kiãⁿ. *of an account*, che̍k-tiâu che̍k-tiâu.
 
-​**partition**, siám *(wooden)*; piah *(lime)*; keh-piah; keh-chhiêⁿ. *to*, kek-siám.
+**partition**, siám *(wooden)*; piah *(lime)*; keh-piah; keh-chhiêⁿ. *to*, kek-siám.
 
 **partner**, *in business*, húe-kì; húe-phũaⁿ. *to join with*, tshap-húe-kì; ha̍h-húe. *dissolve partnership*, thiah-húe; thiah-siàu.
 
@@ -178,7 +178,7 @@ date: 2024-03-31 16:11:00
 
 **pave**, phou-chie̍h; kih-chie̍h. *pavement*, chie̍h-lōu.
 
-​**pavilion**, têng; liâng-têng; lâu; koh.
+**pavilion**, têng; liâng-têng; lâu; koh.
 
 **paw**, *bear's*, hîm-chiéⁿ.
 
@@ -232,7 +232,7 @@ date: 2024-03-31 16:11:00
 
 **pen**, pit. *quill*, gô-môⁿ-pit. *point of*, pit-búe; pit-chiam; pit-hong. *stem of pen*, pit-tshue. *cover for point*, pit-kóng. *put in mouth*, kâm-pit. *moisten with ink*, bûa-ba̍k; suah-pit. *hold for writing*, khiâ-pit. *holder*, pit-tâng; pit-kè, *knife*, phoi-pit-to; to-kiáⁿ.
 
-​**penal**, *code*, lu̍t-lī. *penalty*, hu̍at-ngṳ̂n; hêng-hu̍at.
+**penal**, *code*, lu̍t-lī. *penalty*, hu̍at-ngṳ̂n; hêng-hu̍at.
 
 **penance**, póu-kùe siu-hẽng; chiang-kong póu-kùe.
 
@@ -290,7 +290,7 @@ date: 2024-03-31 16:11:00
 
 **permit**, *see*[allow](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#allow).
 
-​**pernicious**, lĩ-hāi; hāi-sṳ̄.
+**pernicious**, lĩ-hāi; hāi-sṳ̄.
 
 **perpendicular**, khiã-tit; tit-khiã; ti̍t-lo̍h; khiã-chiàⁿ.
 
@@ -348,7 +348,7 @@ date: 2024-03-31 16:11:00
 
 **philanthropy**, jîn-tek; kiâⁿ-jîn-tek.
 
-​**philology**, káng-kiù bún-jī.
+**philology**, káng-kiù bún-jī.
 
 **philosophy**, tãu. *philosopher*, khiông-lí kek-mue̍h-sṳ̃.
 
@@ -404,7 +404,7 @@ date: 2024-03-31 16:11:00
 
 **pilgrim**, khṳ̀-hñg-lōu pài-sîn.
 
-​**pill**, ie̍h-iⁿ.
+**pill**, ie̍h-iⁿ.
 
 **pillage**, phah-kiap; chhiéⁿ-kiap.
 
@@ -462,7 +462,7 @@ date: 2024-03-31 16:11:00
 
 **placid**, sim phêng, khi hûa; tshông-iông.
 
-​**plagiarism**, thau-siá pa̍t-nâng-bûn.
+**plagiarism**, thau-siá pa̍t-nâng-bûn.
 
 **plague**, un-mu̍t; sî-lẽng.
 
@@ -500,7 +500,7 @@ date: 2024-03-31 16:11:00
 
 **pleasant**, tshù-bī, sóng-khùai. *weather*, thiⁿ-sî hó; thiⁿ-khi̍ hó. *passage*, sũn-huang. *I wish you a pleasant journey*, che̍k-lōu phêng-an. *to hear*, sũn-hĩⁿ.
 
-**please**, chhiáⁿ. *as you please*, sûi-tsãi-lṳ́; thãi-lṳ́ tsú-i̍; iû-lṳ́; jĩm-lṳ́; sûi-piẽn. *please anyone*, zû i-kâi i̍; zua̍t i-kâi-i̍. *difficult to*, tò-thi̍. *the palate*, ha̍h-chia̍h; ​suah-tshùi; suáng-kháu; zua̍t-kháu; sek-kháu;
+**please**, chhiáⁿ. *as you please*, sûi-tsãi-lṳ́; thãi-lṳ́ tsú-i̍; iû-lṳ́; jĩm-lṳ́; sûi-piẽn. *please anyone*, zû i-kâi i̍; zua̍t i-kâi-i̍. *difficult to*, tò-thi̍. *the palate*, ha̍h-chia̍h; suah-tshùi; suáng-kháu; zua̍t-kháu; sek-kháu;
 
 **pleasure**, huaⁿ-hí; hí-la̍k; khuài-la̍k; sek-chhêng. *man of*, hàuⁿ-huang-liû.
 
@@ -544,7 +544,7 @@ date: 2024-03-31 16:11:00
 
 **point**, *to*, chí; kí; kí-thóiⁿ; chí-tiāⁿ; kí-tiāⁿ. *a book*, tiám-tsṳ. tiám-tsṳ-chheh. *out an error*, chí-mîⁿ; kí-phùa.
 
-**poison**, ta̍k; ta̍k-ie̍h. *to*, lo̍h-ta̍k-ie̍h; ie̍h-sí-nâng. *fish*, ie̍h-hṳ̂. *calculated to prove fatal in a certain time*, hãn-ie̍h. ​**poker**, húe-chhe.
+**poison**, ta̍k; ta̍k-ie̍h. *to*, lo̍h-ta̍k-ie̍h; ie̍h-sí-nâng. *fish*, ie̍h-hṳ̂. *calculated to prove fatal in a certain time*, hãn-ie̍h. **poker**, húe-chhe.
 
 **pole**, *for carrying*, phoi-taⁿ; pêⁿ-taⁿ; khat-taⁿ; chiam-taⁿ; tek-thûi *(bamboo)*. *long bamboo*, tek-ko. *to pole a boat*, theⁿ-tsûn.
 
@@ -606,7 +606,7 @@ date: 2024-03-31 16:11:00
 
 **port**, káng-kháu; pou-thâu. *port-holes*, phàu-khang.
 
-**portal**, *honorary*, têng; têng-piáu. ​**portentous**, hiong-tiãu; kuài-ĩ.
+**portal**, *honorary*, têng; têng-piáu. **portentous**, hiong-tiãu; kuài-ĩ.
 
 **porter**, pé-mn̂g; thóiⁿ-mn̂g; siú-mn̂g; chiéⁿ-mn̂g.*carrier of burdens,* taⁿ-kang; taⁿ-tàⁿ-nâng; thiau-hu; taⁿ-kieh.
 
@@ -656,7 +656,7 @@ date: 2024-03-31 16:11:00
 
 **pound**, *Chinese*, kṳn.*English*, pong.
 
-**pound**, *to*, cheng; tûi. ​**pour**, *out*, tò; tò-tiāu (*as useless*). *tea*, sai-tê.*wine*, sai-chiú.*in*, tò--lo̍h-khṳ̍.*as down the throat*, kùan.
+**pound**, *to*, cheng; tûi. **pour**, *out*, tò; tò-tiāu (*as useless*). *tea*, sai-tê.*wine*, sai-chiú.*in*, tò--lo̍h-khṳ̍.*as down the throat*, kùan.
 
 **pout**, tshùi khiàu-khiàu; tshùi tu-tu.
 
@@ -704,7 +704,7 @@ date: 2024-03-31 16:11:00
 
 **predict**, ṳ̃-ngân; ṳ̃-soiⁿ-tàⁿ; thâu-soiⁿ-tàⁿ.
 
-**pre-eminent**, tshut-chèng; thiàu-khûn; tshut-lūi; tshut-thoh; kùe-nâng. ​**preface**, sũ; sũ-thâu; siáu-ín.
+**pre-eminent**, tshut-chèng; thiàu-khûn; tshut-lūi; tshut-thoh; kùe-nâng. **preface**, sũ; sũ-thâu; siáu-ín.
 
 **prefect**, ti-hú; hú-thài-iâ; hú-hièn.*prefecture*, hú.
 
@@ -746,7 +746,7 @@ date: 2024-03-31 16:11:00
 
 **prestige**, lién; thí-mīn; sì-mīn.*to lose*, sit-lién; sàu-lién.
 
-**presume**, káⁿ; tsṳ̃-tsuan.*presumptuous*, tōa-tsú tōa-ì. ​*I would not presume*, m̄-káⁿ; tsò-káⁿ-tng? hô-káⁿ-tng? tsò-káⁿ? khí-káⁿ?
+**presume**, káⁿ; tsṳ̃-tsuan.*presumptuous*, tōa-tsú tōa-ì. *I would not presume*, m̄-káⁿ; tsò-káⁿ-tng? hô-káⁿ-tng? tsò-káⁿ? khí-káⁿ?
 
 **pretend**,*not to know a thing*, tho-m̄-tsai; tèⁿ-m̄-tsai; tsuang-hû-thû.*to be deaf*, tèⁿ-tsò hĩⁿ lâng; tsuang-tsò hĩⁿ lâng; ké-tsò hĩⁿ lâng.*pretender*, ké-kha ké-chhiú; ngũi-phièn.*pretend friendliness while plotting an injury*, tshùi tõ-tàⁿ-ūe kha tõ-koih ōu-chéng.
 
@@ -782,7 +782,7 @@ date: 2024-03-31 16:11:00
 
 **print**, ìn; ìn-chheh; ìn-tsṳ.*printing blocks*, ìn-póiⁿ.*types*, ua̍h-jī-póiⁿ.*printing-house*, tsṳ-hng.
 
-**prison**, kam; kam-ge̍k; lô-ge̍k; kam-kuán; kuán.*put*​*in*, kìm-kam; siu-kam.*get out of*, tshut-kam.*prisoner*, kam-huãm; huãm-jîn; siu-kam.*of war*, pĩ-lû; pĩ-lia̍h.
+**prison**, kam; kam-ge̍k; lô-ge̍k; kam-kuán; kuán.*put**in*, kìm-kam; siu-kam.*get out of*, tshut-kam.*prisoner*, kam-huãm; huãm-jîn; siu-kam.*of war*, pĩ-lû; pĩ-lia̍h.
 
 **private**, sṳ; sai; sai-ẽ; sai-khia-ẽ.*privately*, àm-chẽⁿ; sai-ẽ; ba̍t-ba̍t; ṳ́n-ba̍t; ṳ́n-tshâng.*private conversation*, kau-thâu chiap-gṳ́.
 
@@ -832,7 +832,7 @@ date: 2024-03-31 16:11:00
 
 **profuse**,*in expenditure*, *see*[prodigal](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#prodigal).*in promises*, múaⁿ-tshùi ìn-sêng.
 
-**progenitor**, soiⁿ-tsóu; tsóu-tsong; tsóu-kong. ​**prognosticate**, pok-khùe; chiam-khùe.
+**progenitor**, soiⁿ-tsóu; tsóu-tsong; tsóu-kong. **prognosticate**, pok-khùe; chiam-khùe.
 
 **progress**, chìn-tsôiⁿ; chìn-pōu; chiáng-chìn.*daily progress*, che̍k-ji̍t kìⁿ-ji̍t-chìn.
 
@@ -876,7 +876,7 @@ date: 2024-03-31 16:11:00
 
 **prospect**, kuang-kéng; kéng-tì.
 
-**prosper**, heng-uãng; heng-sẽng; uãng-siàng.*prosperity*, būan-sṳ̄ lī-ta̍t; kak-sṳ̄ zû-ì; ha̍h-siẽⁿ; sûi-ì; zû-ngũan. ​**prostrate**, phak-tõ-thôu.*ceremony of prostration*, khàu-thâu; kha̍p-thâu.
+**prosper**, heng-uãng; heng-sẽng; uãng-siàng.*prosperity*, būan-sṳ̄ lī-ta̍t; kak-sṳ̄ zû-ì; ha̍h-siẽⁿ; sûi-ì; zû-ngũan. **prostrate**, phak-tõ-thôu.*ceremony of prostration*, khàu-thâu; kha̍p-thâu.
 
 **prostitute**, kĩ-nńg; chhiang-kĩ; láu-kṳ́; láu-kí; a-ché; khiàu-búe.
 
@@ -926,7 +926,7 @@ date: 2024-03-31 16:11:00
 
 **pulp**,*of fruit*, kúeⁿ-chí-ne̍k.
 
-**pulse** ,*the*, me̍hⁿ.*feel the*, me̍hⁿ; phah-me̍hⁿ; tẽⁿ-me̍hⁿ; àn-me̍hⁿ; chién-me̍hⁿ; thóiⁿ-me̍hⁿ. ​**pulverize**, ngóiⁿ-bua̍h; lûi-iùⁿ.
+**pulse** ,*the*, me̍hⁿ.*feel the*, me̍hⁿ; phah-me̍hⁿ; tẽⁿ-me̍hⁿ; àn-me̍hⁿ; chién-me̍hⁿ; thóiⁿ-me̍hⁿ. **pulverize**, ngóiⁿ-bua̍h; lûi-iùⁿ.
 
 **pumelo**, iū.
 
@@ -972,7 +972,7 @@ date: 2024-03-31 16:11:00
 
 **pustule**, sié-tshng.
 
-**put**, pàng; hẽ; an-tì; an-tùn.*away*, pàng-khui.*away a servant*, sî.*by* khǹg; khǹg-búa.*in mind*, thî-chhéⁿ; that-chhéⁿ; sái i kì-tit.*in order*, pái-hó; siu-si̍p-hó; phou-tì-hó; an-pâi; siu-si̍p kui-ūi; siu-si̍p tsôi-chiáⁿ.*into*, tshō--lo̍h-khṳ̀; ji̍p.*on clothes*, chhēng-saⁿ.*on a cap*, tì-bō.*off clothes and cap*, thǹg-saⁿ pak-bō.*out a fire*, phah-kùe-húe; ìm--khí húe.*out a lamp*, ​pûn-kùe-teng; lâu-kùe-teng; lâu--khí.*the hand on*, àn-chhiú; chhiú àn--pàng-kò; hūaⁿ-chhiú; chhiú teh.*together*, tàu; tàu-bûa; ha̍h-bûa.*up with*, lún; nãiⁿ.*to shame*, khṳt-nâng sit-lién; peh-phùa mīn-phûe.
+**put**, pàng; hẽ; an-tì; an-tùn.*away*, pàng-khui.*away a servant*, sî.*by* khǹg; khǹg-búa.*in mind*, thî-chhéⁿ; that-chhéⁿ; sái i kì-tit.*in order*, pái-hó; siu-si̍p-hó; phou-tì-hó; an-pâi; siu-si̍p kui-ūi; siu-si̍p tsôi-chiáⁿ.*into*, tshō--lo̍h-khṳ̀; ji̍p.*on clothes*, chhēng-saⁿ.*on a cap*, tì-bō.*off clothes and cap*, thǹg-saⁿ pak-bō.*out a fire*, phah-kùe-húe; ìm--khí húe.*out a lamp*, pûn-kùe-teng; lâu-kùe-teng; lâu--khí.*the hand on*, àn-chhiú; chhiú àn--pàng-kò; hūaⁿ-chhiú; chhiú teh.*together*, tàu; tàu-bûa; ha̍h-bûa.*up with*, lún; nãiⁿ.*to shame*, khṳt-nâng sit-lién; peh-phùa mīn-phûe.
 
 **putchuk**, ba̍k-hieⁿ.
 
