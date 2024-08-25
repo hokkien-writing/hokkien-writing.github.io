@@ -106,7 +106,7 @@ theme: kiss
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@hokkien:hokkien-writing/hokkien-writing.github.io.git
+  repository: git@github_hk:hokkien-writing/hokkien-writing.github.io.git
   branch: release
 
 # Markdown-it config
