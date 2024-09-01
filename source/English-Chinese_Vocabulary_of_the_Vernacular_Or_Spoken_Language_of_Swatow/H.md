@@ -26,7 +26,7 @@ date: 2024-03-31 16:11:00
 
 **Hainan**, Hái-lâm.
 
-**hair**, môⁿ. of head, thâu-môⁿ. of body, khóu-môⁿ. of a mole, kì-môⁿ. lose one's, thut-môⁿ; lut-môⁿ. hairy, seⁿ-môⁿ. on end, thâu-môⁿ kiah--khí. -pin, thoi; tshah-thoi; pang-tsam; thâu-thoh. to comb the, siu-thâu-môⁿ. in disorder, thâu-môⁿ zṳ̂-zṳ̂; tháu-zṳ̀-môⁿ; tháu-sùaⁿ. unplait the queue, tháu-piⁿ. plait the queue, pĩⁿ-piⁿ. hair brush, môⁿ-sueh. haircloth, bé-búe-chiⁿ. a haircloth cushion, bé-búe-tiẽn.
+**hair**, môⁿ. *of head*, thâu-môⁿ. *of body*, khóu-môⁿ. *of a mole*, kì-môⁿ. *lose one's*, thut-môⁿ; lut-môⁿ. *hairy*, seⁿ-môⁿ. *on end*, thâu-môⁿ kiah--khí. *hair-pin*, thoi; tshah-thoi; *pang-tsam*; thâu-thoh. *to comb the*, siu-thâu-môⁿ. *in disorder*, thâu-môⁿ zṳ̂-zṳ̂; tháu-zṳ̀-môⁿ; tháu-sùaⁿ. *unplait the queue*, tháu-piⁿ. *plait the queue*, pĩⁿ-piⁿ. *hair brush*, môⁿ-sueh. haircloth, bé-búe-chiⁿ. *a haircloth cushion*, bé-búe-tiẽn.
 
 **halberd**, pê-thâu; chhe. prongs of, gé.
 
@@ -34,7 +34,7 @@ date: 2024-03-31 16:11:00
 
 **half**, pùaⁿ. one, che̍k-pùaⁿ; che̍k-pôiⁿ; che̍k-ûe; che̍k-kue̍h. half-moon, gue̍h îⁿ-che̍k-pùaⁿ. half-way, pùaⁿ-lōu; pùaⁿ-thû. half-cooked, pùaⁿ-chheⁿ-se̍k; m̄-thàng-sim; khiū. half-done, tsò kàu-pùaⁿ-kue̍h.
 
-**hall**, tn̂g; thiaⁿ. of justice, kong-tn̂g. of assembly, hũe-tn̂g. of audience, kim-luân-tōiⁿ; tì-tōiⁿ; gṳ̄-tōiⁿ. examination hall, kháu-īⁿ; kháu-tiêⁿ; kòng-īⁿ (for Kujin examinations).
+**hall**, tn̂g; thiaⁿ. *of justice*, kong-tn̂g. *of assembly*, hũe-tn̂g. *of audience*, kim-luân-tōiⁿ; tì-tōiⁿ; gṳ̄-tōiⁿ. *examination hall*, kháu-īⁿ; kháu-tiêⁿ. *examination hall (for Kujin examinations)*, kòng-īⁿ.
 
 **halliards**, lu̍t-soh.
 
@@ -52,33 +52,33 @@ date: 2024-03-31 16:11:00
 
 **hamlet**, hieⁿ-lí; hieⁿ-tshng; hieⁿ-lí-kiáⁿ; sié-hieⁿ-tshng; saⁿ-ke-tshng.
 
-**hammer**, thûi; thih-thûi; tshâ-thûi. claw-, kiah-teng-thûi.
+**hammer**, thûi; thih-thûi; tshâ-thûi. claw-hammer, kiah-teng-thûi.
 
 **hamper**, to, tsó; tsó-gāi. basket, kheng.
 
 **hamstring**, kuah-kha-kṳn.
 
-**hand**, chhiú. right, iũ-chhiú; chiàⁿ-chhiú. left, tsó-chhiú; tò-chhiú. hand in hand, sie-khan-chhiú. palm of, chhiú-tói; chhiú-chiéⁿ; pa-chiéⁿ. back of hand, chhiú-pûaⁿ; chhiú-pùe. fingers, chhiú-tsóiⁿ. a raw hand, chheⁿ-chhiú; m̄-se̍k-chhiú. an old hand, láu-chhiú; se̍k-chhiú. both hands, sang-chhiú. to present anything with both hands, sang-chhiú khan-hôiⁿ--nâng. hand down, thûan; liû-thûan ãu-tō. hand over, kau; kau-hôiⁿ; kau-tài. hand one to his sedan chair, khan--i chiẽⁿ-kiē. handbreadth, che̍k-pa-chiéⁿ tōa. handcuffs, chhiú-khàu. to put on ditto, só-chhiú-khàu. handful, che̍k-tẽⁿ; che̍k-na̍k. double ditto, che̍k-phóng. handicraft, chhiú-gōi; chhiú-tūan; chhiú-kang. handkerchief, chhiú-kṳn; chhiú-pòu; chhiú-phè (ornamental). hand-writing, chhiú-tshau; pit-chiah. hand-mill, oi-lâng.
+**hand**, chhiú. *right*, iũ-chhiú; chiàⁿ-chhiú. *left*, tsó-chhiú; tò-chhiú. *hand in hand*, sie-khan-chhiú. *palm of*, chhiú-tói; chhiú-chiéⁿ; pa-chiéⁿ. *back of hand*, chhiú-pûaⁿ; chhiú-pùe. *fingers*, chhiú-tsóiⁿ. *a raw hand*, chheⁿ-chhiú; m̄-se̍k-chhiú. *an old hand*, láu-chhiú; se̍k-chhiú. *both hands*, sang-chhiú. *to present anything with both hands*, sang-chhiú khan-hôiⁿ--nâng. *hand down*, thûan; liû-thûan ãu-tō. *hand over*, kau; kau-hôiⁿ; kau-tài. *hand one to his sedan chair*, khan--i chiẽⁿ-kiē. *handbreadth*, che̍k-pa-chiéⁿ tōa. *handcuffs*, chhiú-khàu. *to put on ditto*, só-chhiú-khàu. *handful*, che̍k-tẽⁿ; che̍k-na̍k. *double ditto*, che̍k-phóng. *handicraft*, chhiú-gōi; chhiú-tūan; chhiú-kang. *handkerchief*, chhiú-kṳn; chhiú-pòu. *handkerchief (ornamental)*, chhiú-phè. *hand-writing*, chhiú-tshau; pit-chiah. *hand-mill*, oi-lâng.
 
 **handle**, pèⁿ. of vessel, hĩⁿ; kũaⁿ. to handle a valuable thing carefully, khiēⁿ-sièⁿ.
 
-**handmaid**, pĩ; nńg-pĩ; chhiah-kha; tsáu-kúi (very common term, but objectionable).
+**handmaid**, pĩ; nńg-pĩ; chhiah-kha. *(very common term, but objectionable)*, tsáu-kúi.
 
 **handsome**, ngiá; hó-thóiⁿ; seⁿ-phâi-chhiâng; seⁿ-lâi kah-phah. woman, múiⁿ-jîn; chhiàu-kè; ũ-tsṳ-sek.
 
-**handy**, piẽn-chia̍p; khin-piẽn; khin-kha khùe-chhiú; kah-pān (convenient).
+**handy**, piẽn-chia̍p; khin-piẽn; khin-kha khùe-chhiú. *(convenient)*, kah-pān.
 
 **hang**, oneself, tiàu-ãm; tiàu-ãm sí. strangle, ká-sí; liū-sí.
 
-**hang**, up, tiàu. upon, kùa. down, súi--lo̍h-lâi. clothes to dry or air, nêⁿ (with bamboo rod put through); phua̍h (thrown over rope or bamboo). ears of grain hanging down, chhek-sūi thūi-thâu.
+**hang**, *hang up*, tiàu. *hang upon*, kùa. *hang down*, súi--lo̍h-lâi. *clothes to dry or air (with bamboo rod put through), phua̍h, nêⁿ. *ears of grain hanging down*, chhek-sūi thūi-thâu.
 
-**hank**, of thread, che̍k-tshâng-sùaⁿ.
+**hank**, *of thread*, che̍k-tshâng-sùaⁿ.
 
 **hanker**, lùan-mōⁿ; sim-lùan put-siá; lùan-lùan put-siá; sim kù-kù tõ-mōⁿ.
 
 **haphazard**, thèng-tsãu-hùe; tú-tie̍h-tshái.
 
-**happen**, ũ; tú-ngõ; ngõ--tie̍h; ngóu-ngõ; ngóu-hông; sek-ngõ. when did it happen? tiâng-sî-ũ? how did it happen? tsò-õi?
+**happen**, ũ; tú-ngõ; ngõ--tie̍h; ngóu-ngõ; ngóu-hông; sek-ngõ. *when did it happen*, tiâng-sî-ũ. *how did it happen*, tsò-õi.
 
 **happily**, tsãu-hùe; hẽng-tit; ũ-hẽng; tãi-hẽng; hẽng-ngõ; zû-ngũan; ha̍h-siẽⁿ.
 
@@ -130,13 +130,13 @@ date: 2024-03-31 16:11:00
 
 **hassock**, phû-thûan; pài-tiẽn; kha-ta̍h.
 
-**haste**, kip; kín; kín-kip; huang-mâng (bustle); méⁿ-méⁿ; khùe-khùe; sok-sok; chiet-sok; tshong-tshong.
+**haste**, kip; kín; kín-kip; méⁿ-méⁿ; khùe-khùe; sok-sok; chiet-sok; tshong-tshong. *(bustle)*, huang-mâng.
 
 **hasty**, kín-sèⁿ; sim-sèⁿ kín; sèⁿ kip; sim-sèⁿ pek; kōi-kōi seⁿ-khì; phòng-phiẽ sim-sèⁿ.
 
 **hat**, bō. one, che̍k-téng-bō. put on or wear, tì-bō. take off, pak-tiāu-bō. felt, chiⁿ-bō. straw, tsháu-bō. hat-box, bō-a̍p. hat-stand, bō-kè. hatter, tsò-bō sai-pẽ.
 
-**hatch**, eggs, pū-koi-kiáⁿ; ún-ah-kiáⁿ (artificially). hatchway, tshng-mn̂g; tshng-kháu. to open, khui-tshng. cover of, tshng-mn̂g-khàm; tshng-mn̂g-khàiⁿ.
+**hatch**, *hatch eggs*, pū-koi-kiáⁿ. *hatch eggs (artificially)*, ún-ah-kiáⁿ. *hatchway*, tshng-mn̂g; tshng-kháu. *to open*, khui-tshng. *cover of*, tshng-mn̂g-khàm; tshng-mn̂g-khàiⁿ.
 
 **hatchet**, póu-thâu.
 
@@ -150,7 +150,7 @@ date: 2024-03-31 16:11:00
 
 **haunch**, thúi-thâu; kha-thúi.
 
-**have**, ũ. have you? ũ a-bô? khá chêng-ũ--méⁿ? I have not, bô; m̄-chêng-ũ. have finished, tsò-hó--liáu; íⁿ-keng-tsò; tsò-liáu. have you ever eaten an orange? kaⁿ lṳ́ pat-chia̍h a-m̄-pat? I have not, m̄-pat; tsṳ̃-liáu m̄-pat. have you had dinner? lṳ́ chia̍h-pn̄g a-būe? I have dined, chia̍h-pá--liáu; chia̍h--liáu; phien--liáu. have you been to the market yet? lṳ́ chêng chiẽⁿ-chhĩ--būe? not yet, būe-chêng.
+**have**, ũ. *have you* ũ a-bô; khá chêng-ũ--méⁿ. *I have not*, bô; m̄-chêng-ũ. *have finished*, tsò-hó--liáu; íⁿ-keng-tsò; tsò-liáu. *have you ever eaten an orange*, kaⁿ lṳ́ pat-chia̍h a-m̄-pat. *I have not*, m̄-pat; tsṳ̃-liáu m̄-pat. *have you had dinner*, lṳ́ chia̍h-pn̄g a-būe. *I have dined*, chia̍h-pá--liáu; chia̍h--liáu; phien--liáu. *have you been to the market yet*, lṳ́ chêng chiẽⁿ-chhĩ--būe. *not yet*, būe-chêng.
 
 **hawk**, liáu-eng-pô.
 
@@ -164,9 +164,9 @@ date: 2024-03-31 16:11:00
 
 **he**, i; hṳ́-kâi-nâng.
 
-**head**, thâu; thâu-khak. off, tuah-tńg. -dress, thâu-tshah; tsang; tá-tsang. wind, nge̍k-huang; thêⁿ-thâu-huang; tùi-thâu-huang. headache, thâu-khak thiàⁿ; thâu-khak kok-kok-kiè. band, hâ-jiàu-se; hia̍h-ûi; hia̍h-tsôiⁿ-ûi. head man, thâu-nâng; tso̍k-tiéⁿ; pó-chiàⁿ. of a firm, tsō-suaⁿ; hâng-tsú. heady, thèng-tàⁿ thèng-ûi. headlong, tshou-kip. headstrong, chip-áu; kien-phiah. hang down the head, thâu hẽ-hẽ. lift up, thâu iâng-iâng; thâu-khak tièⁿ-phû. cut off, tsám-thâu.
+**head**, thâu; thâu-khak. *head off*, tuah-tńg. *head-dress*, thâu-tshah; tsang; tá-tsang. *wind*, nge̍k-huang; thêⁿ-thâu-huang; tùi-thâu-huang. *headache*, thâu-khak thiàⁿ; thâu-khak kok-kok-kiè. *band*, hâ-jiàu-se; hia̍h-ûi; hia̍h-tsôiⁿ-ûi. *head man*, thâu-nâng; tso̍k-tiéⁿ; pó-chiàⁿ. *of a firm*, tsō-suaⁿ; hâng-tsú. *heady*, thèng-tàⁿ thèng-ûi. *headlong*, tshou-kip. *headstrong*, chip-áu; kien-phiah. *hang down the head*, thâu hẽ-hẽ. *lift up*, thâu iâng-iâng; thâu-khak tièⁿ-phû. *cut off*, tsám-thâu.
 
-**heal**, ui; ui-pēⁿ; tî-pēⁿ; ui-tî. entirely, ui-tshuân-zú. as a wound, tshng-kháu seⁿ-bûa; sieⁿ-kháu seⁿ-bûa.
+**heal**, ui; ui-pēⁿ; tî-pēⁿ; ui-tî. *entirely*, ui-tshuân-zú. *as a wound*, tshng-kháu seⁿ-bûa; sieⁿ-kháu seⁿ-bûa.
 
 **health**, phêng-an; bô-iãng; uaⁿ-jiên; khin-sang; pìn-sin zû-zuán. injure, sieⁿ-sún--tie̍h sin-hūn. healthy appearance, chia̍h-khṳ̀ hó.
 
@@ -174,9 +174,9 @@ date: 2024-03-31 16:11:00
 
 **hear**, thiaⁿ; thiaⁿ-kìⁿ. I don't hear, thiaⁿ-m̄-kìⁿ. hard of hearing, hĩⁿ lâng. hearsay, hong-bũn; zṳ́-bũn; thiaⁿ-kìⁿ nâng-tàⁿ. hear but pay no attention, lāu tùi-hĩⁿ--kò kùe.
 
-**hearken**, secretly, tá-thèng; thàm-thiaⁿ; thau-thiaⁿ (as eaves-dropper).
+**hearken**, *hearken secretly*, tá-thèng; thàm-thiaⁿ. *hearken secretly (as eaves-dropper)*, thau-thiaⁿ.
 
-**heart**, sim; sim-kuaⁿ; sim-thâu; sim-tn̂g; sim-tī; sim-tshâng; sim-sèⁿ (disposition); sim-chhêng (the affections and desires). having no heart for anything, ià-ià ien-sîn ien-sîn. -ache, sim-kuaⁿ thiàⁿ. beating, sim-kuaⁿ pok-pok-thiàu; sim-kuaⁿ phû-phû-tshúan. with the whole, tsuan-sim. with one, che̍k-sim; tâng-sim; tsôi-sim. heartless, bô-sim; bô-nâng-chhêng. heartburn, ūi-kháu m̄-siau. to affect the heart, tõng-sim. to keep one's heart from evil thoughts, siu-khî hùang-sim.
+**heart**, sim; sim-kuaⁿ; sim-thâu; sim-tn̂g; sim-tī; sim-tshâng. *(disposition)*, sim-sèⁿ. *(the affections and desires)*, sim-chhêng. *having no heart for anything*, ià-ià ien-sîn ien-sîn. *heart-ache*, sim-kuaⁿ thiàⁿ. beating, sim-kuaⁿ pok-pok-thiàu; sim-kuaⁿ phû-phû-tshúan. *with the whole*, tsuan-sim. *with one*, che̍k-sim; tâng-sim; tsôi-sim. *heartless*, bô-sim; bô-nâng-chhêng. heartburn, ūi-kháu m̄-siau. *to affect the heart*, tõng-sim. *to keep one's heart from evil thoughts*, siu-khî hùang-sim.
 
 **hearth**, tsàu; húe-lôu. cricket, tsàu-koi.
 
@@ -184,19 +184,19 @@ date: 2024-03-31 16:11:00
 
 **heave**, anchor, khí-tèng; khie̍h-tèng; po̍ih-tèng; chhiû-tèng. a sigh, tháu-khùi.
 
-**heaven**, thiⁿ; thien. in, tõ-thiⁿ-téng. all under, thiⁿ-ẽ (used for China). justice of, thien-lí. heaven-daring, táⁿ pau-thiⁿ. swear by, chí-thiⁿ mêng-sī; tng-thiⁿ chiù-tsūa.
+**heaven**, thiⁿ; thien. *in heaven*, tõ-thiⁿ-téng. *all under heaven(used for China)*, thiⁿ-ẽ. *justice of*, thien-lí. *heaven-daring*, táⁿ pau-thiⁿ. *swear by*, chí-thiⁿ mêng-sī; tng-thiⁿ chiù-tsūa.
 
-**heavy**, tãng. load, tãng-tàⁿ (on shoulder); tãng-tsāi (in boat). heart, sim-kuaⁿ-thâu teh-tōa-chie̍h (feeling of responsibility); iu-ut (sad). sleep, tōa-gu̍t (also used for death); gu̍t tsùi-tsùi; u̍t chhim-chhim.
+**heavy**, tãng. *heavy load (on shoulder)*, tãng-tàⁿ. *heavy load (in boat), tãng-tsāi. *heavy heart (feeling of responsibility)*, sim-kuaⁿ-thâu teh-tōa-chie̍h. *heavy heart (sad)*, iu-ut. *heavy sleep*, gu̍t tsùi-tsùi; u̍t chhim-chhim. *heavy sleep (also used for death)*, tōa-gu̍t.
 
-**hedge**, chhì-phè; chhì-lî; chhì-ûi; hn̂g-lî; hue-uãng-lî (of cactus); hn̂g-kài.
+**hedge**, chhì-phè; chhì-lî; chhì-ûi; hn̂g-lî; hn̂g-kài. *(of cactus)*, hue-uãng-lî.
 
-**heed**, take, kṳ́n-sín; tsṳ́-sòi; sié-sim. any one, thiaⁿ-nâng-tàⁿ. heedless, tshou-sim; bô-ēng-sim; ló-tshó (careless work).
+**heed**, *take*, kṳ́n-sín; tsṳ́-sòi; sié-sim. *any one*, thiaⁿ-nâng-tàⁿ. *heedless*, tshou-sim; bô-ēng-sim. *heedless (careless work)*, ló-tshó.
 
 **heel**, kha-ãu-teⁿ. of shoes, ôi-teⁿ. on woman's shoe, kia̍h-thô. down at the heels, ta̍h-tó-teⁿ. take to one's heels, tsáu.
 
 **heifer**, gû-kiáⁿ; gû-eⁿ.
 
-**height**, what is the? ũ-jie̍h-kûiⁿ? jie̍h-kûiⁿ?
+**height**, *what is the*, ũ-jie̍h-kûiⁿ; jie̍h-kûiⁿ.
 
 **heir**, sṳ̂-tsṳ́; ãu-sṳ̂. apparent, thài-tsṳ́. heirless, tso̍h-sṳ̂; bô-ãu. heritage, zûi-ngia̍p. to fall heir to one's father's property, sêng-chiap pẽ-ngia̍p. fall heir to the throne, kì-chiap sṳ̂-ūi; téng-sêng uâng-ūi; teng-ki; chiet-ūi.
 
@@ -206,19 +206,19 @@ date: 2024-03-31 16:11:00
 
 **helmet**, thâu-khue; thih-mâuⁿ.
 
-**help**, pang-tsõ; sie-hũ; hũ-tsõ; pang-chhiú; tô-lông; siang-pang; pang-tsān. up, hû--i khí--lâi; khan-hû; khan-thî; khan-kũaⁿ. to get office, thî-pua̍t. in difficulties or dangers, kiù-chì; chín-kiù; chín-chì; si-chì. help! help! kiù--a! kiù--a! kiù-miāⁿ! kiù-miāⁿ! to call for, hàm-kiè-kiù. no help for it, bô-pōu. no help but to, bô-nãiⁿ-hô; bô-khó nãiⁿ-hô; put-tit-íⁿ; bô-ta-uâ; bô-ta i-ûa. help a man to prosper, chhiâⁿ-nâng-hó. helpless, bô-kiù; chĩn-thâu-lêng.
+**help**, pang-tsõ; sie-hũ; hũ-tsõ; pang-chhiú; tô-lông; siang-pang; pang-tsān. *help up*, hû--i khí--lâi; khan-hû; khan-thî; khan-kũaⁿ. *help to get office*, thî-pua̍t. *help in difficulties or dangers*, kiù-chì; chín-kiù; chín-chì; si-chì. *help! help!*, kiù--a! kiù--a; kiù-miāⁿ! kiù-miāⁿ. *to call for*, hàm-kiè-kiù. *no help for it*, bô-pōu. *no help but to*, bô-nãiⁿ-hô; bô-khó nãiⁿ-hô; put-tit-íⁿ; bô-ta-uâ; bô-ta i-ûa. *help a man to prosper*, chhiâⁿ-nâng-hó. helpless, bô-kiù; chĩn-thâu-lêng.
 
 **helter skelter**, sì-sùaⁿ; lũan-tsáu; sùaⁿ-tsáu; phî-phê-kiè tsáu.
 
 **helve**, póu-thâu-pèⁿ; póu-pèⁿ.
 
-**hem**, to, chih-tsūe; chih-pòu-piⁿ; chih-pòu-tsūe (all before sewing); nn̂g-saⁿ-tsūe (to stitch very loosely); thīⁿ-saⁿ-tsūe (sew finely). the, of a garment, saⁿ-kṳ.
+**hem**, *to*, chih-tsūe; chih-pòu-piⁿ. *to (all before sewing)*, chih-pòu-tsūe. *(to stitch very loosely)*, nn̂g-saⁿ-tsūe. *(sew finely)*, thīⁿ-saⁿ-tsūe. *the (of a garment)*, saⁿ-kṳ.
 
 **hem**, clear the throat, khãm-sàu.
 
-**hemp**, mûaⁿ; iû-mûaⁿ. seed, mûaⁿ-chí; mûaⁿ-jîn. -seed oil, mûaⁿ-iû; phang-iû.
+**hemp**, mûaⁿ; iû-mûaⁿ. *seed*, mûaⁿ-chí; mûaⁿ-jîn. *hemp-seed oil*, mûaⁿ-iû; phang-iû.
 
-**hen**, koi-bó. young, koi-nùaⁿ; koi-nùaⁿ-kiáⁿ. -house, koi-liâu; koi-lâng. -roost, koi-tiâu; koi-chhi. henpecked, koi-bó-thî; koi-bó phah-si̍t-thî.
+**hen**, koi-bó. *young*, koi-nùaⁿ; koi-nùaⁿ-kiáⁿ. *hen-house*, koi-liâu; koi-lâng. *hen-roost*, koi-tiâu; koi-chhi. *henpecked*, koi-bó-thî; koi-bó phah-si̍t-thî.
 
 **hence**, gone, bô-tõ; khṳ̀--liáu. therefore, kù-tshṳ́; só-íⁿ; sǹg-lâi; in-tshṳ́. henceforth, tshông-kim íⁿ-ãu; tsṳ̃-kim íⁿ-ãu; tshóng-tshṳ́ íⁿ-ãu.
 
@@ -244,7 +244,7 @@ date: 2024-03-31 16:11:00
 
 **hernia**, thut-kṳn-thâu; siáu-chhiâng-khì.
 
-**hero**, hâu; kie̍t; eng-hiông. heroine, nńg-chiàng (military).
+**hero**, hâu; kie̍t; eng-hiông. *heroine (military)*, nńg-chiàng.
 
 **hesitate**, chhî-gî; būe-ũ che̍k-kuat; būe-kuat-ì. talk in hesitating way, tàⁿ-ūe sīm-a-sīm.
 
@@ -252,7 +252,7 @@ date: 2024-03-31 16:11:00
 
 **hiccup**, phah-oh-kiáⁿ; thiu-oh-kiáⁿ; khou-oh-kiáⁿ.
 
-**hide**, tshâng; khǹg; tshâng-khǹg; tshâng-miⁿ; khǹg-miⁿ; khǹg-bûa; siu-tshâng; ṳ́n-tshâng; khǹg-ba̍t; tshâng-ne̍k; ṳ́n-ne̍k. oneself, pì-ba̍t; pì-bûa; ṳ́n-pì; tiàm-bûa; iám-siám; siám-bûa; siám-miⁿ; siám-sin (make oneself invisible by magic). one's faults, chia-iám; iám-kài; iám-sek; khàm-bûa. hide and seek, aⁿ-ma̍k tsáu-tiàm.
+**hide**, tshâng; khǹg; tshâng-khǹg; tshâng-miⁿ; khǹg-miⁿ; khǹg-bûa; siu-tshâng; ṳ́n-tshâng; khǹg-ba̍t; tshâng-ne̍k; ṳ́n-ne̍k. *hide oneself*, pì-ba̍t; pì-bûa; ṳ́n-pì; tiàm-bûa; iám-siám; siám-bûa; siám-miⁿ. *(make oneself invisible by magic)*, siám-sin. *hide one's faults*, chia-iám; iám-kài; iám-sek; khàm-bûa. *hide and seek*, aⁿ-ma̍k tsáu-tiàm.
 
 **hide**, a, phûe-sek; chheⁿ-phûe; gû-phûe. to dress a, se̍k-phûe.
 
@@ -260,21 +260,21 @@ date: 2024-03-31 16:11:00
 
 **higgle**, sṳ-niêⁿ khah-thiám; ngi-ngai.
 
-**high**, kûiⁿ; kau. antiquity, siãng-kóu. hill, kûiⁿ-suaⁿ; kau-suaⁿ. station, kau-ūi; kau-kuaⁿ. price, kùi; kau-kè; kè-chîⁿ tsōi. wind, huang méⁿ; huang tōa. water, lâu-tsúi tĩⁿ; tsúi tōa; tiê tōa. on, tõ-chiēⁿ; tõ-téng. the highest, chì-siãng; tõ-téng-téng; siãng-téng. prize highly, kùi-tõng; kèng-tõng; thóiⁿ-tõng. -spirited, hâu-khì. in the highest degree, siãng; chì; tsa̍p-hun; kàu-ke̍k; kàu-ke̍k--tshù.
+**high**, kûiⁿ; kau. *high antiquity*, siãng-kóu. *high hill*, kûiⁿ-suaⁿ; kau-suaⁿ. *high station*, kau-ūi; kau-kuaⁿ. *high price*, kùi; kau-kè; kè-chîⁿ tsōi. *high wind*, huang méⁿ; huang tōa. *high water*, lâu-tsúi tĩⁿ; tsúi tōa; tiê tōa. *on high*, tõ-chiēⁿ; tõ-téng. *the highest*, chì-siãng; tõ-téng-téng; siãng-téng. *prize highly*, kùi-tõng; kèng-tõng; thóiⁿ-tõng. *high-spirited*, hâu-khì. *in the highest degree*, siãng; chì; tsa̍p-hun; kàu-ke̍k; kàu-ke̍k--tshù.
 
 **highway**, kuaⁿ-lōu; tōa-lōu. highwayman, hiáng-bé-tsha̍t; tso̍ih-lōu-tsha̍t; tso̍ih-lōu chhiéⁿ-kiap.
 
-**hill**, suaⁿ. pass, suaⁿ-niáⁿ. to cross hills, pûaⁿ-suaⁿ kùeⁿ-niáⁿ. hillock, suaⁿ-tu-léng; suaⁿ-pou (gentle slope). hilly road, khi-khu.
+**hill**, suaⁿ. pass, suaⁿ-niáⁿ. *to cross hills*, pûaⁿ-suaⁿ kùeⁿ-niáⁿ. *hillock*, suaⁿ-tu-léng. *hillock (gentle slope)*, suaⁿ-pou. *hilly road*, khi-khu.
 
 **hilt**, kiàm-pèⁿ; kiàm-thâu.
 
 **hind**, te̍k-bó.
 
-**hinder**, tsó; tsó-chí; tsó-keh; tsó-khiē; khiē-tsũ; tam-koh; at-chì; iap-chì. hindrance, huâng-gāi; thua-thūi. what is to? ũ-sĩ-mih huâng-gāi? nothing to, bô-huâng; bô-huâng bô-gāi.
+**hinder**, tsó; tsó-chí; tsó-keh; tsó-khiē; khiē-tsũ; tam-koh; at-chì; iap-chì. *hindrance*, huâng-gāi; thua-thūi. *what is to*, ũ-sĩ-mih huâng-gāi. *nothing to*, bô-huâng; bô-huâng bô-gāi.
 
 **hinder**, part, búe-ãu; pùe-ãu. hindermost, ãu; lo̍h-ãu; suah-búe; kiáu-búe.
 
-**hinge**, mn̂g-khũ; ia̍p-tia̍p (foreign).
+**hinge**, mn̂g-khũ. *(foreign)*, ia̍p-tia̍p.
 
 **hint**, àm-chí. to give a, phah-àm-hō; tak-thâu; tiám-thâu.
 
@@ -312,13 +312,13 @@ date: 2024-03-31 16:11:00
 
 **hoe**, tṳ̂-thâu.
 
-**hog**, tṳ. -sty, tṳ-lô. hoggish, o-tso; ue-tsue; tṳ-iēⁿ káu-sièⁿ.
+**hog**, tṳ. *hog-sty*, tṳ-lô. *hoggish*, o-tso; ue-tsue; tṳ-iēⁿ káu-sièⁿ.
 
 **hoist**, po̍ih-khí; liū. flag, liū-kî; tshah-kî. sail, po̍ih-phâng; seng-phâng; liū-phâng; khí-phâng.
 
-**hold**, anything in the hand, chhiú-khie̍h. from going away, lia̍h. pencil, khiâ-pit. reins, khan-bé-soh. up, a person, khan; hû-khí. up clothes, tsah-phû; kiáu-phû; put-phû. in the mouth, as dog, kâⁿ. as man, kam. one's tongue, tiām-tiām; màiⁿ-tàⁿ-ūe. under the arm, ko̍ih tõ-koh-ẽ. contain, tshō. one catty, tshō-che̍k-kṳn. will not hold it, tshō-m̄-tit; tshō-m̄-khṳ̀; tshō-m̄-lâi. this room will hold 100 people, chí-che̍k-koiⁿ-pâng hó-tshâng (or, iông; if sitting, tsõ; if standing, khiã) che̍k-peh-nâng. of ship, tsûn-tshng.
+**hold**, *anything in the hand*, chhiú-khie̍h. *from going away*, lia̍h. pencil, khiâ-pit. *reins*, khan-bé-soh. *hold up (a person)*, khan; hû-khí. *hold up clothes*, tsah-phû; kiáu-phû; put-phû. *in the mouth (as dog)*, kâⁿ. *in the mouth (as man)*, kam. *one's tongue*, tiām-tiām; màiⁿ-tàⁿ-ūe. *under the arm*, ko̍ih tõ-koh-ẽ. *contain*, tshō. *one catty*, tshō-che̍k-kṳn. *will not hold it*, tshō-m̄-tit; tshō-m̄-khṳ̀; tshō-m̄-lâi. *this room will hold 100 people*, chí-che̍k-koiⁿ-pâng hó-tshâng che̍k-peh-nâng; chí-che̍k-koiⁿ-pâng hó-iông che̍k-peh-nâng; chí-che̍k-koiⁿ-pâng hó-tsõ che̍k-peh-nâng; chí-che̍k-koiⁿ-pâng hó-khiã che̍k-peh-nâng. *of ship*, tsûn-tshng.
 
-**hole**, khang. to make a, khui-khang. knock out, phah-khang; liú-khang (dig); tshuan-khan. to chisel a, tsha̍k-khang. bore, uai-khang; ui-khang; tsǹg-khang (with gimlet, &c). full of holes, tshang-tshang.
+**hole**, khang. *to make a hole*, khui-khang. knock out, phah-khang; tshuan-khan. *dig a hole*, liú-khang. *to chisel a hole*, tsha̍k-khang. *bore*, uai-khang; ui-khang. *bore (with gimlet, &c)*, tsǹg-khang. *full of holes*, tshang-tshang.
 
 **hollow**, khang; khang-khak (oppos. tsa̍t-thâu); khang-phàⁿ (opp. tsa̍t-tōiⁿ); to hollow out, liú-khang; ui-khang-khak. of the hand, chhiú-sim-tói.
 
@@ -328,9 +328,9 @@ date: 2024-03-31 16:11:00
 
 **holiday**, thih-thô-ji̍t; ôiⁿ-ji̍t; iû-ôiⁿ-ji̍t, ôiⁿ-kang-ji̍t; chheng-ôiⁿ-ji̍t; uaⁿ-ôiⁿ-ji̍t.
 
-**homage**, kiong-kèng. to the emperor, chhiâu-pài. by tributary princes, chhiâu-kòng (includes tribute).
+**homage**, kiong-kèng. *to the emperor*, chhiâu-pài. *by tributary princes (includes tribute)*, chhiâu-kòng.
 
-**home**, ke; tshù. at, tõ-tshù; tõ-lãi; tõ-ke-lãi; tõ; tõ--kò. go, hûe-ke; khṳ̀-tshù; tńg-khṳ̀-tshù; kui-ke; tńg-tshù; khṳ̀-lãi (if merely going inside). home made, pńg-tī-tsò.
+**home**, ke; tshù. *at home*, tõ-tshù; tõ-lãi; tõ-ke-lãi; tõ; tõ--kò. *go home*, hûe-ke; khṳ̀-tshù; tńg-khṳ̀-tshù; kui-ke; tńg-tshù. *go home (if merely going inside)*, khṳ̀-lãi. *home made*, pńg-tī-tsò.
 
 **homicide**, suah-nâng; thâi-nâng. a, hiong-chhiú.
 
@@ -338,7 +338,7 @@ date: 2024-03-31 16:11:00
 
 **honest**, tong-kãu; láu-si̍t; tong-hõu; phok-si̍t; tong-ti̍t, sêng-si̍t; pe̍h-ti̍t; chiàⁿ-ti̍t; chiàⁿ-keng; kong-tãu.
 
-**honey**, phang-bi̍t; bi̍t. -comb, bi̍t-phoh; bi̍t-tsa; bi̍t-phièn.
+**honey**, phang-bi̍t; bi̍t. *honey-comb*, bi̍t-phoh; bi̍t-tsa; bi̍t-phièn.
 
 **hong**, hâng; hâng-kháu. merchant, iêⁿ-siang.
 
@@ -360,7 +360,7 @@ date: 2024-03-31 16:11:00
 
 **hop**, to, thiàu.
 
-**hope**, hi-mōⁿ; mōⁿ; ngiáng-mōⁿ. hopeful, ũ-mōⁿ; hó-mōⁿ (promising). hopeless, bô-mōⁿ; tso̍h-mōⁿ; mín-mōⁿ. having too high hopes, chhia-mōⁿ.
+**hope**, hi-mōⁿ; mōⁿ; ngiáng-mōⁿ. *hopeful*, ũ-mōⁿ. *hopeful (promising)*, hó-mōⁿ. *hopeless*, bô-mōⁿ; tso̍h-mōⁿ; mín-mōⁿ. *having too high hopes*, chhia-mōⁿ.
 
 **horary**, characters, twelve, tsa̍p-jī sî-sîn.
 
@@ -368,7 +368,7 @@ date: 2024-03-31 16:11:00
 
 **horizon**, thiⁿ-kha. horizontal, hûeⁿ; pêⁿ.
 
-**horn**, kak. cow's, gû-kak; deer's, te̍k-kak; te̍k-zông (young, used for medicine). shoe-, ôi-chhiau.
+**horn**, kak. *cow's horn*, gû-kak; *deer's horn*, te̍k-kak. *(young, used for medicine)*, te̍k-zông. *shoe-horn*, ôi-chhiau.
 
 **hornet**, n̂g-phang.
 
@@ -378,7 +378,7 @@ date: 2024-03-31 16:11:00
 
 **horror**, kiaⁿ-kũ kâi-hêng-mãuⁿ; kiaⁿ-kũ kâi-iēⁿ-sièⁿ; kiaⁿ-khiū. see HORRIBLE.
 
-**horse**, bé. one, che̍k-chiah-bé. -shoe, bé-tôi-thih. -hair, bé-búe. -dealer, bé-hùan. horseman, khiâ-bé. ride on horseback, khiâ-bé. -comb, bé-siu; bé-pìn. -cloth, bé-phũe.
+**horse**, bé. *one*, che̍k-chiah-bé. *horse-shoe*, bé-tôi-thih. *horse-hair*, bé-búe. *horse-dealer*, bé-hùan. *horseman*, khiâ-bé. *ride on horseback*, khiâ-bé. *horse-comb*, bé-siu; bé-pìn. *horse-cloth*, bé-phũe.
 
 **hospitable**, kãu-thãi nâng-kheh.
 
@@ -390,21 +390,21 @@ date: 2024-03-31 16:11:00
 
 **hostility**, uan-ke; m̄-hûa; chhiû-khiah; hièn-khiah. cause of, hũa-kṳn; hũa-in.
 
-**hostler**, bé-hu; bé-tsháu-nôuⁿ (very slighting).
+**hostler**, bé-hu. *(very slighting)*, bé-tsháu-nôuⁿ.
 
-**hot**, zua̍h; sie. weather, thiⁿ-sî zua̍h; pek-zua̍h; zua̍h-ta̍k. sun, ji̍t-thâu jie̍t; ji̍t-thâu méⁿ; ji̍t-thâu âng; ji̍t-thâu ham-ham-âng. water, sie-tsúi; kún-tsúi (boiling). -headed, ũ-sèⁿ; phòng-phiẽ sim-sèⁿ; sim-sèⁿ kín-kip. spell of hot weather in cold season, khieh-sie̍h.
+**hot**, zua̍h; sie. *hot weather*, thiⁿ-sî zua̍h; pek-zua̍h; zua̍h-ta̍k. *hot sun*, ji̍t-thâu jie̍t; ji̍t-thâu méⁿ; ji̍t-thâu âng; ji̍t-thâu ham-ham-âng. *hot water*, sie-tsúi. *hot water (boiling)*, kún-tsúi. *hot-headed*, ũ-sèⁿ; phòng-phiẽ sim-sèⁿ; sim-sèⁿ kín-kip. *spell of hot weather in cold season*, khieh-sie̍h.
 
 **hotel**, kau-lâu-kúan; tiàm-phòu.
 
-**hour**, Chinese, sî-sîn (=̂ hours). foreign, che̍k-tiám-cheng. half an hour, pùaⁿ-tiám-cheng. quarter, che̍k-khek-cheng. hourglass, tâng-hû tih-lāu. hourly, múeⁿ-tiám-cheng; sî-sî khek-khek.
+**hour**, *Chinese hour*, sî-sîn. *foreign hour*, che̍k-tiám-cheng. *half an hour*, pùaⁿ-tiám-cheng. *quarter*, che̍k-khek-cheng. *hourglass*, tâng-hû tih-lāu. *hourly*, múeⁿ-tiám-cheng; sî-sî khek-khek.
 
-**house**, tshù. a, che̍k-koiⁿ-tshù; che̍k-tsō-tshù. school-, tsṳ-che. dwelling-, nâng-ke. your, kùi-hú (polite). my, tsháu-sià (polite). -breaker, mêng-húe phah-kiap; tōng (or siàng)-mn̂g-tsha̍t. -manager, tng-ke; hūaⁿ-ke. -maid, chhiah-kha. -rent, tshù-tsou; tshù-sùe; kúan-tsou. household, ke-so̍k. household goods, ke-tsṳ; ke-si mue̍h-kiãⁿ. household servants, ke-jîn.
+**house**, tshù. *a*, che̍k-koiⁿ-tshù; che̍k-tsō-tshù. *school-house*, tsṳ-che. *dwelling-house*, nâng-ke. *your (polite)*, kùi-hú. *my (polite)*, tsháu-sià. *house-breaker*, mêng-húe phah-kiap; tōng-mn̂g-tsha̍t; siàng-mn̂g-tsha̍t. *house-manager*, tng-ke; hūaⁿ-ke. *house-maid*, chhiah-kha. *house-rent*, tshù-tsou; tshù-sùe; kúan-tsou. *household*, ke-so̍k. *household goods*, ke-tsṳ; ke-si mue̍h-kiãⁿ. *household servants*, ke-jîn.
 
 **hovel**, tsháu-tshù; tsháu-liâu.
 
-**hover**, īn; khip-sin (bird, ready to dart).
+**hover**, īn. *(bird, ready to dart)*, khip-sin.
 
-**how?** tsãi-seⁿ? tsò-nîⁿ? zû-hô? how dare! tsò-káⁿ! how many? jie̍h-tsōi? kúi-kâi? jia̍k-kan? ki-to? how far? jie̍h-hñg? how many times? jie̍h-tsōi-ē? kúi-hûe? kúi-pái? kúi-tńg? kúi-hãng? jie̍h-tsōi-tshṳ̀? hoe large? jie̍h-tōa? how old? jie̍h-tsōi-hùe? tshun-chhiu jie̍h-tsōi? jie̍h-tōa? jie̍h-lãu? kùi-keⁿ? how to do? tsò-nîⁿ-mue̍h? not know how to do it, tsò m̄-pat tò-khṳ̀. how shall I do? zû-hô sĩ-hó? tsò-nîⁿ chiàⁿ-hó? how is this? sṳ̄-sĩ-tsò-nîⁿ? how did it happen? tsò-õi? tsò-ũ? (also expressing incredulity), how can it be otherwise? tsò-m̄-sĩ? how can that be accounted filial piety! chièⁿ seⁿ iau-hó kiè-tsò hàu! how can this be right! khí-ũ tshṳ́-lí? how can we get it? tsãi-tit-tie̍h? how much more..., hô-khùang.... how fast! méⁿ-tsãi!
+**how**, tsãi-seⁿ; tsò-nîⁿ; zû-hô. *how dare*, tsò-káⁿ. *how many*, jie̍h-tsōi; kúi-kâi; jia̍k-kan; ki-to.  *how far*, jie̍h-hñg. *how many times*, jie̍h-tsōi-ē; kúi-hûe; kúi-pái; kúi-tńg; kúi-hãng; jie̍h-tsōi-tshṳ̀. *how large*, jie̍h-tōa. *how old*, jie̍h-tsōi-hùe; tshun-chhiu jie̍h-tsōi; jie̍h-tōa; jie̍h-lãu; kùi-keⁿ. *how to do*, tsò-nîⁿ-mue̍h. *not know how to do it*, tsò m̄-pat tò-khṳ̀. *how shall I do*, zû-hô sĩ-hó; tsò-nîⁿ chiàⁿ-hó. *how is this*, sṳ̄-sĩ-tsò-nîⁿ. *how did it happen*, tsò-õi. *how did it happen (also expressing incredulity)*, tsò-ũ. *how can it be otherwise*, tsò-m̄-sĩ. *how can that be accounted filial piety*, chièⁿ seⁿ iau-hó kiè-tsò hàu. *how can this be right*, khí-ũ tshṳ́-lí. *how can we get it*, tsãi-tit-tie̍h. *how much more*, hô-khùang. *how fast*, méⁿ-tsãi.
 
 **however**, hûang-liáu; hûan-iáu.
 
@@ -413,58 +413,58 @@ date: 2024-03-31 16:11:00
 **hubbub**, thèng-jiáng.
 
 **huckster**, koiⁿ-thiau kâi-seng-lí; lōu-tàⁿ seng-lí; tsò seng-lí-kiáⁿ.
-huddled up, sie-chìⁿ sie-ko̍ih.
 
-**hue**, sek. five hues, ngóu-sek; ngóu-tshái.
+**huddled up**, sie-chìⁿ sie-ko̍ih.
+
+**hue**, sek. *five hues*, ngóu-sek; ngóu-tshái.
 
 **hug**, sie-phõ; sie-lám.
 
 **huge**, tōa; tōa-tsãi; tōa kàu-koh-iēⁿ; tōa kàu-khî.
 
-**hulk**, or hull, tsûn-khak; tsûn-sin; tsûn-tháng.
+**hulk**, *or hull*, tsûn-khak; tsûn-sin; tsûn-tháng.
 
-**hull**, rice, cheng-bí; lak-bí.
+**hull**, *rice*, cheng-bí; lak-bí.
 
-**hum**, of insects, ng-ng-kiè; hng-hng-kiè; hiⁿ-hng-kiè.
+**hum**, *of insects*, ng-ng-kiè; hng-hng-kiè; hiⁿ-hng-kiè.
 
-**human**, life, nâng-seⁿ; nâng-miāⁿ. human life is like a dream, nâng-seⁿ (phû-seⁿ) jia̍k-māng. relations, jîn-lûn. strength, nâng-la̍t. affairs, jîn-sṳ̄. feelings, nâng-chhêng. kind, nâng-lūi. the human heart is never satisfied, nâng-sim put-tsok.
+**human**, *life*, nâng-seⁿ; nâng-miāⁿ. *human life is like a dream*, nâng-seⁿ jia̍k-māng; phû-seⁿ jia̍k-māng. *relations*, jîn-lûn. *strength*, nâng-la̍t. *affairs*, jîn-sṳ̄. *feelings*, nâng-chhêng. *kind*, nâng-lūi. *the human heart is never satisfied*, nâng-sim put-tsok.
 
 **humane**, ũ-nâng-chhêng; õi-tsò-nâng; tshṳ̂-sim; ũ-jîn-ài.
 
 **humanity**, jîn-tek; jîn-ài.
 
-**humble**, khiam-sùn; khiam-sòi; tsṳ̃-khiam; tsṳ̃-pui; tho-khiam; khiam-jiãng; khiam-tek; khiam-sim; hṳ-sim; hṳ-khiam; khiam-hiã; khiam-pui. my humble opinion, ngô-kièn; phí-kièn.
+**humble**, khiam-sùn; khiam-sòi; tsṳ̃-khiam; tsṳ̃-pui; tho-khiam; khiam-jiãng; khiam-tek; khiam-sim; hṳ-sim; hṳ-khiam; khiam-hiã; khiam-pui. *my humble opinion*, ngô-kièn; phí-kièn.
 
 **humbug**, la-kè; phièn-nâng; kuang-nâng.
 
-**humid**, tâm; tâm-sip; sip-khì.
-humming-bird, kim-sai-chiáu. (?)
+**humid**, tâm; tâm-sip; sip-khì. *humming-bird*, kim-sai-chiáu.
 
-**humour**, sèⁿ-chhêng. ill-humour, phiah-pēⁿ; àu-àu; ou-àu ou-àu; pũ-pũ àu-àu; pũ-àu pũ-àu. out of humour, sim-sèⁿ pãu-pek. accommodate oneself to the humour of others, lia̍h--tie̍h nâng kâi-phiah-pēⁿ. humorous, hàuⁿ-tshu; hàuⁿ-peh-ge̍h; hàuⁿ-chhiè-thâm.
+**humour**, sèⁿ-chhêng. *ill-humour*, phiah-pēⁿ; àu-àu; ou-àu ou-àu; pũ-pũ àu-àu; pũ-àu pũ-àu. *out of humour*, sim-sèⁿ pãu-pek. *accommodate oneself to the humour of others*, lia̍h--tie̍h nâng kâi-phiah-pēⁿ. *humorous*, hàuⁿ-tshu; hàuⁿ-peh-ge̍h; hàuⁿ-chhiè-thâm.
 
-**humpbacked**, ku-ie; ie hâu-hâu (more slight); ie hau-hau; hau-ie.
+**humpbacked**, ku-ie; ie hau-hau; hau-ie. *(more slight)*, ie hâu-hâu.
 
 **hundred**, che̍k-peh.
 
-**hunger**, tóu khùn; tóu iau. I am hungry, uá tóu õi-khùn. die of, gō-sí. endure, nãiⁿ-gō.
+**hunger**, tóu khùn; tóu iau. *I am hungry*, uá tóu õi-khùn. *die of*, gō-sí. *endure*, nãiⁿ-gō.
 
-**hunt**, phah-la̍h. the wild boar, phah-suaⁿ-tṳ.
+**hunt**, phah-la̍h. *the wild boar*, phah-suaⁿ-tṳ.
 
-**hurdle**, keh; tiãm; ôu; tek-lî (bamboo fence).
+**hurdle**, keh; tiãm; ôu. *(bamboo fence)*, tek-lî.
 
-**hurl**, a spear, pie-chhieⁿ; tong-chhieⁿ. stones, ka̍k-chie̍h. **hurricane**, huang-thai; pò-thâu (spring gale).
+**hurl**, a spear, pie-chhieⁿ; tong-chhieⁿ. *stones*, ka̍k-chie̍h. *hurricane*, huang-thai. *(spring gale)*, pò-thâu.
 
-**hurry**, to, piàⁿ-méⁿ. hurry up! méⁿ--chē! piàⁿ-méⁿ--chē! in a desperate, huang-mâng; tsò-sṳ̄ hih-huh-kiè; mâng-kip; mâng-pek. do hurriedly, tshó-lia̍k-tsò; chhìn-tshái-tsò. don't be in such a, tshāi--chē; tshāi-tshāi--nē; ûn-ûn--nē.
+**hurry**, *to*, piàⁿ-méⁿ. *hurry up*, méⁿ--chē; piàⁿ-méⁿ--chē. *in a desperate*, huang-mâng; tsò-sṳ̄ hih-huh-kiè; mâng-kip; mâng-pek. *do hurriedly*, tshó-lia̍k-tsò; chhìn-tshái-tsò. *don't be in such a*, tshāi--chē; tshāi-tshāi--nē; ûn-ûn--nē.
 
-**hurt**, sieⁿ; sieⁿ-hāi. are you hurt? õi-sieⁿ-tie̍h, mé? õi-pua̍h--tie̍h tî-kò, mé? one's feelings, sieⁿ-chhêng; sieⁿ-chhêng sit-ngĩ. hurtful, lĩ-hāi.
+**hurt**, sieⁿ; sieⁿ-hāi. *are you hurt*, õi-sieⁿ-tie̍h, mé; õi-pua̍h--tie̍h tî-kò, mé. *one's feelings*, sieⁿ-chhêng; sieⁿ-chhêng sit-ngĩ. *hurtful*, lĩ-hāi.
 
 **husband**, ang; jî-sài; jî-hu; hu-sài; hu-kun; chiãng-hu; tōa--nâng.
 
-**husbandman**, tsoh-tshân-nâng; tshân-hu; lông-hu; tsoh-tshân-ko. husbandry, lông-sṳ̄; tsoh-tshân; keⁿ-tsoh; chèng-tsoh.
+**husbandman**, tsoh-tshân-nâng; tshân-hu; lông-hu; tsoh-tshân-ko. *husbandry*, lông-sṳ̄; tsoh-tshân; keⁿ-tsoh; chèng-tsoh.
 
-**hush**, up, sai-khia-hûa; sai-ẽ-hua; sai-hûa; hún-sek; chia-bûa; chia-iám; chia-sek.
+**hush**, *up*, sai-khia-hûa; sai-ẽ-hua; sai-hûa; hún-sek; chia-bûa; chia-iám; chia-sek.
 
-**husk**, khak; tshou-khng (chaff). to husk rice, oi-lâng; oi-chhek.
+**husk**, khak. *(chaff)*, tshou-khng. *to husk rice*, oi-lâng; oi-chhek.
 
 **hustle**, sie-oi sie-léng; sie-chìⁿ sie-léng.
 
@@ -474,6 +474,6 @@ humming-bird, kim-sai-chiáu. (?)
 
 **hyperbole**, tàⁿ-kùe-ke; kùe-tsōi; tàⁿ khah-thài-kùe; tàⁿ khah-kùe-sĩm.
 
-**hypocrite**, ké-hó; ngũi-siẽn; ngũi-kun-tsṳ́; kháu sĩ, sim hui.
+**hypocrite**, ké-hó; ngũi-siẽn; ngũi-kun-tsṳ́; kháu sĩ; sim hui.
 
-**hypothesis**, pí-huang kâi-ūe; kiá-zû kâi-ūe.kâi-ūe.
+**hypothesis**, pí-huang kâi-ūe; kiá-zû kâi-ūe.

@@ -12,7 +12,7 @@ date: 2024-03-31 16:11:00
 
 **pack**, pau; phah-pau; tsuang; siu-sip-bûa. tea, tsuang-tê. *in a box*, tsuang-lo̍h-sieⁿ. *packing box*, tsuang-sieⁿ.
 
-**paddle**!, jiê. to, phẽ-tsûn. *a dragon-boat*, phẽ-lêng-tsûn.
+**paddle**, jiê. *to*, phẽ-tsûn. *a dragon-boat*, phẽ-lêng-tsûn.
 
 **paddy**, chhek. *growing*, ng; tiũ; tâ. *fields*, tshân. *bird*, pe̍h-liãu-si.
 
@@ -20,7 +20,7 @@ date: 2024-03-31 16:11:00
 
 **page**, *of book*, che̍k-mīn. *on the block*, che̍k-póiⁿ, che̍k-kò-póiⁿ.
 
-**pagoda**, thah. *literary*, khue-chheⁿ-koh; khue-chheⁿ-lâu; bûn-chiang (*or* chhiang)-koh
+**pagoda**, thah. *literary*, khue-chheⁿ-koh; khue-chheⁿ-lâu; bûn-chiang-koh; bûn-chhiang-koh
 <!--more-->
 **pail**, tsúi-tháng; tiàu-tháng.
 
@@ -36,47 +36,47 @@ date: 2024-03-31 16:11:00
 
 **palataole**, hó-chia̍h; ha̍h-tshùi; suah-tshùi; suáng-kháu.
 
-**pale**, mīn pe̍h-siauh ; mīn chheⁿ-liau ; n̂g-mīn. turn, mīn pièn-chheⁿ .
+**pale**, mīn pe̍h-siauh; mīn chheⁿ-liau; n̂g-mīn. *turn*, mīn pièn-chheⁿ .
 
 **palette**, thiâu-sek-ti̍h.
 
-**paling**, lân-kan; lân-kan-chí ; ba̍k-tsa̍h; lî-tsa̍h; ûi-lî; ûi-tsa̍h.
+**paling**, lân-kan; lân-kan-chí; ba̍k-tsa̍h; lî-tsa̍h; ûi-lî; ûi-tsa̍h.
 
 **pall**, kài-kuaⁿ-phũe.
 
-**palm**, tsang-chhiū; kuang-lâng-chhiū (cocoa-nut); iâ-chhiū (id.) ; tsó-chhiū.
+**palm**, tsang-chhiū; tsó-chhiū. *(cocoa-nut)*, kuang-lâng-chhiū; iâ-chhiū.
 
-**palm**, of hand, chhiú-tói; chhiú-sim; chhiú-chiéⁿ.palmistry, sièⁿ-chhiú-hûn.
+**palm**, *of hand*, chhiú-tói; chhiú-sim; chhiú-chiéⁿ. *palmistry*, sièⁿ-chhiú-hûn.
 
 **palpitate**, sim thiàu; sim-kuaⁿ pok-pok-thiàu; sim-kuaⁿ-thâu pok-pok-thiàu.
 
-**palsy**, nńg-nîⁿ; nńg-huang; kuàn-pien (one side) ; tòng-huang.
+**palsy**, nńg-nîⁿ; nńg-huang; tòng-huang. *(one side)*, kuàn-pien.
 
 **pan**, tiáⁿ; thih-ue; seⁿ-ue.
 
 **panacea**, peh-tsháu-tan; buān-ēng-tan; buān-ēng-îⁿ.
 
-**pane**, of glass, che̍k-kò po-î.
+**pane**, *of glass*, che̍k-kò po-î.
 
-**pang**, of pain, che̍k-tsūn-thiàⁿ;. che̍k-khùn-kiáⁿ thiàⁿ.
+**pang**, *of pain*, che̍k-tsūn-thiàⁿ;. che̍k-khùn-kiáⁿ thiàⁿ.
 
-**panic**, kiaⁿ-kàu-kông; kiaⁿ kàu hun-kông ; kiaⁿ kàu ngo̍h-ngo̍h.
+**panic**, kiaⁿ-kàu-kông; kiaⁿ kàu hun-kông; kiaⁿ kàu ngo̍h-ngo̍h.
 
 **pant**, tshúan; tshúan-tōa-khùi.
 
-**pants**, khòu. short, for bathing, khòu-ku̍eh.
+**pants**, khòu. *short (for bathing)*, khòu-ku̍eh.
 
-**paper**, tsúa. a sheet of, che̍k-tieⁿ-tsúa. note (thick), chien-tsúa. straw, tsháu-tsúa. common writing, tsṳ-tsúa; kòng-tshuan (better); tãng-kòng (still better); kãu-nguân (still better); tek-tsúa (thin); mîⁿ-se ( still thinner ). made into a writing-book, tsúa-khòu. printing , tsṳ-chheh-tsúa. tough, môⁿ-piⁿ; mîⁿ-tîn; pien-chiu. marbled, hue-tsúa. gilt, phùn-kim. paper-money, tsúa-chîⁿ; ngṳ̂n-tsúa; chîⁿ-tsúa; ngṳ̂n-tiãⁿ; tōa-chîⁿ; uâng-pó. currency, ngṳ̂n-toaⁿ; chîⁿ-phiè. official, uàⁿ-kuàn.
+**paper**, tsúa. *a sheet of*, che̍k-tieⁿ-tsúa. *note (thick)*, chien-tsúa. *straw*, tsháu-tsúa. *common writing*, tsṳ-tsúa. *common writing (better)*, kòng-tshuan; tãng-kòng; kãu-nguân. *common writing (thin)*, tek-tsúa; mîⁿ-se. *made into a writing-book*, tsúa-khòu. *printing*, tsṳ-chheh-tsúa. *tough*, môⁿ-piⁿ; mîⁿ-tîn; pien-chiu. *marbled*, hue-tsúa. *gilt*, phùn-kim. *paper-money*, tsúa-chîⁿ; ngṳ̂n-tsúa; chîⁿ-tsúa; ngṳ̂n-tiãⁿ; tōa-chîⁿ; uâng-pó. *currency*, ngṳ̂n-toaⁿ; chîⁿ-phiè. *official*, uàⁿ-kuàn.
 
-**parable**, phì-zũ ; phì-zû ; pí-zũ.
+**parable**, phì-zũ; phì-zû; pí-zũ.
 
-**parade**, ground, kà-tiaⁿ; bú-tiêⁿ.
+**parade**, *ground*, kà-tiaⁿ; bú-tiêⁿ.
 
 **paradise**, la̍k-hn̂g.
 
-**paragraph**, hue; chieⁿ; tn̄g.
+**paragraph**, *hue*; chieⁿ; tn̄g.
 
-**parallel**, sang-kiâⁿ-sùaⁿ; sang-pâi-sùaⁿ. parallelogram, ji̍t--jī iēⁿ.
+**parallel**, sang-kiâⁿ-sùaⁿ; sang-pâi-sùaⁿ. *parallelogram*, ji̍t--jī iēⁿ.
 
 **paralysis**, see PALSY.
 
@@ -90,7 +90,7 @@ date: 2024-03-31 16:11:00
 
 **parcel**, pau.
 
-**parched**, pha̍k-ta ; kan-tshàu. rice, tshá-bí, tea with this in it, bí-kam-tê.
+**parched**, pha̍k-ta; kan-tshàu. *rice*, tshá-bí. *tea with this in it*, bí-kam-tê.
 
 **parchment**, iêⁿ-phûe-tsúa.
 
@@ -114,7 +114,7 @@ date: 2024-03-31 16:11:00
 
 **parsley**, khṳ̂n-tshài.
 
-**parsnip**, huan tshài-thâu *(foreign turnips)*.
+**parsnip**, *(foreign turnips)*, huan tshài-thâu.
 
 **part**, siang-pie̍t; lī-pie̍t; chiãm-pie̍t; lī-khui. *divide*, pun; pun-khui. *off*, keh; tsò-kak-pie̍t. a, hūn; kou; tn̄g; ē; ku̍eh; ûe. *the greater part*, che̍k-tōa-ûe; che̍k-tōa-pùaⁿ. *six parts out of ten*, la̍k-siâⁿ.
 
@@ -122,13 +122,13 @@ date: 2024-03-31 16:11:00
 
 **partial**, phien-sim; phien-sṳ; tōa-sòi-sim; khin-tãng-sim; khuah-o̍ih-sim. *to any one*, phien-ài. *not*, bô-i bô-lṳ́; bô-chhin bô-so; bô-tshṳ́ bô-pí; chhiú-pûaⁿ iā-sĩ-ne̍k, chhiú-tói iā-sĩ-ne̍k. *partially*, būa-uân; būe-tshûan; būe-chheng-tshó; kúi-siâⁿ.
 
-**particle***(in grammar)*, hṳ-jī. *a small*, che̍k-sut-kiáⁿ.
+**particle**, *(in grammar)*, hṳ-jī. *a small*, che̍k-sut-kiáⁿ.
 
 **particoloured**, hue-long-sek; hue-tiám tsa̍p-sek; poiⁿ-sek; hue-poiⁿ.
 
 **particular**, só-tshùi; só-siak; sòi-siâng. *the particulars*, chhêng-iû; che̍k-kiãⁿ che̍k-kiãⁿ. *of an account*, che̍k-tiâu che̍k-tiâu.
 
-**partition**, siám *(wooden)*; piah *(lime)*; keh-piah; keh-chhiêⁿ. *to*, kek-siám.
+**partition**, *(wooden)*, siám. *(lime)*, piah; keh-piah; keh-chhiêⁿ. *to*, kek-siám.
 
 **partner**, *in business*, húe-kì; húe-phũaⁿ. *to join with*, tshap-húe-kì; ha̍h-húe. *dissolve partnership*, thiah-húe; thiah-siàu.
 
@@ -182,7 +182,7 @@ date: 2024-03-31 16:11:00
 
 **paw**, *bear's*, hîm-chiéⁿ.
 
-**pawn**, tǹg; àn. *shop*, tǹg-phòu. *small*, siau-ap; sié-tǹg (*disreputable*). *ticket*, hui. *to*, tǹg-mu̍eh. *-broker*, khui-tǹg-phòu. *redeem from*, chhiú.
+**pawn**, tǹg; àn. *shop*, tǹg-phòu. *small*, siau-ap. *small (disreputable)*, sié-tǹg. *ticket*, hui. *to*, tǹg-mu̍eh. *pawn-broker*, khui-tǹg-phòu. *redeem from*, chhiú.
 
 **pay**, *to*, hôiⁿ; hâiⁿ. *money*, hôiⁿ-chîⁿ. *taxes*, la̍p-niêⁿ. *rent*, hôiⁿ-tsou. *tribute*, chìn-kòng. *a visit*, pài-hāu; mn̄g-hāu; sie-sûn. *a workman's pay*, kang-chîⁿ; kang-tsṳ. *teacher's*, sok-kim; sok-siu. *soldier's*, piaⁿ-niêⁿ.
 
@@ -190,7 +190,7 @@ date: 2024-03-31 16:11:00
 
 **peace**, phêng-an; phêng-hûa. *general peace*, thài-phêng. *at*, hûa-mo̍k; hûa-khì; hûa-míⁿ.
 
-**peach**, thô; pe̍h-pn̄g-thô (*loose stone*). *flower*, thô-hue. *stone*, thô-hu̍t.
+**peach**, thô. *(loose stone)*, pe̍h-pn̄g-thô. *flower*, thô-hue. *stone*, thô-hu̍t.
 
 **peacock**, khóng-chhieh. *feather*, khóng-chhieh-lêng.
 
@@ -198,7 +198,7 @@ date: 2024-03-31 16:11:00
 
 **peal**, *of thunder*, lûi tân lih-leh-kiè; lûi phek-le̍k. *of gongs*, lô khuaiⁿ-khuaiⁿ-kiè.
 
-**pear**, lâi; chheⁿ-phûe-lâi; Suaⁿ-tang-lâi (*Shantung*); soh-lâi.
+**pear**, lâi; chheⁿ-phûe-lâi; soh-lâi. *(Shantung)*, Suaⁿ-tang-lâi.
 
 **pearl**, tsu; chin-tsu; ô-tsu; tien-tsu; pó-tsu. *one*, che̍k-lia̍p-tsu. *string, worn by officials*, sù-tsu; chhiâu-tsu. *to wear*, kùa-tsu.
 
@@ -312,7 +312,7 @@ date: 2024-03-31 16:11:00
 
 **perspicuous**, hun-mêng; thàu-thiet; thong-thiet; mêng-pe̍h; mêng-mêng; kōi-thiaⁿ.
 
-**perspiration**, kūaⁿ. *bad smelling, of hand or foot*, kha-sie̍h; chhìu-sie̍h. *cold*, chhìn-kūaⁿ. *to absorb*, sò-kūaⁿ; tsṳ̀-kūaⁿ. *bad smell of*, kūaⁿ-sng; tshàu-kūaⁿ-sng. *to encourage*, huat-kūaⁿ; piáu-kūaⁿ (*by warm drink or medicine*); hip-kūaⁿ (*by warm covering*). *perspire*, lâu-kūaⁿ; tshut-kūaⁿ.
+**perspiration**, kūaⁿ. *bad smelling, of hand or foot*, kha-sie̍h; chhìu-sie̍h. *cold*, chhìn-kūaⁿ. *to absorb*, sò-kūaⁿ; tsṳ̀-kūaⁿ. *bad smell of*, kūaⁿ-sng; tshàu-kūaⁿ-sng. *to encourage*, huat-kūaⁿ. *to encourage (by warm drink or medicine)*, piáu-kūaⁿ. *to encourage (by warm covering)*, hip-kūaⁿ. *perspire*, lâu-kūaⁿ; tshut-kūaⁿ.
 
 **persuade**, khǹg; khǹg-kòi.
 
@@ -366,9 +366,9 @@ date: 2024-03-31 16:11:00
 
 **piano**, khîm.
 
-**pick**, *out*, to̍h; súan-to̍h. *up*, khie̍h--khí; khie̍h-khí-lâi; khieh--tie̍h *(find)*. *fruit, flowers, &c*, tiah. *the teeth*, thak-khí; kiah-khí. *the ears*, kau-hĩⁿ; kiah-hĩⁿ.
+**pick**, *out*, to̍h; súan-to̍h. *up*, khie̍h--khí; khie̍h-khí-lâi. *(find)*, khieh--tie̍h. *fruit, flowers, &c*, tiah. *the teeth*, thak-khí; kiah-khí. *the ears*, kau-hĩⁿ; kiah-hĩⁿ.
 
-**pick**-axe, kùan-súi.
+**pick-axe**, kùan-súi.
 
 **pickle**, *to*, chi̍m-tshòu; thīm-tshòu; lōu-kiâm.
 
@@ -380,13 +380,13 @@ date: 2024-03-31 16:11:00
 
 **piebald**, poiⁿ-sek; poiⁿ-tshái; hue-long.
 
-**piece**, kò; phièn; phit *(cloth)*; phien *(composition)*. *piece-goods*, pòu-phit. *piecemeal*, tshùi-tshùi.
+**piece**, kò; phièn. *(cloth)*, phit. *(composition)*, phien. *piece-goods*, pòu-phit. *piecemeal*, tshùi-tshùi.
 
-**pier**-glass, chiè-sin-kiàⁿ; tshûan-sin pó-kiàⁿ.
+**pier-glass**, chiè-sin-kiàⁿ; tshûan-sin pó-kiàⁿ.
 
-**pierce**, tshn̍g; tsn̍g *(with boring instrument)*.
+**pierce**, tshn̍g. *(with boring instrument)*, tsn̍g.
 
-**piety**, kèng-ùi sîn-mêng *(idolatrous)*; sêng-kèng. *filial*, hàu; kiâⁿ-hàu; hàu-sũn pẽ-bó; hau-kèng pẽ-bó.
+**piety**, *(idolatrous)*, kèng-ùi sîn-mêng; sêng-kèng. *filial*, hàu; kiâⁿ-hàu; hàu-sũn pẽ-bó; hau-kèng pẽ-bó.
 
 **pig**, tṳ. *pig-tail*, *see*[queue](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#queue).
 
@@ -422,9 +422,9 @@ date: 2024-03-31 16:11:00
 
 **pincers**, thih-khîⁿ; thih-kîⁿ; niap-kiáⁿ; nihⁿ-kiáⁿ; kiap-kiáⁿ; koíh-kiáⁿ. *crab's*, hõi-tōa-kha.
 
-**pinch**, nihⁿ; nueh; liàm; tsũn *(twist). of snuff*, che̍k-nueh phīⁿ-hun.
+**pinch**, nihⁿ; nueh; liàm. *(twist)*, tsũn. *of snuff*, che̍k-nueh phīⁿ-hun.
 
-**pine**, *tree*, sêng-peh-chhiū; sam. *-apple*, huan-lâi. *pine-apple cloth*, po-lô-mûaⁿ; po-lô-se.
+**pine**, *tree*, sêng-peh-chhiū; sam. *pine-apple*, huan-lâi. *pine-apple cloth*, po-lô-mûaⁿ; po-lô-se.
 
 **pinnacle**, *of tower*, thah-chiam; thah-búe. *of house*, tshù-kak-chiam.
 
@@ -440,7 +440,7 @@ date: 2024-03-31 16:11:00
 
 **pitch**, sêng-hieⁿ-iû.
 
-**pitch**, *a tent*, nêⁿ (*or*, tah)-pòu-phâng. a camp, tshàng-iâⁿ.
+**pitch**, *a tent*, nêⁿ-pòu-phâng; tah-pòu-phâng. *a camp*, tshàng-iâⁿ.
 
 **pitcher**, tsúi-kuàn; tsúi-pân.
 
@@ -448,13 +448,13 @@ date: 2024-03-31 16:11:00
 
 **pitted**, *with small-pox*, mīn poiⁿ-poiⁿ.
 
-**pity**, khó-liên; liên-mién; thiàⁿ-siang; khó-si̍ang. *pitiable*, khó-liên; khó-sieh; chhi-tshám. *piteous*, tshám; khóu; ai-tshám; pui-ai. *pitiless*, thih-chie̍h sim-kuaⁿ. *what a pity!* khó-sieh!
+**pity**, khó-liên; liên-mién; thiàⁿ-siang; khó-si̍ang. *pitiable*, khó-liên; khó-sieh; chhi-tshám. *piteous*, tshám; khóu; ai-tshám; pui-ai. *pitiless*, thih-chie̍h sim-kuaⁿ. *what a pity*, khó-sieh.
 
 **pivot**, khũ. *of door*, mn̂g-khũ. *of scissors*, ka-to-ngán.
 
 **placable**, khuan-jiû; khûan-hûa; un-jiû.
 
-**placard**, thiap; kò-sī; pe̍h-thâu-thiap *(anonymous and abusive)*; bô-thâu-thiap (id.). *offering reward*, siéⁿ-thiap.
+**placard**, thiap; kò-sī. *(anonymous and abusive)*, pe̍h-thâu-thiap; bô-thâu-thiap. *offering reward*, siéⁿ-thiap.
 
 **place**, tshù; tī-hng; ūi-tshṳ̀; só-tsãi; tī-ūi; kò, *give*, jiãng-ūi; tho-ūi; tho-jiãng. *in the first*, khî-it; tõiⁿ-it-kiãⁿ; tõiⁿ-it-hãng. *go from place to place*, khuan-lâi khuan-khṳ̀; múaⁿ-kò-kiâⁿ.
 
@@ -474,7 +474,7 @@ date: 2024-03-31 16:11:00
 
 **plait**, pĩⁿ; phah-pĩⁿ. *the queue*, pĩⁿ-piⁿ; siu-piⁿ. *in cloth*, kóiⁿ; chih-kóiⁿ; khieh-kóiⁿ.
 
-**plan**, huang-huap; huap-tsat; huap-tōu; kòi-chheh; kòi-mông; kòi-su̍t; huap-sek; huap-thiâⁿ. *for a building*, tshù-kek; tshù-ieⁿ. *to-plan*, siẽⁿ-sim-sṳ̃; siet-kòi; siet-huap. *an essay*, mong-phien; thiau-i. *a rebellion*, mông-huán. *the best plan is to...*, put-zû... *to hit the right*, tie̍h-huap.
+**plan**, huang-huap; huap-tsat; huap-tōu; kòi-chheh; kòi-mông; kòi-su̍t; huap-sek; huap-thiâⁿ. *for a building*, tshù-kek; tshù-ieⁿ. *to-plan*, siẽⁿ-sim-sṳ̃; siet-kòi; siet-huap. *an essay*, mong-phien; thiau-i. *a rebellion*, mông-huán. *the best plan is to... *, put-zû... *to hit the right*, tie̍h-huap.
 
 **plane**, *a*, thiu, thiu-to. *bead*, sùaⁿ-thiu. *gouge*, uan-thiu. *sash*, liú-thiu. *to*, thiu-pêⁿ; thiu-kng-ku̍t. *shavings from a*, tshâ-phùe-thiu.
 
@@ -494,7 +494,7 @@ date: 2024-03-31 16:11:00
 
 **play**, sńg; sie-sńg. *the flute*, tshue-te̍k. *the organ*, tôaⁿ-khîm; thân-khîm. *the fiddle*, kṳ̀-hîⁿ. *chess*, teh-kî. *cards*, phah-tsúa-pâi. *ball*, that-kiû; phah-kiû. *play day*, thit-thô-ji̍t. *plaything*, thit-thô-mue̍h.
 
-**play**, *a*, hi̍, *act a*, tsò-hi̍. *actor*, hi̍-kieh; hi̍-kiáⁿ. *an act of a*, che̍k-tshut-hi̍. *look at*, thóiⁿ-hi̍. *engage*, chhiáⁿ-hi̍. *stage for*, hi̍-thâi *(permanent)*; hi̍-pêⁿ *(temporary)*.
+**play**, *a*, hi̍, *act a*, tsò-hi̍. *actor*, hi̍-kieh; hi̍-kiáⁿ. *an act of a*, che̍k-tshut-hi̍. *look at*, thóiⁿ-hi̍. *engage*, chhiáⁿ-hi̍. *stage for (permanent)*, hi̍-thâi. *stage for (temporary)*, hi̍-pêⁿ.
 
 **plead**, khiû; khṳ́n-khiû; koh-lô; sueh-chhêng.
 
@@ -516,7 +516,7 @@ date: 2024-03-31 16:11:00
 
 **plot**, kòi-mông; àm-kòi; àm-mông. *to plot rebellion*, mông-húan. *to be in a plot*, tshùan-tâng; tshùan-ha̍h; tshùan-thong; phah-tshùan.
 
-**plough**, lôi. *-share*, lôi-thâu. *handle*, kôi-búe. *to plough*, lôi-tshân; sái-lôi; sái-gû.
+**plough**, lôi. *plough-share*, lôi-thâu. *handle*, kôi-búe. *to plough*, lôi-tshân; sái-lôi; sái-gû.
 
 **pluck**, *flowers*, tiah-hue; tshái-hue; liàm-hue; á-ki-hue. *up*, po̍ih; po̍ih-khí. *out*, po̍ih-tshut; thiu-tshut; mán-tiāu. *one by the sleeve*, túi; tùn.
 
@@ -534,7 +534,7 @@ date: 2024-03-31 16:11:00
 
 **pock-mark**, poiⁿ; mīn-poiⁿ.
 
-**pocket**, tō; saⁿ-tō; hô-pau; ie-tõu *(fastened round the middle)*; ie-phîn *(hung at side)*. *to fall out of the*, chhèng-tō. *to search*, chhiâm-tshūe; tō-tói siau tshūe; púe-tshūe; chhîm-tshūe.
+**pocket**, tō; saⁿ-tō; hô-pau. *(fastened round the middle)*, ie-tõu. *(hung at side)*, ie-phîn. *to fall out of the*, chhèng-tō. *to search*, chhiâm-tshūe; tō-tói siau tshūe; púe-tshūe; chhîm-tshūe.
 
 **pod**, tāu-khoih.
 
@@ -544,9 +544,11 @@ date: 2024-03-31 16:11:00
 
 **point**, *to*, chí; kí; kí-thóiⁿ; chí-tiāⁿ; kí-tiāⁿ. *a book*, tiám-tsṳ. tiám-tsṳ-chheh. *out an error*, chí-mîⁿ; kí-phùa.
 
-**poison**, ta̍k; ta̍k-ie̍h. *to*, lo̍h-ta̍k-ie̍h; ie̍h-sí-nâng. *fish*, ie̍h-hṳ̂. *calculated to prove fatal in a certain time*, hãn-ie̍h. **poker**, húe-chhe.
+**poison**, ta̍k; ta̍k-ie̍h. *to*, lo̍h-ta̍k-ie̍h; ie̍h-sí-nâng. *fish*, ie̍h-hṳ̂. *calculated to prove fatal in a certain time*, hãn-ie̍h.
 
-**pole**, *for carrying*, phoi-taⁿ; pêⁿ-taⁿ; khat-taⁿ; chiam-taⁿ; tek-thûi *(bamboo)*. *long bamboo*, tek-ko. *to pole a boat*, theⁿ-tsûn.
+**poker**, húe-chhe.
+
+**pole**, *for carrying*, phoi-taⁿ; pêⁿ-taⁿ; khat-taⁿ; chiam-taⁿ. *(bamboo)*, tek-thûi. *long bamboo*, tek-ko. *to pole a boat*, theⁿ-tsûn.
 
 **pole**, *North*, Pak-ke̍k. *star*, pak-sîn.
 
@@ -588,7 +590,7 @@ date: 2024-03-31 16:11:00
 
 **populace**, sù-mîn; peh-sèⁿ. *popular*, so̍k; tong-thâu; sî-kiâⁿ; ha̍h-sî-chèng.
 
-**population**, nâng-teng. *what is the?* jie̍h-tsōi húe-tsàu? pńg-hieⁿ nâng-mue̍h. jie̍h-tsōi? kùi-tī nâng-mue̍h jie̍h-tsōi? *populous*, nâng-mue̍h tsōi; tsa̍t.
+**population**, nâng-teng. *what is the*, jie̍h-tsōi húe-tsàu; pńg-hieⁿ nâng-mue̍h jie̍h-tsōi; kùi-tī nâng-mue̍h jie̍h-tsōi, *populous*, nâng-mue̍h tsōi; tsa̍t.
 
 **porcelain**, hûi; jiâu-khùi; jiâu-khì.
 
@@ -606,15 +608,17 @@ date: 2024-03-31 16:11:00
 
 **port**, káng-kháu; pou-thâu. *port-holes*, phàu-khang.
 
-**portal**, *honorary*, têng; têng-piáu. **portentous**, hiong-tiãu; kuài-ĩ.
+**portal**, *honorary*, têng; têng-piáu.
 
-**porter**, pé-mn̂g; thóiⁿ-mn̂g; siú-mn̂g; chiéⁿ-mn̂g.*carrier of burdens,* taⁿ-kang; taⁿ-tàⁿ-nâng; thiau-hu; taⁿ-kieh.
+**portentous**, hiong-tiãu; kuài-ĩ.
+
+**porter**, pé-mn̂g; thóiⁿ-mn̂g; siú-mn̂g; chiéⁿ-mn̂g. *carrier of burdens,* taⁿ-kang; taⁿ-tàⁿ-nâng; thiau-hu; taⁿ-kieh.
 
 **portico**, mn̂g-lâu.
 
-**portion**, hūn.*what belongs to one's*, hūn-tsôiⁿ kâi-mue̍h.
+**portion**, hūn. *what belongs to one's*, hūn-tsôiⁿ kâi-mue̍h.
 
-**portrait**, hí-sîn; siáu-ngiá; sièⁿ.*to paint*, ūe-sièⁿ; thûan-sîn.*by photography,* hoh-sièⁿ; hoh-iáⁿ; hoh-siáu-ngiá.*painter*, ūe-sièⁿ sin-seⁿ.
+**portrait**, hí-sîn; siáu-ngiá; sièⁿ. *to paint*, ūe-sièⁿ; thûan-sîn. *by photography,* hoh-sièⁿ; hoh-iáⁿ; hoh-siáu-ngiá. *painter*, ūe-sièⁿ sin-seⁿ.
 
 **Portugal**, Phû-thô-giâ.
 
@@ -622,49 +626,51 @@ date: 2024-03-31 16:11:00
 
 **positive**, tuàn; tiāⁿ; tuàn-tiāⁿ.
 
-**possess**, ũ.*to be possessed*, phah-tang; phah-ki; lo̍h-sîn; pun-kúi tùe--tie̍h; siáu-sîn--phû; siáu-kûi.*possessions*, ngia̍p; mu̍eh-ngia̍p; ke-ngia̍p; ke-sṳ̄; ke-tsṳ; súaⁿ-ngia̍p; mu̍eh-súaⁿ.
+**possess**, ũ. *to be possessed*, phah-tang; phah-ki; lo̍h-sîn; pun-kúi tùe--tie̍h; siáu-sîn--phû; siáu-kûi. *possessions*, ngia̍p; mu̍eh-ngia̍p; ke-ngia̍p; ke-sṳ̄; ke-tsṳ; súaⁿ-ngia̍p; mu̍eh-súaⁿ.
 
-**possible**, tsò-tit-lâi; lêng-tit-tsò kâi-sṳ̄.*can it be possible!* káⁿ-bô-iáⁿ!
+**possible**, tsò-tit-lâi; lêng-tit-tsò kâi-sṳ̄. *can it be possible*, káⁿ-bô-iáⁿ.
 
 **post**, *a*, thiãu; khṳ̍t.
 
-**post**, *a letter*, kià-sìn.*post-office*, bûn-tsṳ-kuán; tsṳ-sìn-kuán.*-station* , ia̍h-ku´¯n; ia̍h-tsãm; kuan-ia̍h.*-runner*, bé-sìn; tshoiⁿ-lí-bé; tsáu-bûn-tsṳ; tî-bûn-tsṳ.
+**post**, *a letter*, kià-sìn. *post-office*, bûn-tsṳ-kuán; tsṳ-sìn-kuán. *post-station* , ia̍h-ku´¯n; ia̍h-tsãm; kuan-ia̍h. *post-runner*, bé-sìn; tshoiⁿ-lí-bé; tsáu-bûn-tsṳ; tî-bûn-tsṳ.
 
-**posterity**, ãu; ãu-ĩ; kiáⁿ-sun; ãu-tō.*descend to*, thuân-pun ãu-ĩ; thuân-pun ãu-pùe.
+**posterity**, ãu; ãu-ĩ; kiáⁿ-sun; ãu-tō. *descend to*, thuân-pun ãu-ĩ; thuân-pun ãu-pùe.
 
 **posthumous**, *child*, zūi-pak-kiáⁿ.
 
 **postpone**, lâu-mān; chhî-mān.
 
-**pot**, *for cooking*, tũn-puah; chien-puah; chien-pûaⁿ; ue (*deeper*); sua-ue; seⁿ-ue (*iron*). *flower*, puah; hue-puah.*water*, kuàn; tsúi-kuàn; tsúi-kng.*chamber*, hû; mêⁿ-hû; jiē-hû.*lid*, khàm; kùa; khòiⁿ.
+**pot**, *for cooking*, tũn-puah; chien-puah; chien-pûaⁿ; sua-ue. *(deeper)*, ue. *(iron)*, seⁿ-ue. *flower*, puah; hue-puah. *water*, kuàn; tsúi-kuàn; tsúi-kng. *chamber*, hû; mêⁿ-hû; jiē-hû. *lid*, khàm; kùa; khòiⁿ.
 
 **potash**, kiⁿ.
 
-**potato**, hô-lan-tsṳ̂.*sweet*, huan-tsṳ̂; huan-kuah; tī-kue.
+**potato**, hô-lan-tsṳ̂. *sweet*, huan-tsṳ̂; huan-kuah; tī-kue.
 
 **pot-bellied**, tōa-tóu-tháng; tōa-tóu-lak; tóu kuai-kuai.
 
-**potter**, tsò-hûi sai-pẽ.*pottery*, hûi-khì; tshou-hûi.*a pottery*, hûi-iê.
+**potter**, tsò-hûi sai-pẽ. *pottery*, hûi-khì; tshou-hûi. *a pottery*, hûi-iê.
 
 **pouch**, lâng; tō; ie-tõu.
 
-**poultice**, *to put on*, tah-pñg-lia̍p.*linseed*, tah mûaⁿ-chí-hún.
+**poultice**, *to put on*, tah-pñg-lia̍p. *linseed*, tah mûaⁿ-chí-hún.
 
 **poultry**, koi-ah.
 
 **pounce**, *on chicken, as hawk*, liáu-eng-pô tiàu-koi-kiáⁿ.
 
-**pound**, *Chinese*, kṳn.*English*, pong.
+**pound**, *Chinese*, kṳn. *English*, pong.
 
-**pound**, *to*, cheng; tûi. **pour**, *out*, tò; tò-tiāu (*as useless*). *tea*, sai-tê.*wine*, sai-chiú.*in*, tò--lo̍h-khṳ̍.*as down the throat*, kùan.
+**pound**, *to*, cheng; tûi.
+
+**pour**, *out*, tò. *out (as useless)*, tò-tiāu. *tea*, sai-tê. *wine*, sai-chiú. *in*, tò--lo̍h-khṳ̍. *as down the throat*, kùan.
 
 **pout**, tshùi khiàu-khiàu; tshùi tu-tu.
 
-**powder**, hún.*cosmetic*, tsúi-hún; sang-hún; ìn-chí-hún; tōa-pe̍h-hún.*use this*, buah-hún.*medicinal*, ie̍h-súaⁿ; ie̍h-bua̍h.*gun-powder*, húe-ie̍h; chhèng-ie̍h.*horn*, gû-kak-tâng.*to powder by grinding*, gnóiⁿ-bua̍h; lûi-iùⁿ.
+**powder**, hún. *cosmetic*, tsúi-hún; sang-hún; ìn-chí-hún; tōa-pe̍h-hún. *use this*, buah-hún. *medicinal*, ie̍h-súaⁿ; ie̍h-bua̍h. *gun-powder*, húe-ie̍h; chhèng-ie̍h. *horn*, gû-kak-tâng. *to powder by grinding*, gnóiⁿ-bua̍h; lûi-iùⁿ.
 
-**power**, khûan; khûan-lêng; khûan-sì; khûan-la̍t; khûan-pèⁿ; lêng-la̍t; sì-la̍t; sì-thâu; tshâi-lêng.*to be in his power*, tõ i chhiú-ẽ; tõ i chhiú-sim-tói; tõ i kúan-ẽ.*powerful*, ũ-khûan; ũ-khì-la̍t.*powerless*, bô-la̍t; bô-khûan; bô-ta-uâ.*powerless against any one*, bô-ta i-uâ; bô-nãiⁿ i-hô; sì-la̍t put-te̍k.
+**power**, khûan; khûan-lêng; khûan-sì; khûan-la̍t; khûan-pèⁿ; lêng-la̍t; sì-la̍t; sì-thâu; tshâi-lêng. *to be in his power*, tõ i chhiú-ẽ; tõ i chhiú-sim-tói; tõ i kúan-ẽ. *powerful*, ũ-khûan; ũ-khì-la̍t. *powerless*, bô-la̍t; bô-khûan; bô-ta-uâ. *powerless against any one*, bô-ta i-uâ; bô-nãiⁿ i-hô; sì-la̍t put-te̍k.
 
-**pox**, *chicken*, tsúi-tsu; tsúi-tāu.*small-*, tshut-tsu; gâu-a-niêⁿ; sún-tsái; thien-hue.*inoculate for*, pûn-tsu (*by the nostrils*).*vaccinate for*, chèng-tsu; chèng-tāu; chèng-iêⁿ-tāu.*scab of*, tsu-phí.*pock-marked*, poiⁿ.
+**pox**, *chicken*, tsúi-tsu; tsúi-tāu. *small-*, tshut-tsu; gâu-a-niêⁿ; sún-tsái; thien-hue. *inoculate for (by the nostrils)*, pûn-tsu. *vaccinate for*, chèng-tsu; chèng-tāu; chèng-iêⁿ-tāu. *scab of*, tsu-phí. *pock-marked*, poiⁿ.
 
 **practice**, si̍p-liēn; ha̍k-si̍p; liēn-si̍p; kiâⁿ-ûi.
 
@@ -674,11 +680,11 @@ date: 2024-03-31 16:11:00
 
 **prattle**, nôuⁿ-kiáⁿ-ūe; chíⁿ-ūe; bô-keng-le̍h kâi-ūe.
 
-**prawn**, hê.*very small, dried*, hê-bí.
+**prawn**, hê. *very small, dried*, hê-bí.
 
-**pray**, khî-táu; táu-kàu; khî-khiû; khiû; táu-khiû; khî-mōⁿ; táu-tsok; khî-tsok.*a written prayer*, khî-táu-bûn.*repeat prayers*, liām-keng.*book of prayers*, keng-chheh.
+**pray**, khî-táu; táu-kàu; khî-khiû; khiû; táu-khiû; khî-mōⁿ; táu-tsok; khî-tsok. *a written prayer*, khî-táu-bûn. *repeat prayers*, liām-keng. *book of prayers*, keng-chheh.
 
-**preach**, káng-tãu; káng-tãu-lí; thûan-tãu; lũn-tãu; lũn-káng; káng-sueh; sueh-tsṳ; káng-mêng tõ-lí.*the Gospel*, suang-thûan hok-im; suang-mêng hok-im-tãu.
+**preach**, káng-tãu; káng-tãu-lí; thûan-tãu; lũn-tãu; lũn-káng; káng-sueh; sueh-tsṳ; káng-mêng tõ-lí. *the Gospel*, suang-thûan hok-im; suang-mêng hok-im-tãu.
 
 **precarious**, m̄-ún-tǹg; m̄-thêng-tǹg; m̄-thó-tàng; m̄-tek-tàng.
 
@@ -694,7 +700,7 @@ date: 2024-03-31 16:11:00
 
 **precipitate**, mâng-kip; huang-mâng kip-chhiet.
 
-**precipitate**,*to*, léng-pua̍h*oneself,* tsṳ̃-thiàu.
+**precipitate**, *to*, léng-pua̍h*oneself,* tsṳ̃-thiàu.
 
 **precisely**, tùi-tùi; chìaⁿ-chiàⁿ; tú-tú; bô-tshò.
 
@@ -704,119 +710,121 @@ date: 2024-03-31 16:11:00
 
 **predict**, ṳ̃-ngân; ṳ̃-soiⁿ-tàⁿ; thâu-soiⁿ-tàⁿ.
 
-**pre-eminent**, tshut-chèng; thiàu-khûn; tshut-lūi; tshut-thoh; kùe-nâng. **preface**, sũ; sũ-thâu; siáu-ín.
+**pre-eminent**, tshut-chèng; thiàu-khûn; tshut-lūi; tshut-thoh; kùe-nâng.
 
-**prefect**, ti-hú; hú-thài-iâ; hú-hièn.*prefecture*, hú.
+**preface**, sũ; sũ-thâu; siáu-ín.
 
-**prefer**, kèng-hàuⁿ; zú-kèng huaⁿ-hí.*I prefer Swatow to Shanghai*, ṳ́-khî (*or*, pí) khiã-khí Siãng-hái uá lêng-tsò (*or*, lêng-ngũan) khiã-khí Sùaⁿ-thâu.*do you prefer living in Swatow or in Shanghai?* lṳ́ sĩ khiã-khí Sùaⁿ-thâu--hó, a-sĩ khiã-khí Siãng-hái--hó?
+**prefect**, ti-hú; hú-thài-iâ; hú-hièn. *prefecture*, hú.
+
+**prefer**, kèng-hàuⁿ; zú-kèng huaⁿ-hí. *I prefer Swatow to Shanghai*, ṳ́-khî khiã-khí Siãng-hái uá lêng-tsò khiã-khí Sùaⁿ-thâu; pí khiã-khí Siãng-hái uá lêng-ngũan khiã-khí Sùaⁿ-thâu. *do you prefer living in Swatow or in Shanghai*, lṳ́ sĩ khiã-khí Sùaⁿ-thâu--hó, a-sĩ khiã-khí Siãng-hái--hó.
 
 **pregnant**, ũ-sin-hūn; ũ-tho; ũ-ẽng; ũ-a-nôuⁿ; huâi-tho; ũ-la̍k-kah; ũ-hí-sṳ̄.
 
-**prejudice**, ì-kièn phien-sṳ; chip-it; chip-thì.*to my prejudice*, u´¯chia̍h-khui; uá siũ-khui.
+**prejudice**, ì-kièn phien-sṳ; chip-it; chip-thì. *to my prejudice*, u´¯chia̍h-khui; uá siũ-khui.
 
-**premature**, būe-se̍k; sî-hāu būe-kàu; khah-soiⁿ; khah-tsá.*birth*, chíⁿ-gue̍h seⁿ; būe-tsok-gue̍h seⁿ; pùaⁿ-súaⁿ (*abortion*).
+**premature**, būe-se̍k; sî-hāu būe-kàu; khah-soiⁿ; khah-tsá. *birth*, chíⁿ-gue̍h seⁿ; būe-tsok-gue̍h seⁿ. *(abortion)*, pùaⁿ-súaⁿ.
 
-**premeditate**, soiⁿ-pheⁿ-phah; ṳ̃-siẽⁿ.*premeditated*, kù-ì.
+**premeditate**, soiⁿ-pheⁿ-phah; ṳ̃-siẽⁿ. *premeditated*, kù-ì.
 
 **premier**, tsái-siàng.
 
 **premium**, siéⁿ; khàu-siéⁿ.
 
-**prepare**, ṳ̃-pĩ; pĩ-phōiⁿ; an-pâi; uaⁿ-pâi; siu-sip.*prepared*, tsôi-pĩ; chhî-pĩ; tshuân-pĩ; pĩn-chiàⁿ.
+**prepare**, ṳ̃-pĩ; pĩ-phōiⁿ; an-pâi; uaⁿ-pâi; siu-sip. *prepared*, tsôi-pĩ; chhî-pĩ; tshuân-pĩ; pĩn-chiàⁿ.
 
-**presage**, ṳ̃-tiãu; tiãu-thâu; ki-tiãu.*felicitous*, siang-sũi; kit-tiãu; sũi-khì.
+**presage**, ṳ̃-tiãu; tiãu-thâu; ki-tiãu. *felicitous*, siang-sũi; kit-tiãu; sũi-khì.
 
-**prescription**, ie̍h-hng; ie̍h-toaⁿ.*prescribe*, khui-hng.
+**prescription**, ie̍h-hng; ie̍h-toaⁿ. *prescribe*, khui-hng.
 
-**presence**, *in one's*, tõ-mīn-tsôiⁿ; tng-mīn.*of mind*, lêng-ki èng-pièn; lêng-ua̍h; soiⁿ-kak; ũ-kip-tì.*of the emperor*, gṳ̄-tsôiⁿ.
+**presence**, *in one's*, tõ-mīn-tsôiⁿ; tng-mīn. *of mind*, lêng-ki èng-pièn; lêng-ua̍h; soiⁿ-kak; ũ-kip-tì. *of the emperor*, gṳ̄-tsôiⁿ.
 
-**present**, lói-mu̍eh; chì-kìⁿ; sie-sàng.*to give as a*, sàng.
+**present**, lói-mu̍eh; chì-kìⁿ; sie-sàng. *to give as a*, sàng.
 
-**present**, *to, at court*, ín-kìⁿ.*to present tribute*, chìn-kòng.
+**present**, *to, at court*, ín-kìⁿ. *to present tribute*, chìn-kòng.
 
-**present**, *time*, hīn-kim; hīn-tsãi; tshṳ́-tsãi; chí-hûe; ngán-tsôiⁿ; ngán-tsãi-kim; chí-tsûn; hīn-jiên.*dynasty*, pńg-chhiâu.*I will come presently*, uá chiũ-lâi.
+**present**, *time*, hīn-kim; hīn-tsãi; tshṳ́-tsãi; chí-hûe; ngán-tsôiⁿ; ngán-tsãi-kim; chí-tsûn; hīn-jiên. *dynasty*, pńg-chhiâu. *I will come presently*, uá chiũ-lâi.
 
 **presentiment**, sim-ki; sim-tang ki-tiãu; àm-tiãu.
 
-**preserve**, pó; pó-tshûan; pó-tshûn; tshûn.*her virtue, as widow remaining unmarried*, pó-siú tshûan-tsat; siú-tsat.*preserves*, thn̂g-kúeⁿ; bit-chìm; tiâm-ko.
+**preserve**, pó; pó-tshûan; pó-tshûn; tshûn. *her virtue, as widow remaining unmarried*, pó-siú tshûan-tsat; siú-tsat. *preserves*, thn̂g-kúeⁿ; bit-chìm; tiâm-ko.
 
-**preside**,*over*, kúan-lí; keng-kúan.*president of board*, siēⁿ-tsṳ.
+**preside**, *over*, kúan-lí; keng-kúan. *president of board*, siēⁿ-tsṳ.
 
-**press**, *to*, teh; teh-sit; kui.*to urge*, tshui; tshui-pek.*matter from a boil*, liū-lâng; liū-thûe.*a press*, kui.*book-binder's*, chheh-kui.*printing*, ìn-chheh-kui.*pressed by circumstances*, khiông-kip.*pressing*, kín-kín; kín-chhiet; kip-chhiet; pek-chhiet.
+**press**, *to*, teh; teh-sit; kui. *to urge*, tshui; tshui-pek. *matter from a boil*, liū-lâng; liū-thûe. *a press*, kui. *book-binder's*, chheh-kui. *printing*, ìn-chheh-kui. *pressed by circumstances*, khiông-kip. *pressing*, kín-kín; kín-chhiet; kip-chhiet; pek-chhiet.
 
-**prestige**, lién; thí-mīn; sì-mīn.*to lose*, sit-lién; sàu-lién.
+**prestige**, lién; thí-mīn; sì-mīn. *to lose*, sit-lién; sàu-lién.
 
-**presume**, káⁿ; tsṳ̃-tsuan.*presumptuous*, tōa-tsú tōa-ì. *I would not presume*, m̄-káⁿ; tsò-káⁿ-tng? hô-káⁿ-tng? tsò-káⁿ? khí-káⁿ?
+**presume**, káⁿ; tsṳ̃-tsuan. *presumptuous*, tōa-tsú tōa-ì. *I would not presume*, m̄-káⁿ; tsò-káⁿ-tng; hô-káⁿ-tng; tsò-káⁿ; khí-káⁿ;
 
-**pretend**,*not to know a thing*, tho-m̄-tsai; tèⁿ-m̄-tsai; tsuang-hû-thû.*to be deaf*, tèⁿ-tsò hĩⁿ lâng; tsuang-tsò hĩⁿ lâng; ké-tsò hĩⁿ lâng.*pretender*, ké-kha ké-chhiú; ngũi-phièn.*pretend friendliness while plotting an injury*, tshùi tõ-tàⁿ-ūe kha tõ-koih ōu-chéng.
+**pretend**, *not to know a thing*, tho-m̄-tsai; tèⁿ-m̄-tsai; tsuang-hû-thû. *to be deaf*, tèⁿ-tsò hĩⁿ lâng; tsuang-tsò hĩⁿ lâng; ké-tsò hĩⁿ lâng. *pretender*, ké-kha ké-chhiú; ngũi-phièn. *pretend friendliness while plotting an injury*, tshùi tõ-tàⁿ-ūe kha tõ-koih ōu-chéng.
 
 **pretext**, chiã-kù; chiã-sì; chieh-sì; chieh-tuan; chieh-miâⁿ.
 
-**pretty**, hó-thóiⁿ; ngiá; zû; chhiàu-kè; piáu-chì.*good*, õi-tsò-tit; khó-íⁿ; hoh-hó; ũ--pan-bó.
+**pretty**, hó-thóiⁿ; ngiá; zû; chhiàu-kè; piáu-chì. *good*, õi-tsò-tit; khó-íⁿ; hoh-hó; ũ--pan-bó.
 
-**prevail**, iâⁿ.*prevailing*, múaⁿ-tshù-ũ.
+**prevail**, iâⁿ. *prevailing*, múaⁿ-tshù-ũ.
 
 **prevaricate**, chiau-saⁿ mõⁿ-sì; tsôiⁿ saⁿ; ãu sì; tàⁿ-ūe m̄-pe̍h-ti̍t.
 
-**prevent**, tsó-chí; nûaⁿ-chí; nûaⁿ-tsó; nûaⁿ-tsũ; tsó-keh; tsó-khiē.*one from speaking*, bô i khui-tshùi.*one from entering*, bô-i-ji̍p.*trouble*, mién-hũa; mién tì-kàu kan-khóu.*falling*, màiⁿ-pua̍h-lo̍h.
+**prevent**, tsó-chí; nûaⁿ-chí; nûaⁿ-tsó; nûaⁿ-tsũ; tsó-keh; tsó-khiē. *one from speaking*, bô i khui-tshùi. *one from entering*, bô-i-ji̍p. *trouble*, mién-hũa; mién tì-kàu kan-khóu. *falling*, màiⁿ-pua̍h-lo̍h.
 
 **previously**, soiⁿ; ṳ̃-soiⁿ.
 
-**price**, kè; kè-chîⁿ.*current*, sî-kè.*real*, si̍t-kè.*high*, kùi-kè; kûiⁿ-kè; kau-kè.*rising*, chiẽⁿ-kè; chiáng-kè.*falling*, lo̍h-kè; tie̍t-kè.*fixed*, put-zṳ̃-kè; bô-nõⁿ-kè.*to ask*, mn̄g-kè.*to estimate*, kóu-kè; kóu jie̍h-tsōi-chîⁿ.*wait for rise in*, thãi-kè.*priceless*, bô-kè-pó.
+**price**, kè; kè-chîⁿ. *current*, sî-kè. *real*, si̍t-kè. *high*, kùi-kè; kûiⁿ-kè; kau-kè. *rising*, chiẽⁿ-kè; chiáng-kè. *falling*, lo̍h-kè; tie̍t-kè. *fixed*, put-zṳ̃-kè; bô-nõⁿ-kè. *to ask*, mn̄g-kè. *to estimate*, kóu-kè; kóu jie̍h-tsōi-chîⁿ. *wait for rise in*, thãi-kè. *priceless*, bô-kè-pó.
 
-**prick**, *to*, tshǹg; chhiah.*by a thorn*, chhiah-tie̍h-chhì.
+**prick**, *to*, tshǹg; chhiah. *by a thorn*, chhiah-tie̍h-chhì.
 
-**prickly**, *pear*, sien-pa-chiéⁿ.*heat*, pùi; zua̍h-pùi; pùi kã.
+**prickly**, *pear*, sien-pa-chiéⁿ. *heat*, pùi; zua̍h-pùi; pùi kã.
 
 **pride**, kiau-ngãu; tsṳ̃-tōa; tsṳ̃-tsun.
 
-**priest**, *Buddhist*, hûe-siēⁿ.*Tauist* , tãu-sṳ̃; sai-kong.*in the Scriptures*, chì-si.*R. Catholic*, sîn-hũ.*priestess*, hûe-siēⁿ-phûa.*priesthood*, hu̍t-ke.*to enter it*, tshut-ke.
+**priest**, *Buddhist*, hûe-siēⁿ. *Tauist* , tãu-sṳ̃; sai-kong. *in the Scriptures*, chì-si. *R. Catholic*, sîn-hũ. *priestess*, hûe-siēⁿ-phûa. *priesthood*, hu̍t-ke. *to enter it*, tshut-ke.
 
-**prime** , tõiⁿ-it; chì-hó; siãng-téng; téng-hó; siãng-hó; a-it.*cost*, nguân-kè.*minister*, tsái-siàng.
+**prime**, tõiⁿ-it; chì-hó; siãng-téng; téng-hó; siãng-hó; a-it. *cost*, nguân-kè. *minister*, tsái-siàng.
 
-**prince**, thài-tsṳ́ (*heir apparent*); uâng-tsṳ́; chhin-uâng; kun.*princess*, kong-tsú.*princes*, uâng-chhin kok-chhek.
+**prince**, uâng-tsṳ́; chhin-uâng; kun. *(heir apparent)*, thài-tsṳ́. *princess*, kong-tsú. *princes*, uâng-chhin kok-chhek.
 
-**principal**, chiàⁿ; thâu; nguân; tsú; pńg.*wife*, chiàⁿ-chhi; tsháu-thâu.*principally*, tãi-khài; tãi-iak; tãi-sì.
+**principal**, chiàⁿ; thâu; nguân; tsú; pńg. *wife*, chiàⁿ-chhi; tsháu-thâu. *principally*, tãi-khài; tãi-iak; tãi-sì.
 
-**principle**, lí; tãu-lí; tõ-lí; chhêng-lí; nâng-chhêng mu̍eh-lí.*discuss the p. of a thing*, tshui-lí; chiè-lí tshui-chhek.
+**principle**, lí; tãu-lí; tõ-lí; chhêng-lí; nâng-chhêng mu̍eh-lí. *discuss the p. of a thing*, tshui-lí; chiè-lí tshui-chhek.
 
-**print**, ìn; ìn-chheh; ìn-tsṳ.*printing blocks*, ìn-póiⁿ.*types*, ua̍h-jī-póiⁿ.*printing-house*, tsṳ-hng.
+**print**, ìn; ìn-chheh; ìn-tsṳ. *printing blocks*, ìn-póiⁿ. *types*, ua̍h-jī-póiⁿ. *printing-house*, tsṳ-hng.
 
-**prison**, kam; kam-ge̍k; lô-ge̍k; kam-kuán; kuán.*put**in*, kìm-kam; siu-kam.*get out of*, tshut-kam.*prisoner*, kam-huãm; huãm-jîn; siu-kam.*of war*, pĩ-lû; pĩ-lia̍h.
+**prison**, kam; kam-ge̍k; lô-ge̍k; kam-kuán; kuán. *put**in*, kìm-kam; siu-kam. *get out of*, tshut-kam. *prisoner*, kam-huãm; huãm-jîn; siu-kam. *of war*, pĩ-lû; pĩ-lia̍h.
 
-**private**, sṳ; sai; sai-ẽ; sai-khia-ẽ.*privately*, àm-chẽⁿ; sai-ẽ; ba̍t-ba̍t; ṳ́n-ba̍t; ṳ́n-tshâng.*private conversation*, kau-thâu chiap-gṳ́.
+**private**, sṳ; sai; sai-ẽ; sai-khia-ẽ. *privately*, àm-chẽⁿ; sai-ẽ; ba̍t-ba̍t; ṳ́n-ba̍t; ṳ́n-tshâng. *private conversation*, kau-thâu chiap-gṳ́.
 
-**privy**,*a*, tang-si; chhè-kng; chhè-tî; kheⁿ-chhè; ha̍k; chhè-ha̍k.*to empty out*, phah-tshou; ié-pùn.
+**privy**, *a*, tang-si; chhè-kng; chhè-tî; kheⁿ-chhè; ha̍k; chhè-ha̍k. *to empty out*, phah-tshou; ié-pùn.
 
-**privy**,*council*, lãi-koh ha̍k-sṳ̃.
+**privy**, *council*, lãi-koh ha̍k-sṳ̃.
 
-**prize**, siéⁿ-mu̍eh.*to*, thóiⁿ-tõng; kùi-tõng.
+**prize**, siéⁿ-mu̍eh. *to*, thóiⁿ-tõng; kùi-tõng.
 
-**probable**, khó-sìn; poih-siâⁿ-chin; ũ-siẽⁿ-thâu.*probably*, iak-liãng; pa-lak (*of something hoped for*).
+**probable**, khó-sìn; poih-siâⁿ-chin; ũ-siẽⁿ-thâu. *probably*, iak-liãng. *(of something hoped for)*, pa-lak.
 
-**probe**,*a*, ngṳ̂n-chim; ngṳ̂n-tsam; thàm-tsam; thàm-lâng-tsam.*to*, thàm.
+**probe**, *a*, ngṳ̂n-chim; ngṳ̂n-tsam; thàm-tsam; thàm-lâng-tsam. *to*, thàm.
 
-**proboscis**,*of elephant*, chhiẽⁿ-phīⁿ.
+**proboscis**, *of elephant*, chhiẽⁿ-phīⁿ.
 
-**proceed**,*to*, chìn-tsôiⁿ; tsôiⁿ-chìn; khṳ̀.*from*, tshut; tshông-tshut.*proceeding*, kiâⁿ-sṳ̄.*procession (idolatrous)*, iâⁿ-sîn sài-hũe.
+**proceed**, *to*, chìn-tsôiⁿ; tsôiⁿ-chìn; khṳ̀. *from*, tshut; tshông-tshut. *proceeding*, kiâⁿ-sṳ̄. *procession (idolatrous)*, iâⁿ-sîn sài-hũe.
 
-**proclaim**, thûan; suang-thûan; pùa-iâng; kúang-pù; hiáu-zũ.*proclamation*, kò-sī.*issue a*, tshut-kò-sī.*imperial*, n̂g-tîn; n̂g-chiè; kiaⁿ-chiè; chiàu-bûn.
+**proclaim**, thûan; suang-thûan; pùa-iâng; kúang-pù; hiáu-zũ. *proclamation*, kò-sī. *issue a*, tshut-kò-sī. *imperial*, n̂g-tîn; n̂g-chiè; kiaⁿ-chiè; chiàu-bûn.
 
 **procrastinate**, chhî-mān; tam-koh; thiû-thû; thû-mān.
 
-**procure**, . tit-tie̍h.*procuress*, khan-thâu-phûa.
+**procure**, tit-tie̍h. *procuress*, khan-thâu-phûa.
 
-**prodigal**,*in expenditure*, hua-hùi; chhia-chhí; chhia-hua.*a*, chhia-îm.*son*, phùa-ke-kiáⁿ; lãng-tãng-tsṳ́.
+**prodigal**, *in expenditure*, hua-hùi; chhia-chhí; chhia-hua. *a*, chhia-îm. *son*, phùa-ke-kiáⁿ; lãng-tãng-tsṳ́.
 
 **prodigy**, khî-ĩ kâi-sṳ̄; kuài-ĩ; khî-kuài; kuài-mue̍h.
 
-**produce**, seⁿ; huat; tshut.*productions*, thóu-súaⁿ.
+**produce**, seⁿ; huat; tshut. *productions*, thóu-súaⁿ.
 
 **profane**, siet-to̍k; khin-bũan sîn-mêng.
 
-**profess**, mêng-jīn.*to he anything*, tsò-jīn.
+**profess**, mêng-jīn. *to he anything*, tsò-jīn.
 
-**profession**, sṳ̄-ngia̍p.*literary*, ha̍k-ngia̍p.*medical*, ui-ngia̍p; ui-ke.*professor*, ha̍k-sṳ̃; phak-sṳ̃; miâⁿ-sṳ̃.
+**profession**, sṳ̄-ngia̍p. *literary*, ha̍k-ngia̍p. *medical*, ui-ngia̍p; ui-ke. *professor*, ha̍k-sṳ̃; phak-sṳ̃; miâⁿ-sṳ̃.
 
 **proffer**, tsun-hõng.
 
@@ -824,59 +832,63 @@ date: 2024-03-31 16:11:00
 
 **proficient**, chìn-tsôiⁿ; se̍k; liēn-se̍k.
 
-**profit**, lĩ; lĩ-sek; iah; lĩ-iah.*obtain*, tit-lĩ; thàn; ũ-thàn.
+**profit**, lĩ; lĩ-sek; iah; lĩ-iah. *obtain*, tit-lĩ; thàn; ũ-thàn.
 
 **profligate**, hùang-tãng; hùang-tsòng; bô-tsat-tōu.
 
 **profound**, chhim; chhim-àu; àu-biāu; mûiⁿ-àu; chhim-mûiⁿ.
 
-**profuse**,*in expenditure*, *see*[prodigal](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#prodigal).*in promises*, múaⁿ-tshùi ìn-sêng.
+**profuse**, *in expenditure*, *see*[prodigal](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#prodigal). *in promises*, múaⁿ-tshùi ìn-sêng.
 
-**progenitor**, soiⁿ-tsóu; tsóu-tsong; tsóu-kong. **prognosticate**, pok-khùe; chiam-khùe.
+**progenitor**, soiⁿ-tsóu; tsóu-tsong; tsóu-kong.
 
-**progress**, chìn-tsôiⁿ; chìn-pōu; chiáng-chìn.*daily progress*, che̍k-ji̍t kìⁿ-ji̍t-chìn.
+**prognosticate**, pok-khùe; chiam-khùe.
+
+**progress**, chìn-tsôiⁿ; chìn-pōu; chiáng-chìn. *daily progress*, che̍k-ji̍t kìⁿ-ji̍t-chìn.
 
 **prohibit**, kìm; kìm-chí; kìm-kài.
 
 **prolix**, tàⁿ-ūe lo-so; khah-tsōi ūe-phûe; ūe seⁿ-ki-hie̍h; chhiâng-ngân.
 
-**prolong**,*a period*, khuan-hãn; khuan-mān.
+**prolong**, *a period*, khuan-hãn; khuan-mān.
 
 **promiscuous**, tshàm-tsa̍p; hũn-tsa̍p; tshap-tsa̍p.
 
-**promise**, èng-hṳ́; ìn-sêng; ìn-na̍p; ieh-tiāⁿ; hṳ́; soiⁿ-hṳ́.*to fulfil*, chién-ieh; zû-ieh; chién-ngân.*break*, chia̍h-ngân; sit-ieh; súang-ieh.
+**promise**, èng-hṳ́; ìn-sêng; ìn-na̍p; ieh-tiāⁿ; hṳ́; soiⁿ-hṳ́. *to fulfil*, chién-ieh; zû-ieh; chién-ngân. *break*, chia̍h-ngân; sit-ieh; súang-ieh.
 
 **promotion**, seng-kuaⁿ; kau-seng; kia-hong; kia-khip; seng-khip; kia-kuaⁿ chìn-lo̍k.
 
-**prompt**, mé; khùe; thi-thuat; ióng-kuat; chíap-kuat.*to*, thî-chhéⁿ; kek-chiàng; kà-so (*to a quarrel*).
+**prompt**, mé; khùe; thi-thuat; ióng-kuat; chíap-kuat. *to*, thî-chhéⁿ; kek-chiàng. *(to a quarrel)*, kà-so.
 
-**pronounce**, tàⁿ.*badly*, jī-ngán hâm-hû; tàⁿ-ūe kâm-kôu; tàⁿ-ūe m̄-chiàⁿ.*well*, táⁿ-ūe pe̍h; jī-jī hung-mêng; jī-jī hīn.*difficult to*, oh-áu; á-m̄-tńg.*sentence*, tiāⁿ-tsũe; ngí-tsũe; tùan-tiāⁿ sĩ-mih-tsũe.
+**pronounce**, tàⁿ. *badly*, jī-ngán hâm-hû; tàⁿ-ūe kâm-kôu; tàⁿ-ūe m̄-chiàⁿ. *well*, táⁿ-ūe pe̍h; jī-jī hung-mêng; jī-jī hīn. *difficult to*, oh-áu; á-m̄-tńg. *sentence*, tiāⁿ-tsũe; ngí-tsũe; tùan-tiāⁿ sĩ-mih-tsũe.
 
-**proof**, pêng-kṳ̃; phêng-kṳ̃.*printer's*, kó.
+**proof**, pêng-kṳ̃; phêng-kṳ̃. *printer's*, kó.
 
-**prop**, tú.*a wall*, tú-chhiêⁿ.*up*, thèⁿ-kûiⁿ.
+**prop**, tú. *a wall*, tú-chhiêⁿ. *up*, thèⁿ-kûiⁿ.
 
-**proper** , ha̍h-ngî; ha̍h-sek; eng-kai; pńg-téng; tie̍h; chiàⁿ; tùi.
+**proper**, ha̍h-ngî; ha̍h-sek; eng-kai; pńg-téng; tie̍h; chiàⁿ; tùi.
 
-**property**, ngia̍p; mue̍h-ngia̍p; ke-tsṳ; ke-sṳ̄; ke-tshâi; ke-ngia̍p; ke-súaⁿ; súaⁿ-ngia̍p.*of a thing*, sèⁿ.
+**property**, ngia̍p; mue̍h-ngia̍p; ke-tsṳ; ke-sṳ̄; ke-tshâi; ke-ngia̍p; ke-súaⁿ; súaⁿ-ngia̍p. *of a thing*, sèⁿ.
 
-**prophet**, soiⁿ-tsai-nâng.*to prophesy (predict)*, ṳ̃-ngân; soiⁿ-tàⁿ tõ-tsôiⁿ; soiⁿ-tàⁿ būe-lâi kâi-sṳ̄.
+**prophet**, soiⁿ-tsai-nâng. *to prophesy (predict)*, ṳ̃-ngân; soiⁿ-tàⁿ tõ-tsôiⁿ; soiⁿ-tàⁿ būe-lâi kâi-sṳ̄.
 
 **propitiate**, sek-náu; chí-náu; so̍k-tsũe; khiû-sià.
 
-**propitious**, sũn; kit.*omen*, kit-tiãu.
+**propitious**, sũn; kit. *omen*, kit-tiãu.
 
-**proportion** (*in arithmetic*), pí-lí.*in proportion to their number*, chiè i kâi nâng-siàu lâi-thuaⁿ.*proportionally*, chiè-thuaⁿ; kong-thuaⁿ; chiè-ûn; chiè-tōu.
+**proportion**, *(in arithmetic)*, pí-lí. *in proportion to their number*, chiè i kâi nâng-siàu lâi-thuaⁿ. *proportionally*, chiè-thuaⁿ; kong-thuaⁿ; chiè-ûn; chiè-tōu.
 
-**propose**, thîn-ngân; thîn-sueh; hièn-kòi; hièn-chheh.*for consideration*, kṳ́-ngí; kṳ́-khí; thî-khí.
+**propose**, thîn-ngân; thîn-sueh; hièn-kòi; hièn-chheh. *for consideration*, kṳ́-ngí; kṳ́-khí; thî-khí.
 
-**propriety**, lí-ngî; lói-ngî; lói-siàu.*contrary to*, m̄-ha̍h lí-ngî; m̄-ha̍h-sek.
+**propriety**, lí-ngî; lói-ngî; lói-siàu. *contrary to*, m̄-ha̍h lí-ngî; m̄-ha̍h-sek.
 
-**prosecute**, kò; kò-sõng; kò-tsñg.*prosecutor*, ngûan-kò; ngûan-tiâⁿ.*as representing another*, phõ-kò.
+**prosecute**, kò; kò-sõng; kò-tsñg. *prosecutor*, ngûan-kò; ngûan-tiâⁿ. *as representing another*, phõ-kò.
 
 **prospect**, kuang-kéng; kéng-tì.
 
-**prosper**, heng-uãng; heng-sẽng; uãng-siàng.*prosperity*, būan-sṳ̄ lī-ta̍t; kak-sṳ̄ zû-ì; ha̍h-siẽⁿ; sûi-ì; zû-ngũan. **prostrate**, phak-tõ-thôu.*ceremony of prostration*, khàu-thâu; kha̍p-thâu.
+**prosper**, heng-uãng; heng-sẽng; uãng-siàng. *prosperity*, būan-sṳ̄ lī-ta̍t; kak-sṳ̄ zû-ì; ha̍h-siẽⁿ; sûi-ì; zû-ngũan.
+
+**prostrate**, phak-tõ-thôu. *ceremony of prostration*, khàu-thâu; kha̍p-thâu.
 
 **prostitute**, kĩ-nńg; chhiang-kĩ; láu-kṳ́; láu-kí; a-ché; khiàu-búe.
 
@@ -884,27 +896,27 @@ date: 2024-03-31 16:11:00
 
 **protuberant**, thóu-tshut; tsui; tsui-tshut.
 
-**proud**, kiau-ngãu; kiau-thài.*flesh*, ṳ̀-ne̍k.
+**proud**, kiau-ngãu; kiau-thài. *flesh*, ṳ̀-ne̍k.
 
 **prove**, pêng-chèng; chèng-sit; chieh-chèng; tùi-chèng.
 
-**proverb**, so̍k-gṳ́; pīn-chiâⁿ-kù.*Book of Proverbs*, chim-ngân.
+**proverb**, so̍k-gṳ́; pīn-chiâⁿ-kù. *Book of Proverbs*, chim-ngân.
 
-**provide**, ṳ̃-pĩ; pĩ-pĩn; pĩ-phōiⁿ; ṳ̃-pĩn; kũ-pĩ.*with*, keng-kip; kip-pun.*against*, thî-huâng; huâng-ṳ̃; ṳ̃-huàng.
+**provide**, ṳ̃-pĩ; pĩ-pĩn; pĩ-phōiⁿ; ṳ̃-pĩn; kũ-pĩ. *with*, keng-kip; kip-pun. *against*, thî-huâng; huâng-ṳ̃; ṳ̃-huàng.
 
 **provident**, sié-sim; soiⁿ-siẽⁿ.
 
-**province**,*a*, séⁿ.*provincial city*, séⁿ-siâⁿ.
+**province**, *a*, séⁿ. *provincial city*, séⁿ-siâⁿ.
 
-**provision**, niêⁿ-tsháu; kan-niêⁿ.*for journey*, pûaⁿ-tî.
+**provision**, niêⁿ-tsháu; kan-niêⁿ. *for journey*, pûaⁿ-tî.
 
-**provoke**, kek-khì; jiá-khì; ín--i seⁿ-khì; tshok-náuⁿ; tshok--tie̍h-i náuⁿ-khì; thie-náuⁿ.*to fight*, thok-chièn; kek-chièn; kek-chiàng; kek-lĩ; thie-chièn.
+**provoke**, kek-khì; jiá-khì; ín--i seⁿ-khì; tshok-náuⁿ; tshok--tie̍h-i náuⁿ-khì; thie-náuⁿ. *to fight*, thok-chièn; kek-chièn; kek-chiàng; kek-lĩ; thie-chièn.
 
 **prudence**, kièn-sek; õi-pheⁿ-phah; õi-thiâu-ue̍h; kau-mêng; luat-le̍h.
 
-**prune**,*to*, tsám-chhiū-ki; phoi-chhiū-ki.
+**prune**, *to*, tsám-chhiū-ki; phoi-chhiū-ki.
 
-**Prussia**, Po-lô-sṳ; Tãi-Pù-kok.*prussian blue*, iêⁿ-tōiⁿ.
+**Prussia**, Po-lô-sṳ; Tãi-Pù-kok. *prussian blue*, iêⁿ-tōiⁿ.
 
 **pry**, iám-thóiⁿ; thau-iám; kui-thàm; kui-sĩ; kui-thóiⁿ.
 
@@ -912,47 +924,49 @@ date: 2024-03-31 16:11:00
 
 **puberty**, sêng-teng; sêng-thông; tsò-tōa-nâng; chiáng-tōa; tńg-tōa.
 
-**public**, kong.*business*, kong-sṳ̄,*the*, peh-sèⁿ; chèng-nâng.*spirit*, kong-sim.*publicly*, hién-mêng.
+**public**, kong. *business*, kong-sṳ̄, *the*, peh-sèⁿ; chèng-nâng. *spirit*, kong-sim. *publicly*, hién-mêng.
 
-**publish**,*a book*, tù-tsṳ huat-bōi.*far and wide*, pan-kiâⁿ.
+**publish**, *a book*, tù-tsṳ huat-bōi. *far and wide*, pan-kiâⁿ.
 
 **pudding**, mīⁿ-se̍k
 
-**pugilist**, phah-khûn-thâu; khûn-thâu sṳ-hũ (*or*, sai-pẽ).
+**pugilist**, phah-khûn-thâu; khûn-thâu sṳ-hũ; sai-pẽ.
 
-**pull**, mán; khan; túi; thua; thua-chhé; la-chhé.*up or out*, mán-tiāu; po̍ih-tiāu; po̍ih-khí; po̍ih-tshut; thiu-tshut.*off a coat*, thǹg-tiāu-saⁿ.*apart*, peh-khui; li̍h-khui; thiah-khui.*back*, mán-tńg; túi-tńg.*to pieces*, thiah-tiāu; húiⁿ-tiāu.*one's ears*, liàm-hĩⁿ; khan-hĩⁿ; túi-hĩⁿ.*an oar*, kò-chiéⁿ.*a punkah*, túi-huang.
+**pull**, mán; khan; túi; thua; thua-chhé; la-chhé. *up or out*, mán-tiāu; po̍ih-tiāu; po̍ih-khí; po̍ih-tshut; thiu-tshut. *off a coat*, thǹg-tiāu-saⁿ. *apart*, peh-khui; li̍h-khui; thiah-khui. *back*, mán-tńg; túi-tńg. *to pieces*, thiah-tiāu; húiⁿ-tiāu. *one's ears*, liàm-hĩⁿ; khan-hĩⁿ; túi-hĩⁿ. *an oar*, kò-chiéⁿ. *a punkah*, túi-huang.
 
 **pulley**, ka-lak.
 
-**pulp**,*of fruit*, kúeⁿ-chí-ne̍k.
+**pulp**, *of fruit*, kúeⁿ-chí-ne̍k.
 
-**pulse** ,*the*, me̍hⁿ.*feel the*, me̍hⁿ; phah-me̍hⁿ; tẽⁿ-me̍hⁿ; àn-me̍hⁿ; chién-me̍hⁿ; thóiⁿ-me̍hⁿ. **pulverize**, ngóiⁿ-bua̍h; lûi-iùⁿ.
+**pulse** ,*the*, me̍hⁿ. *feel the*, me̍hⁿ; phah-me̍hⁿ; tẽⁿ-me̍hⁿ; àn-me̍hⁿ; chién-me̍hⁿ; thóiⁿ-me̍hⁿ.
+
+**pulverize**, ngóiⁿ-bua̍h; lûi-iùⁿ.
 
 **pumelo**, iū.
 
-**pumice**,*stone*, phû-chie̍h; phàⁿ-chie̍h.
+**pumice**, *stone*, phû-chie̍h; phàⁿ-chie̍h.
 
 **pumpkin**, kue; pû.
 
-**pump**, tsúi-thiu; tsúi-kiuh; tsúi-thiu-tâng.*to pump water*, thiu-tsúi.
+**pump**, tsúi-thiu; tsúi-kiuh; tsúi-thiu-tâng. *to pump water*, thiu-tsúi.
 
-**punch**, *a, for dollars*, ngṳ̂n-tsãm.*to*, tèng-hō.
+**punch**, *a, for dollars*, ngṳ̂n-tsãm. *to*, tèng-hō.
 
 **punctual**, èng-khî; i-khî; zû-khî; chiè-khî; tùi-khî; put-sit-khî.
 
 **pungent**, hiam; lua̍h; hiam-lua̍h.
 
-**punish**, hua̍t; hêng-hua̍t; phōiⁿ-tsũe.*severely*, ngiâm-hêng; tãng-hêng.*capital punishment*, sí-miāⁿ; tsám-thâu.*by strangling*, ká-sí.*cutting to pieces*, lêng-chhî; tshùi-si.*with heavy bamboo*, phah-tōa-póiⁿ.*with light one*, phah-póiⁿ-kiáⁿ; phah-kha-tshng.*by slapping on the mouth*, siak-tshùi-phói.
+**punish**, hua̍t; hêng-hua̍t; phōiⁿ-tsũe. *severely*, ngiâm-hêng; tãng-hêng. *capital punishment*, sí-miāⁿ; tsám-thâu. *by strangling*, ká-sí. *cutting to pieces*, lêng-chhî; tshùi-si. *with heavy bamboo*, phah-tōa-póiⁿ. *with light one*, phah-póiⁿ-kiáⁿ; phah-kha-tshng. *by slapping on the mouth*, siak-tshùi-phói.
 
-**punkah**, huang-sìⁿ.*to pull*, túi-huang.
+**punkah**, huang-sìⁿ. *to pull*, túi-huang.
 
-**pupil**,*of the eye*, thông-jîn; sien-nâng.
+**pupil**, *of the eye*, thông-jîn; sien-nâng.
 
-**pupil**,*or scholar*, ha̍k-seng; mn̂g-seng; tĩ-tsṳ́.
+**pupil**, *or scholar*, ha̍k-seng; mn̂g-seng; tĩ-tsṳ́.
 
 **purchase**, bói; hak; kiẽn-tì.
 
-**pure**, chheng; chheng-khih; chheng-kiet; chheng-chẽng; kiet-chẽng.*silver*, tsok-siâⁿ; chẽng-tsok; ngṳ̂n-tī kûiⁿ.
+**pure**, chheng; chheng-khih; chheng-kiet; chheng-chẽng; kiet-chẽng. *silver*, tsok-siâⁿ; chẽng-tsok; ngṳ̂n-tī kûiⁿ.
 
 **purgative**, sià-ie̍h; sià-tóu ie̍h; liâng-sià-ie̍h; thong-tãi-piên-ie̍h.
 
@@ -960,19 +974,19 @@ date: 2024-03-31 16:11:00
 
 **purple**, phû-thô-chheⁿ; thien-chheⁿ.
 
-**purpose**, tsú-ì; ì-sṳ̀.*purposely*, ũ-ì; tshut-tõ ũ-ì; kù-ì; tsuan-tsuan; te̍k-te̍k.
+**purpose**, tsú-ì; ì-sṳ̀. *purposely*, ũ-ì; tshut-tõ ũ-ì; kù-ì; tsuan-tsuan; te̍k-te̍k.
 
 **purse**, ngṳ̂n-tō; hô-pau; ie-tõu.
 
 **pursue**, tui; jiāu; kúaⁿ; tui-kúaⁿ; tui-jiāu.
 
-**pus**, lâng.*secreting pus*, pũ-lâng; kâm-lâng.
+**pus**, lâng. *secreting pus*, pũ-lâng; kâm-lâng.
 
-**push**, léng.*away*, léng-khui.*over*, léng-tó; léng-pua̍h.*in a crowd*, sie-chìⁿ; iòng-chìⁿ.*a boat in the mud*, sat-tsûn; oi-tsûn.
+**push**, léng. *away*, léng-khui. *over*, léng-tó; léng-pua̍h. *in a crowd*, sie-chìⁿ; iòng-chìⁿ. *a boat in the mud*, sat-tsûn; oi-tsûn.
 
 **pustule**, sié-tshng.
 
-**put**, pàng; hẽ; an-tì; an-tùn.*away*, pàng-khui.*away a servant*, sî.*by* khǹg; khǹg-búa.*in mind*, thî-chhéⁿ; that-chhéⁿ; sái i kì-tit.*in order*, pái-hó; siu-si̍p-hó; phou-tì-hó; an-pâi; siu-si̍p kui-ūi; siu-si̍p tsôi-chiáⁿ.*into*, tshō--lo̍h-khṳ̀; ji̍p.*on clothes*, chhēng-saⁿ.*on a cap*, tì-bō.*off clothes and cap*, thǹg-saⁿ pak-bō.*out a fire*, phah-kùe-húe; ìm--khí húe.*out a lamp*, pûn-kùe-teng; lâu-kùe-teng; lâu--khí.*the hand on*, àn-chhiú; chhiú àn--pàng-kò; hūaⁿ-chhiú; chhiú teh.*together*, tàu; tàu-bûa; ha̍h-bûa.*up with*, lún; nãiⁿ.*to shame*, khṳt-nâng sit-lién; peh-phùa mīn-phûe.
+**put**, pàng; hẽ; an-tì; an-tùn. *away*, pàng-khui. *away a servant*, sî. *by* khǹg; khǹg-búa. *in mind*, thî-chhéⁿ; that-chhéⁿ; sái i kì-tit. *in order*, pái-hó; siu-si̍p-hó; phou-tì-hó; an-pâi; siu-si̍p kui-ūi; siu-si̍p tsôi-chiáⁿ. *into*, tshō--lo̍h-khṳ̀; ji̍p. *on clothes*, chhēng-saⁿ. *on a cap*, tì-bō. *off clothes and cap*, thǹg-saⁿ pak-bō. *out a fire*, phah-kùe-húe; ìm--khí húe. *out a lamp*, pûn-kùe-teng; lâu-kùe-teng; lâu--khí. *the hand on*, àn-chhiú; chhiú àn--pàng-kò; hūaⁿ-chhiú; chhiú teh. *together*, tàu; tàu-bûa; ha̍h-bûa. *up with*, lún; nãiⁿ. *to shame*, khṳt-nâng sit-lién; peh-phùa mīn-phûe.
 
 **putchuk**, ba̍k-hieⁿ.
 
@@ -980,6 +994,6 @@ date: 2024-03-31 16:11:00
 
 **putty**, thâng-iû-hue.
 
-**puzzle**,*a*, chhit-khá-tôu.*puzzling*, hũn-tie̍h-sim; siẽⁿ-m̄-pat tò-khṳ̀.
+**puzzle**, *a*, chhit-khá-tôu. *puzzling*, hũn-tie̍h-sim; siẽⁿ-m̄-pat tò-khṳ̀.
 
-**pyramid**, thah; kim--jī thah.jī thah.
+**pyramid**, thah; kim--jī thah.

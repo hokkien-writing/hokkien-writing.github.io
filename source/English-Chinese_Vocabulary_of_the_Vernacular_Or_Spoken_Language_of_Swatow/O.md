@@ -10,7 +10,7 @@ date: 2024-03-31 16:11:00
 
 **oar**, chiéⁿ. one, che̍k-pèⁿ-chiéⁿ; che̍k-ki-chiéⁿ. blade of, chiéⁿ-búe; chiéⁿ-hie̍h. handle, chiéⁿ-pèⁿ; chiéⁿ-chhiú; chiéⁿ-thâu. cross pieee on handle, chiéⁿ-tiah. pin (thole), chiéⁿ-tiam. loop fixing oar to pin, chiéⁿ-khau. to row with, kò-chiéⁿ. to ship, for rowing, kah-chiéⁿ.
 
-**oath**, sī. to take, li̍p-sī; huat-sī; mêng-sī (solemn covenant between persons); tùi-thiⁿ mêng-sī. an imprecation, chiù-tsūa.
+**oath**, sī. to take, li̍p-sī; huat-sī; tùi-thiⁿ mêng-sī. *to take (solemn covenant between persons)*, mêng-sī. an imprecation, chiù-tsūa.
 
 **oatmeal**, be̍h-hún.
 
@@ -22,12 +22,13 @@ date: 2024-03-31 16:11:00
 
 **object**, an, mu̍eh-kiãⁿ. or purpose, sim-só-hiàng; sim-só-àiⁿ; sim-só-nguãn; sim-chì; chì-nguãn; ì-hiàng.
 <!--more-->
-**object**, to, m̄-nguãn; tsó-chí; poh-khùi (altercation); piẽn-poh (in argument). what objection can there be? ũ-sĩ-mih huâng-gāi? I have no objection, uá na̍p-ì; uá hàuⁿ.
+**object**, *to*, m̄-nguãn; tsó-chí. *to (altercation)*, poh-khùi. *to (in argument)*, piẽn-poh. *what objection can there be*, ũ-sĩ-mih huâng-gāi. *I have no objection*, uá na̍p-ì; uá hàuⁿ.
 
 **oblation**, hõng-sîn kâi-mu̍eh-kiãⁿ.
 
 **obligation**, pńg-hūn; pńg-téng.
-oblige (force), mién-kiáng; ngẽ-lia̍h; khiâng-àiⁿ; khiâng-pek. obliged to do, put-tit-íⁿ; bõi-tit-mién; m̄-káⁿ m̃-tsò; khut-tshông. obliging, õi-tsò-nâng; ũ-nâng-chhêng; nâng-chiâⁿ hó; hó-chhêng hó-ì. he conferred an obligation on me, i ũ-nâng-chhêng tõ-uá-kò; i ũ-ṳn-hũi tõ-uá-kò. I am much obliged to you, kám-ṳn put-chhién; to-siā; kám-siā; tsōi-siā; chhim-liãm; m̄-káⁿ buâng-chhêng.
+
+**oblige (force)**, mién-kiáng; ngẽ-lia̍h; khiâng-àiⁿ; khiâng-pek. *obliged to do*, put-tit-íⁿ; bõi-tit-mién; m̄-káⁿ m̃-tsò; khut-tshông. *obliging*, õi-tsò-nâng; ũ-nâng-chhêng; nâng-chiâⁿ hó; hó-chhêng hó-ì. *he conferred an obligation on me*, i ũ-nâng-chhêng tõ-uá-kò; i ũ-ṳn-hũi tõ-uá-kò. *I am much obliged to you*, kám-ṳn put-chhién; to-siā; kám-siā; tsōi-siā; chhim-liãm; m̄-káⁿ buâng-chhêng.
 
 **oblique**, siâ; tshúa; uai-tshúa; uai-siâ; khi; m̄-chiàⁿ; m̄-ti̍t.
 
@@ -39,7 +40,7 @@ oblige (force), mién-kiáng; ngẽ-lia̍h; khiâng-àiⁿ; khiâng-pek. obliged
 
 **obscene**, siâ-îm. language, tshou-siaⁿ; káng-tshou lô-tshò. books, îm-tsṳ. plays, îm-hì.
 
-**obscure**, mông; hiu-miáuⁿ; m̄-hīn; m̄-mêng; m̄-tshut-sek. dwell in obscurity, ṳ́n-kṳ; mi̍t-chiah (much greater degree).
+**obscure**, mông; hiu-miáuⁿ; m̄-hīn; m̄-mêng; m̄-tshut-sek. dwell in obscurity, ṳ́n-kṳ. *(much greater degree)*, mi̍t-chiah.
 
 **obsequies**, sng-sṳ̄; pe̍h-sṳ̄. see FUNERAL.
 
@@ -67,7 +68,7 @@ oblige (force), mién-kiáng; ngẽ-lia̍h; khiâng-àiⁿ; khiâng-pek. obliged
 
 **obvious**, mêng-pe̍h.
 
-**occasion**, no, mién; mín-ēng; khó-íⁿ put-pit. what? ũ sĩ-mih kù-sṳ̄? sĩ-mih uân-kù? this, chí-hûe; chí-pái; chí-tshṳ̀; tshṳ́-tshṳ̀. on every, pâi-sî; pâi-hûe; sî-put-sî; sam-put-sî; múeⁿ-sî. take, chiã-sì; sêng-ki; sêng-ki-hũe; chiã-kù; chieh-tuan; sêng-khiah; sêng-sì; sêng chí-kâi sṳ̄-kù; chiã-tuan. occasionally, ũ-tiâng-sî; ũ-sî; che̍k-ē pùaⁿ-ē.
+**occasion**, *no*, mién; mín-ēng; khó-íⁿ put-pit. *what*, ũ sĩ-mih kù-sṳ̄; sĩ-mih uân-kù. *this*, chí-hûe; chí-pái; chí-tshṳ̀; tshṳ́-tshṳ̀. *on every occasion*, pâi-sî; pâi-hûe; sî-put-sî; sam-put-sî; múeⁿ-sî. *take*, chiã-sì; sêng-ki; sêng-ki-hũe; chiã-kù; chieh-tuan; sêng-khiah; sêng-sì; sêng chí-kâi sṳ̄-kù; chiã-tuan. *occasionally*, ũ-tiâng-sî; ũ-sî; che̍k-ē pùaⁿ-ē.
 
 **occiput**, aũ-táu; chím-kut.
 
@@ -90,7 +91,8 @@ oblige (force), mién-kiáng; ngẽ-lia̍h; khiâng-àiⁿ; khiâng-pek. obliged
 **odious**, khó-ù; tshūa-nâng-lóu.
 
 **odour**, bī; khì-bī; phang; hiang.
-of: the water of the sea, hái-tsúi; hái kâi-tsúi; hái-tói kâi-tsúi. a man of wealth, ũ-chîⁿ-tshâi kâi-nâng. of course, tsṳ̃-jiên; thien-jiên.
+
+**of**, *the water of the sea*, hái-tsúi; hái kâi-tsúi; hái-tói kâi-tsúi. *a man of wealth*, ũ-chîⁿ-tshâi kâi-nâng. *of course*, tsṳ̃-jiên; thien-jiên.
 
 **off**, cut, kuah-tñg. far, hñg-hñg. run, tsáu--khṳ́.
 
@@ -99,7 +101,8 @@ of: the water of the sea, hái-tsúi; hái kâi-tsúi; hái-tói kâi-tsúi. a m
 **offer**, as price, tshut-kè. as reward, hṳ́; tshut-siéⁿ-keh; tshut-hue-âng. a present, sàng-lói. tribute, chìn-kòng; chìn-hièn. offer it to him, mn̄g i àiⁿ--mé. make an offering, hõng; hièn; hièn-hõng; keng-hõng; keng-hièn; kèng-hõng; kèng-hièn.
 
 **office**, cheh-hūn; kuaⁿ-cheh; cheh-jĩm; cheh-sṳ̄. enter, chiẽⁿ-jīm. one term of, che̍k-jīm. continue for another term, liên-jīm; ngûan-jīm. degrade but retain in office, keh-cheh lâu-jīm. put out of, keh-jīm. go out of, lī-jīm. waiting for a vacant, hāu-jīm-khueh.
-office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
+
+**office (counting-house)**, siá-jī-pâng. *a public office (building)*, gê-mn̂g.
 
 **officer**, kuaⁿ; kuaⁿ-hú. fellow, tâng-liâu. military, bú-kuaⁿ.
 
@@ -111,13 +114,13 @@ office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **ogle**, siâ-ma̍k-chìⁿ; su̍t-ma̍k.
 
-**oh**, indeed! õ, sĩ àn-chièⁿ-seⁿ! in grief or pain, ai-a!
+**oh**, *indeed!*, õ, sĩ àn-chièⁿ-seⁿ. *in grief or pain*, ai-a.
 
 **oil**, iû. bottle, iû-pân. press, iû-chhia. to oil, buah-iû; chhit-iû; iû. kerosene, húe-tsúi; húe-tsúi-iû.
 
 **ointment**, ko-ie̍h. apply, tah-ko-ie̍h; buah-ko-ie̍h.
 
-**old**, kū. in years, lãu. from of old, tsṳ̃-kóu. how old are you? jie̍h-tsōi-hùe? kùi-keⁿ? tshun-chhiu jie̍h-kau? which is older? tî-nâng-tōa? one year older, tōa che̍k-hùe. an old friend, kū-iú; lãu-iú; kū-kau. old gentleman, lãu-nâng-tek.
+**old**, kū. *in years*, lãu. *from of old*, tsṳ̃-kóu. *how old are you*, jie̍h-tsōi-hùe; kùi-keⁿ; tshun-chhiu jie̍h-kau. *which is older*, tî-nâng-tōa. *one year older*, tōa che̍k-hùe. *an old friend*, kū-iú; lãu-iú; kū-kau. *old gentleman*, lãu-nâng-tek.
 
 **oleander**, tsõ-ngûan-tek.
 
@@ -125,7 +128,7 @@ office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **omelet**, koi-nñg luah chiâⁿ-tieⁿ; koi-nñg-piáⁿ.
 
-**omen**, tiãu; ki-tiãu. good, kit-tiãu. bad, hiong-tiãu.
+**omen**, tiãu; ki-tiãu. *good*, kit-tiãu. *bad*, hiong-tiãu.
 
 **omit**, sit; lāu-tiāu; làng-tiāu; kau-lau̍h-tiāu.
 
@@ -173,11 +176,11 @@ office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **opposite**, siang-huán; tùi-mīn; sie-tùi.
 
-**oppress**, khiâng-iap; ngẽ-iap; khi-iap; khi-hũ; uan-uáng. oppressive, khek-pak (extortion); khóu-to̍k; khóu-ngia̍k.
+**oppress**, khiâng-iap; ngẽ-iap; khi-iap; khi-hũ; uan-uáng. oppressive, khóu-to̍k; khóu-ngia̍k. *oppressive (extortion)*, khek-pak.
 
 **opprobrium**, lêng-zo̍k; sit-zo̍k.
 
-**or**, ho̍k; ho̍k-sĩ; at-ho̍k. is it or not? sĩ a-m̄-sĩ? either you or I must go, lṳ́-uá nõⁿ-nâng tie̍h-ũ che̍k-nâng-khṳ̀; lṳ́ m̃-khṳ̍ uà chiũ-tie̍h-khṳ̀.
+**or**, ho̍k; ho̍k-sĩ; at-ho̍k. *is it or not*, sĩ a-m̄-sĩ. *either you or I must go*, lṳ́-uá nõⁿ-nâng tie̍h-ũ che̍k-nâng-khṳ̀; lṳ́ m̃-khṳ̍ uà chiũ-tie̍h-khṳ̀.
 
 **opulent**, ũ-chîⁿ; huat-tshâi; pù; pù-ũ; pù-kãu; pù-tsok.
 
@@ -205,11 +208,11 @@ office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **oscillate**, as pendulum, hit-lâi hit-khṳ̀.
 
-**ostentatious**, hàuⁿ-thâng-huang; hàuⁿ-iâng-khì; hàuⁿ-sái phài-thâu; hàuⁿ-pái; hàuⁿ-tsuang-pái; tsuang-khiang; hàuⁿ-iê-pái (of one's walk).
+**ostentatious**, hàuⁿ-thâng-huang; hàuⁿ-iâng-khì; hàuⁿ-sái phài-thâu; hàuⁿ-pái; hàuⁿ-tsuang-pái; tsuang-khiang. *(of one's walk)*, hàuⁿ-iê-pái.
 
 **ostrich**, thô-chiáu.
 
-**other**, pa̍t. others, pa̍t-nâng. any others? huân-ũ a-bô? the others, khî-ṳ̂; liáu--kâi. otherwise, pa̍t-iēⁿ; m̄-sĩ chièⁿ-seⁿ; iā-m̄-sĩ.
+**other**, pa̍t. *others*, pa̍t-nâng. *any others*, huân-ũ a-bô. *the others*, khî-ṳ̂; liáu--kâi. *otherwise*, pa̍t-iēⁿ; m̄-sĩ chièⁿ-seⁿ; iā-m̄-sĩ.
 
 **otter**, thuah; hái-thuah; tsúi-thuah.
 
@@ -227,7 +230,7 @@ office (counting-house), siá-jī-pâng. a public office (building), gê-mn̂g.
 
 **oven**, húe-lôu; pek-lôu; pue-lôu.
 
-**over**, kùe; gūa; tshut; ṳ̂; tshûn; tṳ̂. and above, lêng-gūa; huân-liáu. all over with mud, che̍k-sin-thôu. night, kùe-mêⁿ. ripe, khah-se̍k; khah-kùe-se̍k; khah-kùe-lâu. fall overboard, pua̍h-lo̍h-tsúi. overbearing, kiau-ngãu; ̂khiâng-iap. *overcast sky*, thiⁿ chhiẽⁿ-hûn; thiⁿ-sek hun-àm; thiⁿ khàm-khàm; thiⁿ so-tô. *overdone*, pû khah-mîⁿ; khah-kùe-húe. *overflow*, iah--tshut; lâu--tshut; múaⁿ--tshut; chhèng--khí-lâi *(to spout up)*. *overhanging wall*, ngâm-chhiêⁿ; chhiêⁿ hiám àiⁿ-tó. *overhear*, chẽⁿ-thiaⁿ. *overshadow*, chia-ìm; pì-ìm. *overtake*, jiāu--tie̍h; tui-tie̍h; kúaⁿ--tie̍h. *overthrow*, léng-tó; tó-khap.
+**over**, kùe; gūa; tshut; ṳ̂; tshûn; tṳ̂. and above, lêng-gūa; huân-liáu. all over with mud, che̍k-sin-thôu. night, kùe-mêⁿ. ripe, khah-se̍k; khah-kùe-se̍k; khah-kùe-lâu. fall overboard, pua̍h-lo̍h-tsúi. overbearing, kiau-ngãu; ̂khiâng-iap. *overcast sky*, thiⁿ chhiẽⁿ-hûn; thiⁿ-sek hun-àm; thiⁿ khàm-khàm; thiⁿ so-tô. *overdone*, pû khah-mîⁿ; khah-kùe-húe. *overflow*, iah--tshut; lâu--tshut; múaⁿ--tshut. *overflow (to spout up)*, chhèng--khí-lâi. *overhanging wall*, ngâm-chhiêⁿ; chhiêⁿ hiám àiⁿ-tó. *overhear*, chẽⁿ-thiaⁿ. *overshadow*, chia-ìm; pì-ìm. *overtake*, jiāu--tie̍h; tui-tie̍h; kúaⁿ--tie̍h. *overthrow*, léng-tó; tó-khap.
 
 **owe**, khiàm; khiàm-chîⁿ; khiàm-chè.
 

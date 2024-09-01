@@ -30,11 +30,11 @@ date: 2024-03-31 16:11:00
 
 **kind**, hó-sim; tshṳ̂; un-hûa; khuan-kãu; chhin-kãu; chhin-jie̍t; ũ-ṳn-chhêng; ũ-jîn-ài. kindness, ṳn-hũi; nâng-chhêng. receive, niáⁿ-nâng-chhêng. bestow, tsò-nâng-chhêng. beseech, khí-nâng-chhêng; khṳ́n-nâng-chhêng. a kind, lūi; iēⁿ; sek; khí; chéng; so̍k; téng; hō.
 
-**kindle**, fire, khí-húe; to̍h-húe; niám-to̍h-húe; tiám-to̍h. kindlings, húe-hiāⁿ (tinder).
+**kindle**, *fire*, khí-húe; to̍h-húe; niám-to̍h-húe; tiám-to̍h. *kindlings (tinder)*, húe-hiāⁿ.
 
-**king**, uâng; kun-uâng; kok-kun; jîn-kun. -fisher, kim-sai-chiáu. -crab, hāu. kingdom, kok; pang-kok; pang.
+**king**, uâng; kun-uâng; kok-kun; jîn-kun. *kingfisher*, kim-sai-chiáu. *king-crab*, hāu. *kingdom*, kok; pang-kok; pang.
 
-**kiss**, chim; sie-chim; chim-tshùi (the mouth); chim-kih-kau (the cheek).
+**kiss**, chim; sie-chim. *(the mouth)*, chim-tshùi. *(the cheek)*, chim-kih-kau.
 
 **kitchen**, húe-si̍t-pâng; húe-si̍t-koiⁿ; tôu-pâng. garden, tshài-hn̂g.
 
@@ -46,7 +46,7 @@ date: 2024-03-31 16:11:00
 
 **knead**, chhi̍p-mīⁿ. kneading-trough, chhi̍p-mīⁿ-tsô.
 
-**knee**, kha-thâu-u. bend, kha khek; khek-kha; kũiⁿ kha-thâu-u; tá-chhiam. -cap, kha-thâu-u-chîⁿ.
+**knee**, kha-thâu-u. *bend*, kha khek; khek-kha; kũiⁿ kha-thâu-u; tá-chhiam. *knee-cap*, kha-thâu-u-chîⁿ.
 
 **kneel**, kũiⁿ; kũi; kũi--lo̍h-khṳ̀; kiâⁿ-tōa-lói. with one knee, kũi che̍k-chiah-kha.
 
@@ -60,6 +60,6 @@ date: 2024-03-31 16:11:00
 
 **knot**, in wood, tshâ-ma̍k. on rope, khat-thâu. to tie, thám-khat; kat kâi-khat. two kinds of knot, sí-khat; ua̍h-khat. unloose, kói-khat.
 
-**know**, tsai; pat; hiáu; thong. I know him, uá pat i. do you know (recognize) me? lṳ́ pat-tò-jīn uá; mé? knowledge, kièn-sek; tì-hũi; ha̍k-mn̄g (learning).
+**know**, tsai; pat; hiáu; thong. *I know him*, uá pat i. *do you know (recognize) me*, lṳ́ pat-tò-jīn uá, mé. *knowledge*, kièn-sek; tì-hũi. *knowledge (learning)*, ha̍k-mn̄g.
 
-**knuckle**, tsóiⁿ-tsat; tsóiⁿ-ma̍k.��-ma̍k.
+**knuckle**, tsóiⁿ-tsat; tsóiⁿ-ma̍k.

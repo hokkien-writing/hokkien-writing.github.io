@@ -16,11 +16,11 @@ date: 2024-03-31 16:11:00
 
 **backbite**, húiⁿ-pãng; pùe-ãu mēⁿ-nâng; pùe-ãu ngí-lũn.
 
-**backbone**, ie-kut; ie-lêng-kut; ie-chiah-kut. *lower part of*, búe-lûn-kut. *hunch-backed*, ku-ie; ie hâu-hâu *(more slight)*; ie hau-hau; hau-ie.
+**backbone**, ie-kut; ie-lêng-kut; ie-chiah-kut. *lower part of*, búe-lûn-kut. *hunch-backed*, ku-ie; ie hau-hau; hau-ie. *(more slight)*, ie hâu-hâu.
 
 **backslide**, pũe-kà; pũe-sìn; tò-thò.
 
-**backward**, tùi-ãu; hiàⁿ-ãu. *walk*, tò-kiâⁿ. *slow*, mān; chhi-ko *(dull and stupid)*. *shy*, m̄-káⁿ kìⁿ-nâng; ùi-nâng.
+**backward**, tùi-ãu; hiàⁿ-ãu. *walk*, tò-kiâⁿ. *slow*, mān. *slow (dull and stupid)*, chhi-ko. *shy*, m̄-káⁿ kìⁿ-nâng; ùi-nâng.
 <!--more-->
 **bacon**, húe-ne̍k; chit-ne̍k.
 
@@ -48,8 +48,6 @@ date: 2024-03-31 16:11:00
 
 **bald**, la̍h-chie̍h-thâu; thâu-khah kng-kng; thâu kng-nñg.
 
-**bale**, *of goods*, khún; tōa-khún.
-
 **bale**, *of goods*, khún; tōa-khún. *out water*, ié-tiāu-tsúi.
 
 **ball**, kiû. *play foot-ball*, that-kiû. *eye ball*, ma̍k-chiu-jîn.
@@ -62,7 +60,7 @@ date: 2024-03-31 16:11:00
 
 **balustrade**, lâng-kang; lâng-kang-chí.
 
-**bamboo**, tek. *pole*, tek-ko. *mat*, tek-chhie̍h. *chair*, tek-íⁿ. *shoots*, tek-sún. *grove*, tek-nâⁿ. *slips for wicker-work*, tek-bi̍h. *scrubbing brush*, tek-tshóiⁿ. *raft*, tek-pâi. *beat with bamboo*, phah-póiⁿ-kiáⁿ; phah-tek-póiⁿ *(in schools)*.
+**bamboo**, tek. *pole*, tek-ko. *mat*, tek-chhie̍h. *chair*, tek-íⁿ. *shoots*, tek-sún. *grove*, tek-nâⁿ. *slips for wicker-work*, tek-bi̍h. *scrubbing brush*, tek-tshóiⁿ. *raft*, tek-pâi. *beat with bamboo*, phah-póiⁿ-kiáⁿ. *beat with bamboo (in schools)*, phah-tek-póiⁿ.
 
 **bananas**, keng-chie. *see*[bunch](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#bunch)
 
@@ -74,7 +72,7 @@ date: 2024-03-31 16:11:00
 
 **banian**, *tree*, sêng-chhiū; chhêng-chhiū.
 
-**banish**, khién-kun liû-thû *(4 degrees, first most severe)*. kun-liû-thû; tshong-kun; liû-thû; liû-tsũe; tshut-liû; thû-tsũe.
+**banish**, kun-liû-thû; tshong-kun; liû-thû; liû-tsũe; tshut-liû; thû-tsũe. *(4 degrees, first most severe)*, khién-kun liû-thû.
 
 **bank**, *river embankment*, toi. *river bank*, hô-kîⁿ. *sand bank*, sua-phiâⁿ; sua-pà. *money*, ngṳ̂n-hâng; ngṳ̂n-tiàm; chîⁿ-tiàm; kheng-si-phòu. *notes*, ngṳ̂n-toaⁿ.
 
@@ -144,9 +142,9 @@ date: 2024-03-31 16:11:00
 
 **baste**, *sewing*, hâng-saⁿ; hâng-sùaⁿ; tshùn-hâng.
 
-**bastinado**, phah-kha-tshng; phah-tōa-póiⁿ *(with bamboo)*; phah-tîn-tiâu *(with rattan)*.
+**bastinado**, phah-kha-tshng. *(with bamboo)*, phah-tōa-póiⁿ. *(with rattan)*, phah-tîn-tiâu.
 
-**bat***(animal)*, pi̍t-pô; hò.
+**bat**, *(animal)*, pi̍t-pô; hò.
 
 **bathe**, sói-e̍k; sói-sin. *bath-tub*, e̍k-tháng; sói-e̍k-tháng; kha-tháng.
 
@@ -166,7 +164,7 @@ date: 2024-03-31 16:11:00
 
 **beacon**, in-tun.
 
-**bead**, tsu. *one bead*, che̍k-lia̍p-tsu. *a string*, che̍k-kiû *(in a mass)*; che̍k-kũaⁿ *(large string)*; che̍k-tshùan; che̍k-pa̍k. *a string of beads as the mandarins wear them*, sù-tsu; chhiàu-tsu. *rosary*, liãm-tsu.
+**bead**, tsu. *one bead*, che̍k-lia̍p-tsu. *a string*, che̍k-tshùan; che̍k-pa̍k. *a string in a mass*, che̍k-kiû. *a large string*, che̍k-kũaⁿ. *a string of beads as the mandarins wear them*, sù-tsu; chhiàu-tsu. *rosary*, liãm-tsu.
 
 **beak**, chiáu-tshùi.
 
@@ -182,13 +180,13 @@ date: 2024-03-31 16:11:00
 
 **beard**, chhiu. *beard silvery white*, chhiu soh-soh-pe̍h.
 
-**bearer**, taⁿ-tàⁿ-nâng; kieh-hu; thiau-hu; koiⁿ-thiau. chair, kiē-pou; kiē-ẽ; kng-kiē; kiē-hu; thâi-kiē; kong-siā *(in addressing them)*. *three bearers*, saⁿ-miâⁿ.
+**bearer**, taⁿ-tàⁿ-nâng; kieh-hu; thiau-hu; koiⁿ-thiau. chair, kiē-pou; kiē-ẽ; kng-kiē; kiē-hu; thâi-kiē. *(in addressing them)*, kong-siā. *three bearers*, saⁿ-miâⁿ.
 
 **beast**, khîm-siù; iá-siù. *domestic*, seⁿ-kháu; cheng-seⁿ.
 
 **beastly**, khîm-siù-khúan; tṳ-iêⁿ-káu-sièⁿ; zû-tṳ-káu.
 
-**beat**, phah. *one another*, sie-phah. *with bad language*, sie-mēⁿ sie-phah. *beat the watch*, khà-khok sûn-keⁿ. *the time*, khà-pán; khà-chiauh. *a drum*, phah-kóu. *to beat the bamboo in fishing*, khà-kou. *one's own head*, phah-thâu phah-hia̍h. *the breast*, phah-sim-kuaⁿ; tûi-heng. *clothes, in washing*, tûi-saⁿ-khòu. *rice*, phah-tiũ. *beat out fire*, phah-húe; kiù-húe. *beat one with the hand in the face*, piang *(a slap)*; òng *(a blow)*. *beat against the wind*, khau-huang. *excel*, iâⁿ; iâⁿ-kùe. *to be beaten*, su.
+**beat**, phah. *one another*, sie-phah. *with bad language*, sie-mēⁿ sie-phah. *beat the watch*, khà-khok sûn-keⁿ. *the time*, khà-pán; khà-chiauh. *a drum*, phah-kóu. *to beat the bamboo in fishing*, khà-kou. *one's own head*, phah-thâu phah-hia̍h. *the breast*, phah-sim-kuaⁿ; tûi-heng. *clothes, in washing*, tûi-saⁿ-khòu. *rice*, phah-tiũ. *beat out fire*, phah-húe; kiù-húe. *beat one with the hand in the face (a slap)*, piang. *beat one with the hand in the face (a blow)*, òng. *beat against the wind*, khau-huang. *excel*, iâⁿ; iâⁿ-kùe. *to be beaten*, su.
 
 **beau**, hàuⁿ-phâi-chhiâng; hàuⁿ-ngiá; hàuⁿ-hue-liú; hàuⁿ-he̍hⁿ.
 
@@ -198,7 +196,7 @@ date: 2024-03-31 16:11:00
 
 **beauty**, see [beautiful](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#beautiful), *a beauty*, múiⁿ-jîn; thí-thài hó.
 
-**beaver**, hái-lô (?). *skin*, hái-lô-phûe.
+**beaver**, hái-lô. *skin*, hái-lô-phûe.
 
 **becalm**, bô-huang; huang tiām; bô-huang bô-sie̍h.
 
@@ -206,7 +204,7 @@ date: 2024-03-31 16:11:00
 
 **beckon**, ia̍h-chhiú; chie-chhiú. *to come*, ia̍h-lâi. *to go*, ia̍h-khṳ̀.
 
-**bed**, tshn̂g; mîn-tshn̂g. *tressel-bed*, phou. *bed-boards*, phou-pang. *bed-fellow*, tâng-phou; tsò-pô-u̍t. *make ready a bed*, phah-phou. *to go to bed*, lo̍h-mîn-tshn̂g gu̍t. *brought to bed*, lîm-phûn; seⁿ-kiáⁿ; lîm-súaⁿ. *bed-room*, u̍t-pâng; mîn-pâng; õ-pâng. *bed-clothes*, phũe; phũe-toaⁿ *(thin)*. bed-post, mîn-tshn̂g-thiãu. *potato-bed*, huan-tsṳ-sieⁿ.
+**bed**, tshn̂g; mîn-tshn̂g. *tressel-bed*, phou. *bed-boards*, phou-pang. *bed-fellow*, tâng-phou; tsò-pô-u̍t. *make ready a bed*, phah-phou. *to go to bed*, lo̍h-mîn-tshn̂g gu̍t. *brought to bed*, lîm-phûn; seⁿ-kiáⁿ; lîm-súaⁿ. *bed-room*, u̍t-pâng; mîn-pâng; õ-pâng. *bed-clothes*, phũe. *bed-clothes (thin)*, phũe-toaⁿ. bed-post, mîn-tshn̂g-thiãu. *potato-bed*, huan-tsṳ-sieⁿ.
 
 **bedust**, seⁿ-eng-têng; mak--tie̍h thôu-hún; seⁿ-tîn-ai.
 
@@ -224,7 +222,7 @@ date: 2024-03-31 16:11:00
 
 **befoul**, bua̍h--tie̍h nah-sap; mak--tie̍h nah-sap; hú--tie̍h nap-sap.
 
-**beg**, khiû; khṳ́n-khiû; koh-lô. for alms, khṳt-chia̍h. *beg pardon!* m̄-tsai-thâu! sù-tsūe! tit-tsũe! sù--chē! sit-lót! tit-tsõ--tie̍h-lṳ́!
+**beg**, khiû; khṳ́n-khiû; koh-lô. for alms, khṳt-chia̍h. *beg pardon*, m̄-tsai-thâu; sù-tsūe; tit-tsũe; sù--chē; sit-lót; tit-tsõ--tie̍h-lṳ́.
 
 **beget**, seⁿ.
 
@@ -246,7 +244,7 @@ date: 2024-03-31 16:11:00
 
 **behold**, thóiⁿ.
 
-**belch**, phah-oh; khì nge̍k; khou-oh *(hiccup)*.
+**belch**, phah-oh; khì nge̍k. *hiccup*, khou-oh.
 
 **beldame**, thóiⁿ-siàⁿ-phûa.
 
@@ -266,7 +264,7 @@ date: 2024-03-31 16:11:00
 
 **beloved**, tit-nâng-sieh; tshūa-nâng-sieh.
 
-**below**, tõ-ẽ; tõ-tói; ẽ-mīn. *on the ground*, tõ-thôu-ẽ. *below the ground*, tõ-thôu-tói. *below the sky*, thiⁿ-ẽ *(the world)*. *below others*, tõ-nâng-ẽ.
+**below**, tõ-ẽ; tõ-tói; ẽ-mīn. *on the ground*, tõ-thôu-ẽ. *below the ground*, tõ-thôu-tói. *below the sky (the world)*, thiⁿ-ẽ. *below others*, tõ-nâng-ẽ.
 
 **belt**, tòa.
 
@@ -480,7 +478,7 @@ date: 2024-03-31 16:11:00
 
 **blotting-paper**, sò-tsúa.
 
-**blow**, *a*, phah che̍k-ē. *up a vessel*, pàng-húe-ie̍h kún-tiāu-tsûn. *wind*, huang tshue; thàu-huang *(high wind)*. *flute or pipe*, tshue-siau; pûn-hûeⁿ-te̍k; pûn-ti-tâ. *out (as lamp)*, pûn-kùe. *the fire*, pûn-húe to̍h; hut-húe. *the nose*, hnghⁿ-phīⁿ; sàng-phīⁿ. *blow pipe*, húe-kóng.
+**blow**, *a*, phah che̍k-ē. *up a vessel*, pàng-húe-ie̍h kún-tiāu-tsûn. *wind*, huang tshue. *high wind*, thàu-huang. *flute or pipe*, tshue-siau; pûn-hûeⁿ-te̍k; pûn-ti-tâ. *out (as lamp)*, pûn-kùe. *the fire*, pûn-húe to̍h; hut-húe. *the nose*, hnghⁿ-phīⁿ; sàng-phīⁿ. *blow pipe*, húe-kóng.
 
 **blubber**, *jelly-fish or medusa*, thē; hái-thē; tsúi-bó.
 
@@ -498,7 +496,7 @@ date: 2024-03-31 16:11:00
 
 **boar**, tṳ-ko.
 
-**board**, pang; póiⁿ. *on board ship*, tõ tsûn-téng. *the six Boards*, la̍k-põu. (1) *Civil office*, lī-põu. (2) *Punishment*, hêng-põu. (3) *Revenue*, hõu-põu. (4) *Rites*, lí-põu. (5) *War*, piaⁿ-põu. (6) *Works*, kang-põu. *to board at an inn*, hiah-tiàm; suah-hiah. *wages and board*, thàn-kang-chîⁿ chia̍h tshâi-tsú.
+**board**, pang; póiⁿ. *on board ship*, tõ tsûn-téng. *the six Boards*, la̍k-põu. *Civil office*, lī-põu. *Punishment*, hêng-põu. *Revenue*, hõu-põu. *Rites*, lí-põu. *War*, piaⁿ-põu. *Works*, kang-põu. *to board at an inn*, hiah-tiàm; suah-hiah. *wages and board*, thàn-kang-chîⁿ chia̍h tshâi-tsú.
 
 **boast**, tsṳ̃-khua; khua-kháu; la-kè; tàⁿ-tōa-ūe; sueh-huáng.
 
@@ -536,13 +534,13 @@ date: 2024-03-31 16:11:00
 
 **bondman**, po̍k; nôuⁿ-po̍k; ke-po̍k; po̍k-jîn.
 
-**bone**, kut; kut-thâu; kut-hâi *(after death)*. *out of joint*, kut tshut-khũ. *to set, after dislocation*, kut tàu-tńg; kut tàu-lo̍h-ngám.
+**bone**, kut; kut-thâu. *after death*, kut-hâi. *out of joint*, kut tshut-khũ. *to set, after dislocation*, kut tàu-tńg; kut tàu-lo̍h-ngám.
 
 **bonnet**, bō. *one*, che̍k-téng-bō. *to put on*, tì-bō.
 
 **bonze**, hûe-siēⁿ.
 
-**book**, tsṳ; chheh; tsṳ-chheh. *one volume*, che̍k-pńg-tsṳ. *whole work*, che̍k-pang. *binding*, kap-chheh; tèng-chheh. *case*, tsṳ-tû. *cover*, chheh-phûe. *learning*, ha̍k-mn̄g. *seller*, bōi-tsṳ-chheh tshâi-tsú. *stand*, tsṳ-chheh-kè; tsṳ-kè. *worm*, chheh-hṳ̂; pe̍h-gôu-hṳ̂; *(metaph.)* khṳ̂n-tha̍k; tsṳ-tsù. *read one silently*, thóiⁿ-tsṳ. *read one audibly, as in study*, tha̍k-tsṳ. *compose or write one*, tù-tsṳ. *classical books*, kiaⁿ-tsṳ. *quote a book phrase*, ín-tsṳ-kù. *recite ad aperturam*, tshoh-liām. *bookish*, hàuⁿ-tha̍k-tsṳ.
+**book**, tsṳ; chheh; tsṳ-chheh. *one volume*, che̍k-pńg-tsṳ. *whole work*, che̍k-pang. *binding*, kap-chheh; tèng-chheh. *case*, tsṳ-tû. *cover*, chheh-phûe. *learning*, ha̍k-mn̄g. *seller*, bōi-tsṳ-chheh tshâi-tsú. *stand*, tsṳ-chheh-kè; tsṳ-kè. *worm*, chheh-hṳ̂; pe̍h-gôu-hṳ̂. *worm (metaphor)*, khṳ̂n-tha̍k; tsṳ-tsù. *read one silently*, thóiⁿ-tsṳ. *read one audibly, as in study*, tha̍k-tsṳ. *compose or write one*, tù-tsṳ. *classical books*, kiaⁿ-tsṳ. *quote a book phrase*, ín-tsṳ-kù. *recite ad aperturam*, tshoh-liām. *bookish*, hàuⁿ-tha̍k-tsṳ.
 
 **boon**, ṳn-sṳ̀.
 
@@ -600,7 +598,7 @@ date: 2024-03-31 16:11:00
 
 **box**, sieⁿ; a̍p; che̍k-kha-sieⁿ; sieⁿ-láng. *packing-box*, tsuang-sieⁿ. *to box*, phah-khûn-thâu. *boxer*, khûn-thâu sai-pẽ.
 
-**boy**, a nôuⁿ; nôuⁿ-kiáⁿ. *is this a boy or a girl?* sĩ ta-pou a-sĩ tsṳ-niêⁿ? *boy approaching manhood (14 or 15)*, nôuⁿ-kiáⁿ-thûn.
+**boy**, a nôuⁿ; nôuⁿ-kiáⁿ. *is this a boy or a girl*, sĩ ta-pou a-sĩ tsṳ-niêⁿ. *boy approaching manhood (14 or 15)*, nôuⁿ-kiáⁿ-thûn.
 
 **bracelet**, chhiú-huân.
 
@@ -748,13 +746,13 @@ date: 2024-03-31 16:11:00
 
 **bubble**, tsúi-phã; tsúi chhèng; tsúi thiàu; tsúi kún--khí.
 
-**bubo**, seⁿ-suāiⁿ; seⁿ-to̍k; seⁿ-pièn-to̍k; khan-ha̍t *(non-venereal)*; seⁿ-khî *(arising after fever)*.
+**bubo**, seⁿ-suāiⁿ; seⁿ-to̍k; seⁿ-pièn-to̍k. *(non-venereal)*, khan-ha̍t. *(arising after fever)*, seⁿ-khî.
 
 **buccaneer**, hái-tsha̍t.
 
 **buck**, te̍k-kóu. horn, te̍k-kak.
 
-**bucket**, tsúi-tháng; tiàu-tháng *(with bow handle)*. *for well*, pua̍h-tháng.
+**bucket**, tsúi-tháng. *(with bow handle)*, tiàu-tháng. *for well*, pua̍h-tháng.
 
 **buckler**, pâi; tîn-pâi; chhiú-pâi.
 
@@ -788,7 +786,7 @@ date: 2024-03-31 16:11:00
 
 **bulwarks**, *of city*, siâⁿ-chhiêⁿ. *of ship*, tsûn-po.
 
-**bunch**, *of flowers*, che̍k-pé-hue; che̍k-pà-hue; che̍k-tẽⁿ-hue. *of grapes*, che̍k-tô. *of plantains*, che̍k-pà keng-chie *(whole large bunch)*; che̍k-keng *(id.)*; che̍k-siu *(portion of large bunch)*.
+**bunch**, *of flowers*, che̍k-pé-hue; che̍k-pà-hue; che̍k-tẽⁿ-hue. *of grapes*, che̍k-tô. *of plantains (whole large bunch)*, che̍k-pà keng-chie; che̍k-keng. *of plantains (portion of large bunch)*, che̍k-siu.
 
 **bundle**, pau; siáu-pau; pau-kó. *of grass*, che̍k-pé-tsháu. *see*[fagot](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/F#fagot).
 
@@ -824,7 +822,7 @@ date: 2024-03-31 16:11:00
 
 **bushel**, táu.
 
-**busy**, ũ-sṳ̄; m̄-ôiⁿ. very, che̍k-sin chẽng-sĩ-sṳ̄; sṳ̄-bũ tsōi-tsãi. *business*, sṳ̄; sṳ̄-bũ; thâu-lōu; seng-lí *(mercantile)*; kong-sṳ̄ *(official)*.
+**busy**, ũ-sṳ̄; m̄-ôiⁿ. very, che̍k-sin chẽng-sĩ-sṳ̄; sṳ̄-bũ tsōi-tsãi. *business*, sṳ̄; sṳ̄-bũ; thâu-lōu. *business (mercantile)*, seng-lí. *business (official)*, kong-sṳ̄.
 
 **busybody**, hàuⁿ-seⁿ-sṳ̄.
 

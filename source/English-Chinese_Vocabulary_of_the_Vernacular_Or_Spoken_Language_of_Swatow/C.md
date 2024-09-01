@@ -22,7 +22,7 @@ date: 2024-03-31 16:11:00
 
 **cadence**, siaⁿ kûiⁿ-kẽ.
 <!--more-->
-**cadet**, o̍h-bú *(military)*.
+**cadet**, *(military)*, o̍h-bú.
 
 **cage**, *bird*, chiáu-lâng. *for criminals*, chhiû-lâng.
 
@@ -52,7 +52,7 @@ date: 2024-03-31 16:11:00
 
 **calico**, pòu.
 
-**call**, kiè; hàm; chie. *out*, khui-siaⁿ. *call to mind*, siẽⁿ-khí-lâi; siẽⁿ-tie̍h; liãm-tie̍h. *call on anyone*, pài-hāu; sie-sûn. *what is he called?* i kiè-tsò sĩ-mih-miàⁿ? *to call animals*, khou.
+**call**, kiè; hàm; chie. *out*, khui-siaⁿ. *call to mind*, siẽⁿ-khí-lâi; siẽⁿ-tie̍h; liãm-tie̍h. *call on anyone*, pài-hāu; sie-sûn. *what is he called*, i kiè-tsò sĩ-mih-miàⁿ. *to call animals*, khou.
 
 **calling**, *occupation*, sṳ̄-ngia̍p.
 
@@ -72,9 +72,9 @@ date: 2024-03-31 16:11:00
 
 **camp**, iàⁿ-pûaⁿ; piaⁿ-iâⁿ; iâⁿ-chē. *to camp*, phah-iâⁿ-pûaⁿ; tshàng-iâⁿ. hiã-chē.
 
-**camphor**, chieⁿ-ló; piaⁿ-phièn *(Baroos camphor)*, tree, chieⁿ-chhiū. *wood*, chieⁿ-tshâ.
+**camphor**, chieⁿ-ló. *(Baroos camphor)*, piaⁿ-phièn. *tree*, chieⁿ-chhiū. *wood*, chieⁿ-tshâ.
 
-**can**, lêng; õi-tit. *you can, or may, do so and so*, tsò-tit; khó-íⁿ. *can you do this?* lṳ́ pat-tò-tsò, mé? lṳ́ tsò pat-tò-khṳ̀, a-m̄-pat? *cannot*, bõi-tit; bõi; put-lêng; bô-lêng-ûi. *cannot but...*, put-tit put...; put-tit-íⁿ tie̍h....
+**can**, lêng; õi-tit. *you can, or may, do so and so*, tsò-tit; khó-íⁿ. *can you do this*, lṳ́ pat-tò-tsò, mé; lṳ́ tsò pat-tò-khṳ̀, a-m̄-pat. *cannot*, bõi-tit; bõi; put-lêng; bô-lêng-ûi. *cannot but...*, put-tit put...; put-tit-íⁿ tie̍h....
 
 **canal**, káng. *the great canal*, tōa-káng.
 
@@ -144,7 +144,7 @@ date: 2024-03-31 16:11:00
 
 **capsule**, *of leguminous plants*, khak.
 
-**captain**, *of foreign ship*, tsûn-tsú *(owner)*. *of native vessel*, tãi-kong.
+**captain**, *of foreign ship (owner)*, tsûn-tsú. *of native vessel*, tãi-kong.
 
 **captious**, hàuⁿ-seⁿ-sṳ̄; sié-sṳ̄ iā-àiⁿ liú-khang; hàuⁿ-à; lãu-à; lāu-à-thâu.
 
@@ -154,7 +154,7 @@ date: 2024-03-31 16:11:00
 
 **car**, chhia.
 
-**carambola**, iêⁿ-tô *(sometimes called Chinese gooseberry)*.
+**carambola**, *(sometimes called Chinese gooseberry)*, iêⁿ-tô.
 
 **carapace**, khak.
 
@@ -172,7 +172,7 @@ date: 2024-03-31 16:11:00
 
 **cardinal**, *points*, sì-hng; tang-sai lâm-pak.
 
-**care**, liû-sim; sié-sim; tsṳ́-sòi; ēng-sim; kṳ́n-sin; tsham-chhim; tham-chhim. *anxiety*, khùa-lṳ̃; huân-ló; khùa-sim; khùa-liãm; khùa-huâi; huân-sim. *take care of*, chiàu-kù; thóiⁿ-kù; kuan-kù. *not to care*, bô-kài-ì; bô-chhiet-iàu; bô-siang-kan; m̄-tshái. *what care I for that matter?* hṳ́-kâi-sṳ̄ kāng-uá ũ-sĩ-mih kan-sia̍p? *I do not care to go*. uá bô-mih àiⁿ-khṳ̀; uá bô-mih nguãn-khṳ̀.
+**care**, liû-sim; sié-sim; tsṳ́-sòi; ēng-sim; kṳ́n-sin; tsham-chhim; tham-chhim. *anxiety*, khùa-lṳ̃; huân-ló; khùa-sim; khùa-liãm; khùa-huâi; huân-sim. *take care of*, chiàu-kù; thóiⁿ-kù; kuan-kù. *not to care*, bô-kài-ì; bô-chhiet-iàu; bô-siang-kan; m̄-tshái. *what care I for that matter*, hṳ́-kâi-sṳ̄ kāng-uá ũ-sĩ-mih kan-sia̍p. *I do not care to go*. uá bô-mih àiⁿ-khṳ̀; uá bô-mih nguãn-khṳ̀.
 
 **careless**, ló-tshó; chhìn-tshái; bô-sié-sim; hut-lia̍k; thèng-lâi.
 
@@ -198,7 +198,7 @@ date: 2024-03-31 16:11:00
 
 **carrot**, âng-lô-po̍k; âng-tshài-thâu.
 
-**carry**, taⁿ. *with one*, tòa; tsah. *between two*, kng. *held up on the hand above shoulder*, thêⁿ. *on shoulder*, khiâ. *in hand*, khie̍h; kuãⁿ *(hanging down, as lantern)*. *on the arm*, lap-tõ-chhiú; lah. *in the arms*, phõ; lám. *on the back*, iã. *on the back with cloth*, pì. *on the head*, tì tõ-thâu; tì tõ-thâu-khak-téng. *carrying pole*, phoi-taⁿ; pêⁿ-taⁿ; khak-taⁿ; chiam-taⁿ. *sedan chair*, kng-kiē.
+**carry**, taⁿ. *with one*, tòa; tsah. *between two*, kng. *held up on the hand above shoulder*, thêⁿ. *on shoulder*, khiâ. *in hand*, khie̍h. *in hand (hanging down, as lantern)*, kuãⁿ. *on the arm*, lap-tõ-chhiú; lah. *in the arms*, phõ; lám. *on the back*, iã. *on the back with cloth*, pì. *on the head*, tì tõ-thâu; tì tõ-thâu-khak-téng. *carrying pole*, phoi-taⁿ; pêⁿ-taⁿ; khak-taⁿ; chiam-taⁿ. *sedan chair*, kng-kiē.
 
 **cart**, chhia. *cart-wheels*, chhia-lín; chhia-lûn.
 
@@ -258,13 +258,13 @@ date: 2024-03-31 16:11:00
 
 **caulk**, liâm-tsûn; liâm thâng-iû-hue.
 
-**cause**, uân-kù; uân-iû; ngûan-in; kù-sṳ̄; chhêng-iú; ngûan-thâu; kṳn-in lâi-le̍h. *a good cause*, hó-sṳ̄. *for what cause?* sĩ-mih uân-kù? in-ũi sĩ-mih-sṳ̄? *for this cause*, kù-tshṳ́; in-tshṳ́.
+**cause**, uân-kù; uân-iû; ngûan-in; kù-sṳ̄; chhêng-iú; ngûan-thâu; kṳn-in lâi-le̍h. *a good cause*, hó-sṳ̄. *for what cause*, sĩ-mih uân-kù; in-ũi sĩ-mih-sṳ̄. *for this cause*, kù-tshṳ́; in-tshṳ́.
 
 **cause**, to, sái; lẽng; tì; hàm; hāi; phièn.
 
 **causeway**, chie̍h-lōu; hue-lōu.
 
-**caustic**, khṳ̀-àu kâi-ie̍h; kak-sek-tek *(imitation of the sound)*.
+**caustic**, khṳ̀-àu kâi-ie̍h. *(imitation of the sound)*, kak-sek-tek.
 
 **cauterize**, tsang-húe kù; tsang-húe lâi-chhih; luah-phûe.
 
@@ -300,7 +300,7 @@ date: 2024-03-31 16:11:00
 
 **cement**, ka-liâm. *no cement*, bô-tah bô-tùe.
 
-**cemetery**, phûn-suaⁿ; ngĩ-thóng *(free)*.
+**cemetery**, phûn-suaⁿ. *(free)*, ngĩ-thóng.
 
 **censer**, hieⁿ-lôu.
 
@@ -316,7 +316,7 @@ date: 2024-03-31 16:11:00
 
 **centre**, tìn-tang; tong-sim; tõ-tong-iang. *of target*, âng-sim.
 
-**centurion**, pá-tsáng; pá-tsáng-kuaⁿ; tsóng-iâ *(in addressing him)*.
+**centurion**, pá-tsáng; pá-tsáng-kuaⁿ. *(in addressing him)*, tsóng-iâ.
 
 **century**, che̍k-peh-nîⁿ.
 
@@ -326,7 +326,7 @@ date: 2024-03-31 16:11:00
 
 **ceremony**, lói; lói-siàu; lói-ngî; lói-bûn. *ceremonious*, ũ-lói. *empty ceremonies*, hṳ-bûn. *perform*, kiâⁿ-lói.
 
-**certain**, tiāⁿ-tie̍h; thó-tàng; khak-si̍t. *a certain man*, móng-nâng *(so and so)*; ũ-che̍k-nâng. *certainly*, tiāⁿ-tie̍h; kúaⁿ-jiên; si̍t-tsãi; ngẽ-hóuⁿ; thien-jiên; chin-si̍t; khak-si̍t; tek-si̍t; mín-gî.
+**certain**, tiāⁿ-tie̍h; thó-tàng; khak-si̍t. *a certain man*, ũ-che̍k-nâng. *a certain man (so and so)*, móng-nâng. *certainly*, tiāⁿ-tie̍h; kúaⁿ-jiên; si̍t-tsãi; ngẽ-hóuⁿ; thien-jiên; chin-si̍t; khak-si̍t; tek-si̍t; mín-gî.
 
 **certificate**, phêng-toaⁿ; toaⁿ-kṳ̃; phêng-kṳ̃.
 
@@ -422,7 +422,7 @@ date: 2024-03-31 16:11:00
 
 **cherish**, bú-iáng. *in the mind*, khn̍g tõ-sim-lãi.
 
-**chess**, chhiẽⁿ-kî. play, teh-kî; kiâⁿ-kî *(move)*; keng-kî *(to consider before moving)*. *men*, kî-chí. *board*, kî-pûaⁿ.
+**chess**, chhiẽⁿ-kî. play, teh-kî. *(move)*, kiâⁿ-kî. *(to consider before moving)*, keng-kî. *men*, kî-chí. *board*, kî-pûaⁿ.
 
 **chest**, *box*, sieⁿ. *one*, che̍k-kha-sieⁿ. *of drawers*, kūiⁿ. *with many drawers, as druggist's*, peh-chí-sieⁿ. *the chest*, sim-kuaⁿ-thâu.
 
@@ -450,7 +450,7 @@ date: 2024-03-31 16:11:00
 
 **chin**, ẽ-hâi.
 
-**China**, Tong-kok; Tong-ngûan; Tong-hûa; Tn̂g-suaⁿ. *China proper*, tsa̍p-poih-séⁿ. *Chinese Empire*, tãi-chheng-kok *(the Manchoo synasty)*. *Chinaman*, Tn̂g-nâng; Tong-kok-nâng; Hàn-jîn; Hûa-jîn. *Chinese language*, Tn̂g-nâng-ūe. *china-aster*, kek-hue. *china-root*, thóu-ho̍k-lẽng; thóu-ho̍k; ho̍k-lẽng. *china ware*, hûi; jiâu-khì.
+**China**, Tong-kok; Tong-ngûan; Tong-hûa; Tn̂g-suaⁿ. *China proper*, tsa̍p-poih-séⁿ. *Chinese Empire (the Manchoo synasty)*, tãi-chheng-kok. *Chinaman*, Tn̂g-nâng; Tong-kok-nâng; Hàn-jîn; Hûa-jîn. *Chinese language*, Tn̂g-nâng-ūe. *china-aster*, kek-hue. *china-root*, thóu-ho̍k-lẽng; thóu-ho̍k; ho̍k-lẽng. *china ware*, hûi; jiâu-khì.
 
 **chink**, phāng. *to chink dollars*, pu̍ah-ngṳ̂n-siaⁿ.
 
@@ -462,7 +462,7 @@ date: 2024-03-31 16:11:00
 
 **chisel**, tsha̍k-kiáⁿ. *stonecutter's*, tsãm; chie̍h-tsãm.
 
-**chloranthus**, koi-kha-lân *(chloranthus inconspicuus)*.
+**chloranthus**, *(chloranthus inconspicuus)*, koi-kha-lân.
 
 **choice**, *select*, chì-hó; siãng-hó; tsùe-hó; tśng-hó; it-hó; súan-hó--kâi.
 
@@ -512,7 +512,7 @@ date: 2024-03-31 16:11:00
 
 **cinder**, *of wood*, tsàu-khang-thùaⁿ; húe-tshâ-thùaⁿ. *from red hot iron*, thih-sái.
 
-**cinnabar**, tsu-sa; ngṳ̂n-tsu *(vermilion)*. *in sticks*, ngṳ̂n-tsu-tiâu.
+**cinnabar**, tsu-sa. *(vermilion)*, ngṳ̂n-tsu. *in sticks*, ngṳ̂n-tsu-tiâu.
 
 **cinnamon**, ne̍k-kùi.
 
@@ -578,7 +578,7 @@ date: 2024-03-31 16:11:00
 
 **clay**, nîⁿ; thôu-nîⁿ; liâm-nîⁿ. *for pottery*, hûi-thôu.
 
-**clean**, chheng; kng; mêng; pe̍h; mêng-pe̍h; thêng-chheng. *water*, tsúi chheng-chheng. *weather*, thiⁿ chêⁿ; thiⁿ-sî chêⁿ; liâu-liãng *(cloudless)*. *clear up after rain*, hõu chêⁿ. *clear up doubts*, kói-gî. *an account*, chheng-siàu; siàu-ba̍k chheng-tshó. *sighted*, ma̍k-chiu hng.
+**clean**, chheng; kng; mêng; pe̍h; mêng-pe̍h; thêng-chheng. *water*, tsúi chheng-chheng. *weather*, thiⁿ chêⁿ; thiⁿ-sî chêⁿ. *(cloudless)*, liâu-liãng. *clear up after rain*, hõu chêⁿ. *clear up doubts*, kói-gî. *an account*, chheng-siàu; siàu-ba̍k chheng-tshó. *sighted*, ma̍k-chiu hng.
 
 **clearance**, *ship's*, tsûn-pâi.
 
@@ -612,7 +612,7 @@ date: 2024-03-31 16:11:00
 
 **cloak**, tōa-phâu; muaⁿ.
 
-**clock**, sî-cheng; sî-sîn-cheng. *what o' clock?* kúi-tiám-cheng? *9 o'clock*, káu-tiám-cheng. *striking*, cheng hiáng.
+**clock**, sî-cheng; sî-sîn-cheng. *what o' clock*, kúi-tiám-cheng. *9 o'clock*, káu-tiám-cheng. *striking*, cheng hiáng.
 
 **clogged**, sat-miⁿ; m̄-thong.
 
@@ -690,7 +690,7 @@ date: 2024-03-31 16:11:00
 
 **coffer**, ngṳ̂n-kūiⁿ; ngṳ̂n-sieⁿ; kap-būan.
 
-**coffin**, kuaⁿ-ba̍k; kuaⁿ-tshâ; tōa-tshù; siū-póiⁿ *(separate parts)*.
+**coffin**, kuaⁿ-ba̍k; kuaⁿ-tshâ; tōa-tshù. *(separate parts)*, siū-póiⁿ.
 
 **cogent**, kín; kíp; iàu-kín; pek-chhiet; chhiet; kín-chhiet.
 
@@ -708,7 +708,7 @@ date: 2024-03-31 16:11:00
 
 **coincide**, siang-ha̍h; siang-tùi.
 
-**cold**, chhín; ngân; tàng; kûaⁿ; liâng *(cool)*. *catch cold*, sieⁿ-huang; kûaⁿ--tie̍h. *die from cold*, kûaⁿ-sí. *cold and heat*, kûaⁿ-zua̍h; hàn-sú. *coldly*, chhêng-ì néⁿ; po̍h-chhêng. *cold and hunger*, ki-hân; siũ-kûaⁿ siũ-gō. *cold in the head*, chhek-tsúi.
+**cold**, chhín; ngân; tàng; kûaⁿ. *(cool)*, liâng. *catch cold*, sieⁿ-huang; kûaⁿ--tie̍h. *die from cold*, kûaⁿ-sí. *cold and heat*, kûaⁿ-zua̍h; hàn-sú. *coldly*, chhêng-ì néⁿ; po̍h-chhêng. *cold and hunger*, ki-hân; siũ-kûaⁿ siũ-gō. *cold in the head*, chhek-tsúi.
 
 **colic**, tie̍h-sua; tóu thiàⁿ; ká-tn̂g-sua; tóu thiàⁿ húan-húan ho̍k-ho̍k; tóu iû-chhiû-thiàⁿ. *acute*, tie̍h-kín-sua.
 
@@ -744,7 +744,7 @@ date: 2024-03-31 16:11:00
 
 **combat**, tá-chièn; kau-chièn; sie-thâi; sie-phah.
 
-**combine**, sie-kap; kap tsò-che̍k-ē; sie-chia̍h. *strength*, tâng-sim hia̍p-la̍t. *in an association*, pài-hũe; kat-táng *(bad)*. *in trade*, tsò-húe-kì. *in prayer*, khòi-ha̍h khî-táu.
+**combine**, sie-kap; kap tsò-che̍k-ē; sie-chia̍h. *strength*, tâng-sim hia̍p-la̍t. *in an association*, pài-hũe. *(bad)*, kat-táng. *in trade*, tsò-húe-kì. *in prayer*, khòi-ha̍h khî-táu.
 
 **combustible**, õi-ín-húe; õi-to̍h-húe.
 
@@ -782,7 +782,7 @@ date: 2024-03-31 16:11:00
 
 **commission**, *to*, thoh-jĩm; kià-thoh; hù-thoh; úi; úi-thoh; chhe-sái. *a com.*, mẽng-lẽng. *see*[credentials](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#credentials).
 
-**commissioner**, khim-chhe *(Imperial)*; úi-uân *(deputy of superior mandarin)*. *of customs*, sùe-bũ-si.
+**commissioner**, *(Imperial)*, khim-chhe. *(deputy of superior mandarin)*, úi-uân. *of customs*, sùe-bũ-si.
 
 **commit**, *to one's care*, thih; kià-thoh; hù-thoh. *a crime*, hũam-taúe. *to prison*, kìm-kam; siu-kam; khu-kìm.
 
@@ -840,7 +840,7 @@ date: 2024-03-31 16:11:00
 
 **compound**, *mixed*, tsham-tsa̍p. *medicine*, kap-ie̍h; ha̍h-ie̍h.
 
-**compradore**, tshâi-hù; ke-tiéⁿ; kau-tshài-kuán *(store)*.
+**compradore**, tshâi-hù; ke-tiéⁿ. *(store)*, kau-tshài-kuán.
 
 **comprehend**, mêng-pe̍h; hiáu; pat; thiaⁿ pat-kò-khṳ̀.
 
@@ -980,7 +980,7 @@ date: 2024-03-31 16:11:00
 
 **conscience**, liâng-sim; pn̍g-sim. *awakened*, liâng-sim huat-hīn. *conscientious*, ũ-pn̍g-sim; ũ-liâng-sim. *reproofs of conscience*, sim-lãi tsṳ̃-sõng; tsṳ̃-cheh; tsṳ̃-uàn.
 
-**conscious**, *aware of*, tsṳ̃-kak; tsṳ̃-tsai. *is he conscions? (as sick person)* ũ-hiáu-nâng--mé? õi-tsai-nâng--mé?
+**conscious**, *aware of*, tsṳ̃-kak; tsṳ̃-tsai. *is he conscions (as sick person)*, ũ-hiáu-nâng--mé; õi-tsai-nâng--mé.
 
 **consecrate**, *an idol*, khai-huang. *to the idols*, hõng-hí̀n sîn-mêng.
 
@@ -1054,9 +1054,9 @@ date: 2024-03-31 16:11:00
 
 **content**, sim múaⁿ, ì tsok; tsai-tsok; kùe-ì; uaⁿ-hūn. *contents of book*, ma̍k-lo̍k; tôi-thâu.
 
-**conterminous**, sie-kau-kài; sie-kiam-kài; lîn-kṳ̃n (near); chiap-kài; tsò-pû; liên-chiap; siang-liên.
+**conterminous**, sie-kau-kài; sie-kiam-kài; chiap-kài; tsò-pû; liên-chiap; siang-liên. *(near)*, lîn-kṳ̃n.
 
-**contest**, sie-thâi; ke-húe sie-chih; siang-sài-mue̍h *(competition)*; sie-tàu; cheⁿ-iâⁿ.
+**contest**, sie-thâi; ke-húe sie-chih. *(competition)*, siang-sài-mue̍h; sie-tàu; cheⁿ-iâⁿ.
 
 **contiguity**, siang-kṳ̃n; lîn-kṳ̃n; siang-liên; tsôiⁿ-ãu.
 
@@ -1084,7 +1084,7 @@ date: 2024-03-31 16:11:00
 
 **contrite**, thiàⁿ-kói; thiàⁿ-kói tsôiⁿ-hui; kói-hùe; hùe-kói; tsṳ̃-hṳ̃n; thiàⁿ-hṳ̃n tsôiⁿ-hui.
 
-**contrive**, siet-kòi; siet-huap; siẽⁿ-sim-sṳ̄; siẽⁿ-tshut kòi-chheh. *contrivance*, kòi-chheh; kòi-mông; ie̍h-kúi *(mechanical)*.
+**contrive**, siet-kòi; siet-huap; siẽⁿ-sim-sṳ̄; siẽⁿ-tshut kòi-chheh. *contrivance*, kòi-chheh; kòi-mông. *(mechanical)*, ie̍h-kúi.
 
 **control**, kuán; thóng-huán; kuán-hat; khu-sok; iak-sok. *self*, siú-pn̍g-sim; tsṳ̃-kuán ka-kī.
 
@@ -1100,7 +1100,7 @@ date: 2024-03-31 16:11:00
 
 **convenience**, *suit your*, sûi-tsãi-lṳ́; tõ-lṳ́ tsú-ì; sûi--lṳ́; sûi-piẽn; jĩm-lṳ́. *convenient*, sũn-piẽn; ha̍h-ēng; ha̍h-ì; kah-pān.
 
-**convent***(Buddhist)*, am; nîⁿ-kou-am.
+**convent**, *(Buddhist)*, am; nîⁿ-kou-am.
 
 **conversant**, se̍k; si̍p-se̍k; kuàn-se̍k; kùiⁿ-sìⁿ; thàu-thiet; thiet-tói.
 
@@ -1128,7 +1128,7 @@ date: 2024-03-31 16:11:00
 
 **coo**, kũ-ku-kiè.
 
-**cook**, húe-thâu; tôu-chí *(one who provides feasts to order)*. *to cook*, tsṳ́-chia̍h; pa-lói-chia̍h. *cooked*, se̍k. *cook up again*, lẽng-ūaⁿ tim- (*or*, thñg-, pû-) sie. *cook-house*, tôu-pâng; húe-si̍t-pâng.
+**cook**, húe-thâu. *(one who provides feasts to order)*, tôu-chí. *to cook*, tsṳ́-chia̍h; pa-lói-chia̍h. *cooked*, se̍k. *cook up again*, lẽng-ūaⁿ tim-sie; lẽng-ūaⁿ thñg-sie; lẽng-ūaⁿ pû-sie. *cook-house*, tôu-pâng; húe-si̍t-pâng.
 
 **cool**, liâng; ngân; *to cool*, lā-liâng; lā-chhìn; pàng-liâng.
 
@@ -1170,7 +1170,7 @@ date: 2024-03-31 16:11:00
 
 **cormorant**, hṳ̂-a; lôu-jî.
 
-**corn**, ngóu-kak *(grain in general)*. *on the foot*, hṳ̂-ma̍k-chiu; hṳ̂-lâng-tsùe; kha-lang.
+**corn**, *(grain in general)*, ngóu-kak. *on the foot*, hṳ̂-ma̍k-chiu; hṳ̂-lâng-tsùe; kha-lang.
 
 **cornelian**, âng-má-láu.
 
@@ -1206,7 +1206,7 @@ date: 2024-03-31 16:11:00
 
 **cosmetic**, in-nîⁿ; tsõ-hún; âng-hún; in-chí-hún.
 
-**cost**, só-hùi; kè; kè-chîⁿ. *how much does it cost?* ta̍t jie̍h-tsōi-chîⁿ. *costly*, ta̍t-chîⁿ; kè-thâu kùi.
+**cost**, só-hùi; kè; kè-chîⁿ. *how much does it cost*, ta̍t jie̍h-tsōi-chîⁿ. *costly*, ta̍t-chîⁿ; kè-thâu kùi.
 
 **costive**, chek-thì; tãi-piẽn m̄-kiâⁿ; tãi-piẽn kou-kak; tãi-piẽn pĩ-kat; tãi-piẽn kou-kie̍t.
 
@@ -1264,7 +1264,7 @@ date: 2024-03-31 16:11:00
 
 **courtesan**, hue-niêⁿ; chhiang-kĩ; láu-kṳ́; khiàu-búe.
 
-**cousin**, *of same surname*, chek-peh hiaⁿ-tĩ; thâng-hiaⁿ-tĩ; tsõng-hiaⁿ-tĩ *(more remote)*. *of different surname*, pié-hiaⁿ-tĩ; î-pié hiaⁿ-tĩ *(children of two sisters)*; kou-pié hiaⁿ-tĩ *(children of brother and sister)*.
+**cousin**, *of same surname*, chek-peh hiaⁿ-tĩ; thâng-hiaⁿ-tĩ. *of same surname (more remote)*, tsõng-hiaⁿ-tĩ. *of different surname*, pié-hiaⁿ-tĩ. *of different surname (children of two sisters)*, î-pié hiaⁿ-tĩ. *of different surname (children of brother and sister)*, kou-pié hiaⁿ-tĩ.
 
 **cove**, hái-ò.
 
@@ -1364,7 +1364,7 @@ date: 2024-03-31 16:11:00
 
 **croak**, *crow*, a-a-kiè; ou-a-siaⁿ. *frog*, ok-ok-kiè; tsúi-koi-siaⁿ.
 
-**crockery**, hûi; hûi-khì; tshṳ̂-khì *(fine quality)*.
+**crockery**, hûi; hûi-khì. *(fine quality)*, tshṳ̂-khì.
 
 **crocodile**, nga̍k-hṳ̂.
 
@@ -1402,7 +1402,7 @@ date: 2024-03-31 16:11:00
 
 **crumple**, chhi̍p-jiâu; chhi̍p-niàuⁿ.
 
-**crush**, teh-phùa; teh--tie̍h; tãⁿ--tie̍h; thiàm--tie̍h *(as vermin under foot)*; khoih *(as fingers in door)*; ko̍ih *(as in torture)*. *sugar-cane*, ká-chià.
+**crush**, teh-phùa; teh--tie̍h; tãⁿ--tie̍h. *(as vermin under foot)*, thiàm--tie̍h. *(as fingers in door)*, khoih. *(as in torture)*, ko̍ih. *sugar-cane*, ká-chià.
 
 **crust**, khak; phûe; ngẽ-phûe; phí. *rice-crust*, pn̄g-phí.
 
@@ -1446,7 +1446,7 @@ date: 2024-03-31 16:11:00
 
 **curb**, kúan-sok; iak-sok; khu-sok; at-chì. *a horse*, le̍k-tsũ.
 
-**curd**, *bean*, tāu-hū *(not pressed)*; tāu-kuaⁿ *(pressed)*.
+**curd**, *bean (not pressed)*, tāu-hū. *bean (pressed)*, tāu-kuaⁿ.
 
 **cure**, ui; ui-tî; chhiâⁿ-tî; ui-pēⁿ. *undertake to cure*, *to be paid if successful*, pau-ui. *kill instead of curing*, ui-sí. *curable*, hó-ui. *incurable*, bô-ui. *cure fish*, lõu-hṳ̂.
 
@@ -1486,7 +1486,7 @@ date: 2024-03-31 16:11:00
 
 **customer**, bói-kheh. *to be a*, kau-kuan; bói-bōi.
 
-**cut**, kuah; tso̍ih; tok; phoh; tsám; phoi. *off, as branch*, tsám-tiāu; siah-tiāu. *to pieces*, tok tshùi-tshùi. *in two*, kuah-tñg; tok-tñg; tok-tsò-kue̍h; tso̍ih-tñg; phoh-tñg *(on a slant)*; lòi-tsò-pôiⁿ *(split)*. *out clothes*, ka-saⁿ. *away*, kuah--khṳ̀; kuah-tiāu; tsám-tiāu. *the hair*, chién-môⁿ; ka-môⁿ. *a pencil*, phoi-pit. *down*, *as a tree*, tsám-tiāu; khám-tiāu. *thing across in a slanting direction*, phoi gû-tâng-tshùi; phoh-sia. *cut the throat*, kṳ̀-âu. *cut grain*, kuah-tiũ. *grass*, kuah-tsháu. *cut a friend*, nâng-chhêng kuah-tñg; tso̍h-kau; kuah-chhie̍h; tso̍ih-tñg kau-chhêng. *cut away a mast*, tsám-ûi. *cut a road*, khui-lōu. *through a hill*, tsha̍k-suaⁿ-lōu. *cut wages*, khà-tṳ̂ kang-chîⁿ; tṳ̂-kiám nâng-kâi-chîⁿ. *cut-purse*, chién-niúⁿ, kuah nâng hō-pau. *cut-throat*, hiong-chhiú.
+**cut**, kuah; tso̍ih; tok; phoh; tsám; phoi. *off, as branch*, tsám-tiāu; siah-tiāu. *to pieces*, tok tshùi-tshùi. *in two*, kuah-tñg; tok-tñg; tok-tsò-kue̍h; tso̍ih-tñg. *(on a slant)*, phoh-tñg. *(split)*, lòi-tsò-pôiⁿ. *out clothes*, ka-saⁿ. *away*, kuah--khṳ̀; kuah-tiāu; tsám-tiāu. *the hair*, chién-môⁿ; ka-môⁿ. *a pencil*, phoi-pit. *down*, *as a tree*, tsám-tiāu; khám-tiāu. *thing across in a slanting direction*, phoi gû-tâng-tshùi; phoh-sia. *cut the throat*, kṳ̀-âu. *cut grain*, kuah-tiũ. *grass*, kuah-tsháu. *cut a friend*, nâng-chhêng kuah-tñg; tso̍h-kau; kuah-chhie̍h; tso̍ih-tñg kau-chhêng. *cut away a mast*, tsám-ûi. *cut a road*, khui-lōu. *through a hill*, tsha̍k-suaⁿ-lōu. *cut wages*, khà-tṳ̂ kang-chîⁿ; tṳ̂-kiám nâng-kâi-chîⁿ. *cut-purse*, chién-niúⁿ, kuah nâng hō-pau. *cut-throat*, hiong-chhiú.
 
 **cutaneous**, to; kiàm.
 
@@ -1500,4 +1500,4 @@ date: 2024-03-31 16:11:00
 
 **cymbals**, khãm; chhẽ; khõm-chhẽ.
 
-**cypress**, chek-peh-chhiū.h-chhiū.
+**cypress**, chek-peh-chhiū.

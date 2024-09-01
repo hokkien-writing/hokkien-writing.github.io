@@ -14,7 +14,7 @@ date: 2024-03-31 16:11:00
 
 **ulcer**, tshng; phùa-nūaⁿ. ulcerate, seⁿ-tshng; seⁿ-mîⁿ.
 
-**ultimately**, kiáu-búe; kàu-búe; suah-búe; pi̍t-kéng; tsong; khùe-mān (sooner or later).
+**ultimately**, kiáu-búe; kàu-búe; suah-búe; pi̍t-kéng; tsong. *(sooner or later)*, khùe-mān.
 
 **umbilicus**, tóu-tsâi.
 
@@ -74,11 +74,13 @@ date: 2024-03-31 16:11:00
 
 **uncharitable**, bô-jîn-ài; bô-nâng-chhêng; khó-khek.
 
-**uncle**, paternal, a-peh (older than father); a-chek (younger &c). maternal, bó-kũ. aunt's husband, a-tiẽⁿ.
+**uncle**, *paternal (older than father)*, a-peh. *paternal (younger &c)*, a-chek. *maternal*, bó-kũ. *aunt's husband*, a-tiẽⁿ.
 
 **unclean**, spirit, siâ-mũeⁿ; siâ-sîn; siâ-kúi.
 
-**uncomfortable**, m̄-sóng-khùai; m̄-khùaⁿ-ua̍h; m̄-su-thiàng; kãu-ue̍h. **uncommon**, hui-siêⁿ; m̄-phêng-siêⁿ; chié-ũ; hán-ũ; koh-iēⁿ.
+**uncomfortable**, m̄-sóng-khùai; m̄-khùaⁿ-ua̍h; m̄-su-thiàng; kãu-ue̍h.
+
+**uncommon**, hui-siêⁿ; m̄-phêng-siêⁿ; chié-ũ; hán-ũ; koh-iēⁿ.
 
 **unconcerned**, bô-kài-ì; m̄-tõ-ì; chhìn-tshái; bô-chhiet-iàu.
 
@@ -144,9 +146,9 @@ date: 2024-03-31 16:11:00
 
 **United**, the, States of America, Ha̍h-chèng-kok; Tãi-Múiⁿ-kok; Hue-kî-kok.
 
-**universal**, the, world, phóu-thiⁿ-ẽ; phóu-thiⁿ kha-ẽ; pìn-thiⁿ-ẽ. knowledge, bô-só put-hiáu; chiu-tsai; thiⁿ-ẽ kâi-sṳ̄ chĩn-tsai (or, hiáu); chiu-tsai chĩn-hiáu; pat-thàng; pat-liáu. peace, thiⁿ-ẽ thài-phêng.
+**universal**, the, world, phóu-thiⁿ-ẽ; phóu-thiⁿ kha-ẽ; pìn-thiⁿ-ẽ. knowledge, bô-só put-hiáu; chiu-tsai; thiⁿ-ẽ kâi-sṳ̄ chĩn-tsai; thiⁿ-ẽ kâi-sṳ̄ chĩn-hiáu;chiu-tsai chĩn-hiáu; pat-thàng; pat-liáu. peace, thiⁿ-ẽ thài-phêng.
 
-**universe**, ú-tiũ (not quite colloquial); thiⁿ-tī; būan-mue̍h.
+**universe**, thiⁿ-tī; būan-mue̍h. *(not quite colloquial)*, ú-tiũ.
 
 **unjust**, put-ngĩ; hui-ngĩ; bô-kong-tãu; bô-tãu; m̄-sũn chiàⁿ-lí; nge̍k-lí; pũe-lí; m̄-chiàⁿ; m̄-kuaⁿ-chiàⁿ; m̄-kong-chiàⁿ. judgement, uáng-tùan.
 
@@ -246,7 +248,7 @@ date: 2024-03-31 16:11:00
 
 **unyielding**, ngẽ-sèⁿ; chip-sèⁿ; m̃-ho̍k; m̃-sũn; kang-ngẽ.
 
-**up**, chiẽⁿ; khí. up and down, chiẽⁿ-lo̍h. to get, tsáu-khí. is the sun up? ji̍t-thâu tshut a-būe? does not come up to, būe-ki̍p; būe-kàu; m̄-chhin-chhiẽⁿ; būe-hó-pí; lân-pí; oh-pí; hûan-su. not quite up to, bô-hièⁿ-chiẽⁿ.
+**up**, chiẽⁿ; khí. *up and down*, chiẽⁿ-lo̍h. *to get*, tsáu-khí. *is the sun up*, ji̍t-thâu tshut a-būe. *does not come up to*, būe-ki̍p; būe-kàu; m̄-chhin-chhiẽⁿ; būe-hó-pí; lân-pí; oh-pí; hûan-su. *not quite up to*, bô-hièⁿ-chiẽⁿ.
 
 **upbraid**, cheh-pĩ; hiâm; cheh-hiâm.
 
@@ -263,7 +265,8 @@ date: 2024-03-31 16:11:00
 **upset**, léng-tó; póiⁿ-lìn-tńg; póiⁿ-lèng-tńg; phah-tó; léng-tiāu.
 
 **upshot**, kat-kúeⁿ; kàu-búe.
-upside down, tin-tò-thâu; táu-tńg-thâu.
+
+**upside down**, tin-tò-thâu; táu-tńg-thâu.
 
 **upstairs**, lâu-téng. to go, chiẽⁿ-lâu; teng-lâu; peh-chiẽⁿ lâu-téng; seng-chiẽⁿ lâu-téng; chiẽⁿ-lâu-téng; khí--khṳ̀ lâu-téng.
 
@@ -271,9 +274,11 @@ upside down, tin-tò-thâu; táu-tńg-thâu.
 
 **urbanity**, lói-mãuⁿ; ũ-lói-siàu; hiáu--tit lói-ngî.
 
-**urethra**, jiẽ-kńg. stricture of, jiē-kńg sat. **urge**, to, tshui; tshui-pek; kek; piàⁿ-kín; tshui-piàⁿ; tshui-kín. urgent, kín; kín-iàu; iàu-kín; pek-chhiet.
+**urethra**, jiẽ-kńg. stricture of, jiē-kńg sat.
 
-**urine**, jiē. to pass, pàng-jiē; sié-kói; sié-piẽn; siáu-piẽn. retention of, sié-piẽn bõi-kiâⁿ; sié-piẽn m̄-thong (or, m̄-lĩ). incontinence of, siàm-jiē. pass involuntarily, as child, tshūa-jiē. urinal, jiē-hû; mêⁿ-hû; piẽn-hû.
+**urge**, to, tshui; tshui-pek; kek; piàⁿ-kín; tshui-piàⁿ; tshui-kín. urgent, kín; kín-iàu; iàu-kín; pek-chhiet.
+
+**urine**, jiē. to pass, pàng-jiē; sié-kói; sié-piẽn; siáu-piẽn. retention of, sié-piẽn bõi-kiâⁿ; sié-piẽn m̄-thong; sié-piẽn m̄-lĩ. incontinence of, siàm-jiē. pass involuntarily, as child, tshūa-jiē. urinal, jiē-hû; mêⁿ-hû; piẽn-hû.
 
 **urn**, mortuary, kim-sieⁿ; kim-pãu; húe-kim-pãu.
 

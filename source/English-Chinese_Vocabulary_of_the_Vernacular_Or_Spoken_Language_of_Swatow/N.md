@@ -8,9 +8,9 @@ date: 2024-03-31 16:11:00
 
 **nail**, teng, iron, thih-teng. to nail, tèng-teng. finger, chhiú-tsóiⁿ-kah; tsńg-kah. toe, kha-chí-kah.
 
-**naked**, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. strip, thn̍g-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói; tñg-tiâu se-sùaⁿ (without a thread of clothing); thong-sin bô-pùaⁿ-tiâu se-sùaⁿ.
+**naked**, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. strip, thn̍g-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói; thong-sin bô-pùaⁿ-tiâu se-sùaⁿ. *strip (without a thread of clothing)*, tñg-tiâu se-sùaⁿ. 
 
-**name**, family, sèⁿ. own, miâⁿ; zú-miâⁿ; hãu; tso̍k-hãu; tsṳ-miâⁿ; pie̍t-hãu. what is your name? kùi-sèⁿ? tōa-miâⁿ? my, pĩⁿ-sèⁿ; sié-miâⁿ. a good, hó-miâⁿ-sek; hó-miâⁿ-siaⁿ. namely, chiũ-sĩ; chiet-sĩ; tsu-zû.
+**name**, *family*, sèⁿ. *own*, miâⁿ; zú-miâⁿ; hãu; tso̍k-hãu; tsṳ-miâⁿ; pie̍t-hãu. *what is your name*, kùi-sèⁿ; tōa-miâⁿ; *my*, pĩⁿ-sèⁿ; sié-miâⁿ. *a good*, hó-miâⁿ-sek; hó-miâⁿ-siaⁿ. *namely*, chiũ-sĩ; chiet-sĩ; tsu-zû.
 
 **Namoa**, Lâm-ò.
 
@@ -24,7 +24,9 @@ date: 2024-03-31 16:11:00
 <!--more-->
 **narrow**, o̍ih; o̍ih-soih; o̍ih-to̍ih. minded, sim o̍ih-soih; bô-tōu-liãng. watch narrowly, ba̍t-hûang; chiéⁿ-kín; kín-hûang; kṳ́n-hûang; chhim-hûang.
 
-**nasty**, u-ùe; nah-sap; lâm-sap; chhi-gî. **nation**, kok.
+**nasty**, u-ùe; nah-sap; lâm-sap; chhi-gî.
+
+**nation**, kok.
 
 **native**, a, pńg-tī-nâng; pńg-thóu pńg-tī-nâng. place, pńg-hieⁿ; pńg-tī; kū-hieⁿ; kū-thóu; ke-hieⁿ.
 
@@ -54,7 +56,7 @@ date: 2024-03-31 16:11:00
 
 **needless**, expenditure, hṳ-hùi; hua-hùi; khang-hùi.
 
-**neglect**, tãi-buãn (treat disrespectfully); hut-lia̍k (slight); khin-buãn; khin-hut; miáuⁿ-hut; put-kù (not take care of); bô-kuan-kù; bô-chiàu-kù; bô-thóiⁿ-kù; bô-kù-sím; bô-lí (not attend to, as business). negligent, lak-thak; lak-lṳ́; lua-thûa (putting off).
+**neglect**, khin-buãn; khin-hut; miáuⁿ-hut; bô-kuan-kù; bô-chiàu-kù; bô-thóiⁿ-kù; bô-kù-sím. *(treat disrespectfully)*, tãi-buãn. *(slight)*, hut-lia̍k. *(not take care of)*, put-kù.  *(not attend to, as business)*, bô-lí. *negligent*, lak-thak; lak-lṳ́. *negligent (putting off)*, lua-thûa.
 
 **negotiations**, for peace, kiâⁿ-hûa; káng-hûa.
 
@@ -66,13 +68,13 @@ date: 2024-03-31 16:11:00
 
 **neither**, more nor less, bô-ke bô-kiám. neither he not I went, i iā bô-khṳ̀, uá iā bô-khṳ̀; pí-tshṳ́ lóng-tsóng bô-khṳ̀.
 
-**nephew**, tie̍t; gūa-seng (sister's son). generally called tau-sun.
+**nephew**, tie̍t. *(sister's son)*, gūa-seng. *(generally called)*, tau-sun.
 
 **Neptune**, hái-lêng-uâng.
 
 **nerve**, náuⁿ-kṳn; náuⁿ-si; náuⁿ-kṳn-si.
 
-**nest**, tshâu; tàu; siū (with young birds). make a, tsoh-siū. of thieves, tsha̍t-tàu; tsha̍t-hua̍t; tsha̍t-tshâu; tsha̍t-o. of articles of larger and smaller size, with smaller lying inside larger, chek-thun.
+**nest**, tshâu; tàu. *(with young birds)*, siū. make a, tsoh-siū. of thieves, tsha̍t-tàu; tsha̍t-hua̍t; tsha̍t-tshâu; tsha̍t-o. of articles of larger and smaller size, with smaller lying inside larger, chek-thun.
 
 **net**, mãng; tsan; nôiⁿ. weave, kit-mãng; phah-mãng. cast, pha-mãng. set, hē-mãng; lo̍h-mãng. catch fish in, mãng-hṳ̂.
 
@@ -88,7 +90,7 @@ date: 2024-03-31 16:11:00
 
 **nickname**, nâng tsũan kâi-miâⁿ; phì-sièⁿ kâi-miâⁿ.
 
-**niece**, tie̍t-nńg; nńg-tie̍t; gūa-seng-nńg (sister's daughter).
+**niece**, tie̍t-nńg; nńg-tie̍t. *(sister's daughter)*, gūa-seng-nńg.
 
 **niggardly**, kiâm-siap; kiâm; liẽn-siap; kien-liẽn; chhiú-thâu tōiⁿ; siáu-khièn; niauh-siauh.
 
@@ -98,21 +100,25 @@ date: 2024-03-31 16:11:00
 
 **nine**, káu; khùai. nineteen, tsa̍p-káu.
 
-**nip**, nihⁿ; liàm (more severely). with nippers, khîⁿ; koih. nippers, thih-khîⁿ; thih-kîⁿ; niap-kiáⁿ; nihⁿ-kiáⁿ; kia̍p-kiáⁿ; koih-kiáⁿ.
+**nip**, nihⁿ. *(more severely)*, liàm. *with nippers*, khîⁿ; koih. *nippers*, thih-khîⁿ; thih-kîⁿ; niap-kiáⁿ; nihⁿ-kiáⁿ; kia̍p-kiáⁿ; koih-kiáⁿ.
 
 **nipples**, nîⁿ-thâu.
 
-**nitre**, siau. **no**, m̄-sĩ; bô; màiⁿ. matter, bô-lũn; bô-chhiet-iàu; bô-huâng. help for it, bô-nãiⁿ-hô; bô-pōu. nobody, bô-nâng. nothing to eat, bô-thang-chia̍h.
+**nitre**, siau.
 
-**noble**, tsun; kùi; tsun-kùi. family, tōa-ke. -man, ũ-chiak-ūi; tãi-láu. minded, kháng-khài.
+**no**, m̄-sĩ; bô; màiⁿ. matter, bô-lũn; bô-chhiet-iàu; bô-huâng. help for it, bô-nãiⁿ-hô; bô-pōu. nobody, bô-nâng. nothing to eat, bô-thang-chia̍h.
+
+**noble**, tsun; kùi; tsun-kùi.
+
+**noble family**, tōa-ke. *noble man*, ũ-chiak-ūi; tãi-láu. *minded*, kháng-khài.
 
 **nod**, tak-thâu. sleeping, tak-sut-gu̍t.
 
 **noise**, siaⁿ; hiáng; kiè. make a great, tshàu-nãuⁿ; hā-hā-kiè; kā-kā-kiè; kā-kā-jiáng.
 
-**noisome**, õi-hāi-nâng; tshàu-hièn (smell).
+**noisome**, õi-hāi-nâng. *(smell)*, tshàu-hièn.
 
-**nominal**, merely, ũ-miâⁿ bô-si̍t; ũ-khî-miâⁿ bô-khî-si̍t. rank, khang-hâm (brevet rank).
+**nominal**, merely, ũ-miâⁿ bô-si̍t; ũ-khî-miâⁿ bô-khî-si̍t. *rank (brevet rank)*, khang-hâm.
 
 **none**, bô; bô-che̍k-kâi; kâi-kâi-bô; tsǹg-kâi-bô.
 
@@ -124,15 +130,15 @@ date: 2024-03-31 16:11:00
 
 **north**, pak. wind, pak-huang. star, pak-ke̍k (pak-táu is Ursa Major). N. E., tang-pak. of China, pak-thâu.
 
-**nose**, phīⁿ. nostrils, phīⁿ-khang. bridge, phīⁿ-lêng-kut; phīⁿ-uaⁿ-kut. bleeding, lâu phīⁿ-khang-hueh. stuffed, phīⁿ sat. running, chhek-tsúi (coryza). nosegay, hue-kiû; che̍k-pé-hue.
+**nose**, phīⁿ. nostrils, phīⁿ-khang. bridge, phīⁿ-lêng-kut; phīⁿ-uaⁿ-kut. bleeding, lâu phīⁿ-khang-hueh. stuffed, phīⁿ sat. *running (coryza)*, chhek-tsúi. nosegay, hue-kiû; che̍k-pé-hue.
 
 **notable**, hui-siêⁿ; ũ-miâⁿ-siaⁿ; tshut-thoh ĩ-siêⁿ; thiau-so̍k; tshut-so̍k; tshut-chèng; tshut-lūi; théng-pua̍t.
 
 **notch**, khih. in arrow, hâm; ngám.
 
-**note**, written, kò-jī. musical, ngóu-im la̍k-lu̍t. commentary, tsù-kói. down, kì; kì-lo̍k. -book, kì-phõu; tshûn-phõu; tsài-phõu. money, chîⁿ-phiè; ngṳ̂n-toaⁿ.
+**note**, *written*, kò-jī. *musical*, ngóu-im la̍k-lu̍t. *commentary*, tsù-kói. *note down*, kì; kì-lo̍k. *notebook*, kì-phõu; tshûn-phõu; tsài-phõu. *money*, chîⁿ-phiè; ngṳ̂n-toaⁿ.
 
-**notice**, to, tsai-thóiⁿ; tsai-kuan; kak-tshat. when one is not noticing; unawares, put-kak. a public, kàu-pe̍h (advertisement); kò-sī (proclamation). notify, ta̍t-tsai; thong-tsai; pò-tsai.
+**notice**, to, tsai-thóiⁿ; tsai-kuan; kak-tshat. when one is not noticing; unawares, put-kak. *a public (advertisement)*, kàu-pe̍h. *a public (proclamation)*, kò-sī. notify, ta̍t-tsai; thong-tsai; pò-tsai.
 
 **notion**, ì-kièn; î-sṳ̀; siẽⁿ-thâu.
 
@@ -158,7 +164,7 @@ date: 2024-03-31 16:11:00
 
 **numb**, pì; ngûi; ngûi-pì; hiâ-pì; ngûi-ne̍k bõi-thiàⁿ; hueh-khì kuàn-m̄-kàu.
 
-**number**, siàu. even, sang-siàu. odd, khia-siàu. to, sǹg-siàu. which? tõiⁿ-kúi? numberless, sǹg-m̄-liáu; m̄-pat-tò-sǹg. number ten, tõiⁿ-tsa̍p.
+**number**, siàu. *even*, sang-siàu. *odd*, khia-siàu. *to*, sǹg-siàu. *which*, tõiⁿ-kúi. *numberless*, sǹg-m̄-liáu; m̄-pat-tò-sǹg. *number ten*, tõiⁿ-tsa̍p.
 
 **numerals**, siàu-ma̍k-jī. capital form, tōa-siá. common, séⁿ-siá; sié-siá. contracted, bé-kiáⁿ.
 
@@ -168,8 +174,8 @@ date: 2024-03-31 16:11:00
 
 **nuptials**, sêng-chhin; sêng-hun; kat-hun; ha̍h-chhin; phùe-chhin; sin-hun. see MARRIAGE.
 
-**nurse**, kan-ma; kan-bó; a-bó; a-má (in Swatow). milk-, niⁿ-bó. nursling, chia̍h-nĩⁿ-kiáⁿ.
+**nurse**, kan-ma; kan-bó; a-bó. *(in Swatow)*, a-má. milk-nurse, niⁿ-bó. nursling, chia̍h-nĩⁿ-kiáⁿ.
 
-**nut**, walnut, hu̍t-thô; khut-thô. ground-, tī-tāu. cocoa-, gê-chí; iâ-chí. shell, khak. meat inside, jîn; ne̍k. nutmeg, tāu-khòu; lãu-hàu-chí.
+**nut**, walnut, hu̍t-thô; khut-thô. ground-nut, tī-tāu. cocoa-nut, gê-chí; iâ-chí. shell, khak. meat inside, jîn; ne̍k. nutmeg, tāu-khòu; lãu-hàu-chí.
 
 **nymph**, sien-nńg.ien-nńg.

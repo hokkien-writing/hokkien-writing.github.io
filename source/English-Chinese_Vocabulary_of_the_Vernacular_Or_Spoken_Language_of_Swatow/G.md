@@ -10,7 +10,7 @@ date: 2024-03-31 16:11:00
 
 **gable**, of house, pui; pui-thâu; tshù-pui.
 
-**gadfly**, gû-pi (?).
+**gadfly**, gû-pi.
 
 **gag**, lêng-hâm.
 
@@ -28,15 +28,15 @@ date: 2024-03-31 16:11:00
 
 **gallery**, lâu-thâi.
 
-**gallipot**, kài-au; khàm-au; ie̍h-au; ie̍h-puah (large); kài-puah.
+**gallipot**, kài-au; khàm-au; ie̍h-au; kài-puah. *(large)*, ie̍h-puah.
 
 **gallop**, pháu-bé.
 
 **gallows**, ká-kê; tiàu-ãm-kê.
 
-**gambling**, pua̍h; pua̍h-chîⁿ; pua̍h-kiáu; tóu-chîⁿ; tú-chîⁿ; su-iâⁿ; sńg-chhiè (euphemism). with cards, pua̍h-tsúa-pâi. lose by, pua̍h-su. win by, pua̍h-iâⁿ. one who makes a business of, lãu-pua̍h-kiáu. public table for, pua̍h-chîⁿ-tiêⁿ; pua̍h-chîⁿ-kuán; tóu-tiêⁿ; tóu-kuán, to keep such a place, khui-tiêⁿ; siet-tóu; khui-tóu-tiêⁿ.
+**gambling**, pua̍h; pua̍h-chîⁿ; pua̍h-kiáu; tóu-chîⁿ; tú-chîⁿ; su-iâⁿ. *(euphemism)*, sńg-chhiè. *with cards*, pua̍h-tsúa-pâi. *lose by*, pua̍h-su. *win by*, pua̍h-iâⁿ. *one who makes a business of*, lãu-pua̍h-kiáu. *public table for*, pua̍h-chîⁿ-tiêⁿ; pua̍h-chîⁿ-kuán; tóu-tiêⁿ; tóu-kuán. *to keep such a place*, khui-tiêⁿ; siet-tóu; khui-tóu-tiêⁿ.
 
-**game**, play, of chess, teh che̍k-puâⁿ-kî. I won four games of chess from him, uá teh-iâⁿ--i sì-pûa-kî. -cock, chhie-koi; chhie-koi-ang.
+**game**, *play (of chess)*, teh che̍k-puâⁿ-kî. *I won four games of chess from him*, uá teh-iâⁿ--i sì-pûa-kî. *gamecock*, chhie-koi; chhie-koi-ang.
 
 **gander**, gô-hêng.
 
@@ -56,7 +56,7 @@ date: 2024-03-31 16:11:00
 
 **gargle**, lō-tshùi; lō-âu; sok-kháu.
 
-**garlic**, sǹg; chheⁿ-sǹg (fresh); sǹg-thâu (ripe roots).
+**garlic**, sǹg. *(fresh)*, chheⁿ-sǹg. *(ripe roots)*, sǹg-thâu.
 
 **garments**, i-ho̍k; kûn-saⁿ; saⁿ-khòu; ho̍k-sek.
 
@@ -72,7 +72,7 @@ date: 2024-03-31 16:11:00
 
 **gasp**, kip-khùi; tshuán; tshuán-khì; tshuán-kip.
 
-**gate**, mn̂g; tōa-mn̂g. sity-, siâⁿ-mn̂g. street-, tsa̍h-mn̂g; koi-tsa̍h.
+**gate**, mn̂g; tōa-mn̂g. sity-gate, siâⁿ-mn̂g. street-gate, tsa̍h-mn̂g; koi-tsa̍h.
 
 **gather**, siu; siu-si̍p; siu-bûa; siu-si̍p-bûa; siu-khí. as people, tsũ-chi̍p; chi̍p-hũe; hũe-chi̍p; tsũ-hũe; hũe-ha̍h; hũe-bûa; ha̍h-bûa. flowers, tiah-hue.
 
@@ -93,9 +93,10 @@ date: 2024-03-31 16:11:00
 **gem**, ge̍k; pó-ge̍k; pó-chie̍h; pó-pùe.
 
 **genealogy**, tso̍k-phóu. ranks of, pùe-sũ.
-general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lóng-thóng-tàⁿ. don't use general terms but be precise, lṳ́ chhiet-si̍t lâi-tàⁿ, màiⁿ-lóng-thóng; chí-tiāⁿ, màiⁿ-hùam-sueh. use, thong-ēng. peace, thài-phêng. generally speaking, tãi-khài; thóng-thóng; tãi-sì; tãi-lia̍k.
 
-**general**, in the army, tsóng-piaⁿ; tsóng-piaⁿ-kuaⁿ; tsóng-zông. generalissimo, ngûan-sùe; tsú-sùe.
+**general (comprehensive)**, thóng; thong; tsóng; kong. *term*, tsóng-miâⁿ; lóng-thóng-tàⁿ. *don't use general terms but be precise*, lṳ́ chhiet-si̍t lâi-tàⁿ, màiⁿ-lóng-thóng; chí-tiāⁿ, màiⁿ-hùam-sueh. *use*, thong-ēng. *peace*, thài-phêng. *generally speaking*, tãi-khài; thóng-thóng; tãi-sì; tãi-lia̍k.
+
+**general**, *in the army*, tsóng-piaⁿ; tsóng-piaⁿ-kuaⁿ; tsóng-zông. *generalissimo*, ngûan-sùe; tsú-sùe.
 
 **generate**, seⁿ.
 
@@ -103,17 +104,17 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **generous**, sim-heng khuah-khuah; khuang-khài; ũ-tóu-liãng; tóu-liãng hó; tóu-liãng khuan-khuan; khuan-iông tãi-liãng. see LIBERAL.
 
-**genial**, un-hûa (of men or weather); un-jiû (of men); un-lúan (of the weather); chhiẽⁿ-sie (warm).
+**genial**, *(of men or weather)*, un-hûa. *(of men)*, un-jiû. *(of the weather)*, un-lúan. *(warm)*, chhiẽⁿ-sie.
 
-**genii**, sien; sîn-sien. the eight, poih-sien. their habitation, sien-kéng.
+**genii**, sien; sîn-sien. *the eight*, poih-sien. *their habitation*, sien-kéng.
 
-**genius**, a, tshâi-tsṳ́; ũ-tshâi-chhêng kâi-nâng.
+**genius**, *a*, tshâi-tsṳ́; ũ-tshâi-chhêng kâi-nâng.
 
-**genteel**, bûn-ngiá; sṳ-bûn (accomplished).
+**genteel**, bûn-ngiá. *(accomplished)*, sṳ-bûn.
 
 **gentle**, un-bûa; hûa-sũn; un-jiû; liâng-siẽn. see GENTLY.
 
-**gentleman**, thài-kong (father of graduate); lãu-tia (mandarin, but also wider use); lãu-nâng-ke; lãu-iâ. young, siàu-iâ (son of mandarin). this old gentleman, chí-ūi lãu-nâng-ke.
+**gentleman**, lãu-nâng-ke; lãu-iâ. *(father of graduate)*, thài-kong. *(mandarin, but also wider use)*, lãu-tia. *young  (son of mandarin)*, siàu-iâ. *this old gentleman*, chí-ūi lãu-nâng-ke.
 
 **gently**, khin-khin; ûn-ûn; mān-mān; khuaⁿ-khuaⁿ. see GENTLE.
 
@@ -137,7 +138,7 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **gestures**, to use, in speaking, kha mông, chhiú pí.
 
-**get**, tit; tit--tie̍h. up, tsáu-khí. could not get it done, tsò-m̄-sêng; tsò-m̄-chiâⁿ. rich, huat-tshâi; tì-pù. ready, ṳ̃-pĩ; tsôi-pĩ; pĩ-phōiⁿ; pĩ-pīn. into office, tit-ūi; tit-jĩm. advancement, kau-seng; seng-kuaⁿ; seng-khip, one's wishes, tit-ì; zû-ì; tit-sim kùe-ì. out of the way, kiâⁿ-khui; tsáu-khui; kiâⁿ-bûa; khiã-khui. angry, seⁿ-khì; huat-náuⁿ. hold of, lia̍h--tie̍h. aground (ship), khùa-sua; hũam-suaⁿ. into trouble, lap-tie̍h-sin. a cold, sieⁿ-huang. where ever did you get this? lṳ́ tsò-ũ chí-kâi-mue̍h?
+**get**, tit; tit--tie̍h. *up*, tsáu-khí. *could not get it done*, tsò-m̄-sêng; tsò-m̄-chiâⁿ. *rich*, huat-tshâi; tì-pù. *ready*, ṳ̃-pĩ; tsôi-pĩ; pĩ-phōiⁿ; pĩ-pīn. *into office*, tit-ūi; tit-jĩm. *advancement*, kau-seng; seng-kuaⁿ; seng-khip, *one's wishes*, tit-ì; zû-ì; tit-sim kùe-ì. *out of the way*, kiâⁿ-khui; tsáu-khui; kiâⁿ-bûa; khiã-khui. *angry*, seⁿ-khì; huat-náuⁿ. *hold of*, lia̍h--tie̍h. *aground (ship)*, khùa-sua; hũam-suaⁿ. *into trouble*, lap-tie̍h-sin. *a cold*, sieⁿ-huang. 8where ever did you get this*, lṳ́ tsò-ũ chí-kâi-mue̍h.
 
 **ghost**, kúi; siàⁿ-nâng; siàⁿ-hùe-mue̍h. Holy, Siàⁿ-Sîn.
 
@@ -159,15 +160,17 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **gin**, snare, se-khou; phùaⁿ-soh; chiáu-mãng; tieⁿ-chiáu-sùaⁿ. to set a, tieⁿ-keng siet-nãuⁿ.
 
-**ginger**, kieⁿ. hard dry root (med.), kieⁿ-bó. young, tender & fresh, chíⁿ-kieⁿ. sweetmeat, thn̂g-kieⁿ; bi̍t-chìm-kieⁿ.
+**ginger**, kieⁿ. *hard dry root (medicine)*, kieⁿ-bó. *young, tender and fresh*, chíⁿ-kieⁿ. *sweetmeat*, thn̂g-kieⁿ; bi̍t-chìm-kieⁿ.
 
 **ginseng**, jîn-siam. foreign, iêⁿ-siam. to buy, táu-siam.
 
-**gird**, hâ; pa̍k; hâ-tòa. up, kiáu-phû soih-tōa. **girdle**, ie-tòa; ki-tòa; ki-ie.
+**gird**, hâ; pa̍k; hâ-tòa. up, kiáu-phû soih-tōa.
 
-**girl**, tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ; tsáu-kiáⁿ. boys and girls, tsṳ́-nńg. servant-, tsáu-kúi; chhiah-kha; hia-thâu.
+**girdle**, ie-tòa; ki-tòa; ki-ie.
 
-**girth**, bé-tõu-tòa. what is the girth of this tree? chí-tsâng-chhiū chiu-ûi jie̍h-tōa?
+**girl**, tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ; tsáu-kiáⁿ. boys and girls, tsṳ́-nńg. servant-girl, tsáu-kúi; chhiah-kha; hia-thâu.
+
+**girth**, bé-tõu-tòa. *what is the girth of this tree*, chí-tsâng-chhiū chiu-ûi jie̍h-tōa.
 
 **give**, pun; sṳ̀; khṳt; sàng; ṳ́. assent, tsún. in marriage, kè; kè--pun-nâng. into one's care, hù-thoh. way to one, jiãng; jiãng-ūi. in, tho. over to, kau; kau-hôiⁿ. up evil, khì-siâ kói-ak. one's life, siá-miāⁿ; khì-sin; siá-miāⁿ khì-sin. notice, pò-tsai. evidence, keng; kháu-keng. alms, si-chì; chì-phîn; chín-chì; kiù-chì; si-siá. trouble, kiáu-jiáu; lâu; huân-lâu; bûa-lūi. given to, hàuⁿ.
 
@@ -179,7 +182,7 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **glare**, of the sun, ji̍t-tsam chhiēⁿ-tie̍h-ma̍k; ji̍t-tsam tsam-tie̍h-ma̍k. from water, ji̍t-tsam tõ-tsúi-tói húan-chie--khí-lâi; iap-iap-sih. glare with the eyes, ma̍k-chiu lìn-lìn-khah; ma̍k-chiu khah-khah-lìn. too glaring, khah-tshut-sek.
 
-**glass**, po-lî; liû-lî (not quite the same). to male, ié-po-lî; pûn-po-lî. bottle, po-lî-tsun. for drinking, po-lî-pue; po-lî-cheng.
+**glass**, po-lî. *(not quite the same)*, liû-lî. *to male*, ié-po-lî; pûn-po-lî. *bottle*, po-lî-tsun. *for drinking*, po-lî-pue; po-lî-cheng.
 
 **glaucoma**, ou-jîn pièn-chheⁿ; chheⁿ-kuang hak-ngán.
 
@@ -211,7 +214,7 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **glume**, tshou-khng; chhek-khak.
 
-**glut**, pá-ṳ̀; chia̍h-kàu-màiⁿ; chia̍h-kàu-hẽng. in the market, hâng-chhêng pāi (or, nńg; thûaⁿ).
+**glut**, pá-ṳ̀; chia̍h-kàu-màiⁿ; chia̍h-kàu-hẽng. *in the market*, hâng-chhêng pāi; hâng-chhêng pāi nńg; hâng-chhêng thûaⁿ.
 
 **gluttonous**, tham-chia̍h; hàuⁿ-chia̍h; tham-chia̍h kùe-tōu.
 
@@ -221,22 +224,23 @@ general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lón
 
 **gnaw**, kã; khòi.
 
-**go**, khṳ̀; kiâⁿ; tsáu; uáng. down, kàng; lo̍h; hiã. up, chiẽⁿ; seng; teng; khí. abroad, tshut-khṳ̀-gūa; tshut-gūa; kùe-kok; kùe-huan; kùe-iêⁿ. out, khṳ̀-kháu; tshut-khṳ̀-gūa; tshut-mn̂g; tshut-koi. out, as fire, húe kùe--khṳ̀. home, hûe-ke; tńg-khṳ̀-tshṳ̀; kui-ke. into the house, khṳ̀-lãi. to, khṳ̀-kàu. about, uáng-lâi; chiẽⁿ-lo̍h; kiâⁿ-lâi kiâⁿ-khṳ̀. about, for amusement, thit-thô; múaⁿ-kò-la̍h. about, as ship, kùe-phâng. and bring, khṳ̀-khie̍h--lâi. to stool, kiâⁿ-tãng; chiẽⁿ-chhè; kiâⁿ-tãi-piẽn; tshut-kiong. to bed, khṳ̀-gu̍t. to market, chiẽⁿ-chhĩ; tshut-chhĩ; khṳ̀-chhĩ; tàu-hṳ. on foot, pōu-kiâⁿ; pōu-lién (of a person who would ordinarily have a conveyance). by water, tah-tsûn--khṳ̀. by land, le̍k-lōu--khṳ̀; tùi-lōu--khṳ̀. on board, lo̍h-tsûn. on shore, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-khàm. upstairs, khṳ̀-lâu-téng; chiẽⁿ-lâu. to a feast, hù-sia̍h; khṳ̀-chia̍h-toh; èng-sia̍h. to examination, hù-kháu; èng-kháu; hù-chhì; èng-chhì. to heaven, chiẽⁿ-thiⁿ. quickly, kiâⁿ-méⁿ; tsáu-méⁿ; kúaⁿ-méⁿ. to visit, khṳ̀-sie-sûn; húang-chhin húang-iú; khṳ̀-pài-hāu. let him, iû-i-khṳ̀; thèng-i-khṳ̀; kui-i-khṳ̀; sûi-i-khṳ̀. where are you going? lṳ́ àiⁿ-khṳ̀ tî-kò? where has he gone? i khṳ̀-tî-kò? do not know where to go (or, where he has gone), m̄-tsai-tùi-tî-kò khṳ̀. with the tide, kúaⁿ-lâu; sũn-lâu. all through or over, kiâⁿ-kàu-thàu. together, tsò-pû-kiâⁿ; tsò-pû-khṳ̀; tâng-kiâⁿ. before, soiⁿ-kiâⁿ; thâu-tsôiⁿ-kiâⁿ; kiâⁿ tõ-thâu-tsôiⁿ. behind, kiâⁿ ka-chiah-ãu. go to court, chiẽⁿ-chhiâu. to law, phah-kuaⁿ-si. halves, sie-kāng; pêⁿ-pun. and come, lâi-lâi uáng-uáng. and return, lâi-hûe.
+**go**, khṳ̀; kiâⁿ; tsáu; uáng. *down*, kàng; lo̍h; hiã. *up*, chiẽⁿ; seng; teng; khí. *abroad*, tshut-khṳ̀-gūa; tshut-gūa; kùe-kok; kùe-huan; kùe-iêⁿ. *out*, khṳ̀-kháu; tshut-khṳ̀-gūa; tshut-mn̂g; tshut-koi. *out (as fire)*, húe kùe--khṳ̀. home, hûe-ke; tńg-khṳ̀-tshṳ̀; kui-ke. *into the house*, khṳ̀-lãi. *to*, khṳ̀-kàu. *about*, uáng-lâi; chiẽⁿ-lo̍h; kiâⁿ-lâi kiâⁿ-khṳ̀. *about (for amusement)*, thit-thô; múaⁿ-kò-la̍h. *about (as ship)*, kùe-phâng. *and bring*, khṳ̀-khie̍h--lâi. *to stool*, kiâⁿ-tãng; chiẽⁿ-chhè; kiâⁿ-tãi-piẽn; tshut-kiong. *to bed*, khṳ̀-gu̍t. *to market*, chiẽⁿ-chhĩ; tshut-chhĩ; khṳ̀-chhĩ; tàu-hṳ. *on foot*, pōu-kiâⁿ. *on foot (of a person who would ordinarily have a conveyance)*, pōu-lién. *by water*, tah-tsûn--khṳ̀. *by land*, le̍k-lōu--khṳ̀; tùi-lōu--khṳ̀. *on board*, lo̍h-tsûn. *on shore*, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-khàm. *upstairs*, khṳ̀-lâu-téng; chiẽⁿ-lâu. *to a feast*, hù-sia̍h; khṳ̀-chia̍h-toh; èng-sia̍h. *to examination*, hù-kháu; èng-kháu; hù-chhì; èng-chhì. *to heaven*, chiẽⁿ-thiⁿ. *quickly*, kiâⁿ-méⁿ; tsáu-méⁿ; kúaⁿ-méⁿ. *to visit*, khṳ̀-sie-sûn; húang-chhin húang-iú; khṳ̀-pài-hāu. *let him*, iû-i-khṳ̀; thèng-i-khṳ̀; kui-i-khṳ̀; sûi-i-khṳ̀. *where are you going*, lṳ́ àiⁿ-khṳ̀ tî-kò. *where has he gone*, i khṳ̀-tî-kò. *do not know where to go (or, where he has gone)*, m̄-tsai-tùi-tî-kò khṳ̀. *with the tide*, kúaⁿ-lâu; sũn-lâu. *all through or over*, kiâⁿ-kàu-thàu. *together*, tsò-pû-kiâⁿ; tsò-pû-khṳ̀; tâng-kiâⁿ. *before*, soiⁿ-kiâⁿ; thâu-tsôiⁿ-kiâⁿ; kiâⁿ tõ-thâu-tsôiⁿ. *behind*, kiâⁿ ka-chiah-ãu. *go to court*, chiẽⁿ-chhiâu. *to law*, phah-kuaⁿ-si. *halves*, sie-kāng; pêⁿ-pun. *and come*, lâi-lâi uáng-uáng. *and return*, lâi-hûe.
 
 **goat**, suaⁿ-iêⁿ.
 
 **GOD**, Siãng-tì. to worship, pài Siãng-tì. godly, kèng-ùi Siãng-tì. gods, sîn-mêng.
-go-down, tsàn-pâng.
+
+**go-down**, tsàn-pâng.
 
 **goitre**, tōa-ãm-kui.
 
-**gold**, kim; n̂g-kim; chhiah-kim. alloyed, hún-kim; kẽ-kim. unalloyed, tsok-siâⁿ-kim; chhiah-kim; tsok-chhiah-kim. gilded, tah-kim. -plated, liū-kim. inlaid or covered with, sieⁿ-kim; pau-kim. -lace, kim-pĩⁿ. -thread, kim-sùaⁿ. -fish, kim-lí. -leaf, kim-po̍h. -dust, kim-sua. -smith, phah-kim sai-pẽ.
+**gold**, kim; n̂g-kim; chhiah-kim. *alloyed*, hún-kim; kẽ-kim. *unalloyed*, tsok-siâⁿ-kim; chhiah-kim; tsok-chhiah-kim. *gilded*, tah-kim. *gold-plated*, liū-kim. *inlaid or covered with*, sieⁿ-kim; pau-kim. *gold-lace*, kim-pĩⁿ. *gold-thread*, kim-sùaⁿ. *goldfish*, kim-lí. *gold-leaf*, kim-po̍h. *gold-dust*, kim-sua. *goldsmith*, phah-kim sai-pẽ.
 
-**gong**, lô; tâng-lô. with a boss, khong. one, che̍k-mīn-lô. to beat, phah-lô. stick for beating, lô-thûi.
+**gong**, lô; tâng-lô. *with a boss*, khong. *one*, che̍k-mīn-lô. *to beat*, phah-lô. *stick for beating*, lô-thûi.
 
 **gonorrhea**, lâu-pe̍h-tsua̍k.
 
-**good**, hó; siẽn. heart, hó-sim; liâng-sim; siu-sim. -bye, lṳ́ chhiáⁿ; chiãm-pie̍t. living, chia̍h-phâng-phài; káⁿ-chia̍h káⁿ-sái. health, sóng-khùai; tsàng-kiẽn; phêng-an. order, siu-si̍p-hó; iap-thiap; tsôi-chiáⁿ; chhî-chéng. composition, pit-ba̍k hó; bûn-khì hó; kiâⁿ-bûn hó; ēng-pit hó; pit-chhêng hó. penmanship, jī ngiá; jī tuan-khái. nature, sèⁿ-chhêng hó; tsò-nâng khuaⁿ-chiâⁿ; un-jiû. name, miâⁿ-sek hó; hó-miâⁿ-siaⁿ; miâⁿ-siaⁿ phang. conduct, siẽn-hẽng; jîn-tek. luck, tsãu-hùe. good and bad, hó-khiap; hó-tái; siẽn-ak. a good many, hoh-tsōi. a good while, hoh-kú. good for nothing, bô-ēng.
+**good**, hó; siẽn. *good heart*, hó-sim; liâng-sim; siu-sim. *good-bye*, lṳ́ chhiáⁿ; chiãm-pie̍t. *living*, chia̍h-phâng-phài; káⁿ-chia̍h káⁿ-sái. *health*, sóng-khùai; tsàng-kiẽn; phêng-an. *order*, siu-si̍p-hó; iap-thiap; tsôi-chiáⁿ; chhî-chéng. *composition*, pit-ba̍k hó; bûn-khì hó; kiâⁿ-bûn hó; ēng-pit hó; pit-chhêng hó. *penmanship*, jī ngiá; jī tuan-khái. *nature*, sèⁿ-chhêng hó; tsò-nâng khuaⁿ-chiâⁿ; un-jiû. *name*, miâⁿ-sek hó; hó-miâⁿ-siaⁿ; miâⁿ-siaⁿ phang. *conduct*, siẽn-hẽng; jîn-tek. luck, tsãu-hùe. *good and bad*, hó-khiap; hó-tái; siẽn-ak. *a good many*, hoh-tsōi. *a good while*, hoh-kú. *good for nothing*, bô-ēng.
 
 **goods**, hùe; hùe-mue̍h. foreign, iêⁿ-hùe. first choice of, hùe-mīn. remnants of, hùe-búe; hùe-tái. sample of, hùe-mōⁿ. mixed, tsa̍p-hùe. owner of, hùe-tsú. invoice of, hùe-toaⁿ. sell, tshut-hùe. unload, khí-hùe. load, hẽ-hùe; lo̍h-hùe. buy, tì-hùe. store, tun-hùe. buy on credit, chhia-hùe. ready-money, hīn-chîⁿ bói-hīn-hùe. trans-ship into smaller vessel, poh-hùe. send, tah-hùe; kià-hùe. pack up, tsuang-hùe. not responsible for, after they have left the shop, tshut-mn̂g bô-jīn-hùe.
 
@@ -244,7 +248,9 @@ go-down, tsàn-pâng.
 
 **gore**, hueh; hueh-thn̂g; hueh-kò; hueh-phí.
 
-**gore**, to, tak; tak-sieⁿ; sie-kak. **gorgeous**, phâi-chhiâng.
+**gore**, to, tak; tak-sieⁿ; sie-kak.
+
+**gorgeous**, phâi-chhiâng.
 
 **gormandize**, chia̍h bô-tōu; chia̍h bô-tsat-tōu.
 
@@ -252,12 +258,13 @@ go-down, tsàn-pâng.
 
 **gossip**, phue̍h-ūe; tàⁿ-ôiⁿ-ūe; phi̍t-phue̍h.
 
-**gourd**, pû. bottle-, hôu-lôu-pû. calabash made from, pû-hia.
+**gourd**, pû. bottle-gourd, hôu-lôu-pû. calabash made from, pû-hia.
 
 **gout**, kha seⁿ-huang-khì.
 
-**govern**, kúan; lí; tî; kúan-lí; kúan-hat. a country, tî-kok; tî-mîn. oneself, iak-sok ka-kī.
-governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
+**govern**, kúan; lí; tî; kúan-lí; kúan-hat. *govern a country*, tî-kok; tî-mîn. *govern oneself*, iak-sok ka-kī.
+
+**governor**, *governor-general*, tsóng-tok. *lieutenant-governor*, bú-īⁿ.
 
 **government**, kok-chèng. benevolent, jîn-chèng.
 
@@ -265,17 +272,17 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **grace**, ṳn; ṳn-tién; ṳn-hũi; ṳn-tek; ṳn-che̍k.
 
-**graceful**, hong-tōu hó; tshông-iông; tshông-iông tsṳ̃-tsãi (calm and self-possessed).
+**graceful**, hong-tōu hó; tshông-iông. *(calm and self-possessed)*, tshông-iông tsṳ̃-tsãi.
 
 **gracious**, to be, si-ṳn. gift, ṳn-sṳ̀; ṳn-siéⁿ.
 
 **gradual**, chiãm-chiãm; khuaⁿ-khuaⁿ; che̍k-tsâng che̍k-tsâng; che̍k-tsãm che̍k-tsãm; ũ-tsâng-tshṳ̀; ũ-pōu-tsõu.
 
-**graduate**, to, ji̍p-o̍h; ji̍p-siù-tsâi; tèng-kṳ́-jîn; tèng-chìn-sṳ̃; tiám-hân-lîm. to be a, ũ-kong-miâⁿ (also has wider meaning).
+**graduate**, *to*, ji̍p-o̍h; ji̍p-siù-tsâi; tèng-kṳ́-jîn; tèng-chìn-sṳ̃; tiám-hân-lîm. *to be a (also has wider meaning)*, ũ-kong-miâⁿ.
 
 **graft**, trees, chiap; chiap-ki.
 
-**grain**, ngóu-kak; tiũ (rice not yet in ear); tâ (rice in ear); chhek (rice in husk); bí (rice separated from the husk). one grain, che̍k-lia̍p. of wood, hue-jī; bûn-lí.
+**grain**, ngóu-kak; *(rice not yet in ear)*, tiũ. *(rice in ear)*, tâ. *(rice in husk)*, chhek. *(rice separated from the husk)*, bí. *one grain*, che̍k-lia̍p. *of wood*, hue-jī; bûn-lí.
 
 **grammar**, tsò-bûn-huap.
 
@@ -287,19 +294,19 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **grandmother**, a-má. maternal, gūa-má. great, lãu-má.
 
-**grandson**, sun; tau-sun. daughter's son, gūa-sun. great-, cheng-sun. great-great-, hiên-sun; ngûan-sun. wife of, sun-sim-pũ.
+**grandson**, sun; tau-sun. daughter's son, gūa-sun. great-grandson, cheng-sun. great-great-grandson, hiên-sun; ngûan-sun. wife of, sun-sim-pũ.
 
 **grant**, tsún; zún-na̍p; phoi-tsún. see GIVE.
 
-**grapes**, phû-thô. dried (i.e. raisins) phû-thô-kuaⁿ.
+**grapes**, phû-thô. *dried grapes (raisins)* phû-thô-kuaⁿ.
 
 **grapnel**, tah-kau; tèng.
 
 **grapple**, kau-tsũ; kau-tiām; kau-tîⁿ; khím-kín.
 
-**grasp**, līm-kín; khie̍h-kín; lia̍h-kín; tẽⁿ-kín; phõ-kín. a sword, in the scabbard, to be ready, àn-kiàm siang-huâng. the throat, tẽⁿ-âu (with one hand); liū-âu (with both hands).
+**grasp**, līm-kín; khie̍h-kín; lia̍h-kín; tẽⁿ-kín; phõ-kín. *a sword, in the scabbard, to be ready*, àn-kiàm siang-huâng. *the throat (with one hand)*, tẽⁿ-âu. *the throat (with both hands)*, liū-âu.
 
-**grass**, tsháu. -plot, tsháu-pou. green, chheⁿ-tsháu. dry, ta-tsháu. to cut, kuah-tsháu. to burn, hiâⁿ-tsháu. to burn on the hills, pàng-húe sie-suaⁿ. to pull, mán-tsháu. bundle of, che̍k-pé-tsháu. tie up in small bundles for the fire, tîⁿ-oiⁿ; tîⁿ-tsháu-oiⁿ.
+**grass**, tsháu. *grass-plot*, tsháu-pou. *green grass*, chheⁿ-tsháu. *dry*, ta-tsháu. *to cut*, kuah-tsháu. *to burn*, hiâⁿ-tsháu. *to burn on the hills*, pàng-húe sie-suaⁿ. *to pull*, mán-tsháu. *bundle of*, che̍k-pé-tsháu. *tie up in small bundles for the fire*, tîⁿ-oiⁿ; tîⁿ-tsháu-oiⁿ.
 
 **grasshopper**, tsháu-mêⁿ.
 
@@ -313,23 +320,23 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **gratuitous**, mín-chîⁿ; pe̍h-pe̍h pun--nâng. distribution, as of medicine, tea, &c, si-ie̍h; si-tê.
 
-**grave**, phûn; phûn-mõⁿ; suaⁿ-phûn; huang-tsúi; phûn-suaⁿ. to dig, a, khui-khuàng; khui-phûn (used more of opening the grave to remove the body). -stone, phûn-pi; pi-chie̍h; mõⁿ-pi. chie̍h-pi. worship at the, chì-phûn; chì-mõⁿ; sàu-mõⁿ; chì-sàu. -clothes, sien-i; sien-ho̍k. -yard, phûn-tī; phûn-suaⁿ; tsa̍p-tsǹg-tī. free, ngĩ-thóng.
+**grave**, phûn; phûn-mõⁿ; suaⁿ-phûn; huang-tsúi; phûn-suaⁿ. *to dig a grave*, khui-khuàng. *to dig a grave (used more of opening the grave to remove the body)*, khui-phûn. *grave-stone*, phûn-pi; pi-chie̍h; mõⁿ-pi. chie̍h-pi. *worship at the*, chì-phûn; chì-mõⁿ; sàu-mõⁿ; chì-sàu. *grave-clothes*, sien-i; sien-ho̍k. *grave-yard*, phûn-tī; phûn-suaⁿ; tsa̍p-tsǹg-tī. *free*, ngĩ-thóng.
 
-**grave**, in manner, tuan-tsang; tsang-ngiâm; ui-ngiâm (stern and severe); hõu-tõng. matter, tōa-sṳ̄; iàu-kín; chhiet-iàu.
+**grave**, in manner, tuan-tsang; tsang-ngiâm; hõu-tõng. *grave in manner (stern and severe)*, ui-ngiâm. matter, tōa-sṳ̄; iàu-kín; chhiet-iàu.
 
 **gravel**, sua; sua-bó; thôu-bí-sua; tshou-sua. disease, sua-lîm.
 
-**graven**, khek; tiau. on the memory, mêng-sim khek-kut. graving tool, tiau-to. -images, ngóu-sièⁿ.
+**graven**, khek; tiau. *on the memory*, mêng-sim khek-kut. *graving tool*, tiau-to. *graven-images*, ngóu-sièⁿ.
 
 **gravy**, tsap; thng; thng-tsap.
 
-**gray**, húe-hu-sek; mâng-hue-sek; ba̍k-tsúi-sek. -shirting, ngûan-sek-pòu; pńg-sek-pòu; iêⁿ-pòu. hair, thâu-môⁿ tshang-pe̍h.
+**gray**, húe-hu-sek; mâng-hue-sek; ba̍k-tsúi-sek. *gray-shirting*, ngûan-sek-pòu; pńg-sek-pòu; iêⁿ-pòu. *gray hair*, thâu-môⁿ tshang-pe̍h.
 
 **graze**, as cattle, suaⁿ-téng chia̍h-tsháu; khòi-tsháu. to graze anything, hoi--tie̍h; khoi--tie̍h. the skin, khoi--tie̍h phûe-hu; khoi tùi-phûe-hu kùe.
 
 **grease**, lâ. to, buah-lâ. greasy, seⁿ-lâ; seⁿ-iû.
 
-**great**, tōa. and small, tōa-sòi; tãi-siáu. favour, tãi-ṳn; kãu-ṳn. crime, tãng-tsũe. -hearted, sim-heng khuah-ta̍t. distance, hñg-tsãi. -coat, hiûⁿ; mîⁿ-hiûⁿ (quilted). the greater part, tōa-pùaⁿ; che̍k-tōa-ûe.
+**great**, tōa. *great and small*, tōa-sòi; tãi-siáu. *favour*, tãi-ṳn; kãu-ṳn. *great crime*, tãng-tsũe. *great-hearted*, sim-heng khuah-ta̍t. *great distance*, hñg-tsãi. *great-coat*, hiûⁿ. *great-coat (quilted)*, mîⁿ-hiûⁿ. *the greater part*, tōa-pùaⁿ; che̍k-tōa-ûe.
 
 **greedy**, tham-sim; tham-chia̍h; hàuⁿ-chia̍h.
 
@@ -349,7 +356,7 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **grin**, miⁿ-ma̍k lòu-gê.
 
-**grind**, bûa. a knife, bûa-to. flour, oi-mīⁿ. in a mortar, lûi-iùⁿ. with wheel in trough, ngói hu-hu. -stone, bûa-chie̍h.
+**grind**, bûa. *grind a knife*, bûa-to. flour, oi-mīⁿ. *in a mortar*, lûi-iùⁿ. *with wheel in trough*, ngói hu-hu. *grind-stone*, bûa-chie̍h.
 
 **grip**, khîⁿ; khîm; lia̍h; tẽⁿ; tẽⁿ-kín.
 
@@ -359,7 +366,7 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **gritty**, seⁿ-sua.
 
-**groan**, tshan; aiⁿ-aiⁿ-tshan (deep); hng-tshan (soft).
+**groan**, tshan. *(deep)*, aiⁿ-aiⁿ-tshan. *(soft)*, hng-tshan.
 
 **groom**, bé-hu; bé-tsháu-nôuⁿ.
 
@@ -371,9 +378,9 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **grotesque**, khî-kùai; koh-iēⁿ.
 
-**ground**, tī; thóu-tī; thôu-tī. on the, thôu-ẽ; tī-mīn. under-, tī-tói; tī-ẽ; thôu-tói; thôu-tĩ-ẽ. -nut, tī-tāu. -rent, tī-tsou. -rice, tshòi; hua̍t-tshòi. reason, nguân-iû; kṳn-iû; nguân-thâu; uân-kù; nguân-in; in-iû; uân-iû; in-tuan. to ground (as a ship), khùa--tie̍h; khùa-sua.
+**ground**, tī; thóu-tī; thôu-tī. *on the ground*, thôu-ẽ; tī-mīn. *under-ground*, tī-tói; tī-ẽ; thôu-tói; thôu-tĩ-ẽ. *ground-nut*, tī-tāu. *ground-rent*, tī-tsou. *ground-rice*, tshòi; hua̍t-tshòi. *reason*, nguân-iû; kṳn-iû; nguân-thâu; uân-kù; nguân-in; in-iû; uân-iû; in-tuan. *to ground (as a ship)*, khùa--tie̍h; khùa-sua.
 
-**group**, khûn; lūi. together, tsũ-chi̍p chiâⁿ-khûn. separate, hun-lūi; kui-lūi.
+**group**, khûn; lūi. *together*, tsũ-chi̍p chiâⁿ-khûn. *separate*, hun-lūi; kui-lūi.
 
 **grove**, chhiū-nâⁿ; chhiū-lîm.
 
@@ -401,7 +408,7 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **guess**, pān; iak-pān; kóu; iak; thèng-ieh; thèng-iak; iak-liãng; thóu-siẽⁿ. a riddle, tshai-mĩⁿ.
 
-**guest**, kheh; nâng-kheh; pín-kheh. (Dist. kheh-nâng, a Hakka). to assist the host in entertaining guests, pûe-kheh; phũaⁿ-kheh.
+**guest**, kheh; nâng-kheh; pín-kheh. *a Hakka, not*, kheh-nâng. *to assist the host in entertaining guests*, pûe-kheh; phũaⁿ-kheh.
 
 **guide**, tshūa-lōu; kiau-lōu; ín-tshūa.
 
@@ -423,7 +430,7 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **gums**, the, khí-ngṳ̂n. of back teeth, gê-tshn̂g.
 
-**gun**, chhèng; chiáu-chhèng. large, phàu; tōa-phàu. gunner, phàu-siú. -powder, húe-ie̍h; chhèng-ie̍h. -boat, piaⁿ-tsûn. to fire, pàng-chhèng; phah-chhèng; khui-chhèng. double-barrelled, sang-hiáng-chhèng. within gunshot, che̍k-chhèng-hñg.
+**gun**, chhèng; chiáu-chhèng. *large*, phàu; tōa-phàu. *gunner*, phàu-siú. *gun-powder*, húe-ie̍h; chhèng-ie̍h. *gun-boat*, piaⁿ-tsûn. *to fire*, pàng-chhèng; phah-chhèng; khui-chhèng. *double-barrelled*, sang-hiáng-chhèng. *within gunshot*, che̍k-chhèng-hñg.
 
 **gush**, forth, kún--tshut-lâi; pũn--tshut-lâi; piàⁿ--tshut-lâi kā-kā-kiè.
 
@@ -435,6 +442,8 @@ governor -general, tsóng-tok. lieutenant-, bú-īⁿ.
 
 **guzzle**, m̃-thêng-pue lí-lí-chia̍h.
 
-**gybe**, kùe-phâng. **gypsum**, chie̍h-ko.
+**gybe**, kùe-phâng.
+
+**gypsum**, chie̍h-ko.
 
 **gyrate**, īn-lâi īn-khṳ̀.-khṳ̀.

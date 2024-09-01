@@ -38,7 +38,7 @@ date: 2024-03-31 16:11:00
 
 **salad**, chheⁿ-tshài; phang-tshài.
 
-**salary**, kang-chîⁿ; kang-tsṳ; hóng-lo̍k (official); iáng-liâm-ngṳ̂n (id.). of teacher, tsṳ-kim; sok-kim; sok-siu.
+**salary**, kang-chîⁿ; kang-tsṳ. *(official)*, hóng-lo̍k; iáng-liâm-ngṳ̂n. *of teacher*, tsṳ-kim; sok-kim; sok-siu.
 
 **sale**, on, tah-bōi; tshut-bōi. deed of, khòi.
 
@@ -48,7 +48,7 @@ date: 2024-03-31 16:11:00
 
 **sally**, tshong-tshut.
 
-**salt**, iâm. adj., kiâm. to, lõu-kiâm; seh-iâm; suah-iâm. -cellar, iâm-ti̍h; iâm-cheng. -pans, iâm-tiâⁿ; iâm-khu; iâm-tiêⁿ. to make salt in these, pha̍k-iâm; sài-iâm. medicinal salts, phok-siau; gê-siau.
+**salt**, iâm. *(adjective)*, kiâm. *to*, lõu-kiâm; seh-iâm; suah-iâm. *salt-cellar*, iâm-ti̍h; iâm-cheng. *salt-pans*, iâm-tiâⁿ; iâm-khu; iâm-tiêⁿ. *to make salt in these*, pha̍k-iâm; sài-iâm. *medicinal salts*, phok-siau; gê-siau.
 
 **saltpetre**, siau; iâm-siau.
 
@@ -62,17 +62,19 @@ date: 2024-03-31 16:11:00
 
 **sample**, iēⁿ; mōⁿ.
 
-**sand**, sua. gritty, sua-bó. -bank, sua-pà; sua-phiâⁿ. sandy, seⁿ-sua.
-sandal-wood, thôaⁿ-tshâ; thôaⁿ-hieⁿ; thâng-hieⁿ.
+**sand**, sua. *gritty*, sua-bó. *sand-bank*, sua-pà; sua-phiâⁿ. *sandy*, seⁿ-sua.
 
-**sandals**, straw, tsháu-ôi.
+**sandal-wood**, thôaⁿ-tshâ; thôaⁿ-hieⁿ; thâng-hieⁿ.
+
+**sandals**, *straw*, tsháu-ôi.
 
 **sane**, sim tiāⁿ.
 
 **sanguinary**, hàuⁿ-suah; hiong-pãu; tshâng-pãu.
 
 **sap**, chhiū-nîⁿ; tsap.
-sapan-wood, sou-ba̍k.
+
+**sapan-wood**, sou-ba̍k.
 
 **sapphire**, chheⁿ-ge̍k.
 
@@ -94,21 +96,23 @@ sapan-wood, sou-ba̍k.
 
 **saturate**, chìm; chìm-tsúi.
 
-**Saturday**, lói-pài-la̍k; pài-la̍k. **Saturn**, thóu-chheⁿ.
+**Saturday**, lói-pài-la̍k; pài-la̍k.
 
-**sauce**, chièⁿ; sī-iû. -pan, ue.
+**Saturn**, thóu-chheⁿ.
+
+**sauce**, chièⁿ; sī-iû. *sauce-pan*, ue.
 
 **saucer**, tê-ti̍h; tê-tsûn; pûaⁿ-kiáⁿ.
 
 **saunter**, ôiⁿ-iû; mān-pōu; ûn-ûn-kiâⁿ.
 
-**sausage**, kùan-tn̂g. to fill, thn̄g-(or, tièⁿ-) kùan-tn̂g.
+**sausage**, kùan-tn̂g. *to fill*, thn̄g-kùan-tn̂g; tièⁿ-kùan-tn̂g.
 
-**savage**, chheⁿ-huan; chheⁿ-lôi; lôi-kiáⁿ. what a savage! iá--kùe chheⁿ-kha-huan!
+**savage**, chheⁿ-huan; chheⁿ-lôi; lôi-kiáⁿ. *what a savage*, iá--kùe chheⁿ-kha-huan.
 
 **save**, kiù; kiù-iẽn; chéng-kiù. Saviour, Kiù-sì-tsú; Kiù-tsú.
 
-**saving**, khiãm; khiãm-phok; liâm-khĩm; khṳ̂n-khiãm (industrious and); khieh-si̍p; sieh-chîⁿ.
+**saving**, khiãm; khiãm-phok; liâm-khĩm; khieh-si̍p; sieh-chîⁿ. *(industrious and)*, khṳ̂n-khiãm.
 
 **savoury**, phang; hó-bī-sòu.
 
@@ -147,9 +151,10 @@ sapan-wood, sou-ba̍k.
 **scarce**, hán; lân-tit; chié; hi-hán.
 
 **scarcely**, kṳ́n-kṳ́n; siè-siè.
-scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang m̄-hó; tang-chhêng m̄-hó.
 
-**scare**, phièn-nâng-kiaⁿ; heh-nâng-kiaⁿ. -crow, tsháu-nâng.
+**scarcity (famine)**, ki-hng; m̄-kàu-chia̍h. *year of*, hiong-nîⁿ; nîⁿ-tang m̄-hó; tang-chhêng m̄-hó.
+
+**scare**, phièn-nâng-kiaⁿ; heh-nâng-kiaⁿ. *scare-crow*, tsháu-nâng.
 
 **scarlet**, tsu-âng.
 
@@ -169,7 +174,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **scholar**, mn̂g-seng; tĩ-tsṳ́; ha̍k-seng; bûn-thông. a learned man, tha̍k-tsṳ-nâng; pá-ha̍k; phak-ha̍k; lãu-ha̍k-kiù; sṳ̃; bûn-sṳ̃. scholarship, ha̍k-mn̄g; lãi-tshâi; ha̍k-bûn.
 
-**school**, tsṳ-che; o̍h-tn̂g; tsṳ-īⁿ. boys', nâm-o̍h. girls', nńg-o̍h. free, ngĩ-o̍h. to open, khui-tsṳ; khui-ha̍k. to close, pie̍t-che; pie̍t-kúan; pie̍t-o̍h; pàng-kè. -boy, mông-thông; thông-mông; siáu-ha̍k-seng. -master, sin-seⁿ; kà-tsṳ sin-seⁿ. -mistress, nńg-sṳ. -fellow, theng-iú; tâng-theng phêng-iú; īⁿ-iú; tsò-pû tha̍k-tsṳ. let out the school daily, pàng-hẽ.
+**school**, tsṳ-che; o̍h-tn̂g; tsṳ-īⁿ. *boys' school*, nâm-o̍h. *girls' school*, nńg-o̍h. *free school*, ngĩ-o̍h. *to open*, khui-tsṳ; khui-ha̍k. *to close*, pie̍t-che; pie̍t-kúan; pie̍t-o̍h; pàng-kè. *school-boy*, mông-thông; thông-mông; siáu-ha̍k-seng. *school-master*, sin-seⁿ; kà-tsṳ sin-seⁿ. *school-mistress*, nńg-sṳ. *school-fellow*, theng-iú; tâng-theng phêng-iú; īⁿ-iú; tsò-pû tha̍k-tsṳ. *let out the school daily*, pàng-hẽ.
 
 **schooner**, nõⁿ-ûi kap-pán-tsûn.
 
@@ -193,7 +198,9 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **scoundrel**, kuang-kùn; láu-kiáⁿ; kùn-thû; húiⁿ-thû; húiⁿ-lūi.
 
-**scour**, chhiù; lṳ̀. with sand, sua-chhiù. **scourge**, pien-phah; tsang-piⁿ phah.
+**scour**, chhiù; lṳ̀. with sand, sua-chhiù.
+
+**scourge**, pien-phah; tsang-piⁿ phah.
 
 **scout**, thàm-kiáⁿ; sàu-thàm; tsôiⁿ-sàu.
 
@@ -213,7 +220,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **screen**, to, chia; chia-liâm; tsa̍h-phîn. a, phîn-huang; ûi-phîn; mn̂g-liâm.
 
-**screw**, lô-si. nail, lô-si-teng. to drive, ká lô-si-teng; tsũn lô-si-teng. -driver, lô-si-poi. a cork-screw, lô-si-tsũn.
+**screw**, lô-si. *nail*, lô-si-teng. *to drive*, ká lô-si-teng; tsũn lô-si-teng. *screw-driver*, lô-si-poi. *a cork-screw*, lô-si-tsũn.
 
 **scribble**, thèng-siá thèng-ūe. on walls, thèng-ūe-chhiêⁿ.
 
@@ -247,7 +254,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **seal**, ìn; ìn-sek; thû-su. official, kuaⁿ-ìn. imperial, ge̍k-zṳ́. to, khap-ìn; teh-ìn. shut up the seals during holidays, huang-ìn. to seal up, as letter, door &c, huang. seal-characters, tũan-jī; poih-hun-su.
 
-**seal**, the, hái-káu. -skin, hái-káu-phûe.
+**seal**, *the*, hái-káu. *seal-skin*, hái-káu-phûe.
 
 **seam**, saⁿ-tsūe. to, chih-pòu-tsūe; nn̂g-saⁿ.
 
@@ -279,7 +286,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **sedate**, tsang-kèng; ngiâm-chiàⁿ; ngiâm-khì chiàⁿ-sèⁿ; ui-ngiâm; sim chẽⁿ.
 
-**sediment**, tái; phoh (refuse). of medicine, ie̍h-tái.
+**sediment**, tái. *(refuse)*, phoh. of medicine, ie̍h-tái.
 
 **seditious**, ngóu-nge̍k; pũan-nge̍k.
 
@@ -293,7 +300,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **seek**, tshūe; chhê; khiû; thû; thó; chhîm. an opportunity to injure one, tshūe-phāng; tshūe-khiah.
 
-**seem**, to, chhin-chhiẽⁿ; siang-sṳ̃; húang-sṳ̃. how does it seem to you? lṳ́ thóiⁿ-tie̍h tsãi-seⁿ? as if dead, kâi-iēⁿ àn-sí hièⁿ-seⁿ.
+**seem**, *to*, chhin-chhiẽⁿ; siang-sṳ̃; húang-sṳ̃. *how does it seem to you*, lṳ́ thóiⁿ-tie̍h tsãi-seⁿ. *as if dead*, kâi-iēⁿ àn-sí hièⁿ-seⁿ.
 
 **seemly**, ha̍h-ngî; ha̍h-sek.
 
@@ -303,7 +310,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **select**, súan; súan-to̍h; to̍h; kóiⁿ; kóiⁿ-to̍h; to̍h--tshut-lâi.
 
-**self**, ka-kī; tsṳ̃-kí; pńg-sin; chhin-sin. -examination, tsṳ̃-séng; tsṳ̃-sṳ; tsṳ̃-siẽⁿ; tsṳ̃-tshat; tsṳ̃-mn̄g; tsṳ̃-àn; séⁿ-tshat ka-kī; mn̄g-sim chẽⁿ-àn. -satisfied, tsṳ̃-tsok. -conceit, tsṳ̃-múaⁿ; tsṳ̃-sĩ. injure oneself, tshâng-hāi ka-kī; tsṳ̃-pãu; tsṳ̃-khì; tsṳ̃-tshú khî-hũa.
+**self**, ka-kī; tsṳ̃-kí; pńg-sin; chhin-sin. *self-examination*, tsṳ̃-séng; tsṳ̃-sṳ; tsṳ̃-siẽⁿ; tsṳ̃-tshat; tsṳ̃-mn̄g; tsṳ̃-àn; séⁿ-tshat ka-kī; mn̄g-sim chẽⁿ-àn. *self-satisfied*, tsṳ̃-tsok. *self-conceit*, tsṳ̃-múaⁿ; tsṳ̃-sĩ. *injure oneself*, tshâng-hāi ka-kī; tsṳ̃-pãu; tsṳ̃-khì; tsṳ̃-tshú khî-hũa.
 
 **selfish**, sṳ-sim; tsṳ̃-sim ũi-kí; lĩ-kí; kù-kí. unselfish, chì-kong bô-sṳ; thãi-nâng zû-kí; kãu-nâng po̍h-kí.
 
@@ -343,7 +350,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **serrate**, seⁿ-kṳ̀-khí.
 
-**servant**, kang-jîn; ēng-jîn; sái-hùan kâi-nâng; sái-tãng kâi kang-jîn; sĩ-tsái (applied to servants of foreigners); nôuⁿ-po̍k (slave); iông-kang kâi-nâng. in a family, ke-jîn. to be one's, kāng-nâng tsò-kang. servants of mandarin, kṳn-pan; kṳn-súi.
+**servant**, kang-jîn; ēng-jîn; sái-hùan kâi-nâng; sái-tãng kâi kang-jîn; iông-kang kâi-nâng. *(applied to servants of foreigners)*, sĩ-tsái. *(slave)*, nôuⁿ-po̍k. in a family, ke-jîn. to be one's, kāng-nâng tsò-kang. servants of mandarin, kṳn-pan; kṳn-súi.
 
 **serve**, ho̍k-sṳ̃; ho̍k-sĩ; ho̍k-hia̍h; phōiⁿ-sṳ̄.
 
@@ -355,9 +362,9 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **set**, a, che̍k-hù; che̍k-thàu; che̍k-kah. of books, a whole work, che̍k-pang. changing sets of men several times a day, che̍k-ji̍t ūaⁿ ke-sek-nâng. a mean set, hiã-liû-pùe.
 
-**set**, to, as gems, sieⁿ-ge̍k. as fruit, kat-si̍t; kit-chí. as sun, ji̍t lo̍h; ji̍t-thâu lo̍h-suaⁿ. a watch, sî-pie tshâu-chiàⁿ. to set about, khui-chhiú; khí-kang. at rest, pàng-uaⁿ. bones, chiap-kut. eggs, khṳt koi-bó pū-nñg. down, pàng--tõ-kò; hẽ--lo̍h-khṳ̀. fire to, pàng-húe; to̍h-húe; sit-húe (accidentally). one's heart on, liû-sim; tsuan-sim; tsù-liãm; tsù-ì; kù-sim kù-ì. out on a journey, khí-sin; khí-kiâⁿ; khí-thêng; tõng-sin. the teeth on edge, khí nńg. out trees, chèng-chhiū-tsai. the table, pái-toh; pái-tshn̂g; pái-siet. up, li̍p; siet-li̍p. a shop, sin-khui-phòu. sail, khí-phâng. an example, piáu-iēⁿ; tsò-iēⁿ khṳt-nâng-o̍h.
+**set**, to, as gems, sieⁿ-ge̍k. as fruit, kat-si̍t; kit-chí. as sun, ji̍t lo̍h; ji̍t-thâu lo̍h-suaⁿ. a watch, sî-pie tshâu-chiàⁿ. to set about, khui-chhiú; khí-kang. at rest, pàng-uaⁿ. bones, chiap-kut. eggs, khṳt koi-bó pū-nñg. down, pàng--tõ-kò; hẽ--lo̍h-khṳ̀. fire to, pàng-húe; to̍h-húe. *fire to (accidentally)*, sit-húe. one's heart on, liû-sim; tsuan-sim; tsù-liãm; tsù-ì; kù-sim kù-ì. out on a journey, khí-sin; khí-kiâⁿ; khí-thêng; tõng-sin. the teeth on edge, khí nńg. out trees, chèng-chhiū-tsai. the table, pái-toh; pái-tshn̂g; pái-siet. up, li̍p; siet-li̍p. a shop, sin-khui-phòu. sail, khí-phâng. an example, piáu-iēⁿ; tsò-iēⁿ khṳt-nâng-o̍h.
 
-**settle**, an offair, lí-chheng-tshó; lí-tiāⁿ-tie̍h; tiāⁿ-tie̍h. how are you going to settle this? àiⁿ-tsò-nîⁿ huat-lo̍h? settled, tieh-lo̍h; tàⁿ-theng-thó. accounts, ap-siàu; chheng-siàu; siàu-ba̍k chheng-tshó. as muddy water, tsõ-chheng. a bargain, bói-sêng. a quarrel, hûa-sek.
+**settle**, *an offair*, lí-chheng-tshó; lí-tiāⁿ-tie̍h; tiāⁿ-tie̍h. *how are you going to settle this*, àiⁿ-tsò-nîⁿ huat-lo̍h. *settled*, tieh-lo̍h; tàⁿ-theng-thó. accounts, ap-siàu; chheng-siàu; siàu-ba̍k chheng-tshó. *as muddy water*, tsõ-chheng. *a bargain*, bói-sêng. *a quarrel*, hûa-sek.
 
 **seven**, chhit. seventeen, tsa̍p-chhit.
 
@@ -365,13 +372,13 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **severe**, ngiâm; ngẽ. beating, tãng-phah; phah-thiám-thiám. wound, tãng-sieⁿ.
 
-**sew**, to, thīⁿ; thīⁿ-saⁿ. can you sew? lṳ́ pat sái-tsam, mé? õi-thīⁿ-saⁿ, mé? sewing machine, tsam-kui.
+**sew**, *to*, thīⁿ; thīⁿ-saⁿ. *can you sew*, lṳ́ pat sái-tsam, mé; õi-thīⁿ-saⁿ, mé. *sewing machine*, tsam-kui.
 
 **sewer**, tsúi-kau; sái-kau.
 
 **sex**, nâm-nńg tsṳ-hun-pie̍t.
 
-**sextant**, niêⁿ-thiⁿ-chhieh (or quadrant).
+**sextant**, *(or quadrant)*, niêⁿ-thiⁿ-chhieh.
 
 **shabby**, mean, phí-lõu; liẽn-siap; siáu-jîn. in dress, chhēng-khah-khiãm; phok-lõu.
 
@@ -395,7 +402,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **sham**, ké. see PRETEND.
 
-**shambles**, gû-tôu (slaughter-house); bōi-ne̍k-chhĩ (meat-market).
+**shambles**, *(slaughter-house)*, gû-tôu. *(meat-market)*, bōi-ne̍k-chhĩ.
 
 **shame**, siáu-lí; siu-chhíⁿ. put to, kièn-siàu. shamefaced, ùi-siáu-lí. shameful, chhiú-sṳ̄; siáu-lí-sṳ̄. shameless, m̄-ùi siáu-lí; mīn-phûe kãu.
 
@@ -409,7 +416,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **shark**, sua-hṳ̂. fins, hṳ̂-chhì.
 
-**sharp**, lāi. pointed, chiam. sharpen, bûa-lāi; bûa-chiam; phoi-chiam. the appetite, khui-ūi-kháu. of the tongue, tshùi lāi. -featured, chiam-lāi. clever, lêng-lāi. a sharper, kuang-kùn; láu-kiáⁿ.
+**sharp**, lāi. *pointed*, chiam. *sharpen*, bûa-lāi; bûa-chiam; phoi-chiam. *the appetite*, khui-ūi-kháu. *sharp of the tongue*, tshùi lāi. *sharp-featured*, chiam-lāi. clever, lêng-lāi. *a sharper*, kuang-kùn; láu-kiáⁿ.
 
 **shatter**, phùa-tshùi. shattered in health, phùa-sieⁿ.
 
@@ -421,7 +428,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **sheaf**, pé; tẽⁿ; pa̍k; tsáng; sok; hâ.
 
-**shear**, to, chién-môⁿ; ka-môⁿ. shears, tōa-ke-to; chién-to; hóuⁿ-thâu-tso̍ih (kind of guillotine).
+**shear**, to, chién-môⁿ; ka-môⁿ. shears, tōa-ke-to; chién-to. *(kind of guillotine)*, hóuⁿ-thâu-tso̍ih.
 
 **sheath**, khak; sièⁿ. of grass, tsháu-khòu.
 
@@ -431,13 +438,13 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **shed**, a, chhiáng; phâng-chhiáng; phâng-pêⁿ.
 
-**sheep**, iêⁿ; mîⁿ-iêⁿ. -fold, iêⁿ-lô; iêⁿ-lâng; iêⁿ-liâu; iêⁿ-tsàng. sheep-skin coat, iⁿê-phûe-niûⁿ.
+**sheep**, iêⁿ; mîⁿ-iêⁿ. *sheep-fold*, iêⁿ-lô; iêⁿ-lâng; iêⁿ-liâu; iêⁿ-tsàng. *sheep-skin coat*, iêⁿ-phûe-niûⁿ.
 
-**sheet**, of paper, che̍k-tieⁿ-tsúa. for a bed, phũe-toaⁿ. of sail, liâu; liâu-bó. haul in the sheet, sa-liâu. slack out, sang-liâu.
+**sheet**, *of paper*, che̍k-tieⁿ-tsúa. *for a bed*, phũe-toaⁿ. *of sail*, liâu; liâu-bó. *haul in the sheet*, sa-liâu. *slack out*, sang-liâu.
 
 **shelf**, kè; keh; tsâng.
 
-**shell**, khak. egg-, nñg-khak. of shall-fish, ham-khak; lô-khak. to blow a, pûn-pu.
+**shell**, khak. egg-shell, nñg-khak. of shall-fish, ham-khak; lô-khak. to blow a, pûn-pu.
 
 **shelter**, pì-ìm; pau-pì. from rain, chia-hõu; siám-hõu. to take, tiàm-sin; tshâng-sin; siám.
 
@@ -451,7 +458,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **shine**, chiè; chiè-kng; huat-kng; huat-kuang. shining brightly, tâng-tâng-kng.
 
-**ship**, tsûn. one, che̍k-chiah-tsûn. foreign, kap-pán-tsûn. -wreck, tsûn phùa-tiāu; pua̍h-phùa-tsûn; pua̍h-tiāu-tsûn. -wright, tsõ-tsûn sai-pẽ. -captain, tsûn-tsú (foreign).
+**ship**, tsûn. *one*, che̍k-chiah-tsûn. *foreign*, kap-pán-tsûn. *ship-wreck*, tsûn phùa-tiāu; pua̍h-phùa-tsûn; pua̍h-tiāu-tsûn. *ship-wright*, tsõ-tsûn sai-pẽ. *ship-captain (foreign)*, tsûn-tsú.
 
 **shirt**, sin-tói-saⁿ; lãi-saⁿ; kṳ̃n-sin-i; kūaⁿ-saⁿ; tsṳ̀-kūaⁿ-saⁿ.
 
@@ -503,7 +510,7 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **shrivelled**, jiâu-jiâu; niàuⁿ-niàuⁿ.
 
-**shroff**, tshâi-hù; bói-pan (in foreign hong); ke-tiéⁿ. to shroff dollars, thóiⁿ-ngṳ̂n.
+**shroff**, tshâi-hù; ke-tiéⁿ. to shroff dollars, thóiⁿ-ngṳ̂n. *(in foreign hong)*, bói-pan.
 
 **shroud**, sien-saⁿ; sàng-lãu kâi i-ho̍k; sien-i.
 
@@ -517,24 +524,27 @@ scarcity (famine), ki-hng; m̄-kàu-chia̍h. year of, hiong-nîⁿ; nîⁿ-tang 
 
 **shun**, pī; siám-pī; tô-pī; pī-khûi; sie-pī.
 
-**shut**, the door, hõiⁿ-mn̂g (without fastening); kueⁿ-mn̂g (and fasten); mn̂g kueⁿ-tah (id.); tshùaⁿ-mn̂g (to bolt). door half-shut, mn̂g pùaⁿ-hâm-hõiⁿ; pùaⁿ-iám-hõiⁿ. shut out, bô-nâng-ji̍p; bô-thang pun-nâng-ji̍p. a shop, kueⁿ-phòu; hiah-seng-lí. the eyes, ma̍k-chiu ha̍p-miⁿ. the mouth, tshùi ha̍p-bûa. the water-gates, lo̍h-tsa̍h; tsa̍h-chheng-pang. one up in prison, kìm-kam; siu-kam.
+**shut**, *shut the door (without fastening)*, hõiⁿ-mn̂g. *shut the door (and fasten)*, kueⁿ-mn̂g; mn̂g kueⁿ-tah. *shut the door (to bolt)*, tshùaⁿ-mn̂g. *door half-shut*, mn̂g pùaⁿ-hâm-hõiⁿ; pùaⁿ-iám-hõiⁿ. shut out, bô-nâng-ji̍p; bô-thang pun-nâng-ji̍p. *a shop*, kueⁿ-phòu; hiah-seng-lí. *the eyes*, ma̍k-chiu ha̍p-miⁿ. *the mouth*, tshùi ha̍p-bûa. *the water-gates*, lo̍h-tsa̍h; tsa̍h-chheng-pang. *one up in prison*, kìm-kam; siu-kam.
 
 **shutter**, theng-mn̂g.
 
 **shuttle**, so-kiáⁿ; keⁿ-pòu-so. to fly the, phau-so.
-shuttle-cock, ìⁿ; ìn. to play, phah-ìⁿ; tiāu-ìn; phah-ìn.
+
+**shuttle-cock**, ìⁿ; ìn. *to play*, phah-ìⁿ; tiāu-ìn; phah-ìn.
 
 **shy**, ùi-siáu-lí; m̄-káⁿ kìⁿ-nâng; kiu-niuⁿ; kiu-kiu niuⁿ-niuⁿ.
 
 **Siam**, Siām-lô.
 
-**sick**, ũ-pēⁿ; nâng bõi; nâng m̄-hó; m̄-phêng-an; sin-thói m̄-uaⁿ; sin-thói m̄-hûa; khì-thói m̄-hûa; kong-tãu bô-thang-hó; ien-siên (slightly). sickness, pēⁿ; pēⁿ-chèng; mâuⁿ-pēⁿ; chi̍t-pēⁿ; chèng-hāu; pēⁿ-thiàⁿ; pēⁿ-nńg; pēⁿ-khùn. sea-sick, hîn-tsûn. sickly, sin-hūn lám; sin-hūn jia̍k; sin-hūn phàⁿ. squeamish, àiⁿ-thòu. to be sick (vomit), thòu.
+**sick**, ũ-pēⁿ; nâng bõi; nâng m̄-hó; m̄-phêng-an; sin-thói m̄-uaⁿ; sin-thói m̄-hûa; khì-thói m̄-hûa; kong-tãu bô-thang-hó. *(slightly)*, ien-siên. sickness, pēⁿ; pēⁿ-chèng; mâuⁿ-pēⁿ; chi̍t-pēⁿ; chèng-hāu; pēⁿ-thiàⁿ; pēⁿ-nńg; pēⁿ-khùn. sea-sick, hîn-tsûn. sickly, sin-hūn lám; sin-hūn jia̍k; sin-hūn phàⁿ. squeamish, àiⁿ-thòu. *to be sick (vomit)*, thòu.
 
 **sickle**, liâm; kau-liâm; kuah-tsháu-to.
 
-**side**, pôiⁿ; piⁿ; kîⁿ; phâng-piⁿ. door, phien-mn̂g. the side of the body, phiaⁿ-lî; hia̍p-ẽ. right, iũ-pôiⁿ; chiàⁿ-chhiú-pôiⁿ. left, tsó-pôiⁿ; tò-chhiú-pôiⁿ. turn from side to side, huan-lâi huan-khṳ̀; huan-lâi khah-khṳ̀ put-sêng-mîn (tossing sleeplessly). this, chièⁿ-pôiⁿ; chièⁿ-thâu. that, hièⁿ-pôiⁿ; hièⁿ-thâu. at one's, tõ i sin-piⁿ.
+**side**, pôiⁿ; piⁿ; kîⁿ; phâng-piⁿ. door, phien-mn̂g. the side of the body, phiaⁿ-lî; hia̍p-ẽ. right, iũ-pôiⁿ; chiàⁿ-chhiú-pôiⁿ. left, tsó-pôiⁿ; tò-chhiú-pôiⁿ. turn from side to side, huan-lâi huan-khṳ̀. *turn from side to side (tossing sleeplessly)*, huan-lâi khah-khṳ̀ put-sêng-mîn. this, chièⁿ-pôiⁿ; chièⁿ-thâu. that, hièⁿ-pôiⁿ; hièⁿ-thâu. at one's, tõ i sin-piⁿ.
 
-**sieve**, a, thai; bí-thai; bí-lô; pùa-ki (rather, a shallow tray for winnowing). **sift**, to, thai.
+**sieve**, a, thai; bí-thai; bí-lô. *(rather, a shallow tray for winnowing)*, pùa-ki.
+
+**sift**, to, thai.
 
 **sigh**, tháu-khùi; thàng-khì; thàng-sek.
 
@@ -555,11 +565,12 @@ shuttle-cock, ìⁿ; ìn. to play, phah-ìⁿ; tiāu-ìn; phah-ìn.
 **silent**, tiām-tiām; tiām-chẽⁿ; m̃-khui-tshùi; bô-tshut-siaⁿ; mi̍t-mi̍t bô-ngân.
 
 **silk**, si-tiû lîn-tn̄g. thread, si-sùaⁿ. shop, tiû-tn̄g-phòu.
-silk-worm, tshôiⁿ. cocoon, tshôiⁿ-kóiⁿ. to rear, chhī-tshôiⁿ; iáng-tshôiⁿ. larvoe of, tshôiⁿ-jîn. silk-worm moth, tshôiⁿ-ngô.
+
+**silk-worm**, tshôiⁿ. *cocoon*, tshôiⁿ-kóiⁿ. *to rear*, chhī-tshôiⁿ; iáng-tshôiⁿ. *larvoe of*, tshôiⁿ-jîn. *silk-worm moth*, tshôiⁿ-ngô.
 
 **silly**, chhi-ko; chhi-chhi ngâi-ngâi.
 
-**silver**, ngṳ̂n. -smith, phah-ngṳ̂n sai-pẽ. shop, siu-sek-phòu. pure, tsok-siâⁿ-ngṳ̂n. with two parts of alloy, poih-siâⁿ-ngṳ̂n. fragments of, ngṳ̂n-tshùi. ingots, see INGOT.
+**silver**, ngṳ̂n. *silver-smith*, phah-ngṳ̂n sai-pẽ. *shop*, siu-sek-phòu. *pure*, tsok-siâⁿ-ngṳ̂n. *with two parts of alloy*, poih-siâⁿ-ngṳ̂n. *fragments of*, ngṳ̂n-tshùi. *ingots*, see INGOT.
 
 **similar**, húang-sṳ̃; siang-sṳ̃; chhin-chhiẽⁿ; tãi-tâng, siáu-ĩ; húang-hut.
 
@@ -569,9 +580,11 @@ silk-worm, tshôiⁿ. cocoon, tshôiⁿ-kóiⁿ. to rear, chhī-tshôiⁿ; iáng
 
 **simultaneous**, tâng-sî; tsò-che̍k-ē.
 
-**sin**, tsũe; tsũe-ak; tsũe-kùe. to sin, hũam-tsũe; tit-tsũe. [tsũe means guilt.]
+**sin**, tsũe; tsũe-ak; tsũe-kùe. to sin, hũam-tsũe; tit-tsũe.
 
-**since**, when? tâng tiâng-sî? olden times, tâng-kóu-tsá kàu-chí-kò lâi; tsṳ̃-tsá íⁿ-lâi; tshông-kóu íⁿ-lâi. since it is so, kì-sĩ chièⁿ-seⁿ; kì-jiên sĩ chièⁿ-seⁿ. **sincere**, sêng-si̍t; si̍t-sim si̍t-ì; chin-sim chin-ì; sêng-ì; sêng-sim sêng-ì.
+**since**, *when*, tâng tiâng-sî. *olden times*, tâng-kóu-tsá kàu-chí-kò lâi; tsṳ̃-tsá íⁿ-lâi; tshông-kóu íⁿ-lâi. *since it is so*, kì-sĩ chièⁿ-seⁿ; kì-jiên sĩ chièⁿ-seⁿ.
+
+**sincere**, sêng-si̍t; si̍t-sim si̍t-ì; chin-sim chin-ì; sêng-ì; sêng-sim sêng-ì.
 
 **sinecure**, khang-hâm; chia̍h-kan-hóng.
 
@@ -593,7 +606,7 @@ silk-worm, tshôiⁿ. cocoon, tshôiⁿ-kóiⁿ. to rear, chhī-tshôiⁿ; iáng
 
 **Sir**, tsun-kè; lãu-tia; láu-tsṳ́; lãu-nâng-ke; sin-seⁿ; siàng-kong.
 
-**sister**, ché-mūeⁿ; chí-mūeⁿ. *elder*, a-ché. *younger*, a-mūeⁿ. *sister-in-law*, a-só *(wife of older brother)*; sié-ḿ (*wife of younger brother*); tĩ-hũ (*id*.). *wife's sister*, chhi-î. *mother's*, bó-î. *husband's* a-kou.
+**sister**, ché-mūeⁿ; chí-mūeⁿ. *elder*, a-ché. *younger*, a-mūeⁿ. *sister-in-law*, *sister-in-law (wife of older brother)*, a-só. *sister-in-law (wife of younger brother)*, sié-ḿ; tĩ-hũ. *wife's sister*, chhi-î. *mother's*, bó-î. *husband's* a-kou.
 
 **sit**, *to*, tsõ. *on horseback*, khiâ-bé. *cross-legged*, phûan-khí-kha tsõ. *please sit down*, chhiáⁿ-tsõ. *on one's knee*, tsõ tõ i-kâi-kha--thâu.
 
@@ -601,8 +614,7 @@ silk-worm, tshôiⁿ. cocoon, tshôiⁿ-kóiⁿ. to rear, chhī-tshôiⁿ; iáng
 
 **six**, la̍k. *hexagonal*, la̍k-kak.
 
-**size**, tōu-liãng; liãng-tōu. *what?* ũ-jie̍h-tōa?
-size (*glue*) ka-tsúi.
+**size**, tōu-liãng; liãng-tōu. *what*, ũ-jie̍h-tōa. *size (glue)*, ka-tsúi.
 
 **skate**, *fish*, hang-hṳ̂.
 
@@ -610,7 +622,7 @@ size (*glue*) ka-tsúi.
 
 **skeleton**, kut-thói; koú-kut. *like a*, chek-sin tou-sĩ-kut.
 
-**sketch**, *to*, ūe; ūe-kó; ngóu-pit; phah-kó; phah-tshó (*writing*).
+**sketch**, *to*, ūe; ūe-kó; ngóu-pit; phah-kó. *(writing)*, phah-tshó.
 
 **skewer**, sie-ne̍k-tshuàn.
 
@@ -624,7 +636,7 @@ size (*glue*) ka-tsúi.
 
 **skirmish**, tshó-lia̍k sie-thâi; sie-lã; ke-húe sie-lã.
 
-**skirt**, kûn (of dress); kṳ (border).
+**skirt**, *(of dress)*, kûn. *(border)*, kṳ.
 
 **skull**, thâu-khak-úaⁿ; thâu-náuⁿ-kut.
 
@@ -638,7 +650,7 @@ size (*glue*) ka-tsúi.
 
 **slam**, a door, khãm-tie̍h-mn̂g; mn̂g piãng--chē-kiè.
 
-**slander**, húiⁿ-pãng; pù-lũ; iâu-pãng (widely); tsàm-tsǹg.
+**slander**, húiⁿ-pãng; pù-lũ; tsàm-tsǹg. *(widely)*, iâu-pãng.
 
 **slang**, koi-chhĩ-ūe; chhĩ-chéⁿ-ūe.
 
@@ -646,7 +658,7 @@ size (*glue*) ka-tsúi.
 
 **slap**, on the cheek, phah-tshùi-póiⁿ; piang-kih-kau; òng kih-kau-tsô. on shoulder, tah-koiⁿ-thâu.
 
-**slate**, chie̍h-póiⁿ; chie̍h-hiã; hún-pâi-chie̍h (for writing).
+**slate**, chie̍h-póiⁿ; chie̍h-hiã. *(for writing)*, hún-pâi-chie̍h.
 
 **slattern**, lah-tah tsṳ-niêⁿ; thâu-môⁿ zû-sàu-soi, kha-tîⁿ pũaⁿ-sí-koi.
 
@@ -654,11 +666,11 @@ size (*glue*) ka-tsúi.
 
 **slave**, nôuⁿ; nôuⁿ-po̍k; po̍k-jîn; nôuⁿ-tshâi; ke-po̍k. female, tsáu-kúi; nńg-pĩ; nôuⁿ-pĩ. slaves, male and female, po̍k-pĩ.
 
-**sledge**, for mud, thôu-thiàu. to ride on, thek-thiàu. for ice, thua-kiē. -hammer, tōa-thih-thûi.
+**sledge**, *for mud*, thôu-thiàu. *to ride on*, thek-thiàu. *for ice*, thua-kiē. *sledge-hammer*, tōa-thih-thûi.
 
 **sleek**, kng-kng; kuang-che̍k; môⁿ-tsháu kuang-che̍k; môⁿ-tsháu kuang-iām; kng-ku̍t; ku̍t-che̍k.
 
-**sleep**, gu̍t; u̍t. with one, tsò-pû-gūt. sleepless, bõi-gu̍t; chhéⁿ-pî (from drinking tea). sleepy, phî-phî; ma̍k siap; ma̍k-chiu siap; àiⁿ-gu̍t. foot sleeping, kha pì-pì; kha ngûi-ngûi.
+**sleep**, gu̍t; u̍t. with one, tsò-pû-gūt. sleepless, bõi-gu̍t. *(from drinking tea)*, chhéⁿ-pî. sleepy, phî-phî; ma̍k siap; ma̍k-chiu siap; àiⁿ-gu̍t. foot sleeping, kha pì-pì; kha ngûi-ngûi.
 
 **sleet**, lo̍h-sng-soh; lo̍h-pha̍k.
 
@@ -678,9 +690,9 @@ size (*glue*) ka-tsúi.
 
 **sling**, *a*, huat-chie̍h kâi-soh. *to, the arm*, tiàu-chhiú.
 
-**slip**, liù-pua̍h (*on an incline*); liū-pua̍h (*on level slippery surface*); liù-kha; sit-kha; sit-tsok; thām-phiù-kha. *out of the hand*, sit-chhiú; phiù-chhiú. *away*, thut-tsáu; thau-tsáu. *slips*, phièn; tek-chhiam (*bamboo*); tsúa-tiâu *(paper)*. *slips of plants*, chhiū-tsai; hue-tsai. *slip of the tongue*, sit-ngân; sit-kháu; kháu-kùe; tàⁿ-tāⁿ.
+**slip**, liù-kha; sit-kha; sit-tsok; thām-phiù-kha. *(on an incline)*, liù-pua̍h. *(on level slippery surface)*, liū-pua̍h. *out of the hand*, sit-chhiú; phiù-chhiú. *away*, thut-tsáu; thau-tsáu. *slips*, phièn. *slips (bamboo)*, tek-chhiam. *slips (paper)*, tsúa-tiâu. *slips of plants*, chhiū-tsai; hue-tsai. *slip of the tongue*, sit-ngân; sit-kháu; kháu-kùe; tàⁿ-tāⁿ.
 
-**slippers**, ôi-thua; ôi-liauh; ìⁿ-búe-ôi (*all without heels*); piẽn-ôi.
+**slippers**, ôi-thua; ôi-liauh; piẽn-ôi. *(all without heels)*, ìⁿ-búe-ôi.
 
 **slippery**, liù-liù-ku̍t; liū-liū-ku̍t; ku̍t.
 
@@ -720,7 +732,9 @@ size (*glue*) ka-tsúi.
 
 **smile**, chhiè; mûiⁿ-chhiè; ba-bun-chhiè.
 
-**smith**, *black-*, phah-thih sai-pẽ. *silver-*, phah-ngṳ̂n sai-pẽ. *smithy*, phah-thih-tiàm *(or,* phòu*)*. **smoke**, in; húe-in; hun; húe-hun. *to smoke tobacco*, chia̍h-hun; chia̍h-se̍k-hun; kuh-hun. *opium*, chia̍h-a-phièn; chia̍h a-phièn-hun. *mosquitoes*, hun-máng.
+**smith**, *black-*, phah-thih sai-pẽ. *silver-*, phah-ngṳ̂n sai-pẽ. *smithy*, phah-thih-tiàm; phah-thih-phòu.
+
+**smoke**, in; húe-in; hun; húe-hun. *to smoke tobacco*, chia̍h-hun; chia̍h-se̍k-hun; kuh-hun. *opium*, chia̍h-a-phièn; chia̍h a-phièn-hun. *mosquitoes*, hun-máng.
 
 **smooth**, ku̍t; kng; pêⁿ. *smoothing iron*, ut-táu. *smooth-tongued*, tshùi ku̍t-ku̍t.
 
@@ -760,7 +774,7 @@ size (*glue*) ka-tsúi.
 
 **soak**, chìm; chìm-tsúi; tsṳ̀; sò. *thoroughly soaked*, chìm-thàng; chìm-ji̍p-tī; tsn̂g-kâi tsṳ̀--kùe; tsṳ̀-thàng.
 
-**soap**, piáⁿ-ie̍h; huan-piáⁿ-ie̍h *(foreign)*; huân-káng; hiang-khou; phang-khou; tê-chí-khou. *-stone*, tàng-chie̍h.
+**soap**, piáⁿ-ie̍h; huân-káng; hiang-khou; phang-khou; tê-chí-khou. *(foreign)*, huan-piáⁿ-ie̍h. *soap-stone*, tàng-chie̍h.
 
 **soar**, pue-kûiⁿ.
 
@@ -786,7 +800,7 @@ size (*glue*) ka-tsúi.
 
 **solder**, ún; ún-siah; ún-tùe; hūaⁿ-tùe; tâng-hūaⁿ.
 
-**soldier**, piaⁿ; piaⁿ-teng; láu-chiàng; ióng-tsàng (militia); ióng. soldiers, piaⁿ-ióng; kun-sṳ̃.
+**soldier**, piaⁿ; piaⁿ-teng; láu-chiàng; ióng. *(militia)*, ióng-tsàng. soldiers, piaⁿ-ióng; kun-sṳ̃.
 
 **sole**, of foot, kha-tói. of shoe, ôi-tói. to sole a shoe, tah-ôi-tói.
 
@@ -816,7 +830,9 @@ size (*glue*) ka-tsúi.
 
 **song**, khek; kua; si; ko. one, che̍k-tiâu-khek. book, khek-chheh. to sing a, chhiè-khek; chhiàng-khek; chhiè-kua; ngîm-si.
 
-**soon**, tsá; bô-kú. sooner ripe, soiⁿ-se̍k. sooner than you, soiⁿ-lṳ́; soiⁿ-kùe-lṳ́. sooner...than, see RATHER. **soot**, húe-thûn; húe-thûn-êng.
+**soon**, tsá; bô-kú. sooner ripe, soiⁿ-se̍k. sooner than you, soiⁿ-lṳ́; soiⁿ-kùe-lṳ́. sooner...than, see RATHER.
+
+**soot**, húe-thûn; húe-thûn-êng.
 
 **soothe**, uaⁿ-ùe; bú-sut.
 
@@ -832,7 +848,7 @@ size (*glue*) ka-tsúi.
 
 **soul**, lêng-hûn.
 
-**sound**, siaⁿ; siaⁿ-im; kiè. to, õi-hiáng. a drum, phah-kóu. of music, gau̍h-im. of knocking, khok-khok-kiè (every sound has its own proper designation in this form).
+**sound**, siaⁿ; siaⁿ-im; kiè. to, õi-hiáng. a drum, phah-kóu. of music, gau̍h-im. *of knocking (every sound has its own proper designation in this form)*, khok-khok-kiè.
 
 **sound**, doctrine, chiàⁿ-kà; chiàⁿ-lí; chiàⁿ-tãu; chiàⁿ-lōu. sound asleep, gu̍t kàu-tsùi-tsãi; tōa-gu̍t.
 
@@ -858,7 +874,9 @@ size (*glue*) ka-tsúi.
 
 **spacious**, khuah; khuah-khǹg; khùaⁿ; khuan-khuah; khùaⁿ-chhēng.
 
-**spade**, thih-chhiâng; phûe-chhiâng. **Spain**, Tōa-Lṳ̃-sòng kok. Spanish-fly, see CANTHARIDES.
+**spade**, thih-chhiâng; phûe-chhiâng.
+
+**Spain**, Tōa-Lṳ̃-sòng kok. Spanish-fly, see CANTHARIDES.
 
 **span**, a, che̍k-lia̍h.
 
@@ -868,7 +886,7 @@ size (*glue*) ka-tsúi.
 
 **spark**, húe-mêⁿ. sparkling, ia̍p-ia̍p-sih.
 
-**sparrow**, mûaⁿ-chiah; mûaⁿ-chiah-chiáu. -hawk, liáu-eng-pô.
+**sparrow**, mûaⁿ-chiah; mûaⁿ-chiah-chiáu. *sparrow-hawk*, liáu-eng-pô.
 
 **spasm**, thiu-kṳn; thiu-thek.
 
@@ -920,7 +938,7 @@ size (*glue*) ka-tsúi.
 
 **spin**, pháng-se; cheh-tsòi. spindle, se-tsam. spinning-wheel, pháng-chhia.
 
-**spin**, to cause to, soh-hui (with the fingers); phah-hui (with string or whip). a top, phah hâm-lâm-su̍t.
+**spin**, *to cause to (with the fingers)*, soh-hui. *to cause to (with string or whip)*, phah-hui. a top, phah hâm-lâm-su̍t.
 
 **spinach**, pue-lêng-tshài.
 
@@ -964,7 +982,9 @@ size (*glue*) ka-tsúi.
 
 **sport**, sńg; sie-sńg; thit-thô; sie-pa-lói.
 
-**spot**, tiám. indelible, on the body, ou-kì. spotless, bô-tiám; bô-hiâ. spotted, poiⁿ-tiám; hue-tiám; seⁿ-tiám; hue-long; ũ-ìn-chiah. **spout**, for water, tsúi-tsô; tsúi-tâng. as of teapot, tê-kùan-sui (or, tshùi).
+**spot**, tiám. indelible, on the body, ou-kì. spotless, bô-tiám; bô-hiâ. spotted, poiⁿ-tiám; hue-tiám; seⁿ-tiám; hue-long; ũ-ìn-chiah.
+
+**spout**, for water, tsúi-tsô; tsúi-tâng. as of teapot, tê-kùan-sui; tê-kùan-tshùi.
 
 **sprain**, túi--tie̍h; chek--tie̍h; nãuⁿ--tie̍h; uái--tie̍h; tsua̍h--tie̍h.
 
@@ -1024,7 +1044,7 @@ size (*glue*) ka-tsúi.
 
 **stack**, of straw, tsháu-khn̂g.
 
-**staff**, kuái-chiãng; kùn (a club); tshûe (thin).
+**staff**, kuái-chiãng. *(a club)*, kùn. *(thin)*, tshûe.
 
 **stag**, te̍k-kóu.
 
@@ -1040,7 +1060,7 @@ size (*glue*) ka-tsúi.
 
 **stake**, for fastening cattle to, gû-khṳ̍t. to throw a rope over, lap-khṳ̍t.
 
-**stale**, sit-bī; tie̍h-kauh (mouldy).
+**stale**, sit-bī. *(mouldy)*, tie̍h-kauh.
 
 **stalk**, tiũ-kó; be̍h-kó.
 
@@ -1068,9 +1088,9 @@ size (*glue*) ka-tsúi.
 
 **star**, chheⁿ; che̍k-lia̍p-chheⁿ. stars and constellations, chheⁿ-siù. falling, pue-chheⁿ. sun, moon and stars, ji̍t-gue̍h chheⁿ-sîn.
 
-**starch**, chieⁿ; kôu (paste). to, kùe-chieⁿ; kùe-ám.
+**starch**, chieⁿ. *(paste)*, kôu. to, kùe-chieⁿ; kùe-ám.
 
-**stare**, ma̍k kim-kim-thóiⁿ; ma̍k-chiu tsù-tsù tõ-thóiⁿ. staring about all round, ma̍k thóiⁿ kàu-iaⁿ-iaⁿ; ma̍k kok-kok-kim. what are you staring about for? õ, lṳ́ tsò kâu-kâu-iang?
+**stare**, ma̍k kim-kim-thóiⁿ; ma̍k-chiu tsù-tsù tõ-thóiⁿ. *staring about all round*, ma̍k thóiⁿ kàu-iaⁿ-iaⁿ; ma̍k kok-kok-kim. *what are you staring about for*, õ, lṳ́ tsò kâu-kâu-iang.
 
 **starling**, liãu-ko-chiáu.
 
@@ -1080,7 +1100,9 @@ size (*glue*) ka-tsúi.
 
 **starve**, gō. to death, gō-sí.
 
-**state**, of a thing, chhêng-hêng; hêng-sì; sṳ̄-chhêng; chhêng-iû; kéng-ngõ; ngõ-ha̍h. **state**, to, tàⁿ; sueh; o̍h; kàu-sù.
+**state**, of a thing, chhêng-hêng; hêng-sì; sṳ̄-chhêng; chhêng-iû; kéng-ngõ; ngõ-ha̍h.
+
+**state**, to, tàⁿ; sueh; o̍h; kàu-sù.
 
 **state**, a, or kingdom, pang; kok.
 
@@ -1122,10 +1144,11 @@ size (*glue*) ka-tsúi.
 
 **stench**, tshàu-hièn.
 
-**step**, pōu; hua̍h (stride). step by step, che̍k-pōu che̍k-pōu. steps of ladder, thui-chí. of stair-case, ta̍h-pōu-tsâng. stepping-stone, pōu-chie̍h; ta̍h-pōu-chie̍h.
-step-mother, kì-bó; ãu-bó. step-son, kì-kiáⁿ.
+**step**, pōu. *(stride)*, hua̍h. step by step, che̍k-pōu che̍k-pōu. steps of ladder, thui-chí. of stair-case, ta̍h-pōu-tsâng. stepping-stone, pōu-chie̍h; ta̍h-pōu-chie̍h.
 
-**sterile**, bõi-seⁿ. ground, sán-tī.
+**step-mother**, kì-bó; ãu-bó. *step-son*, kì-kiáⁿ.
+
+**sterile**, bõi-seⁿ. *ground*, sán-tī.
 
 **stern**, ngiâm.
 
@@ -1137,7 +1160,7 @@ step-mother, kì-bó; ãu-bó. step-son, kì-kiáⁿ.
 
 **stick**, to, tah-tùe. stick in, tshah; tàu. sticky, liâm-lî tha-thi; kṳ̍t.
 
-**stiff**, ngẽ; ngẽ-ngau̍h. -necked, sim ngẽ; aú-hûeⁿ; hûeⁿ-nge̍k. as with starch, khiā-khiā.
+**stiff**, ngẽ; ngẽ-ngau̍h. *stiff-necked*, sim ngẽ; aú-hûeⁿ; hûeⁿ-nge̍k. *as with starch*, khiā-khiā.
 
 **stifle**, hip-sí; khàm-sí. inquiry, thâng-sat-tiāu; hìm-tiāu.
 
@@ -1161,7 +1184,7 @@ step-mother, kì-bó; ãu-bó. step-son, kì-kiáⁿ.
 
 **stirrup**, bé-ta̍h-tèng.
 
-**stitch**, to, thīⁿ. too wide, tsam-kha khah-hi (or, hi-so). slip-stitch, chhiam. fine and close, tsam-kha ba̍t-tsa̍t; kau-tsam ba̍t-thīⁿ.
+**stitch**, to, thīⁿ. too wide, tsam-kha khah-hi; tsam-kha hi-so. slip-stitch, chhiam. fine and close, tsam-kha ba̍t-tsa̍t; kau-tsam ba̍t-thīⁿ.
 
 **stock**, in trade, hùe-mue̍h; hùe-pńg; pńg-hùe.
 
@@ -1173,7 +1196,7 @@ step-mother, kì-bó; ãu-bó. step-son, kì-kiáⁿ.
 
 **stomach**, tóu; tõu; ūi; pî. pit of, koi-tshùi-kháu; tsúi-khuh-kháu. empty, khang-sim-tóu; hau-pak; khang-pak; tóu iau; iau-tóu.
 
-**stone**, chie̍h; chie̍h-põu. of fruits, hu̍t. -quarry, phah-chie̍h-suaⁿ. to stone, ka̍k-chie̍h; tsang-chie̍h ka̍k.
+**stone**, chie̍h; chie̍h-põu. *of fruits*, hu̍t. *stone-quarry*, phah-chie̍h-suaⁿ. *to stone*, ka̍k-chie̍h; tsang-chie̍h ka̍k.
 
 **stool**, íⁿ-thâu. close, tang-si-íⁿ. go to, kiâⁿ-tãng; kiâⁿ-tãi-piẽn; tshut-kiong. foot-stool, kha-ta̍h-íⁿ.
 
@@ -1255,7 +1278,7 @@ step-mother, kì-bó; ãu-bó. step-son, kì-kiáⁿ.
 
 **strive**, sie-cheⁿ; sie-tàu; sài; cheⁿ-soiⁿ; sie-jiáng; sie-à; m̄-hûa; seⁿ-ūe.
 
-**stroke**, sun-, pha̍k-tie̍h-ji̍t; chien-ji̍t. fatal ditto, ji̍t pha̍k-sí. of pen, che̍k-ue̍h. give him ten strokes, phah-i tsa̍p-ē. fetch a stroke with something in the hand, hḿ.
+**stroke**, sun-stroke, pha̍k-tie̍h-ji̍t; chien-ji̍t. fatal ditto, ji̍t pha̍k-sí. of pen, che̍k-ue̍h. give him ten strokes, phah-i tsa̍p-ē. fetch a stroke with something in the hand, hḿ.
 
 **stroke**, to, the hair, so-môⁿ; chhiú-môⁿ. to stroke a man down, so-lu̍ah; moⁿ-so. the beard, lu̍t-chhiu.
 
@@ -1269,13 +1292,13 @@ step-mother, kì-bó; ãu-bó. step-son, kì-kiáⁿ.
 
 **strut**, iâu-pái; iâu-iâu pái-pái.
 
-**strychnine**, bé-tsôiⁿ-chí sng (nux vomica).
+**strychnine**, *(nux vomica)*, bé-tsôiⁿ-chí sng.
 
 **stubble**, tiũ-kó-thâu.
 
 **stubborn**, kù-chip. see OBSTINATE.
 
-**student**, bûn-thông; tha̍k-tsṳ-nâng; tōa-ha̍k-seng (senior); iùⁿ-thông (younger). studious, khṳ̂n; khṳ̂n-la̍t; khṳ̂n-sim.
+**student**, bûn-thông; tha̍k-tsṳ-nâng. *(senior)*, tōa-ha̍k-seng. *(younger)*, iùⁿ-thông. studious, khṳ̂n; khṳ̂n-la̍t; khṳ̂n-sim.
 
 **study**, to, tha̍k-tsṳ. a, tsṳ-pâng. to mark one's progress in study, as teacher, khùe-thiâⁿ.
 
@@ -1302,7 +1325,8 @@ step-mother, kì-bó; ãu-bó. step-son, kì-kiáⁿ.
 **sty**, for pigs, tṳ-lô; tṳ-nûaⁿ; tṳ-liâu; tṳ-khou.
 
 **style**, literary, bûn-huap; bûn-lí; pit-ba̍k. easy flowing, bûn-lí sũn-se̍k; bûn-lí thong-sũn. styles of writing the character, la̍k-tsṳ.
-style (name), hãu; zṳ̃. to, chheng-u.
+
+**style (name)**, hãu; zṳ̃. *to*, chheng-u.
 
 **suave**, un-hûa. temper, sèⁿ-chhêng hûa-phêng.
 
@@ -1332,7 +1356,7 @@ style (name), hãu; zṳ̃. to, chheng-u.
 
 **substance**, thói; hêng-thói; si̍t-thói. shadow and, hṳ-si̍t. of, tãi-lia̍k; tãi-khài; tãi-ì; tãi-iàu; tãi-tsut; kang-niáⁿ. substantial, kien-tōiⁿ.
 
-**substitute**, thòi; siang-thòi; phõ-kò (plaintiff).
+**substitute**, thòi; siang-thòi. *(plaintiff)*, phõ-kò.
 
 **subterraneous**, thôu-tói; tī-tói. passage, tī-ẽ àm-lōu.
 
@@ -1348,11 +1372,11 @@ style (name), hãu; zṳ̃. to, chheng-u.
 
 **succeed**, or follow, kì-chiap; sêng-chiap; siang-chiap; chiap-so̍k. in succession, tshṳ̀-tõiⁿ; che̍k-kiãⁿ che̍k-kiãⁿ.
 
-**successive**, siang-liên; sie-sùa; siang-kì; siang-sêng. generations, le̍h-tō. a successor, ãu-pùe; ãu-sṳ̂ (heir); chih-jīm; chih-ìn.
+**successive**, siang-liên; sie-sùa; siang-kì; siang-sêng. generations, le̍h-tō. a successor, ãu-pùe; chih-jīm; chih-ìn. *a successor (heir)*, ãu-sṳ̂.
 
 **succour**, pang-tsõ; kiù-chì; kiù-tsõ.
 
-**such**, chièⁿ-seⁿ-kâi; chí-tsùaⁿ-kâi. who ever heard of such a thing! khá-ũ tshṳ́-lí! khí-ũ tshṳ́-lí! tuàn-bô tshṳ́-lí! tshông-bô tshṳ́-lí!
+**such**, chièⁿ-seⁿ-kâi; chí-tsùaⁿ-kâi. *who ever heard of such a thing*, khá-ũ tshṳ́-lí; khí-ũ tshṳ́-lí; tuàn-bô tshṳ́-lí; tshông-bô tshṳ́-lí.
 
 **suck**, tsuh; kuh; khip. as child, chia̍h-nĩⁿ; tsuh-nĩⁿ; kuh-nĩⁿ. suckle, chhī-nĩⁿ.
 
@@ -1365,13 +1389,14 @@ style (name), hãu; zṳ̃. to, chheng-u.
 **suet**, lâ; lâ-pâng-thâu.
 
 **suffer**, siũ-khóu; ũ-kan-khóu. wrong, siũ-uan; siũ-khut; siũ-uan-uáng; pĩ-khut; siũ-khui; chia̍h-khui. patiently, khat-khóu-lún; jím-nãiⁿ; kien-jím.
-suffer (allow), hàuⁿ; khṳt; iông; tsún.
+
+**suffer (allow)**, hàuⁿ; khṳt; iông; tsún.
 
 **sufficient**, kàu; tsok; kàu-tsok; lã. to eat, kàu-chia̍h.
 
 **suffocate**, hip-sí. in water, kek-sí; chìm-sí.
 
-**sugar**, thn̂g. raw, ou-thn̂g. white, pe̍h-thn̂g. highly refined, kit (or, kiet)-hún-thn̂g. candy-, piaⁿ-thn̂g. -cane, chià. to plant, tshah-chià; chèng-chià. to crush, ká-chià. sugar-mill, ká-liâu. conical vessel for refining, thn̂g-lāu. to refine, lāu-thn̂g. warehouse, thn̂g-pâng.
+**sugar**, thn̂g. *raw*, ou-thn̂g. *white*, pe̍h-thn̂g. *highly refined*, kit-hún-thn̂g; kiet-hún-thn̂g. *candy-sugar*, piaⁿ-thn̂g. *sugar-cane*, chià. *to plant*, tshah-chià; chèng-chià. *to crush*, ká-chià. *sugar-mill*, ká-liâu. *conical vessel for refining*, thn̂g-lāu. *to refine*, lāu-thn̂g. *warehouse*, thn̂g-pâng.
 
 **suggest**, thî-phû; thî-khí; kà; khí-ì; huat-liãm; khí-liãm-thâu.
 
@@ -1399,9 +1424,9 @@ suffer (allow), hàuⁿ; khṳt; iông; tsún.
 
 **summon**, tiãu; tiãu-hàm; hàm; kiè. to issue a summons, tshut-phiè.
 
-**sumptuous**, hong-hûa; phâi-chhiâng; phâng-phài (of feast).
+**sumptuous**, hong-hûa; phâi-chhiâng. *(of feast)*, phâng-phài.
 
-**sun**, ji̍t; ji̍t-thâu; thài-iâng. light, ji̍t-kuang. beams, ji̍t-tsam. heat, ji̍t-khì. the sun is not strong, ji̍t-sek chíⁿ; ji̍t-tsháu chíⁿ. -rise, ji̍t tshut; ji̍t-thâu tshut; ji̍t khí. -set, ji̍t lo̍h; ji̍t-thâu lo̍h-suaⁿ. declining Westward, ji̍t siâ-sai. -dial, ji̍t-kui. shadow, ji̍t-iáⁿ. eclipse, ji̍t si̍h. to sun oneself, chieh-ji̍t. to dry in the sun, pha̍k-ji̍t; sài-ji̍t. sun-stroke, ji̍t pha̍k-sí (fatal); tòng-sú.
+**sun**, ji̍t; ji̍t-thâu; thài-iâng. *light*, ji̍t-kuang. *beams*, ji̍t-tsam. *heat*, ji̍t-khì. *the sun is not strong*, ji̍t-sek chíⁿ; ji̍t-tsháu chíⁿ. *sun-rise*, ji̍t tshut; ji̍t-thâu tshut; ji̍t khí. *sun-set*, ji̍t lo̍h; ji̍t-thâu lo̍h-suaⁿ. *declining Westward*, ji̍t siâ-sai. *sun-dial*, ji̍t-kui. *shadow*, ji̍t-iáⁿ. *eclipse*, ji̍t si̍h. *to sun oneself*, chieh-ji̍t. *to dry in the sun*, pha̍k-ji̍t; sài-ji̍t. *sun-stroke*, tòng-sú. *sun-stroke (fatal)*, ji̍t pha̍k-sí.
 
 **Sunday**, lói-pài-ji̍t.
 
@@ -1467,9 +1492,9 @@ suffer (allow), hàuⁿ; khṳt; iông; tsún.
 
 **surly**, kou-phiah; kou-ta̍k-sièⁿ.
 
-**surname**, sèⁿ. what is your? kùi-sèⁿ? my surname is, pĩ-sèⁿ; mûiⁿ-sèⁿ.
+**surname**, sèⁿ. *what is your*, kùi-sèⁿ. *my surname is*, pĩ-sèⁿ; mûiⁿ-sèⁿ.
 
-**surpass**, the whole world, kài-sì. see SUPERIOR.
+**surpass**, *the whole world*, kài-sì. see SUPERIOR.
 
 **surplus**, ũ-ṳ̂; tshûn; sīn.
 
@@ -1513,14 +1538,15 @@ suffer (allow), hàuⁿ; khṳt; iông; tsún.
 
 **sweep**, sàu; sueh; tshóiⁿ; pũaⁿ. together, with fingers, sa-bûa.
 
-**sweet**, tiâm; kam; kam-tiâm. -meats, tiâm-liāu; thn̂g-liāu; mu̍eh-chia̍h. words, ki-tshùi chhî-chhî-tiâm. sweeten, suah-thn̂g; lo̍h-thn̂g; chhiau-thn̂g. smell, phang.
-sweet-bread, or pancreas, of pig, tṳ-chhieh.
+**sweet**, tiâm; kam; kam-tiâm. *sweet-meats*, tiâm-liāu; thn̂g-liāu; mu̍eh-chia̍h. *words*, ki-tshùi chhî-chhî-tiâm. *sweeten*, suah-thn̂g; lo̍h-thn̂g; chhiau-thn̂g. *smell*, phang. 
+
+**sweet-bread**, *or pancreas (of pig)*, tṳ-chhieh.
 
 **swell**, to, chéng; chéng--khí-lâi; chéng-hap; hap; chéng-tǹg. slightly, as from insect bites, phûe hàng-hàng.
 
 **swift**, méⁿ; khùe; sok.
 
-**swim**, siû; siû-tsúi; phû-tsúi (to float).
+**swim**, siû; siû-tsúi. *(to float)*, phû-tsúi.
 
 **swindle**, kuang-phièn; kuang-lau; lau-phièn-nâng. swindler, láu-kiáⁿ.
 
@@ -1534,9 +1560,11 @@ sweet-bread, or pancreas, of pig, tṳ-chhieh.
 
 **sycee**, uâng-pó; khiàu-thâu-si; khò-si.
 
-**sycophant**, tsù-kiong; pui-thiám; thiám-mĩⁿ. **symmetry**, siang-phùe; siang-chhèng; kah-tit-kùe; siang-tùi.
+**sycophant**, tsù-kiong; pui-thiám; thiám-mĩⁿ.
 
-**sympathy**, tâng-chhêng; tâng-sim; tâng-ì; tâng-iu tâng-la̍k; thói-thiap (kind consideration); thói-liãng (making allowance for another); thí-liãng (id.).
+**symmetry**, siang-phùe; siang-chhèng; kah-tit-kùe; siang-tùi.
+
+**sympathy**, tâng-chhêng; tâng-sim; tâng-ì; tâng-iu tâng-la̍k. *(kind consideration)*, thói-thiap. *(making allowance for another)*, thói-liãng; thí-liãng.
 
 **syphon**, tsúi-thiu; khek-tsúi-tâng.
 

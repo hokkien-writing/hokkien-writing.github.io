@@ -20,7 +20,7 @@ date: 2024-03-31 16:11:00
 
 **ladle**, tsúi-kóng; khat-kóng. use, ēng-kóng lâi-ié-tsúi.
 
-**lady**, a-niêⁿ; niêⁿ-niêⁿ; a-náiⁿ; thài-thài (wife of mandarin); hu-jîn (still higher).
+**lady**, a-niêⁿ; niêⁿ-niêⁿ; a-náiⁿ. *(wife of mandarin)*, thài-thài. *(still higher)*, hu-jîn.
 <!--more-->
 **lag**, behind, lo̍h-ãu; tùe-m̄-tie̍h; m̄-chìn-tsôiⁿ.
 
@@ -28,11 +28,11 @@ date: 2024-03-31 16:11:00
 
 **lamb**, iêⁿ-kiáⁿ; mîⁿ-iêⁿ-kiáⁿ. unborn lambs, sometimes eaten, iêⁿ-tho.
 
-**lame**, kuái-kha; hièn-kha (less severe). walk, kiâⁿ-lōu kuái-a-kuái.
+**lame**, kuái-kha. *(less severe)*, hièn-kha. *walk*, kiâⁿ-lōu kuái-a-kuái.
 
 **lament**, khàu; ai-khàu; tháu-khùi; hûan-ló. lamentable, khó-sieh; khó-liên; chhi-tshám; chhi-liâng.
 
-**lamp**, teng; teng-chhiū; teng-khêng; teng-húe. hanging, tiàu-teng. hand-, chhiú-teng. lamp-light, teng-ẽ. -wick, teng-sim. to light, tiám-teng; liám-teng; chiẽⁿ-teng; khui-teng. blow out, pûn-kùe; tshue--kùe; lâu--khí.
+**lamp**, teng; teng-chhiū; teng-khêng; teng-húe. *hanging*, tiàu-teng. *hand-lamp*, chhiú-teng. *lamp-light*, teng-ẽ. *lamp-wick*, teng-sim. *to light*, tiám-teng; liám-teng; chiẽⁿ-teng; khui-teng. *blow out*, pûn-kùe; tshue--kùe; lâu--khí.
 
 **lampoon**, bô-thâu-thiap; ki-chhiáu.
 
@@ -40,7 +40,7 @@ date: 2024-03-31 16:11:00
 
 **land**, tī; suaⁿ; tshân-hn̂g. land from a boat, chiẽⁿ-suaⁿ; khí-tsúi. on land, suaⁿ-téng. pay land tax, uân-niêⁿ; na̍p-niêⁿ. owner of, tshân-tsú. landing-place, lōu-thâu.
 
-**landlord**, tshâi-tsú; tshù-tsú (of house); tshân-tsú (of land); tiàm-tsú (of inn); tiàm-ke (id).
+**landlord**, tshâi-tsú. *(of house)*, tshù-tsú. *(of land)*, tshân-tsú. *(of inn)*, tiàm-tsú; tiàm-ke.
 
 **landmark**, tī-kài; kài-chie̍h; chie̍h-pi; tī-kài-pi. to look out for landmarks when at sea, thóiⁿ-suaⁿ-mn̂g; kam-suaⁿ-mn̂g; jīn-suaⁿ-thâu.
 
@@ -54,7 +54,7 @@ date: 2024-03-31 16:11:00
 
 **lank**, bô-mih-ne̍k; sán; kut-thâu khià-khià.
 
-**lantern**, teng-lâng; po-lî-teng. to carry, khiâ-teng-lâng (with rod attached); kũaⁿ-teng-lâng (hanging from the hand). hang many lanterns for congratulation, tiàu-teng. on high bamboos, when in trouble, chiẽⁿ-thiⁿ-teng. ornamental, in street, chiẽⁿ-teng-tû. carry after the idols, iâⁿ-teng. feast of lanterns, ngûan-siau-mêⁿ.
+**lantern**, teng-lâng; po-lî-teng. *to carry (with rod attached)*, khiâ-teng-lâng. *to carry (hanging from the hand)* ,kũaⁿ-teng-lâng. *hang many lanterns for congratulation*, tiàu-teng. *on high bamboos, when in trouble*, chiẽⁿ-thiⁿ-teng. *ornamental, in street*, chiẽⁿ-teng-tû. *carry after the idols*, iâⁿ-teng. *feast of lanterns*, ngûan-siau-mêⁿ.
 
 **lap**, sit in one's, tsõ tõ-kha--thâu.
 
@@ -62,7 +62,7 @@ date: 2024-03-31 16:11:00
 
 **large**, tōa; khuah-tōa; kûiⁿ-tōa; tōa-bó-kâi; lō-ho. large-hearted, hái-liãng; liãng-tōu khuan-khuah.
 
-**largess**, siéⁿ-mue̍h; khèng-siéⁿ; tãi-siéⁿ; pù-si (or sì); khàu-siéⁿ (to soldiers).
+**largess**, siéⁿ-mue̍h; khèng-siéⁿ; tãi-siéⁿ; pù-si; pù-sì. *(to soldiers)*, khàu-siéⁿ.
 
 **lark**, peh-lêng-chiáu.
 
@@ -100,11 +100,11 @@ date: 2024-03-31 16:11:00
 
 **laudable**, hó-o-ló; kham-kai hó-o-ló.
 
-**laugh**, chhiè. aloud, hā-hā-chhiè; chhiè kàu hā-hā-kiè. with mouth wide open, chhiè kàu tshùi li̍h-li̍h. till one can laugh no more, tâng-õi-chhiè, chhiè kàu-bõi-chhiè. pot laughing at kettle, ba̍t-sat chhiè chie̍h-pūi (lit., bed-bug laughing at tree-bug). laughable, hó-chhiè; khó-chhiè.
+**laugh**, chhiè. *laugh aloud*, hā-hā-chhiè; chhiè kàu hā-hā-kiè. *with mouth wide open*, chhiè kàu tshùi li̍h-li̍h. *laugh till one can laugh no more*, tâng-õi-chhiè, chhiè kàu-bõi-chhiè. *pot laughing at kettle (literally, bed-bug laughing at tree-bug)*, ba̍t-sat chhiè chie̍h-pūi. *laughable*, hó-chhiè; khó-chhiè.
 
-**launch**, tsûn pàng-lo̍h-tsúi. steam-, húe-tsûn-kiáⁿ.
+**launch**, tsûn pàng-lo̍h-tsúi. *steam-launch*, húe-tsûn-kiáⁿ.
 
-**lavender**, water, hue-lōu-tsúi.
+**lavender**, *water*, hue-lōu-tsúi.
 
 **lavish**, lâng-hùi; hṳ̂-hùi; phah-phún-sái; chhia-chhíⁿ; chhia-hûa.
 
@@ -112,13 +112,13 @@ date: 2024-03-31 16:11:00
 
 **lawsuit**, kuaⁿ-si. to have a, phah-kuaⁿ-si; sie-kò.
 
-**lawyer**, sṳ-iâ (confidential adviser of mandarin); sõng-sṳ (one who writes legal documents).
+**lawyer**, *(confidential adviser of mandarin)*, sṳ-iâ. *(one who writes legal documents)*, sõng-sṳ.
 
 **lawn**, a, tsháu-tiêⁿ; tsháu-pou.
 
 **lax**, khah-khuan; thài-khuan; pàng-sang; khah-khuaⁿ.
 
-**lay**, down, pàng. oneself down, tó; khùa-ie; khiau-ie; gu̍t--lo̍h-khṳ̀. on top, tha̍h-tõ-téng; thia̍p-tõ-téng. by, khǹg-bûa; siu-bûa; siu-khṳ̀-khǹg. aside, pàng-khui; tṳ̂-khṳ̀. out, phou-pâi; pâi-pí. eggs, seⁿ-nñg. the table, pâi-toh; pái-tshn̂g; pái-ti̍h toh-sia̍h. on colour, tsng-sek; tsuang-sek. lay out money, sái-chîⁿ. hands on, àn-chhiú; hūaⁿ-chhiú; lia̍h (seize).
+**lay**, down, pàng. oneself down, tó; khùa-ie; khiau-ie; gu̍t--lo̍h-khṳ̀. on top, tha̍h-tõ-téng; thia̍p-tõ-téng. by, khǹg-bûa; siu-bûa; siu-khṳ̀-khǹg. aside, pàng-khui; tṳ̂-khṳ̀. out, phou-pâi; pâi-pí. eggs, seⁿ-nñg. the table, pâi-toh; pái-tshn̂g; pái-ti̍h toh-sia̍h. on colour, tsng-sek; tsuang-sek. lay out money, sái-chîⁿ. hands on, àn-chhiú; hūaⁿ-chhiú. *hands on (seize)*, lia̍h.
 
 **layer**, three, saⁿ-têng; saⁿ-în. in layers, che̍k-têng che̍k-têng.
 
@@ -128,7 +128,7 @@ date: 2024-03-31 16:11:00
 
 **lead**, to, ín; khan; tshūa; kiau; tòa. leader, niáⁿ-thâu; thâu-ma̍k; tsóng-tòa.
 
-**leaf**, of tree, chhiū-hie̍h. book, chheh-hie̍h. turn over leaves of book, chhe-hie̍h iãuⁿ--(or, hien--) kùe-lâi. of door, sìⁿ; pôiⁿ; phìⁿ. double leaved door, sang-phìⁿ-mn̂g. gold-leaf, kim-po̍h.
+**leaf**, *of tree*, chhiū-hie̍h. *book*, chheh-hie̍h. *turn over leaves of book*, chhe-hie̍h iãuⁿ--kùe-lâi; chhe-hie̍h  hien--kùe-lâi. *of door*, sìⁿ; pôiⁿ; phìⁿ. *double leaved door*, sang-phìⁿ-mn̂g. *gold-leaf*, kim-po̍h.
 
 **league**, mêng-ieh.
 
@@ -148,7 +148,7 @@ date: 2024-03-31 16:11:00
 
 **leather**, phûe; se̍k-phûe. to dress, se̍k-phûe. shoes, phûe-ôi.
 
-**leave**, lī; lī-khui; lī-pie̍t; sie-pie̍t. off, kài; keh; kói; hiah. to take, sî-pie̍t; chiãm-pie̍t. behind, pàng-tiāu; ka-lau̍h; khì-tiāu; zũi-lo̍h (at death). loath to leave, siá-m̄-tit; siá put-tit-khṳ̀. leavings, só-tshûn.
+**leave**, lī; lī-khui; lī-pie̍t; sie-pie̍t. off, kài; keh; kói; hiah. to take, sî-pie̍t; chiãm-pie̍t. behind, pàng-tiāu; ka-lau̍h; khì-tiāu. *behind (at death)*, zũi-lo̍h. loath to leave, siá-m̄-tit; siá put-tit-khṳ̀. leavings, só-tshûn.
 
 **leaven**, kàⁿ-bó. to leaven, lo̍h-kàⁿ; khí-kàⁿ; phû-kàⁿ; huat-kàⁿ.
 
@@ -172,7 +172,7 @@ date: 2024-03-31 16:11:00
 
 **legal**, ha̍h-huap; lu̍t-huap só-tsún.
 
-**legend**, kóu-thûan; kóu-tn̄g (written). fabulous, huang-thâng.
+**legend**, kóu-thûan. *(written)*, kóu-tn̄g. fabulous, huang-thâng.
 
 **legerdemain**, tsò-pá-hì; tsò-pa-hì; tsò-hì-su̍t; tién-chhiú-huap; chia-ngán-huap.
 
@@ -214,7 +214,7 @@ date: 2024-03-31 16:11:00
 
 **lewd**, siâ; îm; hàuⁿ-sek.
 
-**lexicon**, jī-tién; jī-lūi (small).
+**lexicon**, jī-tién. *(small)*, jī-lūi.
 
 **libation**, kuàn-tī.
 
@@ -242,8 +242,9 @@ date: 2024-03-31 16:11:00
 
 **lie**, tàⁿ-ké-ūe; tàⁿ-ké; pe̍h-chia̍h pe̍h-tàⁿ; sueh-huáng; tàⁿ hṳ-ké kai-ūe. a lie, pe̍h-chiáⁿ-ūe; tōa-ūe; hṳ-ké; huang-thâng; bô-iáⁿ-ūe; bô-iaⁿ bô-chiah kâi-ūe.
 
-**lie**, down, tó--loo̍h-khṳ̀ gu̍t. with, tsò-pû-gu̍t. in ambush, mâiⁿ-ho̍k; bih-tiām; bih-bûa.
-lieutenant -governor, bú-īⁿ; bú-thâi.
+**lie**, *down*, tó--loo̍h-khṳ̀ gu̍t. *with*, tsò-pû-gu̍t. *in ambush*, mâiⁿ-ho̍k; bih-tiām; bih-bûa.
+
+**lieutenant**, *lieutenant-governor*, bú-īⁿ; bú-thâi.
 
 **life**, miāⁿ; sèⁿ-miāⁿ. present, kim-sì; tõ-seⁿ; seⁿ-tsôiⁿ. future, lâi-seⁿ; sí-ãu. life and death, seⁿ-sí. life-time, che̍k-sì-nâng; che̍k-seⁿ-nâng; tsong-sin. all one's life-time, chĩn-che̍k-sì. regardless of life, m̄-kù-miāⁿ; m̄-kù sèⁿ-miāⁿ. lifeless, bõi-ua̍h; sí--liáu; pùaⁿ-seⁿ pùaⁿ-sí. to see life, kìⁿ--kùe sì-chhêng. take life, suah-miāⁿ. long, tn̂g-miāⁿ; tn̂g-siū.
 
@@ -251,7 +252,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **light**, kng; kuang; kuang-mêng. of sun, ji̍t-kng. a lamp, liám-húe; tiám-húe, liám-teng; tiám-teng; chiẽⁿ-teng. a fire, khí-húe; to̍h-húe. light-house, teng-lâu; teng-thah. come to light, huat-tsoh.
 
-**light**, in weight, khin. and easy, khin-kōi. clothing, chhēng-po̍h. wind, huang khin; huang-kiáⁿ li-li. in colour, chhién-sek; sek chhién-tãⁿ. -fingered, saⁿ-chiah-chhiú. lighten, pûaⁿ-khin; phêⁿ-kiám. to lighter, poh-hùe. make light of anyone, thóiⁿ-khin; thóiⁿ-m̄-chiẽⁿ-ma̍k; lia̍h-tsūaⁿ; khin-buãn; bú-buãn.
+**light**, *in weight*, khin. *light and easy*, khin-kōi. *clothing*, chhēng-po̍h. *wind*, huang khin; huang-kiáⁿ li-li. *in colour*, chhién-sek; sek chhién-tãⁿ. *light-fingered*, saⁿ-chiah-chhiú. *lighten*, pûaⁿ-khin; phêⁿ-kiám. *to lighter*, poh-hùe. *make light of anyone*, thóiⁿ-khin; thóiⁿ-m̄-chiẽⁿ-ma̍k; lia̍h-tsūaⁿ; khin-buãn; bú-buãn.
 
 **lightning**, tiẽn-húe; lûi-húe. it lightens, lûi-kong nihⁿ-ma̍k; tiẽn-húe ia̍p-ia̍p-sih.
 
@@ -265,13 +266,15 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **likewise**, iā; iā-sĩ; kiam-kũa; siãng-chhiáⁿ; iũ.
 
-**lily**, peh-ha̍h-hue. water-, nôiⁿ-hue.
+**lily**, peh-ha̍h-hue. water-lily, nôiⁿ-hue.
 
 **limbs**, the four, sì-thói; sì-thí; sì-chiⁿ.
 
 **lime**, hue. burn, sie-hue. slack, huat-hue; huat-hue-pôu. mix, chhiau-hue. sift, thai-hue. sifted, hue-kiáⁿ. refuse, hue-thâu. kiln, hue-iê. debris of shells for making lime, sap.
 
-**limit**, hãn; kài-hãn; hãn-liãng; tōu-hãn; hãn-chí. pass the limited time, kùe-hãn-khî. **limp**, to, chhiãng. adj., nńg; lùn.
+**limit**, hãn; kài-hãn; hãn-liãng; tōu-hãn; hãn-chí. pass the limited time, kùe-hãn-khî.
+
+**limp**, to, chhiãng. adj., nńg; lùn.
 
 **limpid**, chheng; chheng-chẽng.
 
@@ -279,7 +282,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **line**, a coat, chhiam-lí. lining, lí. lined coat, koih-niûⁿ.
 
-**lineage**, lâi-le̍h; tso̍k-phóu (genealogical record).
+**lineage**, lâi-le̍h. *(genealogical record)*, tso̍k-phóu.
 
 **linen**, tiũ; tiũ-pòu; mûaⁿ-pòu. yarn, tiũ-sùaⁿ; tsòi.
 
@@ -317,7 +320,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **literary**, ũ-ha̍k-mn̄g. composition, bûn-chieⁿ. degree, kong-miâⁿ. character of a place, bûn-hong. graduate, bûn-o̍h; bûn-siù-tsâi.
 
-**literature**, ha̍k-bûn (scholarship). ancient, kóu-bûn. modern, sî-bûn. god of, bûn-chhiang.
+**literature**, *(scholarship)*, ha̍k-bûn. ancient, kóu-bûn. modern, sî-bûn. god of, bûn-chhiang.
 
 **litharge**, bi̍t-thôu-cheng.
 
@@ -381,7 +384,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **longitude**, keⁿ-sùaⁿ. and latitude, keⁿ-hūi.
 
-**look**, thóiⁿ. take a, thóiⁿ-che̍k-ē; thóiⁿ-che̍k-ma̍k. up, tièⁿ--khí-lâi thóiⁿ. down, thóiⁿ-kẽ; phak--lo̍h-lâi thóiⁿ. back, ut-tńg-thâu thóiⁿ; hûe-thâu thóiⁿ. askance, siâ-ma̍k-thóiⁿ. after, kuan-thóiⁿ; kuan-siú; thóiⁿ-siú; chéⁿ. over, kiám-tiám (many items); tshó-lia̍k-thóiⁿ (cursorily, as book or letter). looker-on, phâng-piⁿ-thóiⁿ kâi-nâng. looking-glass, mīn-kiàⁿ. lookout turret, mōⁿ-lâu. look up a dictionary, chhê-jī-tién.
+**look**, thóiⁿ. take a, thóiⁿ-che̍k-ē; thóiⁿ-che̍k-ma̍k. up, tièⁿ--khí-lâi thóiⁿ. down, thóiⁿ-kẽ; phak--lo̍h-lâi thóiⁿ. back, ut-tńg-thâu thóiⁿ; hûe-thâu thóiⁿ. askance, siâ-ma̍k-thóiⁿ. after, kuan-thóiⁿ; kuan-siú; thóiⁿ-siú; chéⁿ. *over (many items)*, kiám-tiám. *over (cursorily, as book or letter)*, tshó-lia̍k-thóiⁿ. looker-on, phâng-piⁿ-thóiⁿ kâi-nâng. looking-glass, mīn-kiàⁿ. lookout turret, mōⁿ-lâu. look up a dictionary, chhê-jī-tién.
 
 **loom**, weaver's, chit-kui; keⁿ-pòu-kui; kau-kui; pòu-kui.
 
@@ -399,7 +402,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **lot**, of ground, che̍k-kò-tī; che̍k-phiâⁿ-tī. of people, ke-ke-nâng. contented with one's lot, siú-hūn uaⁿ-mẽng; tsai-tsok. cast, or draw, lots, thiu-chhiam; khieh-khau; po̍ih-chhiam; lok-chhiam; pua̍h-pue.
 
-**lotion**, ie̍h-tsúi. to apply a, sói-ie̍h-tsúi; chhiù-ie̍h-tsúi; buah-ie̍h-tsúi; tah-ie̍h-tsúi; sueh-liâng (cooling); ù-liâng (id.).
+**lotion**, ie̍h-tsúi. *to apply a*, sói-ie̍h-tsúi; chhiù-ie̍h-tsúi; buah-ie̍h-tsúi; tah-ie̍h-tsúi. *to apply a (cooling)*, sueh-liâng; ù-liâng.
 
 **lottery**, iêⁿ-pie; hue-hũe. to try, phah-iêⁿ-pie; teh-hue-hũe; phah-hue-hũe. ticket, iêⁿ-pie-tsúa; hue-hũe-phoi. to win in a, phah--tie̍h. Manilla, Lṳ̃-sòng-pie.
 
@@ -411,17 +414,17 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **lounge**, ôiⁿ-iû; ôiⁿ-sin; ôiⁿ-u̍t; chheng-sũi; ôiⁿ-mîn; tham-tõaⁿ.
 
-**love**, to, ài; ài-sieh; thóng-ài; siang-ài; kèng-ài (and respect). subst., jîn-ài; chhêng-ài; ṳn-ài. love blindly and over-indulge, ne̍k-ài. beloved, tit-nâng-sieh; tit-tóng. lovely, khó-ài. love-letter, chhêng-tsṳ (bad meaning). love-sick, chie-si-pēⁿ; siang-sṳ-pēⁿ; siang-sṳ-pĩn; ou-âng-pēⁿ. love virtue, hàuⁿ-siẽn; la̍k-siẽn hàuⁿ-tek.
+**love**, *to love*, ài; ài-sieh; thóng-ài; siang-ài. *to love (and respect)*, kèng-ài. *(substantive)*, jîn-ài; chhêng-ài; ṳn-ài. *love blindly and over-indulge*, ne̍k-ài. *beloved*, tit-nâng-sieh; tit-tóng. lovely, khó-ài. *love-letter (bad meaning)*, chhêng-tsṳ. *love-sick*, chie-si-pēⁿ; siang-sṳ-pēⁿ; siang-sṳ-pĩn; ou-âng-pēⁿ. *love virtue*, hàuⁿ-siẽn; la̍k-siẽn hàuⁿ-tek.
 
-**low**, kẽ. in stature, ói; kẽ-kẽ; ói-sòi. high and, kûiⁿ-kẽ; kau-ti. water, tsúi khó; tsúi ta; lâu khó-ta-ta. low people, hiã-pín; hiã-tsūaⁿ; hiã-liû (very mean). voice, sòi-siaⁿ. reading in a low voice, thiâm-ngîm chẽⁿ-tha̍k.
+**low**, kẽ. *low in stature*, ói; kẽ-kẽ; ói-sòi. *high and low*, kûiⁿ-kẽ; kau-ti. *low water*, tsúi khó; tsúi ta; lâu khó-ta-ta. *low people*, hiã-pín; hiã-tsūaⁿ. *low people (very mean)*, hiã-liû. *voice*, sòi-siaⁿ. *reading in a low voice*, thiâm-ngîm chẽⁿ-tha̍k.
 
-**lower**, to, lo̍h; pàng-lo̍h; tūi-lo̍h (as with rope). sail, hẽ-phâng; lo̍h-phâng; heh-phâng.
+**lower**, to, lo̍h; pàng-lo̍h. *(as with rope)*, tūi-lo̍h. *sail*, hẽ-phâng; lo̍h-phâng; heh-phâng.
 
 **lowly**, in mind, khiam-sùn. in rank, pui-tsūaⁿ. lowlands, phêng-nguân.
 
 **loyal**, tong-sim; tong-ngĩ. minister, tong-chhîn.
 
-**luck**, tsãu-hùe; hó-sî-ūn; huang-tsúi hó. what luck of late? kṳ̃n-sî kuang-kéng tsãi-seⁿ? lucky day, kit-ji̍t; hó-ji̍t-chí; siãng-kit ji̍t. to choose such, thóiⁿ-ji̍t; to̍h-ji̍t; siâng-to̍h kit-ji̍t. how lucky! tsãu-hùe! hiau-hẽng! hó-tshái!
+**luck**, tsãu-hùe; hó-sî-ūn; huang-tsúi hó. *what luck of late*, kṳ̃n-sî kuang-kéng tsãi-seⁿ. *lucky day*, kit-ji̍t; hó-ji̍t-chí; siãng-kit ji̍t. *to choose such*, thóiⁿ-ji̍t; to̍h-ji̍t; siâng-to̍h kit-ji̍t. *how lucky*, tsãu-hùe; hiau-hẽng; hó-tshái.
 
 **ludicrous**, hó-chhiè.
 
@@ -435,7 +438,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **lump**, a, che̍k-kò. to lump or take together, tsò-che̍k-ē. in lumps, chiâⁿ-kò; kit-chiâⁿ-kò.
 
-**lunatic**, tien-khuâng; huat-tien (quiet); huat-khuâng (violent); siáu; tùe-gu̍eh-siáu.
+**lunatic**, tien-khuâng; siáu; tùe-gu̍eh-siáu. *(quiet)*, huat-tien. *(violent)*, huat-khuâng. 
 
 **lunch**, tiám-sim; chia̍h-ji̍t-tàu; chia̍h-pùaⁿ-kùa; chia̍h-tǹg-kiáⁿ.
 
@@ -443,7 +446,7 @@ lieutenant -governor, bú-īⁿ; bú-thâi.
 
 **lurk**, tiàm; mâiⁿ-ho̍k tiàm-miⁿ; bih; bih-bûa.
 
-**lust**, io̍k; sṳ-io̍k; ne̍k-io̍k; mu̍eh-io̍k; îm-io̍k; io̍k-húe (fire of); sek-io̍h. arouse lustful desire, khí-io̍k; to̍h-io̍k. lustful, tham-io̍k; tsòng-io̍k; hàuⁿ-sek; tham-îm.
+**lust**, io̍k; sṳ-io̍k; ne̍k-io̍k; mu̍eh-io̍k; îm-io̍k; sek-io̍h. *(fire of)*, io̍k-húe. arouse lustful desire, khí-io̍k; to̍h-io̍k. lustful, tham-io̍k; tsòng-io̍k; hàuⁿ-sek; tham-îm.
 
 **lustre**, hâu-kng; ia̍p-ia̍p-sih.
 

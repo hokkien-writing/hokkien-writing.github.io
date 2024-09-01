@@ -80,7 +80,7 @@ date: 2024-03-31 16:11:00
 
 **effulgence**, kng; hâu-kng; kuang-mêng; kuang liãng-liãng.
 
-**egg**, nñg. *fowl's*, koi-nñg. *to lay*, seⁿ-nñg. *boil*, sa̍h-nñg. *shell*, nñg-khak. *yolk*, nñg-jîn. *white of*, nñg-chheng. *embryo egg*, nñg-toaⁿ. *three eggs*, saⁿ-lia̍p-nñg. *cockroach eggs*, ka-tsua̍h-sieⁿ. *egg-plant*, kiê *(brinjal)*.
+**egg**, nñg. *fowl's*, koi-nñg. *to lay*, seⁿ-nñg. *boil*, sa̍h-nñg. *shell*, nñg-khak. *yolk*, nñg-jîn. *white of*, nñg-chheng. *embryo egg*, nñg-toaⁿ. *three eggs*, saⁿ-lia̍p-nñg. *cockroach eggs*, ka-tsua̍h-sieⁿ. *egg-plant (brinjal)*, kiê.
 
 **eight**, poih. *eighteen*, tsa̍p-poih. *eighty*, poih-tsa̍p. *eighth*, tõiⁿ-poih.
 
@@ -120,7 +120,7 @@ date: 2024-03-31 16:11:00
 
 **eloquent**, ũ-kháu-tshâi; ũ-kháu-lẽng; õi-tàⁿ-ūe; miâⁿ-ke tàⁿ-ūe.
 
-**else**, *somewhere else*, tõ-pa̍t-kò. *has any one else come?* hûan-ũ pa̍t-nâng lâi a-bô? *I have nothing else to say*, úa bô pa̍t-kâi-ūe hó-tàⁿ.
+**else**, *somewhere else*, tõ-pa̍t-kò. *has any one else come*, hûan-ũ pa̍t-nâng lâi a-bô. *I have nothing else to say*, úa bô pa̍t-kâi-ūe hó-tàⁿ.
 
 **elucidate**, kói-mêng; káng-kiù; sueh-mêng; kói-thiah.
 
@@ -128,7 +128,7 @@ date: 2024-03-31 16:11:00
 
 **elysium**, sien-kéng.
 
-**emaciated**, sáu; sán-sòu; sán-kut lo̍h-ne̍k; têng-phûe nêⁿ-têng-kut *(skin & bone)*.
+**emaciated**, sáu; sán-sòu; sán-kut lo̍h-ne̍k. *(skin & bone)*, têng-phûe nêⁿ-têng-kut.
 
 **emanate**, *from*, lâu-tshut; huat-tshut; liû-thûan; tshông-tõ hṳ́-kò khí.
 
@@ -224,7 +224,7 @@ date: 2024-03-31 16:11:00
 
 **encumber**, thua-thūi; tsó-gāi; hûang-gāi.
 
-**end**, tsong; búe; suah-búe; kiáu-búe. *of road*, lōu-búe. *of year*, nîⁿ-búe. *both ends*, thâu-búe; sang-thâu. *I do not know what the end of this affair will be*, m̄-tsai chí-kâi-sṳ̄ kàu-búe-ke̍k sĩ-tsò-nîⁿ. *in the end*, kàu-búe. *to end*, ûan; tsò-chiâⁿ; sêng-kong; tsò-kàu-liáu; tsò-kàu chhêng-tshó. *a speech*, tàⁿ-ūe-hiah. *one's life (voluntarily)*, tsṳ̃-chĩn; ka-kī khṳ̀-sí. *attain one's end*, tit-ì. *to what end is this?* chí-kâi-sṳ̄ ũ-sĩ-mih lĩ-iah? *what end has he in view?* i ũ sĩ-mih ì-sṳ̀? *endless*, bô-liáu; bõi-uân; kú-kú bõi-hiah; bô-kat-suah. *end of the world*, sì--kan kâi mu̍at-ji̍t. *no more of this! let the matter end!* pã--liáu.
+**end**, tsong; búe; suah-búe; kiáu-búe. *of road*, lōu-búe. *of year*, nîⁿ-búe. *both ends*, thâu-búe; sang-thâu. *I do not know what the end of this affair will be*, m̄-tsai chí-kâi-sṳ̄ kàu-búe-ke̍k sĩ-tsò-nîⁿ. *in the end*, kàu-búe. *to end*, ûan; tsò-chiâⁿ; sêng-kong; tsò-kàu-liáu; tsò-kàu chhêng-tshó. *a speech*, tàⁿ-ūe-hiah. *one's life (voluntarily)*, tsṳ̃-chĩn; ka-kī khṳ̀-sí. *attain one's end*, tit-ì. *to what end is this*, chí-kâi-sṳ̄ ũ-sĩ-mih lĩ-iah. *what end has he in view*, i ũ sĩ-mih ì-sṳ̀. *endless*, bô-liáu; bõi-uân; kú-kú bõi-hiah; bô-kat-suah. *end of the world*, sì--kan kâi mu̍at-ji̍t. *no more of this! let the matter end!*, pã--liáu.
 
 **endeavour**, chhì. *to do any thing*, chhì-thóiⁿ; thèng-tsãu-hùe. *do one's best endeavour*, chĩn-la̍t; tshut-la̍t.
 
@@ -246,7 +246,7 @@ date: 2024-03-31 16:11:00
 
 **engine**, chhia; ie̍h-kúi. *fire*, kiù-húe tsúi-chhia. *engineer*, chhia-hu.
 
-**England**, Tãi-Eng-kok. *The English*, Eng-kok-nâng; âng-môⁿ-nâng *(vulgar)*.
+**England**, Tãi-Eng-kok. *The English*, Eng-kok-nâng. *The English (vulgar)*, âng-môⁿ-nâng.
 
 **engrave**, tiau-khek; tiau-kuah. *a stamp*, khek-ìn; kuah-ìn. *printing-blocks*, khek-póiⁿ; kuah-póiⁿ.
 
@@ -270,7 +270,7 @@ date: 2024-03-31 16:11:00
 
 **enormous**, keh-gūa; tōa-bó-mue̍h.
 
-**enough**, kàu; tsok; lã. *to spend*, kàu-sái. *to live on*, tsok-chia̍h; kàu-chia̍h; õi-tit kùe-ji̍t. *I have enough (at a meal)*, chia̍h-pá--liáu. *enough! no more of it!* pã--liáu.
+**enough**, kàu; tsok; lã. *to spend*, kàu-sái. *to live on*, tsok-chia̍h; kàu-chia̍h; õi-tit kùe-ji̍t. *I have enough (at a meal)*, chia̍h-pá--liáu. *enough! no more of it!*, pã--liáu.
 
 **enquire**, mn̄g; chieh-mn̄g; sòi-mn̄g; húang-mn̄g. *secretly*, thàm-mn̄g; thau-mn̄g; thàm-thóiⁿ. *into anything*, séⁿ-tshat; kàm-tshat; kháu-kiù; chhê-mêng; ki-chhê.
 
@@ -328,7 +328,7 @@ date: 2024-03-31 16:11:00
 
 **ephemeral**, *insects*, chiau seⁿ mõⁿ sí kâi-thâng.
 
-**epidemic**, sî-chèng; sî-khì; sî-lẽng; un-mu̍t *(fatal)*.
+**epidemic**, sî-chèng; sî-khì; sî-lẽng. *(fatal)*, un-mu̍t.
 
 **epidermis**, phûe-mo̍hⁿ; phûe-hu.
 
@@ -382,7 +382,7 @@ date: 2024-03-31 16:11:00
 
 **eruption**, *on skin, from heat*, zua̍h-pùi; seⁿ-pùi.
 
-**escalade**, hûn-thui *(scaling ladders)*; peh-chiẽⁿ siâⁿ-téng.
+**escalade**, peh-chiẽⁿ siâⁿ-téng. *(scaling ladders)*, hûn-thui. 
 
 **escape**, tsáu; tô-tsáu; pī-tsáu; pī-bûa; tsáu-tshut; thut-sin-kòi. *secretly*, thau-tsáu. *from prison*, tsáu-kam.
 
@@ -392,7 +392,7 @@ date: 2024-03-31 16:11:00
 
 **essay**, to, chhì--chē; chhì-thóiⁿ--chē; thèng-tsãu-hùe.
 
-**essay**, *an*, bûn-chieⁿ. *write*, tsò-bûn-chieⁿ; tsò-bûn. *a moral*, khǹg-sì-bûn *(moral tract)*; siẽn-tsṳ.
+**essay**, *an*, bûn-chieⁿ. *write*, tsò-bûn-chieⁿ; tsò-bûn. *a moral*, siẽn-tsṳ. *a moral tract*, khǹg-sì-bûn.
 
 **essence**, pńg-chie; ngûan-khì.
 
@@ -428,13 +428,13 @@ date: 2024-03-31 16:11:00
 
 **evaporate**, pha̍k-ta; tsáu-ta; tshut-khì; sùaⁿ-khì; hiàⁿ-khì; sia̍p-khì; hiap̀-huang.
 
-**even**, pêⁿ; pêⁿ-tsôi; bô-tn̂g-tó. *is 110 an even or an odd number?* peh-it sĩ sang a-sĩ khia? *even if*, tsòng; tsòng-jiên; tsòng-sái; sui-jiên. *even to*, chì-kàu. *even his enemies do not blame him*, kũa i kâi chhiû-te̍k tou bô-hiâm--i. *has he 100 dollars! why, he hasn't even 100 cash*, màiⁿ-tàⁿ i bô che̍k-peh-ngṳ̂n, liên-kũa che̍k-peh-chîⁿ--tou-bô. *he beats even his own parents*, kũa ka-kī kâi-pẽ-bó iā-káⁿ-phah. *even so far as to...*, sĩm chì-kàu.... *evenly arranged*, pâi-tsôi; pâi-tsâu; tsôi-chiáⁿ.
+**even**, pêⁿ; pêⁿ-tsôi; bô-tn̂g-tó. *is 110 an even or an odd number*, peh-it sĩ sang a-sĩ khia. *even if*, tsòng; tsòng-jiên; tsòng-sái; sui-jiên. *even to*, chì-kàu. *even his enemies do not blame him*, kũa i kâi chhiû-te̍k tou bô-hiâm--i. *has he 100 dollars! why, he hasn't even 100 cash*, màiⁿ-tàⁿ i bô che̍k-peh-ngṳ̂n, liên-kũa che̍k-peh-chîⁿ--tou-bô. *he beats even his own parents*, kũa ka-kī kâi-pẽ-bó iā-káⁿ-phah. *even so far as to...*, sĩm chì-kàu.... *evenly arranged*, pâi-tsôi; pâi-tsâu; tsôi-chiáⁿ.
 
 **evening**, ji̍t lo̍h-suaⁿ; mêⁿ-hng; mêⁿ-hng-kiáⁿ; ji̍t àm; mêⁿ àm. *to-morrow*, mùaⁿ-mêⁿ-hng. *yesterday*, tsa-mêⁿ-hng.
 
 **event**, sṳ̄; che̍k-kiãⁿ-sṳ̄. *joyful*, âng-sṳ̄; hí-sṳ̄; kit-sṳ̄. *mournful*, pe̍h-sṳ̄; sng-sṳ̄; hiong-sṳ̄.
 
-**ever**, *always*, siêⁿ-siêⁿ; sî-sî; kú-kú. *have you ever been there?* lṳ́ pat-kàu hṳ́-kò, méⁿ? *ever and anon*, jie̍h-kú jie̍h-kú. *I shall come as soon as ever I can*, uá méⁿ-méⁿ chiũ-lâi. *for ever*, ióng-kú.
+**ever**, *always*, siêⁿ-siêⁿ; sî-sî; kú-kú. *have you ever been there*, lṳ́ pat-kàu hṳ́-kò, méⁿ. *ever and anon*, jie̍h-kú jie̍h-kú. *I shall come as soon as ever I can*, uá méⁿ-méⁿ chiũ-lâi. *for ever*, ióng-kú.
 
 **everlasting**, ióng-kú; kú-tn̂g; ióng-ién; bô-liáu. *life*, ióng-seⁿ; siêⁿ-seⁿ; chhiâng-seⁿ put-láu; chhiâng-seⁿ put-sí.
 
@@ -452,7 +452,7 @@ date: 2024-03-31 16:11:00
 
 **exact**, *demand*, thó. *exact what is not due*, le̍k-sok; pak-le̍k; khek-pak. *hard and exacting*, khek-po̍h. *accurate*, sòi-siâng; siâng-sòi; tsṳ́-sòi; kang-hu; cheng-sòi; sié-sim; miⁿ-ba̍t; sòi-ba̍t. *exactly*, bô-tshò; tie̍h; tùi-tùi. *just exactly*, nẽⁿ tùi-tùi.
 
-**exaggeration**, huang-thâng *(fabulous stories)*; tàⁿ-ūe khah-kùe-ûi; tàⁿ khah-kùe-sĩm; tàⁿ khah-kùe-tōu.
+**exaggeration**, tàⁿ-ūe khah-kùe-ûi; tàⁿ khah-kùe-sĩm; tàⁿ khah-kùe-tōu. *(fabulous stories)*, huang-thâng.
 
 **exalt**, kṳ́; kṳ́-khí; kau-kṳ́. *oneself*, tsṳ̃-kau.
 
@@ -464,7 +464,7 @@ date: 2024-03-31 16:11:00
 
 **excavate**, liú-khang; khui-khang; ku̍t-khang.
 
-**exceed**, kùe. *bounds*, kùe-hūn; kùe-liãng; kùe-tōu. *exceedingly*, siãng; tsa̍p-hun; tsãi *(after the qualified word)*. *excessively*, khah-kùe-tōa; khah-kùe-thâu; khah-kùe-sĩm; khah-thài-kùe.
+**exceed**, kùe. *bounds*, kùe-hūn; kùe-liãng; kùe-tōu. *exceedingly*, siãng; tsa̍p-hun. *exceedingly (after the qualified word)*, tsãi. *excessively*, khah-kùe-tōa; khah-kùe-thâu; khah-kùe-sĩm; khah-thài-kùe.
 
 **excel**, iâⁿ; iâⁿ--kùe; kiêⁿ--kùe; hó--kùe. *excellent*, siãng-hó; múiⁿ. *Your Excellency*, tãi-jîn; tōa-lãu-iâ; thài-iâ.
 
@@ -490,9 +490,9 @@ date: 2024-03-31 16:11:00
 
 **execrable**, khó-ù; khó-hṳ̃n.
 
-**execute**, tsò; tsò-chiâⁿ; khîⁿ--tshut-lâi. *put to death*, thâi. *execution*, sí-hêng. *execution ground*, kah-tiêⁿ. *executioner*, khùai-tsṳ́-chhiú (*or*, siú); suah-siú; tng-âng-kî.
+**execute**, tsò; tsò-chiâⁿ; khîⁿ--tshut-lâi. *put to death*, thâi. *execution*, sí-hêng. *execution ground*, kah-tiêⁿ. *executioner*, khùai-tsṳ́-chhiú; khùai-tsṳ́-siú; suah-siú; tng-âng-kî.
 
-**executor**, siũ-hù-thoh kâi-nâng; thoh-kou kâi-nâng *(guardian)*.
+**executor**, siũ-hù-thoh kâi-nâng. *(guardian)*, thoh-kou kâi-nâng.
 
 **exemplary**, kṳ́-tõng tuan-chiàⁿ; hó-iēⁿ; hó-pun-nâng tsò-iēⁿ.
 
@@ -530,7 +530,7 @@ date: 2024-03-31 16:11:00
 
 **expand**, khui-khuah; pàng-khui; tièⁿ-tōa. *expanse of heaven*, thiⁿ-khong; chheⁿ-thiⁿ; chheⁿ-khong. *expansive*, kúang-khuah.
 
-**expect**, mōⁿ; hi-mōⁿ; kâu-kiè (erroneously).
+**expect**, mōⁿ; hi-mōⁿ. *(erroneously)*, kâu-kiè.
 
 **expectorate**, khak-thâm; thòu-thâm-nũaⁿ; phùi-nũaⁿ.
 
@@ -582,13 +582,13 @@ date: 2024-03-31 16:11:00
 
 **expressly**, tsuan; te̍k-te̍k; ũ-ì; chhiet-chhiet.
 
-**expunge**, kôu-buah; tiám-tiāu; khou-tiāu; hú-tiāu; san-tiāu *(as useless words or sentences)*; kau-tiāu *(id.)*.
+**expunge**, kôu-buah; tiám-tiāu; khou-tiāu; hú-tiāu. *(as useless words or sentences)*, san-tiāu; kau-tiāu.
 
 **exquisite**, tsa̍p-hun-hó; chĩn-hó; siãng-iùⁿ; siãng-kang-hu; chin-ngiá; chì-ngiá; siãng-múiⁿ.
 
 **extempore**, *speech*, sũn-tshùi-káng; chiũ-sî-tàⁿ. *composition*, phah-sim-kó.
 
-**extend**, *spread widely*, iâng; pùa. *stretch out*, tshun. *extend to*, chì-kàu; phóu-ki̍p. *everywhere*, bô-só put-chì. *extensive*, khuah; kúang-khuah; khùaⁿ. *what is the extent of it?* ũ-jie̍h-tōa? ũ-jie̍h-khuah?
+**extend**, *spread widely*, iâng; pùa. *stretch out*, tshun. *extend to*, chì-kàu; phóu-ki̍p. *everywhere*, bô-só put-chì. *extensive*, khuah; kúang-khuah; khùaⁿ. *what is the extent of it*, ũ-jie̍h-tōa; ũ-jie̍h-khuah.
 
 **exterior**, gūa-mīn; gū-mãuⁿ; gūa-thâu; gūa-phûe; gūa-pôiⁿ.
 

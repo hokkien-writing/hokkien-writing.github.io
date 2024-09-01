@@ -28,16 +28,17 @@ date: 2024-03-31 16:11:00
 
 **magistrate**, kuaⁿ-hú. upright, liâm-kuaⁿ; chheng-kuaⁿ. corrupt, tham-kuaⁿ. office of, gê-mn̂g. hall where he sits, kong-tn̂g. district magistrate, kūiⁿ; kūiⁿ-tsú.
 
-**magnanimous**, ũ-tōu-liãng; kháng-khài; khuan-iông (long-suffering); sim-hêng khuan-khuah (or, khuah-tōa); hái-liãng; liãng-tōu khuan-khuah.
+**magnanimous**, ũ-tōu-liãng; kháng-khài; hái-liãng; liãng-tōu khuan-khuah; sim-hêng khuan-khuah; sim-hêng khuah-tōa. *(long-suffering)*, khuan-iông.
 
 **magnet**, hiap-chie̍h.
 
 **magnificent**, tsun-iông; tsun-tõng. scenery, khî-kéng.
-magnifying glass, hién-mûiⁿ-kiàⁿ.
+
+**magnifying glass**, hién-mûiⁿ-kiàⁿ.
 
 **magpie**, kheh-chiáu; hí-chiáu; hí-chhiak.
 
-**maid**, tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ. house-maid, chhiah-kha; tsáu-kúi (common term, but objectionable).
+**maid**, tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ. *house-maid*, chhiah-kha. *house-maid (common term, but objectionable)*, tsáu-kúi.
 
 **mail**, coat of, chièn-kah; thih-kah.
 
@@ -59,7 +60,7 @@ magnifying glass, hién-mûiⁿ-kiàⁿ.
 
 **malaria**, suaⁿ-lâm chiàng-khì.
 
-**male**, lâm; nâm; ta-pou; kóu (beasts); kak (birds); hiông (id.). and female, nâm-nńg; ta-pou tsṳ-niêⁿ. female & male, im-iâng; phín-móuⁿ (beasts); thsṳ̂-hiông (birds).
+**male**, lâm; nâm; ta-pou. *(beasts)*, kóu. *(birds)*, kak; hiông. *male and female*, nâm-nńg; ta-pou tsṳ-niêⁿ. *female and male*, im-iâng. *female and male (beasts)*, phín-móuⁿ. *female and male (birds)*, thsṳ̂-hiông.
 
 **malediction**, chiù-tsūa; chiù-mēⁿ.
 
@@ -75,7 +76,7 @@ magnifying glass, hién-mûiⁿ-kiàⁿ.
 
 **mammon**, tshâi-sîn-iâ; chiáu-tshâi-iâ; tshâi-pe̍h.
 
-**man**, nâng. a, kâi-nâng. mankind, nâng-lūi; sì-jîn; sì-kan-nâng; sì--chiēⁿ kâi-nâng. an old, lãu-nâng-ke. bad, ak-nâng; pháiⁿ-nâng. reach manhood, sêng-teng. men (not including women), nâng-teng; lâm-teng. how many men (i. e. males)? kúi-teng? man-of-war, piaⁿ-tsûn; chièn-tsûn. manslaughter, tshò-suah; gōu-suah.
+**man**, nâng. *a*, kâi-nâng. *mankind*, nâng-lūi; sì-jîn; sì-kan-nâng; sì--chiēⁿ kâi-nâng. *an old*, lãu-nâng-ke. *bad*, ak-nâng; pháiⁿ-nâng. *reach manhood*, sêng-teng. *men (not including women)*, nâng-teng; lâm-teng. *how many men (or males)*, kúi-teng. *man-of-war*, piaⁿ-tsûn; chièn-tsûn. *manslaughter*, tshò-suah; gōu-suah.
 
 **manacles**, chhiú-khàu; chhiú-kê.
 
@@ -114,7 +115,8 @@ magnifying glass, hién-mûiⁿ-kiàⁿ.
 **mantis**, tsháu-kâu.
 
 **mantle**, tōa-phâu; gūa-thàu.
-mantle-piece, húe-lôu-téng.
+
+**mantle-piece**, húe-lôu-téng.
 
 **manure**, pûi; pùn; pûi-pùn. to, lo̍h-pûi; hẽ-pûi; phuah-pûi; ak-pûi; èng-tshân; èng-pûi.
 
@@ -124,21 +126,21 @@ mantle-piece, húe-lôu-téng.
 
 **map**, tī-tôu; tī-lí-tôu.
 
-**marble**, pe̍h-chie̍h (white); hue-hún-chie̍h. marbled paper, hue-tsúa; hue-long-tsúa.
+**marble**, hue-hún-chie̍h. *(white)*, pe̍h-chie̍h. marbled paper, hue-tsúa; hue-long-tsúa.
 
 **march**, to, kiâⁿ; kùe-lōu. an army, kiâⁿ-kun; tshut-kun.
 
 **mare**, bé-bó.
 
-**margin**, piⁿ; kîⁿ. marginal notes, kia-tsù; tsù-phoi; gūa-phoi; phoi tõ-chheh-kîⁿ; tiàu-phoi (at top of page).
+**margin**, piⁿ; kîⁿ. marginal notes, kia-tsù; tsù-phoi; gūa-phoi; phoi tõ-chheh-kîⁿ. *marginal notes (at top of page)*, tiàu-phoi.
 
 **mariner**, tsúi-siú; kiâⁿ-tsûn kâi-nâng.
 
-**mark**, jī-hō; àm-hō (private); hûn; chiah; ue̍h. make a, tsò-hō; phah-hō; ue̍h; ue̍h-hō. make one's mark on document, ìn tsńg-thâu-bôu; ìn kha-tói-bôu; ìn-chhiú-bôu. off the clauses in a book, tiám-kù; khou-chheh. time in music, khà-pán.
+**mark**, jī-hō; hûn; chiah; ue̍h. *(private)*, àm-hō. make a, tsò-hō; phah-hō; ue̍h; ue̍h-hō. make one's mark on document, ìn tsńg-thâu-bôu; ìn kha-tói-bôu; ìn-chhiú-bôu. off the clauses in a book, tiám-kù; khou-chheh. time in music, khà-pán.
 
 **market**, chhĩ; hṳ. go to, khṳ̀-chhĩ; chiẽⁿ-chhĩ; tàu-hṳ. no market for it, bōi-m̄-khṳ̀; bô-nâng khie̍h-tsáu; siau-m̄-khṳ̀; sià-m̄-tshut. dull, chhĩ-chhêng néⁿ-tãⁿ. price, chhĩ-kè. street, koi-chhĩ. place, hṳ-tiêⁿ. town, pou-thâu; hṳ. basket, chhĩ-nâⁿ. boats, hṳ-tsûn.
 
-**marry**, tshūa; tshūa-bóu; tshūa-chhin; tshú-chhi; tshūa-chhi; tshūa-sin-niêⁿ; sin-hun; tì-ke. of woman, kè; tshut-kè; tshut-mn̂g; chie-jī-sài (widow asking another husband); iáng-láu-sài (parents of girl taking a husband for her into their own family). marriage, hun-in; sin-hun; ha̍h-hun; sêng-hun; kat-hun. feast, ha̍h-hun-toh. portion, tsng-liâm; kè-tsng. contract, hun-tsṳ; hun-tsṳ-thiap. give one's daughter in marriage, kè--pun-nâng. engage to be married, see BETROTH. marriageable, kàu-kṳn-niéⁿ hó-kè--liáu; kàu-lâu-tsúi; tá-tsang; siu-thâu. not yet married, būe-chêng-tshūa (man); būe-kùe-mn̂g (woman).
+**marry**, tshūa; tshūa-bóu; tshūa-chhin; tshú-chhi; tshūa-chhi; tshūa-sin-niêⁿ; sin-hun; tì-ke. of woman, kè; tshut-kè; tshut-mn̂g. *of woman (widow asking another husband)*, chie-jī-sài. *of woman (parents of girl taking a husband for her into their own family)*, iáng-láu-sài. marriage, hun-in; sin-hun; ha̍h-hun; sêng-hun; kat-hun. feast, ha̍h-hun-toh. portion, tsng-liâm; kè-tsng. contract, hun-tsṳ; hun-tsṳ-thiap. give one's daughter in marriage, kè--pun-nâng. engage to be married, see BETROTH. marriageable, kàu-kṳn-niéⁿ hó-kè--liáu; kàu-lâu-tsúi; tá-tsang; siu-thâu. *not yet married (man)*, būe-chêng-tshūa. *not yet married (woman)*, būe-kùe-mn̂g.
 
 **marrow**, kut-tshúe.
 
@@ -150,7 +152,9 @@ mantle-piece, húe-lôu-téng.
 
 **martyr**, ũi-tãu tì-sí; ũi-tãu tì-miāⁿ; ũi-tãu siá-sin.
 
-**mask**, mīn-khak; mīn-bôu; kúi-khak. to put on an ugly mask, kùa siáu-kúi-khak. **mason**, hue-kang sai-pẽ; thôu-kang sai-pẽ; tsò-nîⁿ-tsúi; nîⁿ-tsúi.
+**mask**, mīn-khak; mīn-bôu; kúi-khak. to put on an ugly mask, kùa siáu-kúi-khak.
+
+**mason**, hue-kang sai-pẽ; thôu-kang sai-pẽ; tsò-nîⁿ-tsúi; nîⁿ-tsúi.
 
 **mass**, of people, nâng-mue̍h lāu-jie̍t.
 
@@ -158,14 +162,15 @@ mantle-piece, húe-lôu-téng.
 
 **mast**, tsûn-ûi. mainmast, tōa-ûi. foremast, thâu-ûi. mizzen-mast, búe-ûi. cut away, tsám-tiāu-ûi. put up, khiâ-ûi. take down, siâ-ûi; lo̍h-ûi.
 
-**master**, tsú; tsú-jîn; tshù-nâng; tong-ke; tshâi-tsú; thâu-ke (used in Ch'ao-chow-foo only in bad sense).
+**master**, tsú; tsú-jîn; tshù-nâng; tong-ke; tshâi-tsú. *(used in Ch'ao-chow-foo only in bad sense)*, thâu-ke.
 
 **mat**, chhie̍h. rush, tsháu-chhie̍h. bamboo, bi̍h-chhie̍h; tek-chhie̍h. rattan, tîn-chhie̍h. for sails, chhie̍h-pau. cover of a boat, phâng-kám. shed, phâng-chhiáng. spread a, tshṳ-tsháu-chhie̍h.
 
 **match**, húe-lêng; húe-hiāⁿ. matches, tsṳ̃-lâi-húe; húe-tshâ.
 
 **match**, to, phùe. no match for you, kāng-lṳ́ phit-phùe m̄-kùe. matchless, bô-sang; bô-hó-pí; bô-mue̍h hó-pí-pẽng; a-it; tõiⁿ-it.
-mate (of foreign ship), tōa-hu; jī-hu.
+
+**mate (of foreign ship)**, tōa-hu; jī-hu.
 
 **materials**, tshâi-liāu; pín-liāu; mue̍h-liāu. prepare, as for building, phōiⁿ-liāu. of various kinds, sam-liāu; ie̍h-liāu; sek-liāu.
 
@@ -173,8 +178,7 @@ mate (of foreign ship), tōa-hu; jī-hu.
 
 **matrix**, bôu. for type, tâng-póiⁿ-bôu; în-póiⁿ-bôu.
 
-**matter**, mue̍h; chieh; thói. great, tōa-sṳ̄. what is the matter? sĩ-mih-sṳ̄? matter of course, tsṳ̃-jiên; thien-jiên; tou-tie̍h chièⁿ-seⁿ. no matter, bô-siang-kan; bô-chhiet-iàu; bô-iàu-kín; bô-kàu tî-tò-khṳ̀. does it matter? sṳ̄ ũ-tāi a-bô? no matter of mine, m̄-sĩ úa--kâi-sṳ̄; ṳ́-uá bô-kan; kāng-úa bô-kan-sia̍p.
-matter (pus), lâng; n̂g-sûaⁿ-tsúi.
+**matter**, mue̍h; chieh; thói. *great*, tōa-sṳ̄. *what is the matter*, sĩ-mih-sṳ̄. *matter of course*, tsṳ̃-jiên; thien-jiên; tou-tie̍h chièⁿ-seⁿ. *no matter*, bô-siang-kan; bô-chhiet-iàu; bô-iàu-kín; bô-kàu tî-tò-khṳ̀. *does it matter*, sṳ̄ ũ-tāi a-bô. *no matter of mine*, m̄-sĩ úa--kâi-sṳ̄; ṳ́-uá bô-kan; kāng-úa bô-kan-sia̍p. *matter (pus)*, lâng; n̂g-sûaⁿ-tsúi.
 
 **mattock**, tṳ̂-thâu.
 
@@ -184,7 +188,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **maxim**, keh-ngân; huap-ngân; siàⁿ-hùn; so̍k-gṳ́.
 
-**may**, do it, khó; khó-íⁿ; tsò-tit. may I go? uá lâi-khṳ̀, hó--mé? may it be done? chièⁿ-seⁿ hó--mé?
+**may**, *do it*, khó; khó-íⁿ; tsò-tit. *may I go*, uá lâi-khṳ̀, hó--mé. *may it be done*, chièⁿ-seⁿ hó--mé.
 
 **meadows**, tsháu-pou; tsháu-tiêⁿ.
 
@@ -206,7 +210,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **measure**, tōu; tōu-liãng; liãng-tōu; tshùn-chhieh; tshùn-tōu; chhieh-tōu. to, niêⁿ; chhek; chhek-ta̍t; phit; pí. depth of water, thàm-tsúi.
 
-**meat**, ne̍k (flesh). and drink, ím-chia̍h.
+**meat**, *(flesh)*, ne̍k. *meat and drink*, ím-chia̍h.
 
 **mechanic**, sai-pẽ; kang-chhiēⁿ. art, ki-gōi; chhiú-gōi. mechanism, ie̍h-kúi.
 
@@ -226,7 +230,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **meek**, un-jiû; khiam-sùn.
 
-**meet**, sie-ngõ; ngõ--tie̍h; hũe-mīn; siang-hũe; siang-kìⁿ-mīn; siang-phòng; phòng--tie̍h (unexpectedly). together, tsũ-chi̍p; tsũ-hũe; hũe-chi̍p; chi̍p-bûa; kiâⁿ-bûa. go to, ngêng-chih.
+**meet**, sie-ngõ; ngõ--tie̍h; hũe-mīn; siang-hũe; siang-kìⁿ-mīn; siang-phòng. *(unexpectedly)*, phòng--tie̍h. together, tsũ-chi̍p; tsũ-hũe; hũe-chi̍p; chi̍p-bûa; kiâⁿ-bûa. go to, ngêng-chih.
 
 **melancholy**, iu-būn; tshôu-sṳ; tshôu-būn; iu-tshôu; ut-kak; ut-ì; iu-ut. affair, hó-huân-ló; khó-liên.
 
@@ -300,7 +304,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **meteor**, chheⁿ-sîn kùe-tōu; chheⁿ tūi; liû-chheⁿ.
 
-**method**, huang-huap; huap-tsat; huap-tōu. methodical, chip-huap. slave of method, chip-it (opp. of khûan-pièn or pièn-thong).
+**method**, huang-huap; huap-tsat; huap-tōu. methodical, chip-huap. *slave of method (opp. of khûan-pièn or pièn-thong)*, chip-it.
 
 **metropolis**, kiaⁿ-siâⁿ; kiaⁿ-sṳ; kiaⁿ-tou.
 
@@ -314,7 +318,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **mid-day**, tong-ngóu; ji̍t-tàu; tong-tàu.
 
-**middle**, tong; tong-sim; tong-iang; tong-kan; tìn-tang; chiàⁿ-tong; chiàⁿ-tang. -aged, tong-nîⁿ. middling, tit-tong; tong-pān; tong-phêng; tong-téng; bô-thang-siãng; sì-put-siãng; thûn-thûn (size). midnight, pùaⁿ-mêⁿ; saⁿ-keⁿ pùaⁿ-mêⁿ; tong-mêⁿ; tong-siau. midway, pùaⁿ-thû; pùaⁿ-lōu. middle-man, tong-nâng; bûe-nâng (in arranging a marriage). midrib of leaf, hie̍h-kṳn. mid-summer day, hē-chì. mid-winter, tang-chì.
+**middle**, tong; tong-sim; tong-iang; tong-kan; tìn-tang; chiàⁿ-tong; chiàⁿ-tang. *middle-aged*, tong-nîⁿ. *middling*, tit-tong; tong-pān; tong-phêng; tong-téng; bô-thang-siãng; sì-put-siãng. *middling (size)*, thûn-thûn. *midnight*, pùaⁿ-mêⁿ; saⁿ-keⁿ pùaⁿ-mêⁿ; tong-mêⁿ; tong-siau. *midway*, pùaⁿ-thû; pùaⁿ-lōu. *middle-man*, tong-nâng. *middle-man (in arranging a marriage)*, bûe-nâng. *midrib of leaf*, hie̍h-kṳn. *mid-summer day*, hē-chì. *mid-winter*, tang-chì.
 
 **midwife**, tsâi-bó; seⁿ-phûa; siu-seⁿ-phûa; seⁿ-kiáⁿ-bó; ún-phûa. book on midwifery, ta̍t-seⁿ-phien; pó-seⁿ-phien.
 
@@ -324,9 +328,9 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **mild**, un-hûa; un-jiû.
 
-**mildew**, to, chhiẽⁿ-bûe; chhiẽⁿ-tiám; chhiẽⁿ-hue-tiám; chhiẽⁿ-poiⁿ; seⁿ-kou (mould). of plants, chhiẽⁿ-în.
+**mildew**, to, chhiẽⁿ-bûe; chhiẽⁿ-tiám; chhiẽⁿ-hue-tiám; chhiẽⁿ-poiⁿ. *to mildew (mould)*, seⁿ-kou. of plants, chhiẽⁿ-în.
 
-**mile**, saⁿ-lí (approximately). three miles, che̍k-phòu.
+**mile**, *(approximately)*, saⁿ-lí. three miles, che̍k-phòu.
 
 **military**, bú. station, iâⁿ-pûaⁿ; sìn-tī; iâⁿ-sìn. profession, bú-gōi. officers, bú-kuaⁿ. laws, kun-huap; kun-lẽng; kun-lu̍t. examination, kháu-bú; bú-khue. graduate, bú-siù-tsâi; bú-kṳ́-jîn; bú-chìn-sṳ̃. civil and, bûn-bú.
 
@@ -334,7 +338,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **milk**, nĩⁿ. cow's, gû-nĩⁿ. to milk, liū-gû-nĩⁿ. milk-nurse, nĩⁿ-bó. milky-way, thien-hô.
 
-**mill**, lâng (for removing the husk); bō (for grinding). -stone, bō-chie̍h. turn a mill, oi-bō. upper mill-stone, chiēⁿ-tún-bō.
+**mill**, *(for removing the husk)*, lâng. *(for grinding)*, bō. *mill-stone*, bō-chie̍h. *turn a mill*, oi-bō. *upper mill-stone*, chiēⁿ-tún-bō.
 
 **millet**, sú; siú.
 
@@ -342,7 +346,7 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **mimic**, tieⁿ-iēⁿ; tsuang-iēⁿ; tsò-sièⁿ; tsuan-o̍h i-kâi-iēⁿ; tieⁿ-siaⁿ; tieⁿ-sueh; tsuang-siaⁿ.
 
-**mince**, tso̍ih-tshùi-tshùi; tok-tshùi; tok-iùⁿ. subst., ne̍k-tshò; ne̍k-nîⁿ; ne̍k-sám (less fine).
+**mince**, tso̍ih-tshùi-tshùi; tok-tshùi; tok-iùⁿ. *(substantive)*, ne̍k-tshò; ne̍k-nîⁿ. *(substantive) (less fine)*, ne̍k-sám.
 
 **mind**, sim; sim-sîn; sim-chì; sim-tn̂g; sim-ì. intelligent, tóu-lãi mêng-pe̍h. large, tōu-liãng khuan-tōa; tōu-liãng khuan-khuah; khuan-hông tãi-liãng; hái-liãng. narrow, bô-tōu-liãng; ti̍h-kiáⁿ-liãng; koi-tn̂g múaⁿ-chiah-tóu; sim o̍ih-sòi; sim-heng o̍ih-sòi; chhién-kièn. of one, tâng-sim. just to my mind, chiàⁿ-ha̍h úa-kâi-sim; zû-ngũan; zû-ì; tèng-ì; ha̍h-siẽⁿ. have something on the mind, sim-lãi ũ-sṳ̄; sim m̄-chheng; sim m̄-ôiⁿ; sim-lãi kãu-ue̍h. mind made up, tsú-ì íⁿ-tiāⁿ; li̍p-tiāⁿ tsú-ì; íⁿ-keng kuat-ì. to mind, liû-sim; tì-ì. with one's whole mind, tsuan-sim tì-ì; chĩn-sim chĩn-ì. never mind, bô-siang-kan; chhìn-tshái; màiⁿ-khṳ̀-tshái; màiⁿ-khṳ̀ kài-ì; màiⁿ-pàng tõ-sim; tì-tsṳ tōu-gūa; màiⁿ-kúan. never mind him, màiⁿ kāng-i kòi-kà; màiⁿ-tshái--i; kṳ̀-i-khṳ̀. keep in mind, kì-tit; kì-liãm.
 
@@ -356,20 +360,21 @@ matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 
 **minister**, chhîn; tãi-chhîn; tãi-láu; kok-láu. prime, tsái-siàng.
 
-**minstrel**, chhiè-khek; tshue-siau; pûn-siau; tsak-gau̍h; tsáu-chhiàng (travelling).
+**minstrel**, chhiè-khek; tshue-siau; pûn-siau; tsak-gau̍h. *(travelling)*, tsáu-chhiàng.
 
 **mint**, a, tsù-chîⁿ-ke̍k. master of the, chîⁿ-ke̍k-kuaⁿ.
 
 **mint**, pô-hò; po̍h-hò.
-minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-mûiⁿ. explain minutely, hun-thiah sòi-siâng.
+
+**minute (small)**, sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-mûiⁿ. *explain minutely*, hun-thiah sòi-siâng.
 
 **minute**, a, che̍k-hun; che̍k-hun-cheng. wait a minute, tán--khùn-kiáⁿ; tán--siap-sî; khiã-tiām--chē; chhiáⁿ-thẽng--chē.
 
 **miracle**, ĩ-chiah; sîn-chiah; lêng-chiah; lêng-ĩ. to perform, kiâⁿ-ĩ-chiah.
 
-**mire**, thôu-nîⁿ; nîⁿ-thôu; thôu-mûeⁿ (thin); thôu-ko (sticky).
+**mire**, thôu-nîⁿ; nîⁿ-thôu. *(thin)*, thôu-mûeⁿ. *(sticky)*, thôu-ko.
 
-**mirror**, mīn-kiàⁿ; siu-tsng-kiàⁿ; chhiú-kiàⁿ (hand); tiàu-kiàⁿ (hanging); chiè-sin pó-kiàⁿ (full-length); tâng-kiàⁿ (metallic). look in, chiè-kiàⁿ. polish metallic mirror, bûa-kiàⁿ.
+**mirror**, mīn-kiàⁿ; siu-tsng-kiàⁿ. *(hand)*, chhiú-kiàⁿ. *(hanging)*, tiàu-kiàⁿ. *(full-length)*, chiè-sin pó-kiàⁿ, *(metallic)*, tâng-kiàⁿ. look in, chiè-kiàⁿ. polish metallic mirror, bûa-kiàⁿ.
 
 **misanthropic**, put-jîn; m̄-kṳ̃n nâng-chhêng; sèⁿ-chhêng kou-ta̍k; kou-phiah.
 
@@ -379,7 +384,7 @@ minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-m�
 
 **miscall**, tàⁿ-tāⁿ; kiè-tāⁿ.
 
-**miscarry**, sié-súaⁿ; lo̍h-tho; lo̍h-súaⁿ; tho tak-nn̄g; tũi-tho; a-nôuⁿ lo̍h-tiāu (accidental); lo̍h-tiāu a-nôuⁿ (intentional).
+**miscarry**, sié-súaⁿ; lo̍h-tho; lo̍h-súaⁿ; tho tak-nn̄g; tũi-tho. *(accidental)*, a-nôuⁿ lo̍h-tiāu. *(intentional)*, lo̍h-tiāu a-nôuⁿ.
 
 **miscellaneous**, tsa̍p; tsa̍p-mue̍h; tsa̍p-kiáu-liãu; tshàm-tshùi-mue̍h; lo̍k-lo̍k so̍k-so̍k; liau̍h-liau̍h chiau̍h-chiau̍h.
 
@@ -425,11 +430,11 @@ minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-m�
 
 **mistake**, tshò; tsha-tshò; tsha-niũⁿ; m̄-tie̍h; tshng m̄-tùi-phīⁿ. no, bô-tsáu-tsu̍ah; bô-tshò; put-tshò. a person, gōu-jīn; tshò-jīn; jīn-tāⁿ; thóiⁿ-tāⁿ. well arranged so that no, chiu-ba̍t.
 
-**mistress**, tsú-bó; hu-jîn; ke-tsú-má; thâu-ke-niêⁿ (thâu-ke has bad meaning in Ch'ao-chow-foo, but is commonly used in Swatow).
+**mistress**, tsú-bó; hu-jîn; ke-tsú-má. *(thâu-ke has bad meaning in Ch'ao-chow-foo, but is commonly used in Swatow)*, thâu-ke-niêⁿ.
 
 **mistrust**, gî; m̄-sìn.
 
-**misunderstand**, gōu-hũe-ì; liáng-gōu; jī-ke tshò-kòi; jī-ke tshò-siẽⁿ; thiaⁿ-tāⁿ (in hearing).
+**misunderstand**, gōu-hũe-ì; liáng-gōu; jī-ke tshò-kòi; jī-ke tshò-siẽⁿ. *(in hearing)*, thiaⁿ-tāⁿ.
 
 **mites**, tâi. to breed, seⁿ-tâi.
 
@@ -447,7 +452,7 @@ minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-m�
 
 **mode**, fashion, sî-heng; sî-siãng. a la mode, ha̍h-sî; ha̍h-sî-phài.
 
-**model**, kui-môⁿ; iēⁿ; môⁿ-iēⁿ; ke̍k; keh-sek; thói-sek; tōu-sek; phue-tho (rough outline).
+**model**, kui-môⁿ; iēⁿ; môⁿ-iēⁿ; ke̍k; keh-sek; thói-sek; tōu-sek. *(rough outline)*, phue-tho.
 
 **moderate**, tsat-tōu; tsat-ēng; m̄-kùe-hūn.
 
@@ -459,13 +464,13 @@ minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-m�
 
 **Mohammedanism**, hue-hue-kà.
 
-**moist**, sip; tâm; ĩm; lùn-lùn; zũn-sip. moisten, ùn-tsúi; iêⁿ (melt).
+**moist**, sip; tâm; ĩm; lùn-lùn; zũn-sip. *moisten*, ùn-tsúi. *moisten (melt)*, iêⁿ.
 
 **molasses**, thn̂g-tsúi; nńg-thn̂g.
 
 **mole**, tshân-tshṳ́. hill, tshṳ́-èng. hole, tshṳ́-khang. trap, tshṳ́-keng. cricket, thôu-káu.
 
-**mole**, on the skin, ou-kì; âng-kì; àm-kì (on part covered by dress). hair of, kì-môⁿ. apply medicine to, tiám-kì.
+**mole**, on the skin, ou-kì; âng-kì. *on the skin (on part covered by dress)*, àm-kì. *hair of*, kì-môⁿ. *apply medicine to*, tiám-kì.
 
 **molest**, lâu; jiáu-to̍k; kiáu-jiáu; bûa-lūi.
 
@@ -479,10 +484,11 @@ minute (small), sòi-mûiⁿ; iùⁿ-mûiⁿ; siâng-sòi; sòi-siâng; cheng-m�
 
 **Monday**, lói-pài-it; pài-it.
 
-**money**, chîⁿ; chîⁿ-ngṳ̂n; chîⁿ-tshâi (wealth). bag, chîⁿ-tō; ngṳ̂n-tō. box, kap-būan (safe); chîⁿ-tâng; chîⁿ-kóng; chîⁿ-kūiⁿ; chîⁿ-kuh (earthenware). -changer, khui-chîⁿ-phòu; khui táu-toh-kūiⁿ. -lender, pàng-chè; pàng-chè kâi-nâng; pàng-lāi; pàng-tièⁿ; pàng-siàu; seⁿ-pàng; seⁿ-ngṳ̂n. lend on heavy interest, pàng-tãng-chè. moneyless, bô-chîⁿ. to pass bad money, sái pe̍h-tâng-ngṳ̂n.
+**money**, chîⁿ; chîⁿ-ngṳ̂n. *(wealth)*, chîⁿ-tshâi. *bag*, chîⁿ-tō; ngṳ̂n-tō. *box*, chîⁿ-tâng; chîⁿ-kóng; chîⁿ-kūiⁿ. *box (safe)*, kap-būan. *box (earthenware)*, chîⁿ-kuh. *money-changer*, khui-chîⁿ-phòu; khui táu-toh-kūiⁿ. *money-lender*, pàng-chè; pàng-chè kâi-nâng; pàng-lāi; pàng-tièⁿ; pàng-siàu; seⁿ-pàng; seⁿ-ngṳ̂n. *lend on heavy interest*, pàng-tãng-chè. *moneyless*, bô-chîⁿ. *to pass bad money*, sái pe̍h-tâng-ngṳ̂n.
 
 **Mongolia**, Mông-kóu.
-monk (Buddhist), hûe-siēⁿ.
+
+**monk (Buddhist)**, hûe-siēⁿ.
 
 **monkey**, kâu. monkey-face, mīn kâu-kâu.
 
@@ -502,19 +508,19 @@ monk (Buddhist), hûe-siēⁿ.
 
 **moral**, siẽn-tek; ũ-tek-hẽng. tracts, khǹg-sì-bûn. morality, siẽn-tek; tãu-tek; mêng-tek; tek-hẽng; tek-sèⁿ.
 
-**more**, ke. a little, ke--lân-ló. is there more? huân-ũ a-bô? no more of this, pã--liáu. more than ten, tsa̍p-gūa; tsa̍p-tshut. the more you plead the less he heeds you, zú-koh-lô zú-m̄-tshái. more or less, ke-kiám.
+**more**, ke. *a little*, ke--lân-ló. *is there more*, huân-ũ a-bô. *no more of this*, pã--liáu. *more than ten*, tsa̍p-gūa; tsa̍p-tshut. *the more you plead the less he heeds you*, zú-koh-lô zú-m̄-tshái. *more or less*, ke-kiám.
 
 **moreover**, lêng-gūa; siãng-chhiáⁿ; huân-liáu; khuàng-chhiáⁿ; iũ-tsài; kèng-chhiáⁿ; huân-iáu.
 
-**morning**, mn̂g-khí. every, pâi-mn̂g-khí. early in the, mn̂g-khí tsá-tsá. this, mn̂g-khí. next, mùaⁿ-mn̂g-khí. and evening, mêⁿ-hng tsá-khí; mêⁿ-hng mn̂g-khí. star, khí-mêng-chheⁿ. long for, as sick person, thãi bõi-tit thiⁿ kng.
+**morning**, mn̂g-khí. *every*, pâi-mn̂g-khí. *early in the*, mn̂g-khí tsá-tsá. *this*, mn̂g-khí. *next*, mùaⁿ-mn̂g-khí. *and evening*, mêⁿ-hng tsá-khí; mêⁿ-hng mn̂g-khí. *star*, khí-mêng-chheⁿ. *long for (as sick person)*, thãi bõi-tit thiⁿ kng.
 
 **morose**, pũ-àu; àu pũ-pũ; mīn hìm-hìm.
 
-**morrow**, on the, mùaⁿ-khí; mùaⁿ-tsá; mùaⁿ-ji̍t; mêng-ji̍t.
+**morrow**, *on the morrow*, mùaⁿ-khí; mùaⁿ-tsá; mùaⁿ-ji̍t; mêng-ji̍t.
 
 **morsel**, kò-kiáⁿ; tiám-kiáⁿ.
 
-**mortal**, õi-sí. to become a mortal, huâm-tho; kàng-huâm; hiã-huâm. mortally wounded, tãng-sieⁿ bô-ui.
+**mortal**, õi-sí. *to become a mortal*, huâm-tho; kàng-huâm; hiã-huâm. *mortally wounded*, tãng-sieⁿ bô-ui.
 
 **mortar**, hue; hue-thôu; thôu-sua.
 
@@ -530,7 +536,7 @@ monk (Buddhist), hûe-siēⁿ.
 
 **moss**, thî; chheⁿ-thî. to grow, seⁿ-thî; chhiẽⁿ-chheⁿ-thî.
 
-**most**, chì; tsãi; tsùe; sĩm; tsa̍p-hun; chì (all signs of superlative degree). mostly, tãi-sì; tãi-khài; tsōi-siâⁿ; tōa-mĩn; tōa-pùaⁿ.
+**most**, chì; tsãi; tsùe; sĩm; tsa̍p-hun. *(all signs of superlative degree)*, chì. mostly, tãi-sì; tãi-khài; tsōi-siâⁿ; tōa-mĩn; tōa-pùaⁿ.
 
 **moth**, tsù; tsù-thâng; teng-ngô; tsam-teng-ia̍h.
 
@@ -592,7 +598,7 @@ monk (Buddhist), hûe-siēⁿ.
 
 **murmur**, kauh-kauh-kiè; liām-lōu. against, uàn; uàn-hṳ̃n.
 
-**muscle**, ne̍k; ne̍k-si; ne̍k-kṳn (tendons of).
+**muscle**, ne̍k; ne̍k-si. *(tendons of)*, ne̍k-kṳn.
 
 **mushroom**, kou. edible, hieⁿ-kou.
 
@@ -604,13 +610,15 @@ monk (Buddhist), hûe-siēⁿ.
 
 **muslin**, se; mîⁿ-se.
 
-**must**, bũ-pit, eng-kai; tie̍h; bõi-tit-mién; put-tit-íⁿ. why must? hô-pit? must not, m̄-hó.
+**must**, bũ-pit, eng-kai; tie̍h; bõi-tit-mién; put-tit-íⁿ. *why must*, hô-pit. *must not*, m̄-hó.
 
 **mustache**, chhiu; tshùi-chhiu; nõⁿ-phuah-chhiu. to grow a, lâu-chhiu.
 
 **mustard**, seed, kài-chí; kài-lua̍h-chí; pe̍h-kài-chí. powder, kài-lua̍h-hún.
 
-**musty**, chhiẽⁿ-ĩm; seⁿ-sip-khì; seⁿ-ip-chi̍p; tshàu-kou-hièn. **mute** (dumb), é; bõi-tàⁿ-ūe. silent, tiām-tiām; bô-khui-tshùi.
+**musty**, chhiẽⁿ-ĩm; seⁿ-sip-khì; seⁿ-ip-chi̍p; tshàu-kou-hièn.
+
+**mute**, *(dumb)*, é; bõi-tàⁿ-ūe. silent, tiām-tiām; bô-khui-tshùi.
 
 **mutable**, õi-kói-pièn; õi-kói-piⁿ.
 
@@ -630,4 +638,4 @@ monk (Buddhist), hûe-siēⁿ.
 
 **mysterious**, abstruse, àu-biāu; mûiⁿ-biāu; chhim-biāu. strange and inexplicable, hãi-ĩ lân-chhek. secret, pi-ba̍t.
 
-**mystical**, ṳ́n-gṳ́ (having a hidden meaning).n meaning).
+**mystical**, *(having a hidden meaning)*, ṳ́n-gṳ́.

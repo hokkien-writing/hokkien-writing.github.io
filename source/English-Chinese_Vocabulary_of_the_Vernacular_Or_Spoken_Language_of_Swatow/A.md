@@ -22,9 +22,9 @@ date: 2024-03-31 16:11:00
 
 **abate**, kiám; chié. *the price*, sǹg-kiám; tṳ̂-kiám; khà-kiám; khà-tṳ̂; kiám--chē; chié--chē.
 
-**abbess** (*Buddhist*), sṳ-hũ; hûe-siēⁿ-phûa; nîⁿ-kou-phûa.
+**abbess**, *(Buddhist)*, sṳ-hũ; hûe-siēⁿ-phûa; nîⁿ-kou-phûa.
 
-**abbot** (*Buddhist*), sṳ-hũ; hûe-siēⁿ-thâu; tang-ke.
+**abbot**, *(Buddhist)*, sṳ-hũ; hûe-siēⁿ-thâu; tang-ke.
 
 **abbreviation**, sié-siá. *a compendium*, tãi-lia̍k.
 
@@ -106,7 +106,7 @@ date: 2024-03-31 16:11:00
 
 **abyss**, chhim-thâm; chhim-chhim; bô-tói; bô-tói chhim-kheⁿ.
 
-**academy**, tsṳ-īⁿ; *imperial, at Pekin*, hâng-lîm.
+**academy**, tsṳ-īⁿ; *imperial (at Pekin)*, hâng-lîm.
 
 **accelerate**, tshui-pek; tshui-méⁿ.
 
@@ -174,7 +174,7 @@ date: 2024-03-31 16:11:00
 
 **act**, tsò; kiâⁿ; ûi; tsak.
 
-**action**, hêng-ûi; kiâⁿ-ûi; hêng-chí. *in war*, chièn-che̍k-tīn. *enter an a. at law*, phah-kuaⁿ-si.
+**action**, hêng-ûi; kiâⁿ-ûi; hêng-chí. *in war*, chièn-che̍k-tīn. *enter an a (at law)*, phah-kuaⁿ-si.
 
 **active**, khṳ̂n-kang; kha-chhiú mé; lêng-lāi; ua̍h-phuah.
 
@@ -214,7 +214,7 @@ date: 2024-03-31 16:11:00
 
 **admirable**, hó-thóiⁿ; tshut-khî.
 
-**admiral**, tsúi-sṳ thî-tok; tsúi-sṳ tìn-thâi (*lower*).
+**admiral**, tsúi-sṳ thî-tok. *(lower)*, tsúi-sṳ tìn-thâi.
 
 **admire**, thóiⁿ kàu-àm-ngì; thóiⁿ-tshù-bī.
 
@@ -280,7 +280,7 @@ date: 2024-03-31 16:11:00
 
 **affix**, tah-tùe; sie-chiap. *a seal*, khap-ìn.
 
-**afflict**, kia-hāi; bûa-lān, kan-khóu; lân-ûi. *affliction*, kan-lân; kan-khóu; sng-sṳ̄; pe̍h--sṳ̄ (*mourning*).
+**afflict**, kia-hāi; bûa-lān, kan-khóu; lân-ûi. *affliction*, kan-lân; kan-khóu; sng-sṳ̄. *affliction (mourning)*, pe̍h--sṳ̄.
 
 **affluence**, pù; pù-tsok; hong-sẽng; kãu-nauh; hong-tsok; pù-kãu.
 
@@ -296,13 +296,13 @@ date: 2024-03-31 16:11:00
 
 **after**, aũ. *three days*, saⁿ-ji̍t-aũ; saⁿ-ji̍t tsṳ-aũ; kùe-ke saⁿ-ji̍t. *I shall be after you*, uá sûi-aũ chiũ-lâi. *to follow*, tùe tõ-aũ-mīn. *to pursue*, jiāu; tui. *the pattern*, chiè-iēⁿ; chiè-bôu. *afterwards*, aũ-lâi. *ages*, aũ-sì; ãu-tō. *afternoon*, ẽ-kùa; ẽ-ngóu. *after dinner*, chia̍h-ji̍t-tàu-liáu. *afterbirth*, ui.
 
-**again**, tsài; lêng-gūa; iũ; têng-gūa; iũ-tsài. *a. and a.*, ē-ē; lú-lú.
+**again**, tsài; lêng-gūa; iũ; têng-gūa; iũ-tsài. *again and again*, ē-ē; lú-lú.
 
 **against**, nge̍k; tùi; siang-huán; m̄-sũn; m̄-ha̍h.
 
 **agate**, má-láu.
 
-**age**, nîⁿ-kí; nîⁿ-hùe; siū. *what is your*? jie̍h-tsōi-hùe? kùi-keⁿ? tshun-chhiu jie̍h-tsōi? *ages*, sì; sì-tō.
+**age**, nîⁿ-kí; nîⁿ-hùe; siū. *what is your*, jie̍h-tsōi-hùe; kùi-keⁿ; tshun-chhiu jie̍h-tsōi. *ages*, sì; sì-tō.
 
 **aged**, lãu; láu-nîⁿ; nîⁿ-hùe tsōi; lãu-tōa.
 
@@ -316,7 +316,7 @@ date: 2024-03-31 16:11:00
 
 **agitate**, tõng; iâu-tõng; chín-tõng. *greatly agitated*, sim-kuaⁿ phû-phû-tshuán.
 
-**ago**, tsôiⁿ. *long*, íⁿ-keng-kú. *not long*, bô-mih-kú. *how long?* kàu-taⁿ jie̍h-kú?
+**ago**, tsôiⁿ. *long*, íⁿ-keng-kú. *not long*, bô-mih-kú. *how long*, kàu-taⁿ jie̍h-kú.
 
 **agree**, hûa; siang-hûa; hûa-ha̍h; hûa-mo̍k; hûa-khì; siang-ha̍h; tuàn-ieh. *in opinion*, tâng-ì; tâng-ki. *an agreement*, ha̍p-tâng; khòi; ha̍p-ieh.
 
@@ -340,7 +340,7 @@ date: 2024-03-31 16:11:00
 
 **alarm**, kiaⁿ-tông. *false*, phièn-nâng-kiaⁿ.
 
-**alas!** āi-ā! (*in grief*); hā-iā! (*in danger*).
+**alas**, *(in grief)*, āi-ā. *(in danger)*, hā-iā.
 
 **alert**, kha-chhiú khùe; lêng-lāi; ua̍h-phuah; lêng-cheng.
 
@@ -380,7 +380,7 @@ date: 2024-03-31 16:11:00
 
 **alms**, *to give*, chì-phîn; chín-chì; si-chì; si-siá. *of rice*, si-bí.
 
-**aloes**, tîm-hieⁿ (*lign-aloes*).
+**aloes**, *(lign-aloes)*, tîm-hieⁿ.
 
 **aloft**, tõ-chiēⁿ; tõ-téng; tõ-téng-mīn. *to go*, peh-chiẽⁿ.
 
@@ -414,7 +414,7 @@ date: 2024-03-31 16:11:00
 
 **always**, siêⁿ-sî; sî-sî; pâi-sî; múeⁿ-múeⁿ; kú-kú; ē-ē; lú-lú.
 
-**am**, *I.* úa sĩ. *I am the man*, úa chiũ-sĩ. *I am sick*, úa ũ-pēⁿ. *I am cold*, úa õi-chhìn.
+**am**, *I* úa sĩ. *I am the man*, úa chiũ-sĩ. *I am sick*, úa ũ-pēⁿ. *I am cold*, úa õi-chhìn.
 
 **amanuensis**, thòi-siá; thòi-pit; thòi-tsṳ.
 
@@ -452,7 +452,7 @@ date: 2024-03-31 16:11:00
 
 **among**, *see*[amid](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#amid).
 
-**amount**, kāng-kòi; tsóng-kat; kāng-tsóng; ha̍h-kāng. *what?* jie̍h-tsōi?
+**amount**, kāng-kòi; tsóng-kat; kāng-tsóng; ha̍h-kāng. *what*, jie̍h-tsōi.
 
 **ample**, khuah-tōa; khuan-khuah; khuan-khuàⁿ; khùaⁿ-chhēng. *means*, pù-tsok.
 
@@ -468,7 +468,7 @@ date: 2024-03-31 16:11:00
 
 **ancestors**, soiⁿ-tsóu; tsóu-kong; tsóu-tsong; kong-má. *ancestral hall*, sṳ̂-tn̂g; tsong-sṳ̂. *tablet*, sîn-tsú; sîn-tsú-pâi; ke-sîn; ba̍k-tsú.
 
-**anchor**, tèng. *one*, che̍k-mn̂g-tèng. *to cast*, pha-tèng. *to weigh*, khí-tèng; khieh-tèng; chhia-tèng; chhiû-tèng. *anchorage*, hiah-tsûn kâi-ūi-tshṳ̀; pou-thâu (*i.e. a port*).
+**anchor**, tèng. *one*, che̍k-mn̂g-tèng. *to cast*, pha-tèng. *to weigh*, khí-tèng; khieh-tèng; chhia-tèng; chhiû-tèng. *anchorage*, hiah-tsûn kâi-ūi-tshṳ̀. *anchorage (a port)*, pou-thâu.
 
 **ancient**, kóu. *times*, kóu-sî; kóu-tsá. *men*, kóu-nâng. *doctrines*, kóu-kà.
 
@@ -486,7 +486,7 @@ date: 2024-03-31 16:11:00
 
 **animate**, kóu-bú; kóu-kah.
 
-**aniseed**, poih-kak-hieⁿ; tōa-hûe; sié-hûe (*fennel? coriander?*)
+**aniseed**, poih-kak-hieⁿ; tōa-hûe. *(fennel or coriander)*, sié-hûe.
 
 **ankle**, kha-ma̍k.
 
@@ -530,7 +530,7 @@ date: 2024-03-31 16:11:00
 
 **antique**, *curiosities*, kóu-tóng; kóu-nguán. *antiquity*, kóu-tsá; kóu-sî. *in remote*, siãng-kóu tiâng-sî.
 
-**antithesis**, tùi-kù; si-tùi; tùi-liên (*antithetic scrolls*).
+**antithesis**, tùi-kù; si-tùi. *(antithetic scrolls)*, tùi-liên.
 
 **anvil**, thih-tiam.
 
@@ -538,9 +538,9 @@ date: 2024-03-31 16:11:00
 
 **anxiety**, khùa-lṳ̃; huân-ló; khùa-sim; iu-ut; ut-būn.
 
-**any**, *one*, put-lũn tî-tiâng; huâm-sĩ-mih-nâng. *where*, put-lũn hô-tshù; put-lũn tî-kò. *is there any more?* huân-ũ a-bô? *is there anybody in?* ũ-nâng-tõ--bô? *anyhow*, sûi-piẽn; sûi-sûi piẽn-piẽn.
+**any**, *one*, put-lũn tî-tiâng; huâm-sĩ-mih-nâng. *where*, put-lũn hô-tshù; put-lũn tî-kò. *is there any more*, huân-ũ a-bô. *is there anybody in*, ũ-nâng-tõ--bô. *anyhow*, sûi-piẽn; sûi-sûi piẽn-piẽn.
 
-**apart**, keh-pie̍t; kak-pie̍t; lî-khui. *how far?* siang-lî jie̍h-hñg?
+**apart**, keh-pie̍t; kak-pie̍t; lî-khui. *how far*, siang-lî jie̍h-hñg.
 
 **apartment**, pâng; pâng-koiⁿ. *female*, chhim-kui; kui-pâng; chhim-kui tièⁿ-lãi.
 
@@ -734,7 +734,7 @@ date: 2024-03-31 16:11:00
 
 **asthma**, he-ku-thiu; he-tshúan; he-khì.
 
-**aster** (*China*), kek-hue.
+**aster**, *(China)*, kek-hue.
 
 **astonish**, khṳt--nâng hãi-ĩ; sái-nâng khî-ĩ; hãi-ĩ nâng kâi zṳ́-ma̍k.
 
@@ -762,7 +762,7 @@ date: 2024-03-31 16:11:00
 
 **atlas**, tī-tôu; tī-lí-tôu.
 
-**atmosphere**, thiⁿ-khì (*weather*).
+**atmosphere**, *(weather)*, thiⁿ-khì.
 
 **atom**, che̍k-tiám-kiáⁿ; se-su-kiáⁿ.
 
@@ -776,7 +776,7 @@ date: 2024-03-31 16:11:00
 
 **attack**, kong-khek. *a city*, kong-siâⁿ; phah-siâⁿ.
 
-**attain**, tit; tit--tie̍h; kàu; ki̍p. *attain literary rank*, tit-kong-miâⁿ; ji̍p-o̍h. *the various degrees*, (1) ji̍p-siù-tsâi; (2) tèng-kṳ́-jîn; (3) tèng-chìn-sṳ̃; (4) tiám-hân-lîm.
+**attain**, tit; tit--tie̍h; kàu; ki̍p. *attain literary rank*, tit-kong-miâⁿ; ji̍p-o̍h. *the various degrees*, ji̍p-siù-tsâi; tèng-kṳ́-jîn; tèng-chìn-sṳ̃; tiám-hân-lîm.
 
 **attempt**, chhì-tsò; chhì-thóiⁿ; thèng-tsãu-hùe; thèng-hiau-hẽng.
 

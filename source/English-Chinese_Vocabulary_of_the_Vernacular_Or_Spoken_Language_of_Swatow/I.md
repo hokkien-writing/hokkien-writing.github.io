@@ -25,7 +25,8 @@ date: 2024-03-31 16:11:00
 **idol**, ngóu-sièⁿ; phû-sat; lãu-iâ; tshâ-sîn. idolatry, pài-tshâ-sîn; pài-ngóu-sièⁿ.
 
 **if**, jia̍k; zû-jia̍k; tháng-jia̍k; kiá-sái; kiá-lẽng; kóu-sek; phah-tsò; kiá-zû; zû-ho̍k; khó-pí; phì-zû; pí-huang. if you are going, lṳ́ jia̍k-sĩ àiⁿ-khṳ̀. but if you won't go, nãⁿ-sĩ lṳ́ m̃-khṳ̀. if not, zû-m̄-sĩ; iā-sĩ-bô. as if (comparison), phì-zû; pí-zû; hāi--kùe; tǹg--kùe; chhin-chhiẽⁿ; khó-pí. even if, tsòng; tsòng-jiên; tsòng-sái.
-ignis fatuus, kúi-húe.
+
+**ignis fatuus**, kúi-húe.
 
 **ignite**, to̍h-húe; huat-húe.
 
@@ -34,10 +35,14 @@ ignis fatuus, kúi-húe.
 **ignorant**, bô-tsai; bô-kièn-sek; m̄-hiáu; m̄-pat.
 
 **ill**, ũ-pēⁿ; m̄-sóng-khùai; bô-hièⁿ-hó; m̄-phêng-an; bô-khang-kiẽn; nâng m̄-hó.
-ill-natured, sèⁿ-chhêng m̄-hó; phî-khì m̄-hó; ũ-phiah-pēⁿ.
-ill-favoured, mīn-mãuⁿ tshou; iá-iēⁿ; thóiⁿ m̄-ji̍p-ma̍k; tshou-lõu.
-ill-shaped, iá-iēⁿ; m̄-chiâⁿ-iēⁿ.
-ill-treat, m̄-kãu-thãi-nâng; khek-po̍h. ill-treated, siũ-khui; siũ-khì.
+
+**ill-natured**, sèⁿ-chhêng m̄-hó; phî-khì m̄-hó; ũ-phiah-pēⁿ.
+
+**ill-favoured**, mīn-mãuⁿ tshou; iá-iēⁿ; thóiⁿ m̄-ji̍p-ma̍k; tshou-lõu.
+
+**ill-shaped**, iá-iēⁿ; m̄-chiâⁿ-iēⁿ.
+
+**ill-treat**, m̄-kãu-thãi-nâng; khek-po̍h. ill-treated, siũ-khui; siũ-khì.
 
 **illegal**, hũam-huap; m̄-ha̍h-huap; m̄-ha̍h-lī; lu̍t-huap m̄-tsún--kâi.
 
@@ -45,14 +50,15 @@ ill-treat, m̄-kãu-thãi-nâng; khek-po̍h. ill-treated, siũ-khui; siũ-khì.
 
 **illegitimate**, child, thau-seⁿ kâi-kiáⁿ.
 
-**illiberal**, tōu-liãng o̍ih-sòi (or, soih); kien-liẽn (niggardly); khieh-si̍p (greedy).
+**illiberal**, tōu-liãng o̍ih-sòi; tōu-liãng o̍ih-soih. *(niggardly)*, kien-liẽn. *(greedy)*, khieh-si̍p.
 
 **illicit**, intercourse, sai-thong; kóu-ha̍h; thong-kan.
 
 **illimitable**, bô-hãn-liãng; bõi-tit-liáu.
 
 **illiterate**, m̄-pat-jī; bô-tha̍k-tsṳ; bô-ha̍k-mn̄g; m̄-chêng ta̍h-ji̍p Khóng-tsṳ́-mn̂g; tóu-lãi bô-pùaⁿ-tiám ba̍k-tsúi; tin-tò-thâu chèng bô-pùaⁿ-tiám ba̍k-tsúi.
-ill-fated, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ phí.
+
+**ill-fated**, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ phí.
 
 **illness**, pēⁿ; pēⁿ-chèng. symptoms of, pēⁿ-chhêng; pēⁿ-tsuãng.
 
@@ -92,7 +98,7 @@ ill-fated, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ ph
 
 **immense**, tōa-tsãi; ke̍k-tōa; chì-tōa; tōa-bô-pān; tōa-bô-pí. an immense quantity, tōa-bó-mue̍h.
 
-**immerse**, ùn (dip and make damp); chìm (steep); tîm (sink); tìm (dip many times so as to wash).
+**immerse**, *(dip and make damp)*, ùn. *(steep)*, chìm. *(sink)*, tîm. *(dip many times so as to wash)*, tìm.
 
 **imminent**, kṳ̃n; chiang-kṳ̃n àiⁿ-kàu; chiang-lîm. danger, lîm-ngûi; ngûi-kip; kín-kip.
 
@@ -122,7 +128,7 @@ ill-fated, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ ph
 
 **impawn**, tǹg-mue̍h; khṳt--nâng tsò-àn.
 
-**impeach**, kò; tsham (report an officer's misconduct).
+**impeach**, kò. *(report an officer's misconduct)*, tsham.
 
 **impede**, tsó; tsó-chí; tsó-keh; tsó-tàng; hûang-gāi; thua-thūi; gōu-sṳ̄.
 
@@ -217,7 +223,8 @@ ill-fated, khóu-miāⁿ; miāⁿ kuai; po̍h-miāⁿ; miāⁿ khiap; miāⁿ ph
 **inapplicable**, m̄-ha̍h.
 
 **inarticulate**, sounds, siaⁿ bô-hun-mêng.
-inasmuch as, kì-jiên; in-ũi. see BECAUSE.
+
+**inasmuch as**, kì-jiên; in-ũi. see BECAUSE.
 
 **inattentive**, sim bô-tõ; m̄-tsuan-sim; sim hùang-i̍t.
 
@@ -299,7 +306,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **incredible**, put-tsok-sìn; lân-íⁿ siang-sìn; lân-sìn; miáu-mâng oh-sìn.
 
-**incredulous**, bô-siang-sìn; m̄-hàuⁿ-sìn; m̃-sìn; ũ-tshai-gî; gî-sìn tsham-pùaⁿ (half believing); pùaⁿ-sìn pùaⁿ-gî (id.).
+**incredulous**, bô-siang-sìn; m̄-hàuⁿ-sìn; m̃-sìn; ũ-tshai-gî. *(half believing)*, gî-sìn tsham-pùaⁿ; pùaⁿ-sìn pùaⁿ-gî.
 
 **inculcate**, hun-hù; teng-lêng tsok-hù.
 
@@ -311,7 +318,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **indecent**, m̄-ha̍h-lí; m̄-hó-thóiⁿ; bô-ngî; bô-lói-ngî; hui-lói; bô-thí-mīn sṳ̄; m̄-kuan-ngiá.
 
-**indeed**, kúaⁿ-jiên; si̍t-tsãi; tiāⁿ-tie̍h. indeed! õ!
+**indeed**, kúaⁿ-jiên; si̍t-tsãi; tiāⁿ-tie̍h. *indeed!*, õ.
 
 **indefatigable**, put-kuãn; bô-phî-kuãn; tsong-ji̍t bô-hiah; khṳ̂n-tsãi; khṳ̂n-la̍t.
 
@@ -341,7 +348,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **indignation**, khì; hún-khì. at wrong done to another, put-phêng; ũi-put-phêng.
 
-**indigo**, chheⁿ (growing); chheⁿ-tōiⁿ (the dye); thóu-tōiⁿ; lâm-tōiⁿ. foreign, iêⁿ-tōiⁿ. vat, chheⁿ-tháng.
+**indigo**, thóu-tōiⁿ; lâm-tōiⁿ. *(growing)*, chheⁿ. *(the dye)*, chheⁿ-tōiⁿ. *foreign*, iêⁿ-tōiⁿ. *vat*, chheⁿ-tháng.
 
 **indirect**, m̃-ti̍t-tàⁿ; uan-tuân; uan-khek; úi-khiok; tshúa; uai-tshúa.
 
@@ -363,11 +370,11 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **indubitable**, tiāⁿ-tie̍h; mién-gî.
 
-**induce**, khan-ín; ín-tshūa; ín-iú; sái; chie; khǹg-kòi (by persuasion).
+**induce**, khan-ín; ín-tshūa; ín-iú; sái; chie. *(by persuasion)*, khǹg-kòi.
 
-**indulge**, oneself, jîm-ì; tsòng-ì. indulgent, khuan-thãi; pàng-khuan; pàng-sang; pàng-làng-sang; khuan-sù (forgiving); khuan-tshṳ̂, tshṳ̂-ài; bô-ngiâm.
+**indulge**, oneself, jîm-ì; tsòng-ì. indulgent, khuan-thãi; pàng-khuan; pàng-sang; pàng-làng-sang; khuan-tshṳ̂, tshṳ̂-ài; bô-ngiâm. *(forgiving)*, khuan-sù.
 
-**indurated**, pièn-ngẽ; pièn-tōiⁿ; seⁿ-ngẽ-lan (callosity). hands, chhiú seⁿ-lan.
+**indurated**, pièn-ngẽ; pièn-tōiⁿ. *(callosity)*, seⁿ-ngẽ-lan. *hands*, chhiú seⁿ-lan.
 
 **industrious**, khṳ̂n-kang; gia̍p-tsoh.
 
@@ -427,7 +434,7 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **ingenious**, khá; khi-kká; ki-khá; sin-khá; khá-ĩ; kuai-khá; kuai-khiáu.
 
-**ingot**, of sycee, nguân-pó; uâng-pó; ngṳ̂n-tiãⁿ (chiefly of paper imitations).
+**ingot**, of sycee, nguân-pó; uâng-pó. *(chiefly of paper imitations)*, ngṳ̂n-tiã.
 
 **ingratitude**, buâng-ṳn hũ-ngĩ; siũ-ṳn put-pò; hiau-chhêng tso̍h-ngĩ; bô-jîn-ngĩ; put-jîn put-ngĩ; chiang-ṳn chhiû-pò. beastly, tṳ-káu buâng-chhêng.
 
@@ -447,7 +454,9 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 
 **injure**, sún; sún-hāi; sieⁿ-hāi; sún-sieⁿ; hām-hāi; sún-phùa; tshâng-hāi; sieⁿ-tshâng; khui-sún. injurious, hāi-nâng; lĩ-hāi; ũ-sún bô-iah; hām-hāi.
 
-**injustice**, hui-ngĩ; put-ngĩ. indignant at injustice done to another, put-phêng; ũi-put-phêng. **ink**, ba̍k (solid); ba̍k-tsúi (liquid). one piece of ink, che̍k-tiâu-ba̍k. -stone, ba̍k-īⁿ. rub, bûa-ba̍k. -bottle, ba̍k-tsúi-ti̍h; ba̍k-tsúi-kùan; ba̍k-tsúi-tãng.
+**injustice**, hui-ngĩ; put-ngĩ. *indignant at injustice done to another*, put-phêng; ũi-put-phêng.
+
+**ink**, *(solid)*, ba̍k. *(liquid)*, ba̍k-tsúi. *one piece of ink*, che̍k-tiâu-ba̍k. *ink-stone*, ba̍k-īⁿ. rub, bûa-ba̍k. *ink-bottle*, ba̍k-tsúi-ti̍h; ba̍k-tsúi-kùan; ba̍k-tsúi-tãng.
 
 **inland**, lãi-tī; suaⁿ-lãi.
 
@@ -520,7 +529,8 @@ inasmuch as, kì-jiên; in-ũi. see BECAUSE.
 **instance**, for, khó-pí; phì-zũ; phì-zû; pí-huang. one, che̍k-hûe.
 
 **instant**, an, che̍k-khùn-kiáⁿ; che̍k-ma̍k-nihⁿ; che̍k-sek-kú; che̍k-siap-sî; che̍k-khek. instantly, chiet-khek; sûi-chiet; sûi-sî; lîm-sî.
-instead of, thòi.
+
+**instead of**, thòi.
 
 **instep**, kha-pûaⁿ; kha-pùe.
 
@@ -540,11 +550,11 @@ instead of, thòi.
 
 **insufficient**, m̄-kàu; m̄-lã; put-tsok.
 
-**insult**, lêng-zo̍k; sit-zo̍k; u-zo̍k; khi-zo̍k; zo̍k-mēⁿ; áu-zo̍k (with beating); kāng-nâng sit-lién; bú-buãn. exposure to public insult, as of a criminal, hô-niāⁿ.
+**insult**, lêng-zo̍k; sit-zo̍k; u-zo̍k; khi-zo̍k; zo̍k-mēⁿ; kāng-nâng sit-lién; bú-buãn. *(with beating)*, áu-zo̍k. exposure to public insult, as of a criminal, hô-niāⁿ.
 
 **insupportable**, tng-m̄-khí; siũ-m̄-khṳ̀; nãiⁿ-m̄-khṳ̀; lân-tng.
 
-**insure**, goods &c, pó-ke (of insurance compaby); pa̍k-pó-ke-jī (of the insurer). insurance office, pó-ke. policy, pó-ke-jī; pó-ke-toaⁿ; pó-ke-tsúa.
+**insure**, *goods (of insurance compaby)*, pó-ke. *goods (of the insurer)*, pa̍k-pó-ke-jī. *insurance office*, pó-ke. *policy*, pó-ke-jī; pó-ke-toaⁿ; pó-ke-tsúa.
 
 **insurrection**, tsak-luãn; huán; mông-huán; puãn-luãn; huán-puãn; húan-lũan; puãn-nge̍k.
 
@@ -552,7 +562,7 @@ instead of, thòi.
 
 **intellect**, sim-sîn; sim-khiàu; hũi-khiàu; tì-mông; tì-sek; sim-lêng.
 
-**intelligence**, news, sie-sit. to give, thuân-(or, pò-) sie-sit; pò-sìn.
+**intelligence**, *news*, sie-sit. *to give*, thuân-sie-sit; pò-sie-sit; pò-sìn.
 
 **intelligent**, lêng-ua̍h; lêng-thong; ũ-lêng-khiàu; lêng-lāi; mêng-pe̍h; lêng-khá; tshong-mêng; ũ-ki-tì; thong-thàu; thong-thiet; hó-sim-khiàu; ũ-kièn-sek.
 
@@ -564,11 +574,11 @@ instead of, thòi.
 
 **intendant**, of circuit, tãu-thâi.
 
-**intense**, ke̍k; chì; tsãi; tsa̍p-hun. heat, jie̍t-jie̍t (fire); zua̍h-ta̍k; khóu-jie̍t; iâm-jie̍t (all of weather). earnestness, tsa̍p-hun pek-chhiet; jie̍t-sim; sim jie̍t zû-húe; chhiet-zua̍h.
+**intense**, ke̍k; chì; tsãi; tsa̍p-hun. *heat*, zua̍h-ta̍k; khóu-jie̍t. *heat (fire)*, jie̍t-jie̍t. *heat (all of weather)*, iâm-jie̍t. *earnestness*, tsa̍p-hun pek-chhiet; jie̍t-sim; sim jie̍t zû-húe; chhiet-zua̍h.
 
 **intent**, tsuan-sim; tsuan-it. intent on reading a book, tsuan-tsù tõ-tsṳ.
 
-**intention**, ì; ì-sṳ̀; siẽⁿ-thâu. intentionally, ũ-ì; kù-ì; li̍p-ì; tsuan-àiⁿ; tshut-tõ ũ-ì. what is his real intention? ngûan-pńg-sim sĩ-tsò-nîⁿ?
+**intention**, ì; ì-sṳ̀; siẽⁿ-thâu. *intentionally*, ũ-ì; kù-ì; li̍p-ì; tsuan-àiⁿ; tshut-tõ ũ-ì. *what is his real intention*, ngûan-pńg-sim sĩ-tsò-nîⁿ.
 
 **intercalary**, month, zūn-gue̍h.
 
@@ -590,13 +600,15 @@ instead of, thòi.
 
 **interleave**, kòiⁿ-khang-tsúa; kòiⁿ-khang-pe̍h.
 
-**interline**, soih-jī-tsat; póu-tsù. **intermarry**, sie-kè-tshūa.
+**interline**, soih-jī-tsat; póu-tsù.
+
+**intermarry**, sie-kè-tshūa.
 
 **intermediate**, sie-keh; tõ-tìn-tang.
 
 **intermit**, kòiⁿ-tñg; kòiⁿ-keh. intermittent fever, see FEVER.
 
-**interpret**, hûe-ūe; thûan-ūe; huan-e̍k. explain, kói-mêng. interpreter, thong-sṳ; thûan-keng (in court). dreams, piẽn-māng; kói-māng.
+**interpret**, hûe-ūe; thûan-ūe; huan-e̍k. explain, kói-mêng. *interpreter*, thong-sṳ. *interpreter (in court)*, thûan-keng. *interpret dreams*, piẽn-māng; kói-māng.
 
 **interrogate**, mn̄g; phûan-mn̄g; kiù-mn̄g; poh-mn̄g.
 
@@ -676,7 +688,7 @@ instead of, thòi.
 
 **irksome**, hûan-jiáu; kiáu-jiáu; kan-khóu; ùi; iàm-khóu.
 
-**iron**, thih. cast-, seⁿ. unwrought, chheⁿ-thih. malleable, jiû-nńg-thih; nńg-thih; se̍k-thih. to temper, chhih-tsúi. an iron for clothes, ut-táu. to iron, ut. -filings, thih-sut; thih-tshùi; thih-hu; thih-sua. -wire, thih-sùaⁿ.
+**iron**, thih. *cast-iron*, seⁿ. *unwrought*, chheⁿ-thih. *malleable*, jiû-nńg-thih; nńg-thih; se̍k-thih. *to temper*, chhih-tsúi. *an iron for clothes*, ut-táu. *to iron*, ut. *iron-filings*, thih-sut; thih-tshùi; thih-hu; thih-sua. *iron-wire*, thih-sùaⁿ.
 
 **ironical**, húan-ngân; húan-ngân ki-chhiáu; tsuan tin-tò-tàⁿ lâi-ki-chhiáu; khõ-nâng.
 
@@ -688,11 +700,13 @@ instead of, thòi.
 
 **irreverence**, put-kèng; khin-bũan; siet-to̍k.
 
-**irresolute**, thiû-thû; thiû-siẽⁿ; tsú-ì m̄-tiāⁿ; būe-ũ kuatⁿì; thiû-thû put-lêng che̍k-kuat; chìn-chìn thò-thò. **irrevocable**, tui-m̄-tńg; che̍k-ngân kì-tshut sì-bé lân-tui.
+**irresolute**, thiû-thû; thiû-siẽⁿ; tsú-ì m̄-tiāⁿ; būe-ũ kuatⁿì; thiû-thû put-lêng che̍k-kuat; chìn-chìn thò-thò.
+
+**irrevocable**, tui-m̄-tńg; che̍k-ngân kì-tshut sì-bé lân-tui.
 
 **irrigate**, pàng-tsúi lo̍h-tshân; hòu-tsúi; ak-tsúi.
 
-**is**, sĩ. is it so? sĩ a-m̄-sĩ? is he come? i ũ-lâi a-būe? is the water deep? tsúi õi-chhim, mé?
+**is**, sĩ. *is it so*, sĩ a-m̄-sĩ. *is he come*, i ũ-lâi a-būe. *is the water deep*, tsúi õi-chhim, mé.
 
 **isinglass**, hṳ̂-ka; kim-lêng-ka.
 

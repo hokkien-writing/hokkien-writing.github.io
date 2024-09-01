@@ -34,7 +34,7 @@ date: 2024-03-31 16:11:00
 
 **javelin**, chhiú-chìⁿ.
 
-**jaw**, ẽ-hâi. -bones, gê-tshn̂g; gê-tsô-kut.
+**jaw**, ẽ-hâi. *jaw-bones*, gê-tshn̂g; gê-tsô-kut.
 
 **jay**, kheh-chiáu.
 
@@ -46,7 +46,9 @@ date: 2024-03-31 16:11:00
 
 **jet**, ou-ge̍k.
 
-**jetty**, bé-thâu. **Jew**, Iû-thài-nâng.
+**jetty**, bé-thâu.
+
+**Jew**, Iû-thài-nâng.
 
 **jewel**, tien-pó; pó-ge̍k; pó-chie̍h. jeweller, chhia-ge̍k sai-pẽ.
 
@@ -76,7 +78,7 @@ date: 2024-03-31 16:11:00
 
 **joy**, hí-la̍k; khùai-la̍k; huaⁿ-hí; hí-sim.
 
-**judge**, sím-phùan; sím-sṳ̄; phōiⁿ-ùaⁿ. a judge, àn-tshat-si (provincial); thî-hêng-kuaⁿ. day of judgement, sím-phùan-ji̍t. heaven's judgements, thiⁿ kàng-tsai. one's judgement of anything, ì-kièn.
+**judge**, sím-phùan; sím-sṳ̄; phōiⁿ-ùaⁿ. a judge, thî-hêng-kuaⁿ. *a judge (provincial)*, àn-tshat-si. day of judgement, sím-phùan-ji̍t. heaven's judgements, thiⁿ kàng-tsai. one's judgement of anything, ì-kièn.
 
 **jug**, water, tsúi-kũaⁿ; tsúi-pân; tsúi-kùan.
 

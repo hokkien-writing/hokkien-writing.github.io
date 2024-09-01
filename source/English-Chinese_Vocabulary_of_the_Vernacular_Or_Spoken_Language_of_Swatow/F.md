@@ -8,7 +8,7 @@ date: 2024-03-31 16:11:00
 
 **fable**, phì-zũ. *to use a*, chieh-phì-zũ; siet-phì. *fabulous*, hṳ-tãng; buáng-tãng; bô-iáⁿ-chiah.
 
-**face**, mīn; mīn-mãuⁿ; mīn-sek. *before one's*, mīn-tsôiⁿ; tng-mīn; tùi-mīn. *face to face*, tùi-mīn; tng-mīn. *meet face to face*, hũe-mīn. *shape of*, mīn-hêng; mīn-bé. *long-faced*, mīn-bé tn̂g-tn̂g. *skin of*, mīn-phûe. *pallid*, mīn n̂g-sng. *cloth for washing face*, mīn-pòu. *brazen-faced*, mīn-phûe kãu. *facing the south*, niàⁿ- (hiàⁿ-; hiàng-; chhiâu-;) nâm. *face round*, hûe-thâu; u̍t-tńg-thâu; hui-tńg-thâu. *facing one another*, siang-tùi; siang-tùi-mīn.
+**face**, mīn; mīn-mãuⁿ; mīn-sek. *before one's*, mīn-tsôiⁿ; tng-mīn; tùi-mīn. *face to face*, tùi-mīn; tng-mīn. *meet face to face*, hũe-mīn. *shape of*, mīn-hêng; mīn-bé. *long-faced*, mīn-bé tn̂g-tn̂g. *skin of*, mīn-phûe. *pallid*, mīn n̂g-sng. *cloth for washing face*, mīn-pòu. *brazen-faced*, mīn-phûe kãu. *facing the south*, niàⁿ-nâm; hiàⁿ-nâm; hiàng-nâm; chhiâu-nâm. *face round*, hûe-thâu; u̍t-tńg-thâu; hui-tńg-thâu. *facing one another*, siang-tùi; siang-tùi-mīn.
 
 **facetious**, hàuⁿ-tàⁿ-sńg; hàuⁿ-tàⁿ-khá, hàuⁿ-tàⁿ tshù-bī; hàuⁿ-tshu-chhiè; hó-chhiè.
 
@@ -42,7 +42,7 @@ date: 2024-03-31 16:11:00
 
 **falcon**, eng-chiáu.
 
-**fall**, pua̍h; lo̍h; ka-la̍u; kau-la̍uh. as house, tó; tó--lo̍h-lâi; pang. in, tha̍p. down, as person, pua̍h--tie̍h; pua̍h-lo̍h; tie̍h-pua̍h. as thing, ka-la̍uh. into a snare, lo̍h-khuan-thàu. fall in with, ngõ--tie̍h. to pieces, sùaⁿ; sùaⁿ-tiāu. leaves, lo̍h-hie̍h. as landslip, suaⁿ pang, tī hām; pang-hām. rain, lo̍h-hõu. dew, lo̍h-lōu-tsúi. heavy fall of dew, lōu-tsúi tãng; lōu-tsúi kãu. empire, kok bûang. flowers, hue sià. at any body's feet, phak tõ-kha-ẽ; phak-lo̍h-tī. upon, as enemy, kong-phah; kong-khek. into one's hands, pĩ-lia̍h. price, lo̍h-kè; thu̍t-kè; tie̍t-kè. away, lī-khui. from religion, pũe-kà. on one's neck, phõ-ãm; lám-kín-ãm. tide, khó-lâu; lâu khó. waterfall, pha̍k-pòu-tsûaⁿ; thuaⁿ (a rapid). falling star, pue-chheⁿ; liû-chheⁿ; chheng-sîn kùe-tōu. falling-sickness, see EPILEPSY.
+**fall**, pua̍h; lo̍h; ka-la̍u; kau-la̍uh. *fall as house*, tó; tó--lo̍h-lâi; pang. *fall in*, tha̍p. *fall down (as person)*, pua̍h--tie̍h; pua̍h-lo̍h; tie̍h-pua̍h. *fall down (as thing)*, ka-la̍uh. *fall into a snare*, lo̍h-khuan-thàu. *fall in with*, ngõ--tie̍h. *to pieces*, sùaⁿ; sùaⁿ-tiāu. *leaves*, lo̍h-hie̍h. *as landslip*, suaⁿ pang, tī hām; pang-hām. *rain*, lo̍h-hõu. *dew*, lo̍h-lōu-tsúi. *heavy fall of dew*, lōu-tsúi tãng; lōu-tsúi kãu. *empire*, kok bûang. *flowers*, hue sià. *at any body's feet*, phak tõ-kha-ẽ; phak-lo̍h-tī. *fall upon (as enemy)*, kong-phah; kong-khek. *fall into one's hands*, pĩ-lia̍h. *price*, lo̍h-kè; thu̍t-kè; tie̍t-kè. *fall away*, lī-khui. *from religion*, pũe-kà. *on one's neck*, phõ-ãm; lám-kín-ãm. *tide*, khó-lâu; lâu khó. *waterfall*, pha̍k-pòu-tsûaⁿ. *(a rapid) waterfall*, thuaⁿ. *falling star*, pue-chheⁿ; liû-chheⁿ; chheng-sîn kùe-tōu. *falling-sickness*, see EPILEPSY.
 
 **fallible**, õi-tshò.
 
@@ -52,7 +52,7 @@ date: 2024-03-31 16:11:00
 
 **falter**, huan-ho̍k bô-tiāⁿ.
 
-**fame**, miâⁿ; miâⁿ-siaⁿ; siaⁿ-bũn. famous, tshut-miâⁿ; hién-miâⁿ; miâⁿ-siaⁿ pùa-iâng; bûn-miâⁿ (polite phrase).
+**fame**, miâⁿ; miâⁿ-siaⁿ; siaⁿ-bũn. *famous*, tshut-miâⁿ; hién-miâⁿ; miâⁿ-siaⁿ pùa-iâng. *famous fame(polite phrase)*, bûn-miâⁿ.
 
 **familiar**, siang-se̍k; sie-pat. most familiar friend, chì-se̍k kâi phêng-iú; sù-se̍k kâi phêng-iú.
 
@@ -62,8 +62,9 @@ date: 2024-03-31 16:11:00
 
 **famish**, gō. thin and famished, gō-sán. to death, gō-sí.
 
-**fan**, sìⁿ. one, che̍k-ki-sìⁿ. to use, khie̍h-sìⁿ; khiâ-sìⁿ; lĩm-sìⁿ; phuah-sìⁿ; phuah-huang; iãⁿ-sìⁿ; iãⁿ-huang. beckon one with, ia̍h-sìⁿ. for winnowing grain, pùa-ki; huang-kūiⁿ (fanners). to extinguish a lamp with a fan, iãⁿ-kùe teng-húe.
-fancy. I fancy he will not come, úa phah-sǹg i m̃-lâi. fancy articles, thit-thô-mue̍h.
+**fan**, sìⁿ. *one*, che̍k-ki-sìⁿ. *to use*, khie̍h-sìⁿ; khiâ-sìⁿ; lĩm-sìⁿ; phuah-sìⁿ; phuah-huang; iãⁿ-sìⁿ; iãⁿ-huang. *beckon one with*, ia̍h-sìⁿ. *for winnowing grain*, pùa-ki. *for winnowing grain (fanners)*, huang-kūiⁿ. *to extinguish a lamp with a fan*, iãⁿ-kùe teng-húe.
+
+**fancy**, *I fancy he will not come*, úa phah-sǹg i m̃-lâi. *fancy articles*, thit-thô-mue̍h.
 
 **fang**, tooth, tōa-gê.
 
@@ -89,7 +90,7 @@ fancy. I fancy he will not come, úa phah-sǹg i m̃-lâi. fancy articles, thit-
 
 **fastidious**, oh-huaⁿ-hí. about food, hiâm-chia̍h; õi-kóiⁿ-chia̍h; póiⁿ-khóiⁿ-chia̍h.
 
-**fat**, pûi; tshâi-khì (more polite of a person). of meat, pe̍h-ne̍k. lard, lâ.
+**fat**, pûi. *(more polite of a person)*, tshâi-khì. *of meat*, pe̍h-ne̍k. *lard*, lâ.
 
 **fatal**, kau-kùa sèⁿ-miāⁿ; tì-miāⁿ; tì-sí. disease, sí-chèng; ngẽ-chèng bô-ui.
 
@@ -123,7 +124,7 @@ fancy. I fancy he will not come, úa phah-sǹg i m̃-lâi. fancy articles, thit-
 
 **fecundity**, seⁿ-tsōi; õi-seⁿ; mõng-sẽng; seⁿ-khṳ̀ kãu.
 
-**fee**, kui-ngṳ̂n. to teacher, sok-kim; sok-siu; tsṳ-kuan; sàng-tsoih (extra presents at terms). to doctor, huang-pau; âng-pau; bé-kè; kiē-kè. to write, pit-kim; pit-tsṳ; pit-tsṳ-ngṳ̂n. to letter-carrier, chiú-chîⁿ.
+**fee**, kui-ngṳ̂n. *fee to teacher*, sok-kim; sok-siu; tsṳ-kuan. *fee to teacher (extra presents at terms)*, sàng-tsoih. *fee to doctor*, huang-pau; âng-pau; bé-kè; kiē-kè. *fee to write*, pit-kim; pit-tsṳ; pit-tsṳ-ngṳ̂n. *fee to letter-carrier*, chiú-chîⁿ.
 
 **feeble**, nńg-jia̍k; sue-jia̍k; bô-la̍t.
 
@@ -134,15 +135,16 @@ fancy. I fancy he will not come, úa phah-sǹg i m̃-lâi. fancy articles, thit-
 **feign**, ké-tsò; tsuang-tsò; tèⁿ-tsò. illness, ké-tsò ũ-pēⁿ; tsà-pēⁿ; tèⁿ-pēⁿ; ké-pēⁿ. death, tèⁿ-sí. madness, tèⁿ-siáu; tèⁿ-kông; tèⁿ-tien; tsuang-siáu; ké-siáu.
 
 **felicity**, hok-khì; hok-che̍k; khùai-la̍k.
-fell (cruel), tshâng-hāi; tshâng-jím; pãu-ngia̍k. trees, tsám-chhiū.
-fellow (companion), tâng-phũaⁿ. commen, so̍k-jîn. mean, siáu-jîn. -officer, tâng-în-kuaⁿ; tâng-liâu. -student, tâng-theng; theng-iú; tâng-o̍h; o̍h-iú; tsò-pû tha̍k-tsṳ. fellowship, tâng-sim; siang-kau; siang-kau-tshap; kau-ṳ́; kau-pûe.
-felo-de-se, tsṳ̃-chĩn.
+
+**fell (cruel)**, tshâng-hāi; tshâng-jím; pãu-ngia̍k. *trees*, tsám-chhiū.
+
+**fellow (companion)**, tâng-phũaⁿ. *commen*, so̍k-jîn. *mean*, siáu-jîn. *fellow-officer*, tâng-în-kuaⁿ; tâng-liâu. *fellow-student*, tâng-theng; theng-iú; tâng-o̍h; o̍h-iú; tsò-pû tha̍k-tsṳ. *fellowship*, tâng-sim; siang-kau; siang-kau-tshap; kau-ṳ́; kau-pûe. *felo-de-se*, tsṳ̃-chĩn.
 
 **felon**, hũam-jîn; tsũe-jîn; kam-hũam.
 
 **felt**, chiⁿ. hat, chiⁿ-bō; chiⁿ-zúan. carpet, tī-chiⁿ; chiⁿ-tiâu. to make, ié-chiⁿ; tsò-chiⁿ.
 
-**female**, of human beings, nńg; tsṳ-niêⁿ; tsa-bóu; hũ-jîn; hũ--nâng; a-má-nâng; a-má-siàu. children, nńg tsṳ́; tsṳ-niêⁿ-kiáⁿ. male and, lâm-nńg; ta-pou tsṳ-niêⁿ; im-iâng. of beasts, bó; phín; láng. of birds, bó; tshṳ̂. female and male, phín-móuⁿ (beasts); láng-kóu (id.); bó-kak (birds); tshṳ̂-hiông (id.). female apartments, kui-pâng; chhim-kui tièⁿ-pâng. attendants, tsáu-kúi; chhiah-kha; nńg-pĩ.
+**female**, *of human beings*, nńg; tsṳ-niêⁿ; tsa-bóu; hũ-jîn; hũ--nâng; a-má-nâng; a-má-siàu. *children*, nńg tsṳ́; tsṳ-niêⁿ-kiáⁿ. *male and*, lâm-nńg; ta-pou tsṳ-niêⁿ; im-iâng. *of beasts*, bó; phín; láng. *of birds*, bó; tshṳ̂. *female and male (beasts)*, phín-móuⁿ; láng-kóu. *female and male (birds)*, bó-kak; tshṳ̂-hiông. *female apartments*, kui-pâng; chhim-kui tièⁿ-pâng. *attendants*, tsáu-kúi; chhiah-kha; nńg-pĩ.
 
 **fen**, làm-iêⁿ; làm-che̍k; kẽ-sip; làm-sip.
 
@@ -182,7 +184,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **feud**, uan-ke. *to have, with anyone*, kāng-nâng tsò-uan-ke; ũ-uan-ke.
 
-**fever**, sie-jie̍t; huat-jie̍t; huat-sie; jie̍t-pēⁿ; jie̍t-chèng; sieⁿ-huang; ngia̍k-pēⁿ; la-jie̍t (*feverish*). *and ague*, kûaⁿ-jie̍t; pak-kûaⁿ; huat-sie; ùiⁿ-chhìn; kûaⁿ-pēⁿ; kiâm-siam-kûaⁿ (*slightly feverish*); mahⁿ-mohⁿ mahⁿ-mohⁿ (*id.*). *quotidian ague*, ji̍t-ji̍t-kûaⁿ. *tertian*, làng-ji̍t-kûaⁿ; kòiⁿ-ji̍t-kûaⁿ. *quartan*, saⁿ-ji̍t-kûaⁿ. *to remove*, thò-jie̍t. *to abate*, jie̍t thò.
+**fever**, sie-jie̍t; huat-jie̍t; huat-sie; jie̍t-pēⁿ; jie̍t-chèng; sieⁿ-huang; ngia̍k-pēⁿ. *(feverish)*, la-jie̍t. *fever and ague*, kûaⁿ-jie̍t; pak-kûaⁿ; huat-sie; ùiⁿ-chhìn; kûaⁿ-pēⁿ. *fever and ague (slightly feverish)*, kiâm-siam-kûaⁿ; mahⁿ-mohⁿ mahⁿ-mohⁿ. *quotidian ague*, ji̍t-ji̍t-kûaⁿ. *tertian*, làng-ji̍t-kûaⁿ; kòiⁿ-ji̍t-kûaⁿ. *quartan*, saⁿ-ji̍t-kûaⁿ. *to remove*, thò-jie̍t. *to abate*, jie̍t thò.
 
 **few**, chié; lân-ló; kúi-kâi; bô-ũa; bô-mih-tsōi; bô-hièⁿ-tsōi; bô-jie̍h-tsōi; bô-ki. *a few people*, lân-nâng; kúi-nâng; sù-nâng.
 
@@ -194,11 +196,13 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fiction**, *works of*, siáu-sueh. *fictitious*, ké; bô-iáⁿ-chiah; bô-chin-si̍t.
 
-**fiddle**, hîⁿ. *with two strings*, jī-hîⁿ. *to play the*, kṳ̀-hîⁿ. *bow,* hîⁿ-keng. *string*, hîⁿ-sùaⁿ. *to tune*, hûa-hîⁿ. *fiddler*, hîⁿ-kha. **fidelity**, see FAITHFUL.
+**fiddle**, hîⁿ. *with two strings*, jī-hîⁿ. *to play the*, kṳ̀-hîⁿ. *bow,* hîⁿ-keng. *string*, hîⁿ-sùaⁿ. *to tune*, hûa-hîⁿ. *fiddler*, hîⁿ-kha.
+
+**fidelity**, see FAITHFUL.
 
 **fidget**, tòng-tòng-tsáu; bô-sî-tiām.
 
-**field**, cultivated and irrigated, tshân: tshân-bóu. cultivated but not irrigated, hn̂g. wet or dry, tshân-hn̂g. to cultivate, tsoh-tshân; chèng-tsoh; keⁿ-tsok. plough, lôi-tshân. to irrigate, kùan-tshân; im-tshân. mouse, tshân-tshṳ́. boundary, tshân-hūaⁿ. battle-, chièn-tiêⁿ. -piece, tōa-phàu.
+**field**, *cultivated and irrigated*, tshân; tshân-bóu. *cultivated but not irrigated*, hn̂g. *wet or dry*, tshân-hn̂g. *to cultivate*, tsoh-tshân; chèng-tsoh; keⁿ-tsok. *plough*, lôi-tshân. *to irrigate*, kùan-tshân; im-tshân. *field mouse*, tshân-tshṳ́. *boundary*, tshân-hūaⁿ. *battle-field*, chièn-tiêⁿ. *field-piece*, tōa-phàu.
 
 **fiend**, kúi; môⁿ-kúi; siâ-kúi; ak-kúi; iau-kúi.
 
@@ -228,7 +232,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **film**, mo̍hⁿ; mo̍hⁿ-mo̍hⁿ; po̍h-mo̍hⁿ; phûe-mo̍hⁿ.
 
-**filter**, to, tè. water, tè-tsúi; tsúi tè-chheng-khih. a, tsúi-tè; sua-làu (made of sand).
+**filter**, *to*, tè. *filter water*, tè-tsúi; tsúi tè-chheng-khih. *a filter*, tsúi-tè. *a filter (made of sand)*, sua-làu.
 
 **filthy**, nah-sap; u-ùe; chhi-gî. abuse, iá-siaⁿ-mēⁿ; tshou-siaⁿ-mēⁿ; tshou-siaⁿ iá-tshùi; mēⁿ kàu-chhi-gî; tshou-lâm iá-tshùi.
 
@@ -236,29 +240,29 @@ felo-de-se, tsṳ̃-chĩn.
 
 **final**, a particle, suah-kha hṳ-jī. conclusion, expressed in a word, tsóng zṳ̂-ngân--tsṳ; tàu-tí. finally, tsong; suah-búe; kàu-búe; kiáu-búe; pi̍t-kéng.
 
-**find**, by search, tshūe--tie̍h; chhîm--tie̍h; chhê--tie̍h; chhê-tit-tshut (in a book); púe--tie̍h (in a book or mixed mass). meet with, ngõ--tie̍h; tú--tie̍h; hông--tie̍h. to find anything by chance, khieh--tie̍h; to̍h-tie̍h.
+**find**, *find by search*, tshūe--tie̍h; chhîm--tie̍h; chhê--tie̍h. *find by search (in a book)*, chhê-tit-tshut. *find by search  (in a book or mixed mass)*, púe--tie̍h. *meet with*, ngõ--tie̍h; tú--tie̍h; hông--tie̍h. *to find anything by chance*, khieh--tie̍h; to̍h-tie̍h.
 
 **fine**, in quality, iùⁿ; iùⁿ-sòi. reasoning, tõ-lí sòi-mûiⁿ; cheng-mûiⁿ; cheng-sòi, in fine, tàu-tí. weather, hó-thiⁿ; thiⁿ-sî chêⁿ.
 
-**fine**, to, hua̍t; hua̍t-ngṳ̂n (money); hua̍t-hì (a play); hua̍t-tsúa-iáⁿ (id.); hua̍t-phòng-phiẽ (crackers).
+**fine**, *to*, hua̍t. *to (money)*, hua̍t-ngṳ̂n. *to (a play)* hua̍t-hì; hua̍t-tsúa-iáⁿ. *to (crackers)*, hua̍t-phòng-phiẽ.
 
-**finger**, chhiú-tsóiⁿ. 1st or thumb, tsńg-thâu; tsńg-thâu-kong. fore, koi-tsóiⁿ. middle, tang-tsóiⁿ. the ring-, hôu-lâi-tsóiⁿ. the little, búe-tsóiⁿ; chhiú-tsóiⁿ-kiáⁿ; búe-tsńg-kiáⁿ. reckon on fingers, khut-tsóiⁿ sǹg. point with, chhiú kí; tsang-tsńg-thâu kí. -ring, see RING. to take up between the finger and thumb, nueh--khí-lâi. a pinch so taken, che̍k-nueh-kiáⁿ. -post, lōu-pi; lōu-ín. -nails, tsńg-kah; chhiú-jiáu (long); jiáu-kah (id.).
+**finger**, chhiú-tsóiⁿ. *1st or thumb*, tsńg-thâu; tsńg-thâu-kong. *fore*, koi-tsóiⁿ. *middle*, tang-tsóiⁿ. *the ring-finger*, hôu-lâi-tsóiⁿ. *the little*, búe-tsóiⁿ; chhiú-tsóiⁿ-kiáⁿ; búe-tsńg-kiáⁿ. *reckon on fingers*, khut-tsóiⁿ sǹg. *point with*, chhiú kí; tsang-tsńg-thâu kí. *finger-ring*, see RING. *to take up between the finger and thumb*, nueh--khí-lâi. *a pinch so taken*, che̍k-nueh-kiáⁿ. *finger-post*, lōu-pi; lōu-ín. *finger-nails*, tsńg-kah. *finger-nails (long)*, chhiú-jiáu; jiáu-kah.
 
-**finish**, tsò-chiâⁿ; tsò-sêng; tsò-ûan; sêng-kong; pi̍t. a meal, chia̍h-pá. finished, uân; hó; hiah; liáu; pi̍t. have you finished? hó--būe?
+**finish**, tsò-chiâⁿ; tsò-sêng; tsò-ûan; sêng-kong; pi̍t. *a meal*, chia̍h-pá. *finished*, uân; hó; hiah; liáu; pi̍t. *have you finished*, hó--būe.
 
 **finite**, ũ-hãn-tiāⁿ.
 
 **fir**, sêng-peh-chhiū; sam. needles, sêng-peh-chhiu. cones, sêng-peh-lûi.
 
-**fire**, húe. set fire to, pàng-húe. make a, khí-húe. put fuel on the, hiâⁿ-húe. light a, to̍h-húe. strike, phah-húe. extinguish, kiù-húe; phah-kùe-húe; mi̍t-kùe-húe; tsâng-kùe-húe (with water). gone out, húe kùe--khṳ̀. -place, tsàu; húe-lôu; chhiêⁿ-lôu. -engine, kiù-húe kâi tsúi-chhia. -arms, chhèng-phàu. -arrows, húe-chìⁿ. -crackers, phòng-phiẽ; tōa-lîn-kòng (large); tshùan-phàu (a long string). -rocket, húe-su̍h. warm oneself at the, chieh-húe. flame of, húe-iãm; húe-chi̍h. -fly, húe-mêⁿ-kou; iông-húe. ignis fatuus, kúi-húe. to fire a gun, khui-chhèng; pàng-chhèng; phah-chhèng; sià-chhèng. -brands, partly burnt, tshâ-tsau.
+**fire**, húe. *set fire to*, pàng-húe. *make a*, khí-húe. *put fuel on the*, hiâⁿ-húe. *light a*, to̍h-húe. *strike*, phah-húe. *extinguish*, kiù-húe; phah-kùe-húe; mi̍t-kùe-húe. *extinguish (with water)*, tsâng-kùe-húe. *gone out*, húe kùe--khṳ̀. *fire-place*, tsàu; húe-lôu; chhiêⁿ-lôu. *fire-engine*, kiù-húe kâi tsúi-chhia. *fire-arms*, chhèng-phàu. *fire-arrows*, húe-chìⁿ. *fire-crackers*, phòng-phiẽ. *fire-crackers (large)*, tōa-lîn-kòng. *fire-crackers (a long string)*, tshùan-phàu. *fire-rocket*, húe-su̍h. *warm oneself at the*, chieh-húe. *flame of*, húe-iãm; húe-chi̍h. *fire-fly*, húe-mêⁿ-kou; iông-húe. ignis fatuus, kúi-húe. to fire a gun, khui-chhèng; pàng-chhèng; phah-chhèng; sià-chhèng. *fire-brands (partly burnt)*, tshâ-tsau.
 
 **firm**, kien-kù; kien-tōiⁿ; kien-tsàng; ún-tǹg; thó-tàng. purpose, kien-sim; kien-ì; kien-ì put-tshông; sim kien, ì chhiet. a firm in business, hâng; kong-si. name of such, hâng-miâⁿ; phòu-hō.
 
-**firmament**, chheⁿ-thiⁿ; thiⁿ-chiēⁿ; thiⁿ-khong (not quite colloquial).
+**firmament**, chheⁿ-thiⁿ; thiⁿ-chiēⁿ. *(not quite colloquial)*, thiⁿ-khong.
 
-**first**, tõiⁿ-it; thâu-che̍k-kâi. first...then, soiⁿ...ãu. -moon, chiaⁿ-gue̍h. -born, tsho-seⁿ; thâu-tho; thâu-seⁿ; khí-thâu-seⁿ; tah-thâu-seⁿ. son, tōa-tau-kiáⁿ; chiáng-tsṳ́. -fruits, tsho-se̍k kâi-kúeⁿ-chí. year of reign, ngûan--nîⁿ. time, thâu-che̍k-hûe; thâu-pái; khí-tsho--che̍k-hûe; tsùe-soiⁿ--che̍k-hûe. from first to last, tsṳ̂-thâu kàu-búe; tsṳ̃-sí kàu-tsong; tshông-thâu kàu-búe. at first, khí-thâu; tsho-ē. in the first place, thâu che̍k-kiãⁿ; khî-it.
+**first**, tõiⁿ-it; thâu-che̍k-kâi. *first...then*, soiⁿ...ãu. *first-moon*, chiaⁿ-gue̍h. *first-born*, tsho-seⁿ; thâu-tho; thâu-seⁿ; khí-thâu-seⁿ; tah-thâu-seⁿ. *first son*, tōa-tau-kiáⁿ; chiáng-tsṳ́. *first-fruits*, tsho-se̍k kâi-kúeⁿ-chí. *first year of reign*, ngûan--nîⁿ. *first time*, thâu-che̍k-hûe; thâu-pái; khí-tsho--che̍k-hûe; tsùe-soiⁿ--che̍k-hûe. *from first to last*, tsṳ̂-thâu kàu-búe; tsṳ̃-sí kàu-tsong; tshông-thâu kàu-búe. *at first*, khí-thâu; tsho-ē. *in the first place*, thâu che̍k-kiãⁿ; khî-it.
 
-**fish**, hṳ̂. one, che̍k-búe-hṳ̂. salt, kiâm-hṳ̂. dried, hṳ̂-póu. catch (various methods), lia̍h-hṳ̂; pha-hṳ̂; mãng-hṳ̂; khiâ-hṳ̂; áu-hṳ̂; tièⁿ-hṳ̂; jī-hṳ̂; khan-hṳ̂; tsa̍h-hṳ̂; thó-hái; lo̍h-khoi. -pond, hṳ̂-tî. -hawk, hṳ̂-a; hṳ̂-tèng-chiáu. -hook, tièⁿ-kau. -maw, hṳ̂-tõu; hṳ̂-phiẽ. -spear, hṳ̂-pie. -scales, hṳ̂-lâng. roe or spawn, hṳ̂-tshun; hṳ̂-nñg (deposited). fishing-rod, tièⁿ-ko. -line, tièⁿ-si. fisherman, lia̍h-hṳ̂ kâi-nâng; hṳ̂-ong; thó-hái-nâng.
+**fish**, hṳ̂. *one fish*, che̍k-búe-hṳ̂. *salt fish*, kiâm-hṳ̂. *dried fish*, hṳ̂-póu. *catch fishes(various methods)*, lia̍h-hṳ̂; pha-hṳ̂; mãng-hṳ̂; khiâ-hṳ̂; áu-hṳ̂; tièⁿ-hṳ̂; jī-hṳ̂; khan-hṳ̂; tsa̍h-hṳ̂; thó-hái; lo̍h-khoi. *fish-pond*, hṳ̂-tî. *fish-hawk*, hṳ̂-a; hṳ̂-tèng-chiáu. *fish-hook*, tièⁿ-kau. *fish-maw*, hṳ̂-tõu; hṳ̂-phiẽ. *fish-spear*, hṳ̂-pie. *fish-scales*, hṳ̂-lâng. *roe or spawn*, hṳ̂-tshun. *roe or spawn (deposited)*, hṳ̂-nñg. *fishing-rod*, tièⁿ-ko. *fish-line*, tièⁿ-si. *fisherman*, lia̍h-hṳ̂ kâi-nâng; hṳ̂-ong; thó-hái-nâng.
 
 **fissure**, li̍h; phùa-li̍h; pit-khui.
 
@@ -266,7 +270,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fit**, a, sit-hûn; hun-kông. fall down in, hun-tó. epileptic, tie̍h-iêⁿ-tshái; iêⁿ-kueh-tshái. of anger, che̍k-tsūn-khì.
 
-**fit**, (adj.) ha̍h; kah; kah-ēng; ha̍h-ēng; kah-tit-lo̍h. well, as clothes, kah-chhēng. to do anything, tsò-tit-lâi.
+**fit**, *(adjective)*, ha̍h; kah; kah-ēng; ha̍h-ēng; kah-tit-lo̍h. *well (as clothes)*, kah-chhēng. *to do anything*, tsò-tit-lâi.
 
 **five**, ngõu.
 
@@ -276,7 +280,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **flaccid**, jiâu-jiâu; hoih-hoih.
 
-**flag**, kî. staff, kî-kuaⁿ. to hoist, liū-kî. -stone, tī-póiⁿ-chie̍h; koi-lōu-chie̍h.
+**flag**, kî. *staff*, kî-kuaⁿ. *to hoist*, liū-kî. *flag-stone*, tī-póiⁿ-chie̍h; koi-lōu-chie̍h.
 
 **flagitious**, hiã-liû; bô-chhí kâi siáu-jîn; tsa̍p-ak; khiông-hiong kék-ak.
 
@@ -292,7 +296,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **flanks**, liáng-e̍k; liáng-hia̍p.
 
-**flannel**, nîⁿ; nîⁿ-ú (woollen material in general).
+**flannel**, nîⁿ. *(woollen material in general)*, nîⁿ-ú.
 
 **flare**, up, húe-chi̍h ti̍t-chiẽⁿ; húe-chi̍h kia̍h-phû. in anger, sim-húe huat. soon flaring up, ũ-húe-sèⁿ.
 
@@ -336,7 +340,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fling**, ka̍k. away, ka̍k-tiāu; sek-tiāu; hám-tiāu.
 
-**flint**, húe-chie̍h. flinty-hearted, thih-chie̍h sim-kuaⁿ (also, decided and firm).
+**flint**, húe-chie̍h. *flinty-hearted (also, decided and firm)*, thih-chie̍h sim-kuaⁿ.
 
 **flippant**, khin-phû; phû-tshàu; m̄-kṳ́n-ngân; tàⁿ-ūe m̄-kṳ́n-sín.
 
@@ -350,7 +354,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **flood**, deluge, tōa-tsúi; âng-tsúi. flooded, pun âng-tsúi im--khṳ̀. tide, lâu tĩⁿ; nâm-lâu; ji̍p-lâu. gate, tsúi-tsa̍h.
 
-**floor**, thôu-ẽ. wooden, lâu-pang; tī-póiⁿ-pang. brick, âng-tsng. lime, hue-tiâⁿ. to lay a, kek-tī-póiⁿ (wood); phou-tsng (brick); phah-hue-tiâⁿ (lime).
+**floor**, thôu-ẽ. *wooden*, lâu-pang; tī-póiⁿ-pang. *brick*, âng-tsng. *lime*, hue-tiâⁿ. *to lay a wood floor*, kek-tī-póiⁿ. *to lay a brick floor*, phou-tsng. *to lay a lime floor*, phah-hue-tiâⁿ.
 
 **florid**, kuang-tshái; hua-múiⁿ. complexion, mīn-sek kuang-tshái; mīn-sek âng-zũn; mīn-sek âng.
 
@@ -364,15 +368,15 @@ felo-de-se, tsṳ̃-chĩn.
 
 **flow**, lâu. ebb and, lâu khó-tĩⁿ. around, chiu-liû. over-flow, lâu--tshut; iah--tshut; múaⁿ--tshut; e̍k--tshut. till dry, lâu-kàu-ta.
 
-**flower**, hue. to, khui-hue. bush, che̍k-tsâng-hue. one sprig, che̍k-ki-hue. a bouquet of, che̍k-pa̍k-hue; che̍k-pé-hue. bud, phah-lúi. half-blown, hue hâm-hâm; hue-pùaⁿ-khui. full-blown, khui-khṳ̀-phàu. fade, hue sià. quite faded and done, tshâng. -vase, hue-pân; hue-kan; chéⁿ-kan. -pot, hue-puah; hue-phûn. -garden, hue-hn̂g. flowered cloth, hue-pòu. work with needle, see EMBROIDER.
+**flower**, hue. *to*, khui-hue. *bush*, che̍k-tsâng-hue. *one sprig*, che̍k-ki-hue. *a bouquet of*, che̍k-pa̍k-hue; che̍k-pé-hue. *bud*, phah-lúi. *half-blown*, hue hâm-hâm; hue-pùaⁿ-khui. *full-blown*, khui-khṳ̀-phàu. *fade*, hue sià. *quite faded and done*, tshâng. *flower-vase*, hue-pân; hue-kan; chéⁿ-kan. *flower-pot*, hue-puah; hue-phûn. *flower-garden*, hue-hn̂g. *flowered cloth*, hue-pòu. *work with needle*, see EMBROIDER.
 
 **fluctuate**, bô-tiāⁿ-tie̍h; e̍k-lâi e̍k-khṳ̀; î-î e̍k-e̍k; chhien-kói bô-tiāⁿ.
 
-**flue**, in-tâng; tsàu-tshue (of furnace).
+**flue**, in-tâng. *(of furnace)*, tsàu-tshue.
 
 **fluent**, tàⁿ-ūe liù-liù-ku̍t; khî-tshùi zû-kuah-tsúa-to; ũ-kháu-lẽng; ũ-kháu-tshâi.
 
-**fluid**, tsúi-tsúi; chhieh-chhieh; iêⁿ-iêⁿ; ko-ko (different degrees).
+**fluid**, tsúi-tsúi; chhieh-chhieh; iêⁿ-iêⁿ. *(different degrees)*, ko-ko.
 
 **flush**, mīn âng--khí-lâi.
 
@@ -380,7 +384,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fly**, pue. run away, tsáu; tô-tsáu; pī-tsáu. a kite, pàng-huang-khîm.
 
-**fly**, a, hôu-sîn. a cloud of, che̍k-tīn hôu-sîn. -catcher (spider) hôu-sîn-hóuⁿ.
+**fly**, *a*, hôu-sîn. *a cloud of*, che̍k-tīn hôu-sîn. *fly-catcher (spider)* hôu-sîn-hóuⁿ.
 
 **foam**, from mouth, tshùi-nũaⁿ; thâm. on water, tsúi-phue̍h.
 
@@ -394,7 +398,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fold**, sheep, iêⁿ-nûaⁿ; iêⁿ-lô.
 
-**fold**, to, chih. how many times shall I fold it? áiⁿ-chih-tsò jie̍h-tsōi-chih? àiⁿ-chih-tsò jie̍h-tsōi-tsâng? àiⁿ-chih-tsò kúi-ē? plait three folds, pĩⁿ-saⁿ-kóu. as of paper, têng. to make folds or plaits on dress, nia̍p-kóiⁿ; khieh-kóiⁿ. fold the hands and salute one, kióng-chhiú tsak-ip. the arms, tshah-chhiú; tsha-chhiú (less complete, hands together on the breast). two-fold, kia-pũe; ha̍p-pũe. manifold, ke-ke-pũe.
+**fold**, to, chih. *how many times shall I fold it*, áiⁿ-chih-tsò jie̍h-tsōi-chih; àiⁿ-chih-tsò jie̍h-tsōi-tsâng; àiⁿ-chih-tsò kúi-ē. *plait three folds*, pĩⁿ-saⁿ-kóu. *as of paper*, têng. *to make folds or plaits on dress*, nia̍p-kóiⁿ; khieh-kóiⁿ. *fold the hands and salute one*, kióng-chhiú tsak-ip. *the arms*, tshah-chhiú. *fold the hands and salute one (less complete, hands together on the breast)*, tsha-chhiú. *two-fold*, kia-pũe; ha̍p-pũe. *manifold*, ke-ke-pũe.
 
 **foliage**, chhiū-hie̍h. dense, chhiū-hie̍h mõng-sẽng; ba̍t-tsa̍t; tsa̍t-tsa̍t; ap-ap; im-im.
 
@@ -404,17 +408,17 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fomentation**, ù-sie; tah-sie.
 
-**fond**, thiàⁿ-sieh; hàuⁿ; ne̍k-ài (to excess). fond of wine, hàuⁿ-chiú.
+**fond**, thiàⁿ-sieh; hàuⁿ. *(to excess)*, ne̍k-ài. *fond of wine*, hàuⁿ-chiú.
 
 **food**, chia̍h; chia̍h-mu̍eh; kháu-chia̍h; bí-niêⁿ; kháu-siâm.
 
 **fool**, ngà; ngà-nâng; chhi-ko; chhi-chhi ngâi-ngâi.
 
-**foot**, kha. sole of, kha-tói. barefoot, thn̍g-chhiah-kha; pak-chhiah-kha. walk on, pōu-kiâⁿ; kiâⁿ. trample under, ta̍h-tiāu. of hill, suaⁿ-kha. -ball, that-kiû. -path, lōu-kiáⁿ; sié-lōu. -step, kha-chiah (as seen); kha-pōu (as heard). -stool, kha-ta̍h; ta̍h-póiⁿ-íⁿ. measure, chhieh. a foot and a half long, chhieh-pùaⁿ-tn̂g; tn̂g chhieh-pùaⁿ.
+**foot**, kha. *sole of*, kha-tói. *barefoot*, thn̍g-chhiah-kha; pak-chhiah-kha. *walk on*, pōu-kiâⁿ; kiâⁿ. *trample under*, ta̍h-tiāu. *of hill*, suaⁿ-kha. *foot-ball*, that-kiû. *foot-path*, lōu-kiáⁿ; sié-lōu. *foot-step (as seen)*, kha-chiah. *foot-step (as heard)*, kha-pōu. *foot-stool*, kha-ta̍h; ta̍h-póiⁿ-íⁿ. *measure*, chhieh. *a foot and a half long*, chhieh-pùaⁿ-tn̂g; tn̂g chhieh-pùaⁿ.
 
 **fop**, bàuⁿ-phâi-chhiâng; hàuⁿ-pâi-chhiâng.
 
-**for**, in place of, thòi. sell for ready money, bōi-hīn-chîⁿ. on account of, in-ũi; ũi-tie̍h; uân-khî. buy it for me, kāng-uá-bói; kiau-úa-bói. this is for you, chí-kâi sĩ àiⁿ-pun-lṳ́. repeat correctly word for word, niām-lâi jī-jī bõi-tshò. I bought this chair for ̀ dollars, chí-chiah-íⁿ úa bói sì-kâi-ngṳ̂n. how much will you take for it? lṳ́ àiⁿ sĩ-mih-kè? lṳ́ àiⁿ jie̍h-tsōi-chîⁿ? set out for the Foo city, khí-sin àiⁿ-khṳ̀ Hú-siâⁿ. as for, lũn-ki̍p. what for? tsò-nîⁿ? sĩ-mih uân-kù? for life, che̍k-sì-nâng; che̍k-seⁿ. for the future, tshông-kim íⁿ-ãu; tsṳ̃-tshṳ́ íⁿ-ãu. for ever, ióng-ién; ióng-kú.
+**for**, *in place of*, thòi. *sell for ready money*, bōi-hīn-chîⁿ. *on account of*, in-ũi; ũi-tie̍h; uân-khî. *buy it for me*, kāng-uá-bói; kiau-úa-bói. *this is for you*, chí-kâi sĩ àiⁿ-pun-lṳ́. *repeat correctly word for word*, niām-lâi jī-jī bõi-tshò. *I bought this chair for dollars*, chí-chiah-íⁿ úa bói sì-kâi-ngṳ̂n. *how much will you take for it*, lṳ́ àiⁿ sĩ-mih-kè; lṳ́ àiⁿ jie̍h-tsōi-chîⁿ. *set out for the Foo city*, khí-sin àiⁿ-khṳ̀ Hú-siâⁿ. *as for*, lũn-ki̍p. *what for*, tsò-nîⁿ; sĩ-mih uân-kù. *for life*, che̍k-sì-nâng; che̍k-seⁿ. *for the future*, tshông-kim íⁿ-ãu; tsṳ̃-tshṳ́ íⁿ-ãu. *for ever*, ióng-ién; ióng-kú.
 
 **forage**, niêⁿ-tsháu. to, chiũ-tī tshú-niêⁿ. plunder, khiâng-to̍h.
 
@@ -442,13 +446,13 @@ felo-de-se, tsṳ̃-chĩn.
 
 **forego**, put-tshú; m̃-tshú; chhìn-tshái-hiah; pàng-tiāu. humbly one's right, khiam-jiãng; chiãm-jiãng; siũ-khui.
 
-**forehead**, hia̍h; hia̍h-thâu; hia̍h-sìn (higher); hia̍h-mn̂g-sîn.
+**forehead**, hia̍h; hia̍h-thâu; hia̍h-mn̂g-sîn. *(higher)*, hia̍h-sìn. 
 
 **foreign**, huan; iêⁿ. country, huan-pôiⁿ; huan-pang; huan-kok; gūa-kok. go to, kùe-kok; kùe-huan; tshut-gūa. goods, iêⁿ-hùe; iêⁿ-mue̍h. cloth, iêⁿ-pòu; huang-pòu. person, huan-nâng; gūa-kok-nâng; î-jîn. language, gūa-kok-ūe.
 
 **foreknow**, soiⁿ-tsai; ṳ̃-tsai; liāu-tsai.
 
-**forelock**, lâu-môⁿ-sûi; lâu-hia̍h-pìn (only on girls).
+**forelock**, lâu-môⁿ-sûi. *(only on girls)*, lâu-hia̍h-pìn.
 
 **foreman**, thâu-nâng; sai-pẽ-thâu; tok-kang kâi-nâng.
 
@@ -494,7 +498,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **Formosa**, Thâi-uân; Tâi-uân; Tang-tou. go to, kùe-tou.
 
-**fornication**, kan-îm; kan-îm tãu-chhiap; kan nâng chhi-nńg; thong-kan; hûa-kan; kiâⁿ-îm. by stealth, sai-chhêng; sai-thong; thau-îm. by force, khiâng-kan; khiâng-îm. by persuasion, pek-kan. with a harlot, phiâu-chhiang. fornicator, kan-hu. fornicatress, kan-hũ; îm-hũ; îm-nńg (unmarried).
+**fornication**, kan-îm; kan-îm tãu-chhiap; kan nâng chhi-nńg; thong-kan; hûa-kan; kiâⁿ-îm. *by stealth*, sai-chhêng; sai-thong; thau-îm. *by force*, khiâng-kan; khiâng-îm. *by persuasion*, pek-kan. *with a harlot*, phiâu-chhiang. *fornicator*, kan-hu. *fornicatress*, kan-hũ; îm-hũ. *fornicatress (unmarried)*, îm-nńg.
 
 **forsake**, lī-khui; pàng-tiāu.
 
@@ -516,7 +520,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **forward**, hiàng-tsôiⁿ. go, chìn-tsôiⁿ; kṳ̃n-tsôiⁿ. bent, hâu-ie. a letter, thòi-kià-sìn. disposition, tōa-táⁿ; bô-kui-kṳ́.
 
-**foster**, iáng; iáng-io̍k; bú-iáng; chhī-tōa. mother, nîⁿ-bó (wet-nurse); iáng-bó. son, iáng-kiáⁿ; mêng-lêng-kiáⁿ. (the last three expressions must not be used in addressing the parties.)
+**foster**, iáng; iáng-io̍k; bú-iáng; chhī-tōa. *foster mother*, iáng-bó. *foster mother (wet-nurse)*, nîⁿ-bó. *foster son*, iáng-kiáⁿ. *foster son (the last three expressions must not be used in addressing the parties)*, mêng-lêng-kiáⁿ.
 
 **foul**, u-ùe; nah-sap; nah-sap-sièⁿ. wind, nge̍k-huang; m̄-sũn-huang; tùi-thâu-huang; tng-thâu-huang; thêⁿ-thâu-huang. mouthed, tshou-tshùi; tshou-tshò; ak-tshùi; ta̍k-tshùi; tshùi ak-ta̍k.
 
@@ -530,7 +534,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fountain**, tsûaⁿ; tsúi-tsûaⁿ; tsûaⁿ-tsúi; ngûan-tsûaⁿ; suaⁿ-tsûaⁿ; kheⁿ-tsûaⁿ; ngûan-thâu; pńg-ngûan.
 
-**four**, sì. -cornered, sì-kak. -square, sì-pang. -fold, sì-pũe.
+**four**, sì. *four-cornered*, sì-kak. *four-square*, sì-pang. *four-fold*, sì-pũe.
 
 **fowl**, koi; chiáu. water, tsúi-chiáu. domestic, koi. to, lia̍h-chiáu; phah-chiáu; thi-chiáu; iap-chiáu; siā-chiáu. fowling-piece, chiáu-chhèng.
 
@@ -542,7 +546,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fragile**, nńg-jia̍k; kōi-phùa; sou-sou.
 
-**fragrant**, phang; õi-phang; chheng-hiang. wood, hieⁿ-tshâ (sandal wood). plants, hieⁿ-tsháu. fragrance, hiang-khì.
+**fragrant**, phang; õi-phang; chheng-hiang. *sandal wood*, hieⁿ-tshâ. *plants*, hieⁿ-tsháu. *fragrance*, hiang-khì.
 
 **frail**, iêⁿ-hue tsúi-sèⁿ; nńg-jia̍k; m̄-tōiⁿ; m̄-kien-kù.
 
@@ -564,7 +568,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **freckle**, seⁿ-tiám; seⁿ-hue-tiám.
 
-**free**, tsṳ̃-iû; tsṳ̃-tsú; ka-kī õi-tsú-ì; tsṳ̃-tsãi. from crime, bô-tsũe. choice, sûi-ì tsṳ̃-piẽn. bond and, tsú-po̍k. to set, kiù; so̍k-tshut (ransom); sek-pàng; pàng-tshut; pàng--nâng tsṳ̃-iû. freely (willingly), kam-sim; chhêng-ngũan; huaⁿ-hí; kam-ngũan. drink freely, sûi-piẽn chia̍h-chiú. gratuitously, mién-chîⁿ; mín-ēng-chîⁿ.
+**free**, tsṳ̃-iû; tsṳ̃-tsú; ka-kī õi-tsú-ì; tsṳ̃-tsãi. from crime, bô-tsũe. choice, sûi-ì tsṳ̃-piẽn. bond and, tsú-po̍k. to set, kiù; sek-pàng; pàng-tshut; pàng--nâng tsṳ̃-iû. *to set (ransom)*, so̍k-tshut. *freely (willingly)*, kam-sim; chhêng-ngũan; huaⁿ-hí; kam-ngũan. drink freely, sûi-piẽn chia̍h-chiú. gratuitously, mién-chîⁿ; mín-ēng-chîⁿ.
 
 **freebooter**, tãu-tsha̍t; tsha̍t-bé.
 
@@ -576,15 +580,15 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fresh**, water, chiáⁿ-tsúi. fish, chhiⁿ-hṳ̂; hṳ̂-chhiⁿ. new, sin. lively, ũ-sin-khì. taste, chhiⁿ-bī; chiáⁿ-bī.
 
-**fret**, (intrans.) iu-ut; tsṳ̃-thàng; tshoih; pui-tshoih; uàn-tshoih; e̍hⁿ-e̍hⁿ-kiè (child). (trans.), kek-sèⁿ; kek-khì.
+**fret**, *fret (intransitive)*, iu-ut; tsṳ̃-thàng; tshoih; pui-tshoih; uàn-tshoih. *fret (child) (intransitive)*, e̍hⁿ-e̍hⁿ-kiè. *fret (transitive)*, kek-sèⁿ; kek-khì.
 
 **friction**, chhiù; bûa.
 
 **Friday**, lói-pài-ngõu; pài-ngõu.
 
-**friend**, phêng-iú (only used of men, never of women, except in bad sense). an old, kū-iú; kū-jîn. very close, bhì-iú; ba̍t-iú; hó-iú. bosom-, sim-pak phêng-iú; ti-sim phêng-iú; ti-kí. acquaintance, but not intimate, kháu-thâu-iú. school or college friend, tâng-theng phêng-iú; theng-iú. companion, tâng-phũaⁿ. on friendly terms, siang-hó. friendly treatment, kãu-thãi. break off friendship, tso̍h-kau.
+**friend**, *(only used of men, never of women, except in bad sense)*, phêng-iú. *an old*, kū-iú; kū-jîn. *very close*, bhì-iú; ba̍t-iú; hó-iú. *bosom-friend*, sim-pak phêng-iú; ti-sim phêng-iú; ti-kí. *acquaintance (but not intimate)*, kháu-thâu-iú. *school or college friend*, tâng-theng phêng-iú; theng-iú. *companion*, tâng-phũaⁿ. *on friendly terms*, siang-hó. *friendly treatment*, kãu-thãi. *break off friendship*, tso̍h-kau.
 
-**frighten**, phièn-nâng-kiaⁿ; kiaⁿ-tie̍h-nâng. by threats, kiaⁿ-heh. frightened, kiaⁿ. to death, kiaⁿ-sí (also means very much frightened); kiaⁿ-kàu-sí. frightful, tshūa-nâng-kiaⁿ; kiaⁿ-sí-nâng.
+**frighten**, phièn-nâng-kiaⁿ; kiaⁿ-tie̍h-nâng. by threats, kiaⁿ-heh. frightened, kiaⁿ. to death, kiaⁿ-kàu-sí. *to death (also means very much frightened)*, kiaⁿ-sí. frightful, tshūa-nâng-kiaⁿ; kiaⁿ-sí-nâng.
 
 **frigid**, chhìn. heart, sim néⁿ; néⁿ-ì. manner, néⁿ-tãⁿ.
 
@@ -610,7 +614,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **frontlet**, chiau-kun-ûi; hia̍h-tsôiⁿ-ûi; ou-kṳn-khou.
 
-**frost**, sng. and snow, sng-soh. hoar-, lo̍h-sng. -bite, kûaⁿ-tàng.
+**frost**, sng. *and snow*, sng-soh. *hoar-frost*, lo̍h-sng. *frost-bite*, kûaⁿ-tàng.
 
 **froth**, tshùi-nũaⁿ; tshùi-phue̍h; nũaⁿ-phue̍h; tsúi-phue̍h.
 
@@ -620,11 +624,11 @@ felo-de-se, tsṳ̃-chĩn.
 
 **frugal**, khiãm; tsat-khiãm; khiãm-tsat; tsat-ēng; khiãm-ēng; iak-iak; séⁿ-iak; séⁿ; khiãm-iak. frugality is better than a large income, khiãm-chia̍h kiêⁿ-kùe-thàn.
 
-**fruit**, kúeⁿ; kúeⁿ-chí. fresh, chheⁿ-kúeⁿ. dried, kan-kúeⁿ. to bear, seⁿ-kúeⁿ; kat-kúeⁿ; kit-kúeⁿ; kat-si̍t; kit-si̍t. to pluck, tiah-kúeⁿ-chí. fruitful, õi-seⁿ; seⁿ-tsōi; seⁿ-lâi-kãu. fruitful season, nîⁿ-tang hó. fruitbearing, hó-kat-si̍t. fruitless, bõi-seⁿ; bô-iah (useless); bô-ēng (id.).
+**fruit**, kúeⁿ; kúeⁿ-chí. *fresh*, chheⁿ-kúeⁿ. *dried*, kan-kúeⁿ. *to bear*, seⁿ-kúeⁿ; kat-kúeⁿ; kit-kúeⁿ; kat-si̍t; kit-si̍t. *to pluck*, tiah-kúeⁿ-chí. *fruitful*, õi-seⁿ; seⁿ-tsōi; seⁿ-lâi-kãu. *fruitful season*, nîⁿ-tang hó. *fruitbearing*, hó-kat-si̍t. *fruitless*, bõi-seⁿ.  *fruitless (useless)*, bô-iah; bô-ēng.
 
 **frustrate**, sái m̄-sêng-sṳ̄; hāi m̄-sêng-sṳ̄; gōu-sṳ̄ m̄-sêng. a plot, phùa-kòi.
 
-**fry**, with little or no fat, tshá (implies much stirring and turning over). with a little fat, and few turns, luah. with a little water and perhaps hat, chien. frying-pan, chien-pûaⁿ (shallow); tiáⁿ (deeper); tiáⁿ-kiáⁿ.
+**fry**, *with little or no fat (implies much stirring and turning over).*, tshá. *with a little fat, and few turns*, luah. *with a little water and perhaps hat*, chien. *frying-pan*, tiáⁿ-kiáⁿ. *frying-pan (shallow)*, chien-pûaⁿ. *frying-pan (deeper)*, tiáⁿ.
 
 **fuel**, tshâ; mue̍h-hiâⁿ; tshâ-tsháu. gather, khieh-mue̍h-hiâⁿ. add, thiam-húe; thiam-tshâ; lān-tshâ; lān-tsháu.
 
@@ -632,7 +636,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fulfil**, one's expectation, zû-mōⁿ. duty, chĩn-pńg-hūn; ûan-pńg-hūn; chĩn-cheh. command, zû-mẽng. law, siú-huap; tsun-huap. promise, zû-ieh; siú-ieh. prediction, èng-ngiām; hāu-ngiām; teng-ngiām. prayer, tsò-chiâⁿ; èng-ngiām. vows, hôiⁿ-ngūan.
 
-**full**, múaⁿ; tĩⁿ; pá. -grown, chiáng-sêng; chiáng-tōa; tōa—liáu. see FILL.
+**full**, múaⁿ; tĩⁿ; pá. *full-grown*, chiáng-sêng; chiáng-tōa; tōa—liáu. see FILL.
 
 **fully**, tshûan; chĩn; thàu; thàng; sêng; chiâⁿ.
 
@@ -664,7 +668,7 @@ felo-de-se, tsṳ̃-chĩn.
 
 **furnace**, tsàu; lôu; lôu-tsàu; tsàu-lôu; huang-lôu. for refining gold, kim-lôu. for burning tiles, sie-hiã-iê.
 
-**furnish**, prepare, pĩ-phōiⁿ. provide, keng-kip; keng-ēng; phài-kip (by subscription).
+**furnish**, *prepare*, pĩ-phōiⁿ. *provide*, keng-kip; keng-ēng. *provide (by subscription)*, phài-kip.
 
 **furniture**, ke-si mue̍h-kiãⁿ; ke-húe; tshn̂g-íⁿ. of student, bûn-pâng sì-pó.
 
@@ -674,7 +678,8 @@ felo-de-se, tsṳ̃-chĩn.
 
 **fuse**, metal, khan-lôu; khan-iêⁿ. fused, iêⁿ. and cast, tsù.
 
-**fusee**, húe-lêng; húe-hiāⁿ (tinder).
-fuss. make a fuss about a small matter, sié-sṳ̄ tãng-pò; khin-sṳ̄ tãng-khì; lo-sl; lo-lo so-so. fussy, kín-kip; kip-kṳ̃; huang-mâng; huang-huang huh-huh.
+**fusee**, húe-lêng. *(tinder)*, húe-hiāⁿ.
+
+**fuss**, *make a fuss about a small matter*, sié-sṳ̄ tãng-pò; khin-sṳ̄ tãng-khì; lo-sl; lo-lo so-so. *fussy*, kín-kip; kip-kṳ̃; huang-mâng; huang-huang huh-huh.
 
 **future**, chiang-lâi; ãu-lâi; ẽ-ji̍t; ãu-ji̍t; ji̍t-ãu. in future, tshông-kim íⁿ-ãu. the future state, lâi-seⁿ; lâi-sì. see into the future, būe-lâi soiⁿ-tsai.ⁿ-tsai.

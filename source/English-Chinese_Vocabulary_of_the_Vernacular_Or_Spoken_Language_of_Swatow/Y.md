@@ -20,7 +20,7 @@ date: 2024-03-31 16:11:00
 
 **yellow**, n̂g; n̂g-sek; chhiah. yellowish, chhién-n̂g.
 
-**yes**, sĩ; ũ; tie̍h. is he in? ũ-tõ a-bô? yes, tõ--kò.
+**yes**, sĩ; ũ; tie̍h. *is he in*, ũ-tõ a-bô. *yes*, tõ--kò.
 <!--more-->
 **yesterday**, tsa-ji̍t. yesterday night, tsa-mêⁿ.
 
@@ -28,10 +28,12 @@ date: 2024-03-31 16:11:00
 
 **yield**, tâu-hâng; hâng-ho̍k; kui-hâng. the way, jiãng-lōu; sie-tho-kùe. place, jiãng-ūi; sie-tho-tsõ. yielding, khiam-jiãng; tho-jiãng. to one, jiãng--khṳt-i.
 
-**yoke**, a, gû-taⁿ; gû-taⁿ-uaⁿ. **yolk**, *of egg*, nñg-jîn.
+**yoke**, a, gû-taⁿ; gû-taⁿ-uaⁿ.
+
+**yolk**, *of egg*, nñg-jîn.
 
 **yonder**, hièⁿ-thâu; hṳ́-kò.
 
-**you**, lṳ́ (*sing.*); nín (*pl.*). *you, Sir*, tsun-kè. *you, Sirs*, tsu-ūi. *what is your surname?* kùi-sèⁿ.
+**you**, *(singular)*, lṳ́. *(plural)*, nín. *you, Sir*, tsun-kè. *you, Sirs*, tsu-ūi. *what is your surname*, kùi-sèⁿ.
 
 **young**, hãu-seⁿ; siàu-nîⁿ; chíⁿ; iùⁿ; sòi. *I am a year younger than he*, uá sòi--i che̍k-hùe. *younger brother*, a-tĩ. *a young man*, hãu-seⁿ-kiáⁿ; siàu-nîⁿ-nâng. *a young cow*, gû-kiáⁿ.-kiáⁿ.

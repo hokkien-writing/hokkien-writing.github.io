@@ -10,7 +10,7 @@ date: 2024-03-31 16:11:00
 
 **quack**, to, ah-siaⁿ; ah-ah-kiè.
 
-**quadrant**, niêⁿ-thiⁿ-chhieh (or sextant).
+**quadrant**, *(or sextant)*, niêⁿ-thiⁿ-chhieh.
 
 **quadrupeds**, tsáu-siù.
 
@@ -24,7 +24,7 @@ date: 2024-03-31 16:11:00
 <!--more-->
 **quality**, téng; pín; hō; thie. best, siãng-téng; thiàu-téng; it-pín. second, jī-téng; jī-hō.
 
-**quantity**, what? jie̍h-tsōi? great, tsōi-tsōi; ke-ke; tōa-bó-mue̍h. estimate, pān jie̍h-tsōi; kóu jie̍h-tsōi.
+**quantity**, *what*, jie̍h-tsōi. *great*, tsōi-tsōi; ke-ke; tōa-bó-mue̍h. *estimate*, pān jie̍h-tsōi; kóu jie̍h-tsōi.
 
 **quarrel**, sie-à; seⁿ-ūe; ũ-ūe; sie-cheⁿ; sie-tũ; sie-mēⁿ; poh-khùi; sĩ-hui. quarrelsome, lãu-à; hàuⁿ-seⁿ-sṳ̄.
 
@@ -42,7 +42,9 @@ date: 2024-03-31 16:11:00
 
 **quell**, cheng-hua̍t; hua̍t-tsha̍t; phêng-luãn; phêng-tī-hng.
 
-**quench**, fire, kiù-húe; tsâng-kùe-húe (with water). thirst, kói-khuah; chí aû ta. **question**, mn̄g; poh-mn̄g; chhê-mn̄g; kiù-mn̄g; huáng-mn̄g; thèng-mn̄g. and answer, mn̄g-tap.
+**quench**, fire, kiù-húe. *(fire with water)*, tsâng-kùe-húe thirst, kói-khuah; chí aû ta.
+
+**question**, mn̄g; poh-mn̄g; chhê-mn̄g; kiù-mn̄g; huáng-mn̄g; thèng-mn̄g. and answer, mn̄g-tap.
 
 **queue**, the, piⁿ. to plait, pĩⁿ-piⁿ. to comb, siu-piⁿ. cut off, kuah-tiāu-piⁿ. to join, chiap-piⁿ; chiap-tsáng.
 

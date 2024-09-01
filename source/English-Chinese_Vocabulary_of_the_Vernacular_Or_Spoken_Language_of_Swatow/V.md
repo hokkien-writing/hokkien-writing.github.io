@@ -38,7 +38,7 @@ date: 2024-03-31 16:11:00
 
 **vane**, wind, tiāⁿ-huang-tsam; sũn-huang-kî.
 
-**vanish**, kui-tsò-bô; seng-khong (into the sky).
+**vanish**, kui-tsò-bô. *(into the sky)*, seng-khong.
 
 **vapour**, khì. cloudy, hûn-bū; in-bū. steam, tsúi-khì; tsúi-in.
 
@@ -56,7 +56,7 @@ date: 2024-03-31 16:11:00
 
 **vat**, tōa-tháng. for indigo, chheⁿ-tháng.
 
-**vault**, the, of heaven, chheⁿ-thiⁿ; khiong-tshan (reading); tshan-khiong (id.); thiⁿ uan-keng uan-keng. an underground, tī-sit. vaulted, keng-uan-mn̂g.
+**vault**, *the vault of heaven*, chheⁿ-thiⁿ. thiⁿ uan-keng uan-keng. *the vault of heaven (reading)*, khiong-tshan; tshan-khiong. *an underground*, tī-sit. *vaulted*, keng-uan-mn̂g.
 
 **vault**, to, thiàu-lêng-mn̂g.
 
@@ -66,7 +66,7 @@ date: 2024-03-31 16:11:00
 
 **veil**, see VAIL.
 
-**vein**, hueh-kṳn; hueh-lōu. to open a, khui-hueh-lōu; pàng-hueh-lōu. in wood, hue-jī. of silver, ngṳ̂n-kúeⁿ (ore).
+**vein**, hueh-kṳn; hueh-lōu. to open a, khui-hueh-lōu; pàng-hueh-lōu. in wood, hue-jī. *of silver (ore)*, ngṳ̂n-kúeⁿ.
 
 **velvet**, zông. flowered, hue-zông. collar, zông-niáⁿ; zông-ãm-niáⁿ.
 
@@ -114,7 +114,7 @@ date: 2024-03-31 16:11:00
 
 **verse**, poetry, si. one, che̍k-tsat.
 
-**vertebrae**, ie-kut-tsat; pùe-kut-tsat (dorsal); búe-lûn-kut (sacral); ãm-kut (cervical).
+**vertebrae**, ie-kut-tsat. *(dorsal)*, pùe-kut-tsat. *(sacral)*, búe-lûn-kut. *(cervical), *ãm-kut.
 
 **vertex**, téng.
 
@@ -138,12 +138,13 @@ date: 2024-03-31 16:11:00
 
 **vial**, sòi kâi-po-lî-tsun; po-lî-kùan.
 
-**vibrate**, to, tùn; sih; tuāiⁿ (as strings of harp).
+**vibrate**, *to vibrate*, tùn; sih. *to vibrate (as strings of harp)*, tuāiⁿ.
 
 **vice**, a, thih-kia̍p.
 
 **vice**, bad conduct, tsũe-ak; ak-si̍p; khì-si̍p m̄-hó; hui-ûi.
-vice-, or second, hù; thòi. vice-president of one of the supreme boards, sĩ-nn̂g.
+
+**vice-**, *or second*, hù; thòi. *vice-president of one of the supreme boards*, sĩ-nn̂g.
 
 **vicinity**, siang-kṳ̃n; lîn-kṳ̃n; lîn-iũ; siang-liên; lîn-kṳ; tsôiⁿ-ãu.
 
@@ -187,7 +188,7 @@ vice-, or second, hù; thòi. vice-president of one of the supreme boards, sĩ-n
 
 **virago**, mân-hũ; iá-hũ; nńg-chiàng; phuat-hũ; phuat-tsūaⁿ.
 
-**virgin**, kui-nńg; tshù-nńg; chhim-kui nńg-tsṳ́; cheng-nńg (remaining a virgin for life); cheng-thông (id., man or woman).
+**virgin**, kui-nńg; tshù-nńg; chhim-kui nńg-tsṳ́. *(remaining a virgin for life)*, cheng-nńg. *(remaining a virgin for life, man or woman)*, cheng-thông.
 
 **virtue**, tek. virtuous conduct, tek-hẽng. the five virtues, ngóu-siâng: jîn, ngĩ, lí, tì, sìn.
 
@@ -207,17 +208,19 @@ vice-, or second, hù; thòi. vice-president of one of the supreme boards, sĩ-n
 
 **visionary**, phû (pũ)-huang tshok-iáⁿ; tsúi--tang lã-gue̍h; kiàⁿ-hue tsúi-gue̍h.
 
-**visit**, pài-kìⁿ; pài-hāu; mn̄g-hāu; siê-sûn. farewell, sàng-pie̍t; sàng-kiâⁿ. to miss a, sit-chiap. I am sorry I missed your visit, ãi! móng-ji̍t sit-chiap, sù--chē sù--chē! Ans., õ! móng-ji̍t khṳ̀-kùe-jiáu, phòng--tie̍h lṳ́ tsun-kè gūa--tshut-khṳ̀. to return a, hûe-pài; hûe-pōu. to, a prince, chhiâu-kìⁿ; chhiâu-kun. to, a friend or relative, thàm-iú; thàm-chhim. visiting card, pài-thiap. visitor, nâng-kheh; pin-kheh. to receive, chiap-na̍p; ngêng-chih; khúan-thãi. to dismiss, sàng-kheh; sàng-pin. to visit one and have a talk with him, khṳ̀ kāng-i phûan-sûan--chē; khṳ̀ kāng-i chiu-sûan--chē.
+**visit**, pài-kìⁿ; pài-hāu; mn̄g-hāu; siê-sûn. *farewell*, sàng-pie̍t; sàng-kiâⁿ. *to miss a*, sit-chiap. *I am sorry I missed your visit*, ãi! móng-ji̍t sit-chiap, sù--chē sù--chē! (Ans, õ! móng-ji̍t khṳ̀-kùe-jiáu, phòng--tie̍h lṳ́ tsun-kè gūa--tshut-khṳ̀). *to return a*, hûe-pài; hûe-pōu. *to (a prince)*, chhiâu-kìⁿ; chhiâu-kun. *to (a friend or relative)*, thàm-iú; thàm-chhim. *visiting card*, pài-thiap. visitor, nâng-kheh; pin-kheh. *to receive*, chiap-na̍p; ngêng-chih; khúan-thãi. *to dismiss*, sàng-kheh; sàng-pin. *to visit one and have a talk with him*, khṳ̀ kāng-i phûan-sûan--chē; khṳ̀ kāng-i chiu-sûan--chē.
 
-**vitriol**, blue (sulphate of copper), táⁿ-huân. green (sulphate of iron; copperas), tsõ-huân; chheⁿ-huân.
+**vitriol**, *blue (sulphate of copper)*, táⁿ-huân. *green (sulphate of iron; copperas)*, tsõ-huân; chheⁿ-huân.
 
 **vivacious**, ua̍h-phuah; lêng-lāi; ũ-sîn-khì; ũ-cheng-sîn.
 
 **vocabulary**, jī-lūi.
 
-**voice**, siaⁿ; siaⁿ-im. clear, siaⁿ-im chheng-liãng (or, liáu-liãng; mêng-liãng). indistinct, siaⁿ-im lô-lô (or, hâm-hû; kâm-kôu). to lose one's, sit-siaⁿ; bô-siaⁿ; sit-im. to read in a clear loud voice, khui-siaⁿ-tha̍k. to recognize one's, jīn-siaⁿ; piẽn-siaⁿ. with one voice, che̍k-kháu che̍k-sṳ̂.
+**voice**, siaⁿ; siaⁿ-im. clear, siaⁿ-im chheng-liãng; liáu-liãng; mêng-liãng. indistinct, siaⁿ-im lô-lô; siaⁿ-im hâm-hû; siaⁿ-im kâm-kôu. to lose one's, sit-siaⁿ; bô-siaⁿ; sit-im. to read in a clear loud voice, khui-siaⁿ-tha̍k. to recognize one's, jīn-siaⁿ; piẽn-siaⁿ. with one voice, che̍k-kháu che̍k-sṳ̂.
 
-**void**, see EMPTY. **volcano**, húe-suaⁿ; húe-iãm-suaⁿ.
+**void**, see EMPTY.
+
+**volcano**, húe-suaⁿ; húe-iãm-suaⁿ.
 
 **volume**, a, che̍k-pńg. several volumes making one work, che̍h-pang; tshûan-põu.
 
@@ -239,4 +242,4 @@ vice-, or second, hù; thòi. vice-president of one of the supreme boards, sĩ-n
 
 **voyage**, tsúi-lōu; tsúi-thiâⁿ; kiâⁿ-tsûn. next, ẽ-tsūa-tsûn; ẽ-pàng-tsûn.
 
-**vulgar**, so̍k; tshou; tshou-so̍k. dialect, so̍k-ūe; thóu-thâm; pe̍h-ūe. language, tshou-ūe (vile); thóu-thóu.�u-thóu.
+**vulgar**, so̍k; tshou; tshou-so̍k. dialect, so̍k-ūe; thóu-thâm; pe̍h-ūe. language, thóu-thóu. *language (vile)*, tshou-ūe.
