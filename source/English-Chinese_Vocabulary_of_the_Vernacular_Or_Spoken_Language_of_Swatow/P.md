@@ -278,7 +278,7 @@ date: 2024-03-31 16:11:00
 
 **perhaps**, ho̍k-chiá; káⁿ-sĩ; pa-lak; ho̍k-ũ ho̍k-bô; bô-tiāⁿ-tie̍h.
 
-**perilous**, *see*[dangerous](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#dangerous).
+**perilous**, see [dangerous](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#dangerous).
 
 **period**, sî-hāu; tsoih; tsoih-hāu.
 
@@ -288,7 +288,7 @@ date: 2024-03-31 16:11:00
 
 **permanent**, tsóng-kú-ũ; kú-tshûn; kú-kú-tõ.
 
-**permit**, *see*[allow](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#allow).
+**permit**, see [allow](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#allow).
 
 **pernicious**, lĩ-hāi; hāi-sṳ̄.
 
@@ -388,7 +388,7 @@ date: 2024-03-31 16:11:00
 
 **piety**, *(idolatrous)*, kèng-ùi sîn-mêng; sêng-kèng. *filial*, hàu; kiâⁿ-hàu; hàu-sũn pẽ-bó; hau-kèng pẽ-bó.
 
-**pig**, tṳ. *pig-tail*, *see*[queue](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#queue).
+**pig**, tṳ. *pig-tail*, see [queue](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#queue).
 
 **pigeon**, hún-chiáu.
 
@@ -484,7 +484,7 @@ date: 2024-03-31 16:11:00
 
 **plant**, *to*, chèng. *plants*, tsháu-ba̍k; hue-ba̍k. *plant out rice*, pòu-tshân.
 
-**plantain**, keng-chie. *see*[bunch](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#bunch).
+**plantain**, keng-chie. see [bunch](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#bunch).
 
 **plaster**, hue; hue-nîⁿ. *to plaster a wall*, kuah-hue; phiak-hue; liâm-hue. *medical*, ko-ie̍h.
 
@@ -838,7 +838,7 @@ date: 2024-03-31 16:11:00
 
 **profound**, chhim; chhim-àu; àu-biāu; mûiⁿ-àu; chhim-mûiⁿ.
 
-**profuse**, *in expenditure*, *see*[prodigal](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#prodigal). *in promises*, múaⁿ-tshùi ìn-sêng.
+**profuse**, *in expenditure*, see [prodigal](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#prodigal). *in promises*, múaⁿ-tshùi ìn-sêng.
 
 **progenitor**, soiⁿ-tsóu; tsóu-tsong; tsóu-kong.
 

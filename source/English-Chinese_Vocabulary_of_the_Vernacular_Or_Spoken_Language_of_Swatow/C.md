@@ -342,7 +342,7 @@ date: 2024-03-31 16:11:00
 
 **chain**, liēn; soh. *iron chain*, thih-soh; thih-liēn.
 
-**chair**, íⁿ. *arm chair*, kau-íⁿ. *camp-chair*, bé-tsah-íⁿ. *bring a chair*, taⁿ che̍k-chiah-íⁿ--lâi. *one (ordinary) chair*, che̍k-chiah-íⁿ. *bamboo chair*, tek-íⁿ. *sedan*, kiē. *carry a sedan chair*, kng-kiē. *sit in*, tsõ-kiē. *call*, kiè-kiē; hàm-kiè. *one sedan chair*, che̍k-téng-kiē. *chair-bearer*, *see*[bearer](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#bearer).
+**chair**, íⁿ. *arm chair*, kau-íⁿ. *camp-chair*, bé-tsah-íⁿ. *bring a chair*, taⁿ che̍k-chiah-íⁿ--lâi. *one (ordinary) chair*, che̍k-chiah-íⁿ. *bamboo chair*, tek-íⁿ. *sedan*, kiē. *carry a sedan chair*, kng-kiē. *sit in*, tsõ-kiē. *call*, kiè-kiē; hàm-kiè. *one sedan chair*, che̍k-téng-kiē. *chair-bearer*, see [bearer](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#bearer).
 
 **chalk**, tsúi-hún; húe-chie̍h-hún. *chalk line*, hún-sùaⁿ.
 
@@ -440,7 +440,7 @@ date: 2024-03-31 16:11:00
 
 **chilblain**, kûaⁿ-tàng; tòng-tshng; tàng-tshng.
 
-**child**, a-nôuⁿ; nôuⁿ-kiáⁿ; kiáⁿ. *childhood*, tsò-sòi-kiáⁿ--sî; iùⁿ-nîⁿ. *childless*, bô-kiáⁿ; bô-kiáⁿ bô-jî. *childish*, nôuⁿ-kiáⁿ-khuán; nôuⁿ-kiáⁿ-iēⁿ. *see*[infant](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/I#infant).
+**child**, a-nôuⁿ; nôuⁿ-kiáⁿ; kiáⁿ. *childhood*, tsò-sòi-kiáⁿ--sî; iùⁿ-nîⁿ. *childless*, bô-kiáⁿ; bô-kiáⁿ bô-jî. *childish*, nôuⁿ-kiáⁿ-khuán; nôuⁿ-kiáⁿ-iēⁿ. see [infant](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/I#infant).
 
 **chill**, chhìn; kûaⁿ.
 
@@ -592,7 +592,7 @@ date: 2024-03-31 16:11:00
 
 **clever**, lêng-lāi; tshong-mêng; gâu; miàⁿ-ke; õi; ũ-lêng-kàng; ũ-tshâi-chhêng; ũ-tshâi-lêng; mién-chia̍p; lêng-tõng; ũ-pún-sṳ̄; ũ-tì-sek; ũ-ki-tì; ua̍h-phuah.
 
-**clew**, *of thread*, che̍k-kiû-sùaⁿ. *to wind into* a, în tsò-che̍k-kiû. *see*[clue](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#clue).
+**clew**, *of thread*, che̍k-kiû-sùaⁿ. *to wind into* a, în tsò-che̍k-kiû. see [clue](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#clue).
 
 **click**, *with the tongue*, tok--chē-kiè.
 
@@ -642,7 +642,7 @@ date: 2024-03-31 16:11:00
 
 **cluck**, kok-kok-kiè.
 
-**clue**, *see*[clew](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#clew). *of an affair*, thâu-sû; thâu-sú.
+**clue**, see [clew](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#clew). *of an affair*, thâu-sû; thâu-sú.
 
 **clump**, *of trees*, chhiū-nâⁿ. *bamboo*, tek-lîm; tek-nâⁿ.
 
@@ -780,7 +780,7 @@ date: 2024-03-31 16:11:00
 
 **commiserate**, khó-liên; liên-mién; khó-sieh.
 
-**commission**, *to*, thoh-jĩm; kià-thoh; hù-thoh; úi; úi-thoh; chhe-sái. *a com.*, mẽng-lẽng. *see*[credentials](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#credentials).
+**commission**, *to*, thoh-jĩm; kià-thoh; hù-thoh; úi; úi-thoh; chhe-sái. *a com.*, mẽng-lẽng. see [credentials](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#credentials).
 
 **commissioner**, *(Imperial)*, khim-chhe. *(deputy of superior mandarin)*, úi-uân. *of customs*, sùe-bũ-si.
 
@@ -814,7 +814,7 @@ date: 2024-03-31 16:11:00
 
 **compeer**, tâng-liâu; tâng-lūi; tâng-téng.
 
-**compel**, mién-kiáng; khiâng-pek; ngẽ-lia̍h. *see*[compulsion](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#compulsion).
+**compel**, mién-kiáng; khiâng-pek; ngẽ-lia̍h. see [compulsion](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#compulsion).
 
 **compendious**, kâng-lia̍k; káng-séⁿ. *compendium*, iak-ngân; tiah-iàu; káng-iàu; tshái-iàu.
 
@@ -830,7 +830,7 @@ date: 2024-03-31 16:11:00
 
 **compliment**, chheng-hu; o-ló. *send compliments*, mn̄g-hāu; chhiáⁿ-uaⁿ. *compliments*, lói; lói-mãuⁿ. *return*, ho̍k-lí; ho̍k-lói; pò-ho̍k; tap-lói.
 
-**comply**, *see*[compliance](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#compliance).
+**comply**, see [compliance](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#compliance).
 
 **compose**, *an essay*, tsò-bûn-chieⁿ. *a composition*, bûn-chieⁿ. *good*, pit-ba̍k hó; pit-chhêng hó; pit-khì hó.
 
@@ -1064,7 +1064,7 @@ date: 2024-03-31 16:11:00
 
 **contingency**, ngóu-jiên; siẽⁿ-m̄-kàu; liāu-m̄-kàu.
 
-**continue**, chhiàng-tsò; chhiâng-kiâⁿ; siêⁿ-tõ; sî-sî-ũ; siêⁿ-tshûn; hûan-tõ; nãiⁿ-kú. *continual*, *see*[constant](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#constant). *continuous*, chih; chiap; liên-lo̍k; chiap-so̍k; siang-liên; bô-hiah; bô-tñg; bô-kòiⁿ; bô-làng.
+**continue**, chhiàng-tsò; chhiâng-kiâⁿ; siêⁿ-tõ; sî-sî-ũ; siêⁿ-tshûn; hûan-tõ; nãiⁿ-kú. *continual*, see [constant](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#constant). *continuous*, chih; chiap; liên-lo̍k; chiap-so̍k; siang-liên; bô-hiah; bô-tñg; bô-kòiⁿ; bô-làng.
 
 **contortion**, tsũn-tshúa; tsũn-tn̍g; tsũn--kùe--lâi. *of face*, tshúa-mīn.
 
@@ -1242,7 +1242,7 @@ date: 2024-03-31 16:11:00
 
 **counterpane**, phũe-toaⁿ.
 
-**counterpoise**, chhìn-thûi; tô-chí. *see*[counterbalance](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#counterbalance).
+**counterpoise**, chhìn-thûi; tô-chí. see [counterbalance](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#counterbalance).
 
 **counting-house**, tièⁿ-pâng.
 
@@ -1452,7 +1452,7 @@ date: 2024-03-31 16:11:00
 
 **curiosity**, mih-sṳ̄ àiⁿ-tsai; hàuⁿ-thiaⁿ ôiⁿ-ūe; hàuⁿ-kiú-tîⁿ; kiú-tîⁿ-mn̄g; tîⁿ-mn̄g. *curiosities*, kóu-ngúan; kóu-tóng; thih-thô-mue̍h.
 
-**curious**, khî; tshù-bī; koh-iēⁿ. *see*[curiosity](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#curiosity).
+**curious**, khî; tshù-bī; koh-iēⁿ. see [curiosity](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#curiosity).
 
 **curl**, *to*, kauh-uan ká-khek. *hair*, khek-môⁿ; môⁿ khek-khek.
 

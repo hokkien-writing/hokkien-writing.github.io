@@ -62,7 +62,7 @@ date: 2024-03-31 16:11:00
 
 **bamboo**, tek. *pole*, tek-ko. *mat*, tek-chhie̍h. *chair*, tek-íⁿ. *shoots*, tek-sún. *grove*, tek-nâⁿ. *slips for wicker-work*, tek-bi̍h. *scrubbing brush*, tek-tshóiⁿ. *raft*, tek-pâi. *beat with bamboo*, phah-póiⁿ-kiáⁿ. *beat with bamboo (in schools)*, phah-tek-póiⁿ.
 
-**bananas**, keng-chie. *see*[bunch](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#bunch)
+**bananas**, keng-chie. see [bunch](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#bunch)
 
 **band**, tòa. *musical*, che̍k-pan ti-tâ-khek. *of soldiers*, tūi.
 
@@ -658,7 +658,7 @@ date: 2024-03-31 16:11:00
 
 **breed**, seⁿ-súaⁿ; seⁿ-iáng; súaⁿ-io̍k. *animals*, chhī-cheng-seⁿ. *ill-bred*, bô-kui-kṳ́; bô-ke-kà. *well-bred*, hiáu-chhêng-lí; sṳ-bûn khì-siãng.
 
-**breeze**, huang. *see*[wind](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/W#wind).
+**breeze**, huang. see [wind](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/W#wind).
 
 **brethren**, hiaⁿ-tĩ.
 
@@ -676,7 +676,7 @@ date: 2024-03-31 16:11:00
 
 **bridle**, bé-soh. *to draw*, le̍k-bé. *oneself*, uaⁿ-hūn siú-kí.
 
-**brief**, tó. *synopsis*, tiah-iàu; káng-lia̍k. *see*[brevity](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#brevity).
+**brief**, tó. *synopsis*, tiah-iàu; káng-lia̍k. see [brevity](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#brevity).
 
 **brigade**, iâⁿ; kun; che̍k-ki-kun.
 
@@ -712,7 +712,7 @@ date: 2024-03-31 16:11:00
 
 **broil**, a, tshàu-mãuⁿ; uan-ke lâ-chè. *on the fire*, sie-ne̍k.
 
-**broken**, phùa; chi̍h. *fragments*, tshùi. *hearted*, sim sng. *see*[break](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#break).
+**broken**, phùa; chi̍h. *fragments*, tshùi. *hearted*, sim sng. see [break](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#break).
 
 **broker**, tong-nâng; kong-chhin. *brokerage*, thiu-thâu-ngṳ̂n.
 
@@ -788,7 +788,7 @@ date: 2024-03-31 16:11:00
 
 **bunch**, *of flowers*, che̍k-pé-hue; che̍k-pà-hue; che̍k-tẽⁿ-hue. *of grapes*, che̍k-tô. *of plantains (whole large bunch)*, che̍k-pà keng-chie; che̍k-keng. *of plantains (portion of large bunch)*, che̍k-siu.
 
-**bundle**, pau; siáu-pau; pau-kó. *of grass*, che̍k-pé-tsháu. *see*[fagot](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/F#fagot).
+**bundle**, pau; siáu-pau; pau-kó. *of grass*, che̍k-pé-tsháu. see [fagot](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/F#fagot).
 
 **bung**, tháng-that. *hole*, tháng-khang.
 
@@ -816,7 +816,7 @@ date: 2024-03-31 16:11:00
 
 **burst**, phùa-khui; pit-khui; kek-phùa; piàⁿ-li̍h. *burst out laughing*, tōa-chhiè; ha-ha-chhiè; tshâu-tshàu-chhiè. *bonds*, tñg-soh.
 
-**bury**, tsǹg; tsǹg-suaⁿ; mâiⁿ-tsǹg; tsǹg-mâiⁿ; kám-lo̍h-thôu; iám-thóu. *burying place*, phûn-suaⁿ. *public*, ngĩ-thóng-pou. *see*[burial](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#burial).
+**bury**, tsǹg; tsǹg-suaⁿ; mâiⁿ-tsǹg; tsǹg-mâiⁿ; kám-lo̍h-thôu; iám-thóu. *burying place*, phûn-suaⁿ. *public*, ngĩ-thóng-pou. see [burial](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#burial).
 
 **bush**, che̍k-tsâng chhiū-kiáⁿ.
 

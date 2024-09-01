@@ -46,7 +46,7 @@ date: 2024-03-31 16:11:00
 
 **abjure**, chiù-tsūa bô-chí-kâi-sṳ̄. *one’s religion*, húan-kà; pũe-kà.
 
-**able**, lêng; õi; miâⁿ-ke; ũ-lêng-ûi. *see*[ability](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#ability).
+**able**, lêng; õi; miâⁿ-ke; ũ-lêng-ûi. see [ability](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#ability).
 
 **ablution**, sói-chheng-khih; sói-chheng; sói-sin; sói-e̍k.
 
@@ -98,7 +98,7 @@ date: 2024-03-31 16:11:00
 
 **absurd**, thèng-tàⁿ; bô-iáⁿ-chiah; hó-chhiè.
 
-**abundant**, *see*[abound](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#abound).
+**abundant**, see [abound](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#abound).
 
 **abuse**, mēⁿ. *filthy abuse*, mēⁿ kàu chhi-gî; tshou-tshùi-mēⁿ.
 
@@ -286,7 +286,7 @@ date: 2024-03-31 16:11:00
 
 **afford**, *expenses*, tshut-só-hùi. *can*, tng-tit-khí; taⁿ-tit-khṳ̀; tshut-tit-lâi. *profit*, seⁿ-lĩ; tshut-sek.
 
-**affront**, tshok-huãm--tie̍h; tit-tsõ--tie̍h. *see*[insult](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/I#insult).
+**affront**, tshok-huãm--tie̍h; tit-tsõ--tie̍h. see [insult](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/I#insult).
 
 **afloat**, phû.
 
@@ -450,7 +450,7 @@ date: 2024-03-31 16:11:00
 
 **amnesty**, tãi-sià; ṳn-chiè; hí-chiè; sià-chiè.
 
-**among**, *see*[amid](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#amid).
+**among**, see [amid](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#amid).
 
 **amount**, kāng-kòi; tsóng-kat; kāng-tsóng; ha̍h-kāng. *what*, jie̍h-tsōi.
 
@@ -580,7 +580,7 @@ date: 2024-03-31 16:11:00
 
 **appoint**, siet-li̍p; hun-phài; hong-kuaⁿ. *a time*, tiāⁿ-khî; ieh-khî. *appointment*, cheh-jĩm; cheh-hūn. *to receive*, siũ-thoh; sêng-thoh. *at the appointed time*, kàu-khî.
 
-**apprehend**, *a person*, lia̍h. *meaning*, hiáu--tit; mêng-pe̍h; thiaⁿ-mêng; thiaⁿ pat-kò-khṳ̀. *see*[fear](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/F#fear).
+**apprehend**, *a person*, lia̍h. *meaning*, hiáu--tit; mêng-pe̍h; thiaⁿ-mêng; thiaⁿ pat-kò-khṳ̀. see [fear](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/F#fear).
 
 **apprentice**, thû-tĩ; sai-kiáⁿ; tĩ-tsṳ́.
 

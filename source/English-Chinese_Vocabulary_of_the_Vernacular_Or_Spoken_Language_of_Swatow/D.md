@@ -60,7 +60,7 @@ date: 2024-03-31 16:11:00
 
 **dawn**, thiⁿ kng; tang-pôiⁿ pe̍h; tang-pôiⁿ tsò-sek; thiⁿ lâ-lân; thiⁿ lâ-lân-kng.
 
-**day**, ji̍t; thiⁿ. *first day of month*, chhiu-it. *15th day*, tsa̍p-ngõu. *another day*, ẽ-ji̍t; ãu-ji̍t. *every*, ji̍t-ji̍t; múeⁿ-ji̍t; siêⁿ-ji̍t; pâi-ji̍t. *day and night*, ji̍t-mêⁿ. *all day*, tsong-ji̍t; thàng-ji̍t. *day before yesterday*, tso̍h--ji̍t. *one day earlier still*, tōa-tso̍h--ji̍t. *day after tomorrow*, ãu--ji̍t. *today*, kim-ji̍t; kiáⁿ-ji̍t; hīn-ji̍t; pn̍g-ji̍t. *day by day*, che̍k-ji̍t kùe-che̍k-ji̍t; liên-ji̍t. *to make progress day by day*, che̍k-ji̍t kìⁿ-ji̍t-chìn. *to wait day after day*, che̍k-ji̍t mōⁿ-che̍k-ji̍t. *day-time*, ji̍t--kan; ji̍t--kùa; pe̍h-ji̍t--kan; ji̍t--tsṳ́. *several days*, kúi-ji̍t; sù-ji̍t; kúi-uã-ji̍t. *within these few days*, chí-kṳ̃n-ji̍t; chí-kṳ̃n-ji̍t-lãi. *day-labour*, lũn-ji̍t-kang. *day-book*, ji̍t-to̍k-phõu. *day-break*, *see*[dawn](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#dawn). *to select a lucky day*, thóiⁿ-ji̍t; to̍h-ji̍t; suán-ji̍t; pua̍h-ji̍t. *lucky day*, kit-ji̍t; siãng-ji̍t. *unlucky*, hiong-ji̍t. *good-day (at meeting)*, hó-ngõ. *good-day (at parting)*, chhiaⁿ.
+**day**, ji̍t; thiⁿ. *first day of month*, chhiu-it. *15th day*, tsa̍p-ngõu. *another day*, ẽ-ji̍t; ãu-ji̍t. *every*, ji̍t-ji̍t; múeⁿ-ji̍t; siêⁿ-ji̍t; pâi-ji̍t. *day and night*, ji̍t-mêⁿ. *all day*, tsong-ji̍t; thàng-ji̍t. *day before yesterday*, tso̍h--ji̍t. *one day earlier still*, tōa-tso̍h--ji̍t. *day after tomorrow*, ãu--ji̍t. *today*, kim-ji̍t; kiáⁿ-ji̍t; hīn-ji̍t; pn̍g-ji̍t. *day by day*, che̍k-ji̍t kùe-che̍k-ji̍t; liên-ji̍t. *to make progress day by day*, che̍k-ji̍t kìⁿ-ji̍t-chìn. *to wait day after day*, che̍k-ji̍t mōⁿ-che̍k-ji̍t. *day-time*, ji̍t--kan; ji̍t--kùa; pe̍h-ji̍t--kan; ji̍t--tsṳ́. *several days*, kúi-ji̍t; sù-ji̍t; kúi-uã-ji̍t. *within these few days*, chí-kṳ̃n-ji̍t; chí-kṳ̃n-ji̍t-lãi. *day-labour*, lũn-ji̍t-kang. *day-book*, ji̍t-to̍k-phõu. *day-break*, see [dawn](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#dawn). *to select a lucky day*, thóiⁿ-ji̍t; to̍h-ji̍t; suán-ji̍t; pua̍h-ji̍t. *lucky day*, kit-ji̍t; siãng-ji̍t. *unlucky*, hiong-ji̍t. *good-day (at meeting)*, hó-ngõ. *good-day (at parting)*, chhiaⁿ.
 
 **dazzle**, ji̍t-kuang iàng-ma̍k; kng chhiēⁿ-ma̍k. *the lamp-light dazzling the eyes*, teng-kng chhiēⁿ-ma̍k. *dazzling*, tāng-tāng-kng; ia̍p-ia̍p-sih.
 
@@ -116,7 +116,7 @@ date: 2024-03-31 16:11:00
 
 **decimate**, tsa̍p-hūn thiu-che̍k.
 
-**deck**, *ship's*, tsûn-mīn; pũn-mīn. *adorn*, siu-tsuang; tá-pàn; tsuang-sek; tsuang-tshái; pái-tshái; tsuang-pái. *see*[decorate](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#decorate).
+**deck**, *ship's*, tsûn-mīn; pũn-mīn. *adorn*, siu-tsuang; tá-pàn; tsuang-sek; tsuang-tshái; pái-tshái; tsuang-pái. see [decorate](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#decorate).
 
 **declaration**, *official*, hiáu-zũ; kò-sī.
 
@@ -128,11 +128,11 @@ date: 2024-03-31 16:11:00
 
 **decoct**, pû-ie̍h; chien-ie̍h. *decoction*, ie̍h-thng; ie̍h-tê.
 
-**decorate**, tá-pàn; siu-tsuang; siu-si̍p phâi-chhiâng; siu-si̍p hó-thóiⁿ; siu-si̍p-ngiá; siu-si̍p kuang-tshái; iām-lĩ. *see*[deck](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#deck).
+**decorate**, tá-pàn; siu-tsuang; siu-si̍p phâi-chhiâng; siu-si̍p hó-thóiⁿ; siu-si̍p-ngiá; siu-si̍p kuang-tshái; iām-lĩ. see [deck](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#deck).
 
 **decorous**, tuan-chiàⁿ; hẽng-chí tuan-chiàⁿ; ũ-thí-mīn. *decorum*, lói-ngî; kui-kṳ́.
 
-**decoy**, ín-iú; iú-ho̍k, phièn nâng ji̍p-io̍k; iú-phièn. *decoy-bird*, chiáu-bûe. *see*[abduct](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#abduct).
+**decoy**, ín-iú; iú-ho̍k, phièn nâng ji̍p-io̍k; iú-phièn. *decoy-bird*, chiáu-bûe. see [abduct](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#abduct).
 
 **decrease**, húan-kiám; chiãm-chiãm-kiám; siau-si̍h; sue-mûiⁿ.
 
@@ -428,7 +428,7 @@ date: 2024-03-31 16:11:00
 
 **dictionary**, jī-tién; jī-lūi. *rhyming*, si-ūn; kiám-ūn.
 
-**die**, *to*, sí; kùe-sì; sī-sì; khùi tñg; lãu--khṳ̍; tsak-kóu. *see*[decease](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#decease). *by one's own hand*, tsṳ̃-shĩn. *of disease*, pēⁿ-sí. *of hunger*, gō-sí. *of cold*, kûaⁿ-sí.
+**die**, *to*, sí; kùe-sì; sī-sì; khùi tñg; lãu--khṳ̍; tsak-kóu. see [decease](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#decease). *by one's own hand*, tsṳ̃-shĩn. *of disease*, pēⁿ-sí. *of hunger*, gō-sí. *of cold*, kûaⁿ-sí.
 
 **die**, *a*, chîⁿ-bôu; jī-bôu.
 
@@ -632,13 +632,13 @@ date: 2024-03-31 16:11:00
 
 **dispassionate**, m̄-tõng-sim; bô-khì; bô-phien-sim.
 
-**dispatch**, *see*[despatch](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#despatch).
+**dispatch**, see [despatch](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#despatch).
 
 **dispel**, tshue-sùaⁿ; kói; siau-tṳ̂; siau-tiāu.
 
 **dispense**, pun. *charity*, si-chì. *with one's services*, sî; mién-ēng.
 
-**disperse**, phah-sùaⁿ; pun-sùaⁿ; sì-sùaⁿ; sùaⁿ-khui; hun-sùaⁿ; kúaⁿ-sùaⁿ; jiāu-sùaⁿ; chẽng-sùaⁿ. *see*[dispel](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#dispel).
+**disperse**, phah-sùaⁿ; pun-sùaⁿ; sì-sùaⁿ; sùaⁿ-khui; hun-sùaⁿ; kúaⁿ-sùaⁿ; jiāu-sùaⁿ; chẽng-sùaⁿ. see [dispel](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#dispel).
 
 **dispirited**, sàng-sim; sàng-táⁿ; sàng-chì; hûan-ló; sim ià-ià.
 
@@ -842,7 +842,7 @@ date: 2024-03-31 16:11:00
 
 **drake**, ah-hêng.
 
-**draught**, *see*[draft](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#draft). *of fish*, che̍k-mãng-hṳ̂. *of wind*, thong-huang. *in a draught*, tng-huang-lōu.
+**draught**, see [draft](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/D#draft). *of fish*, che̍k-mãng-hṳ̂. *of wind*, thong-huang. *in a draught*, tng-huang-lōu.
 
 **draw**, thua; po̍ih; túi. *water*, kũaⁿ-tsúi; pua̍h-tsúi. *out*, po̍ih-tshut; mán-tshut; thua-tshut. *teeth*, khieh-khí. *a sliding window*, thuah. *a sword*, po̍ih-kiàm; po̍ih-to. *poison*, po̍ih-ta̍k. *a bow*, khui-keng; mán-keng. *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ. *draw up one's legs*, kha kiu--khí-lâi. *draw breath (also, to sigh)*, tháu-khùi. *opium-smoke*, kuh-hun; po̍k-hun. *lots*, khieh-khau; po̍ih-chhiam; thiu-chhiam-kiáⁿ. *a carriage*, thua-chhia. *nails*, po̍ih-teng; kiãu-teng. *a net*, po̍ih-mãng; chhiû-mãng. *draw near*, túi-bûa. *near (approach)*, kiâⁿ-bûa; chiũ-kṳ̃n; kṳ̃n-bûa. *attention*, ín-tõng nâng-sim; tõng nâng-sim-ma̍k. *up a line of battle*, pâi-tīn. *a list*, khui-mêng kak-mue̍h; kiám-tiám. *as loadstone*, hiap-bûa. *out of the water*, liâu; kou. *a splinter*, liàm-tshut; túi-tshut. *a splinter (with a needle)*, thie-tshut. *blood*, lâu-hueh; pàng-tshut-hueh. *money from bank*, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n; tùi-ngṳ̂u. *a curtain*, liâm sa-khui; liâm kiáu-phû. *draw away*, ín-tshūa. *entice*, ín-iú; iú-ho̍k. *draw on stockings*, chhēng-bue̍h. *draw back*, tò-thò; thò; thò-pōu.
 
