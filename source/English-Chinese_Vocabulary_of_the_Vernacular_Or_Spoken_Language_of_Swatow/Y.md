@@ -36,4 +36,4 @@ date: 2024-03-31 16:11:00
 
 **you**, *(singular)*, lṳ́. *(plural)*, nín. *you, Sir*, tsun-kè. *you, Sirs*, tsu-ūi. *what is your surname*, kùi-sèⁿ.
 
-**young**, hãu-seⁿ; siàu-nîⁿ; chíⁿ; iùⁿ; sòi. *I am a year younger than he*, uá sòi--i che̍k-hùe. *younger brother*, a-tĩ. *a young man*, hãu-seⁿ-kiáⁿ; siàu-nîⁿ-nâng. *a young cow*, gû-kiáⁿ.-kiáⁿ.
+**young**, hãu-seⁿ; siàu-nîⁿ; chíⁿ; iùⁿ; sòi. *I am a year younger than he*, uá sòi--i che̍k-hùe. *younger brother*, a-tĩ. *a young man*, hãu-seⁿ-kiáⁿ; siàu-nîⁿ-nâng. *a young cow*, gû-kiáⁿ.

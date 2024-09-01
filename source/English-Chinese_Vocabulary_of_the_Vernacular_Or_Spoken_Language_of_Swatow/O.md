@@ -242,4 +242,4 @@ date: 2024-03-31 16:11:00
 
 **ox**, iam-gû; iam-gû-kóu.
 
-**oyster**, ô. *bed*, ô-sieⁿ; ô-tiâⁿ. *shell*, ô-khak. ô-khak.
+**oyster**, ô. *bed*, ô-sieⁿ; ô-tiâⁿ. *shell*, ô-khak.

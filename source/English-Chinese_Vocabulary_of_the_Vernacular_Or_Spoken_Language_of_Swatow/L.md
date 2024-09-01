@@ -458,4 +458,4 @@ date: 2024-03-31 16:11:00
 
 **luxurious**, chhia-tsòng; chhia-míⁿ; îm-i̍t; kiau-la̍k; chhia-îm; hàuⁿ-chhia-hûa.
 
-**lye**, kiⁿ; kiⁿ-tsúi.��-tsúi.
+**lye**, kiⁿ; kiⁿ-tsúi.

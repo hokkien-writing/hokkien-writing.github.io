@@ -178,4 +178,4 @@ date: 2024-03-31 16:11:00
 
 **nut**, walnut, hu̍t-thô; khut-thô. ground-nut, tī-tāu. cocoa-nut, gê-chí; iâ-chí. shell, khak. meat inside, jîn; ne̍k. nutmeg, tāu-khòu; lãu-hàu-chí.
 
-**nymph**, sien-nńg.ien-nńg.
+**nymph**, sien-nńg.

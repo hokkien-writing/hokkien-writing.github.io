@@ -710,4 +710,4 @@ date: 2024-03-31 16:11:00
 
 **rut**, of wheel, chhia-lûn-lōu; chhia-lûn-kau.
 
-**rutting**, time, of animals, khí-khûn.í-khûn.
+**rutting**, time, of animals, khí-khûn.

@@ -72,4 +72,4 @@ date: 2024-03-31 16:11:00
 
 **quoin**, chiⁿ.
 
-**quote**, ín-tsṳ; ín-kiaⁿ kṳ̃-tién.̃-tién.
+**quote**, ín-tsṳ; ín-kiaⁿ kṳ̃-tién.

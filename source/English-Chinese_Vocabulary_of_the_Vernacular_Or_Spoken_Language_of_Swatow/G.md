@@ -446,4 +446,4 @@ date: 2024-03-31 16:11:00
 
 **gypsum**, chie̍h-ko.
 
-**gyrate**, īn-lâi īn-khṳ̀.-khṳ̀.
+**gyrate**, īn-lâi īn-khṳ̀.

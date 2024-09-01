@@ -296,4 +296,4 @@ date: 2024-03-31 16:11:00
 
 **utterance**, kháu-tshâi; kháu-lẽng; õi-tàⁿ-ūe.
 
-**utterly**, ke̍k; chì-ke̍k; kàu-ke̍k; tsa̍p-hun; liáu-liáu; chĩn; tsò-che̍k-ē; chheng-tshó; kan-chẽng.-chẽng.
+**utterly**, ke̍k; chì-ke̍k; kàu-ke̍k; tsa̍p-hun; liáu-liáu; chĩn; tsò-che̍k-ē; chheng-tshó; kan-chẽng.

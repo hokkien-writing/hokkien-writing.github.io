@@ -20,4 +20,4 @@ date: 2024-03-31 16:11:00
 
 **zone**, tòa-tãu; sùaⁿ-lōu. *temperate*, un-tãu. *frigid*, hân-tãu.
 
-**zoology**, seⁿ-mue̍h tsóng-lũn.�ng-lũn.
+**zoology**, seⁿ-mue̍h tsóng-lũn.

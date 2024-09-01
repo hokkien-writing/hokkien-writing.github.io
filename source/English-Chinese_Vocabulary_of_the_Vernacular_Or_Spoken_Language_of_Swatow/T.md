@@ -690,4 +690,4 @@ date: 2024-03-31 16:11:00
 
 **tyrant**, pà-uâng. *tyranny*, pà-tãu. *tyrannical*, khiâng-pà; pãu-ngia̍k.
 
-**tyro**, tsho-o̍h; chiãm-o̍h; chheⁿ-chhiú; sin-sai-pẽ.sai-pẽ.
+**tyro**, tsho-o̍h; chiãm-o̍h; chheⁿ-chhiú; sin-sai-pẽ.

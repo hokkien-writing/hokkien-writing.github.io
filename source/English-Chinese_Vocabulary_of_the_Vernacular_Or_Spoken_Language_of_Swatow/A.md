@@ -856,4 +856,4 @@ date: 2024-03-31 16:11:00
 
 **axle**, hûeⁿ-taⁿ.
 
-**azure**, tshang; chheⁿ; tshùi-lâm. *the azure heaven*, tshang-thiⁿ; chheⁿ-thiⁿ.�-thiⁿ.
+**azure**, tshang; chheⁿ; tshùi-lâm. *the azure heaven*, tshang-thiⁿ; chheⁿ-thiⁿ.

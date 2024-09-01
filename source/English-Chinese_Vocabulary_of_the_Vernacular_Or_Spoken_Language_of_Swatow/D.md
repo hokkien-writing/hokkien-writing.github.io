@@ -984,4 +984,4 @@ date: 2024-03-31 16:11:00
 
 **dyspnoea**, tshúan; khùi tōa; khùi kip; tshúan-kip; khì tshúan; he̍hⁿ-he̍hⁿ-tshúan. *infantine*, niⁿ-he; niⁿ-tshúan.
 
-**dysury**, siáu-piẽn m̄-kiâⁿ; sié-piẽn m̄-thong.̄-thong.
+**dysury**, siáu-piẽn m̄-kiâⁿ; sié-piẽn m̄-thong.

@@ -1570,4 +1570,4 @@ date: 2024-03-31 16:11:00
 
 **syringe**, tsúi-kiuh; tsúi-thiu; tsú-chheng. to, chheng; thiu-sói.
 
-**syrup**, thn̂g-tsúi.�g-tsúi.
+**syrup**, thn̂g-tsúi.

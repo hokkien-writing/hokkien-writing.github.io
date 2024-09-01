@@ -682,4 +682,4 @@ date: 2024-03-31 16:11:00
 
 **fuss**, *make a fuss about a small matter*, sié-sṳ̄ tãng-pò; khin-sṳ̄ tãng-khì; lo-sl; lo-lo so-so. *fussy*, kín-kip; kip-kṳ̃; huang-mâng; huang-huang huh-huh.
 
-**future**, chiang-lâi; ãu-lâi; ẽ-ji̍t; ãu-ji̍t; ji̍t-ãu. in future, tshông-kim íⁿ-ãu. the future state, lâi-seⁿ; lâi-sì. see into the future, būe-lâi soiⁿ-tsai.ⁿ-tsai.
+**future**, chiang-lâi; ãu-lâi; ẽ-ji̍t; ãu-ji̍t; ji̍t-ãu. in future, tshông-kim íⁿ-ãu. the future state, lâi-seⁿ; lâi-sì. see into the future, būe-lâi soiⁿ-tsai.

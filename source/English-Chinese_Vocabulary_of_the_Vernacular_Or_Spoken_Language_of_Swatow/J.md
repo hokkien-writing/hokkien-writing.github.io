@@ -106,4 +106,4 @@ date: 2024-03-31 16:11:00
 
 **jut**, out, tshun--tshut-lâi; thóu--tshut-lâi.
 
-**juvenile**, hãu-sêⁿ; siàu-nîⁿ.u-nîⁿ.
+**juvenile**, hãu-sêⁿ; siàu-nîⁿ.
