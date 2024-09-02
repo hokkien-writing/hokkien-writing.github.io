@@ -132,7 +132,7 @@ date: 2024-03-31 16:11:00
 
 **caper**, tsho̍k-tsho̍k-thiàu.
 
-**capital**, pńg-chîⁿ. *lent*, bó-chîⁿ. *capital and interest*, bó-thâu lāi-sek; bó-lāi. *crime*, sí-tsūe. city, kiaⁿ-siâⁿ; kiaⁿ-sṳ; kiaⁿ-tou.
+**capital**, pńg-chîⁿ. *lent*, bó-chîⁿ. *capital and interest*, bó-thâu lāi-sek; bó-lāi. *crime*, sí-tsūe. *city*, kiaⁿ-siâⁿ; kiaⁿ-sṳ; kiaⁿ-tou.
 
 **capitulate**, kàu mién-chièn-pâi; tâu-hâng; hâng-ho̍k.
 
@@ -194,7 +194,7 @@ date: 2024-03-31 16:11:00
 
 **carpet**, phou-tī-chiⁿ; phou-chiⁿ.
 
-**carriage**, bé-chhia. gun, phàu-chhia; phàu-kè. 'demeanour', iēⁿ; khúan. *proud*, huàng-sṳ̀; kiau-ngãu thí-thài.
+**carriage**, bé-chhia. *gun*, phàu-chhia; phàu-kè. *'demeanour'*, iēⁿ; khúan. *proud*, huàng-sṳ̀; kiau-ngãu thí-thài.
 
 **carrot**, âng-lô-po̍k; âng-tshài-thâu.
 
@@ -260,7 +260,7 @@ date: 2024-03-31 16:11:00
 
 **cause**, uân-kù; uân-iû; ngûan-in; kù-sṳ̄; chhêng-iú; ngûan-thâu; kṳn-in lâi-le̍h. *a good cause*, hó-sṳ̄. *for what cause*, sĩ-mih uân-kù; in-ũi sĩ-mih-sṳ̄. *for this cause*, kù-tshṳ́; in-tshṳ́.
 
-**cause**, to, sái; lẽng; tì; hàm; hāi; phièn.
+**cause**, *to*, sái; lẽng; tì; hàm; hāi; phièn.
 
 **causeway**, chie̍h-lōu; hue-lōu.
 
@@ -422,7 +422,7 @@ date: 2024-03-31 16:11:00
 
 **cherish**, bú-iáng. *in the mind*, khn̍g tõ-sim-lãi.
 
-**chess**, chhiẽⁿ-kî. play, teh-kî. *(move)*, kiâⁿ-kî. *(to consider before moving)*, keng-kî. *men*, kî-chí. *board*, kî-pûaⁿ.
+**chess**, chhiẽⁿ-kî. *play*, teh-kî. *(move)*, kiâⁿ-kî. *(to consider before moving)*, keng-kî. *men*, kî-chí. *board*, kî-pûaⁿ.
 
 **chest**, *box*, sieⁿ. *one*, che̍k-kha-sieⁿ. *of drawers*, kūiⁿ. *with many drawers, as druggist's*, peh-chí-sieⁿ. *the chest*, sim-kuaⁿ-thâu.
 
@@ -518,7 +518,7 @@ date: 2024-03-31 16:11:00
 
 **circle**, khou; îⁿ-khou; khuan; îⁿ-khuan.
 
-**circular**, a, tsham-jī.
+**circular**, *a*, tsham-jī.
 
 **circulate**, chiu-liû; lûn-tńg. *blood*, kiâⁿ; ūn-kiâⁿ.
 
@@ -532,7 +532,7 @@ date: 2024-03-31 16:11:00
 
 **circumspect**, kiãⁿ-kiãⁿ tsṳ́-sòi; kṳ́n-sín; tsò-sṳ̄ ũ-chim-chiak.
 
-**circumstance**, a, sṳ̄; che̍k-kiãⁿ-sṳ̄. *circumstances*, ngûan-iû; chhêng-iû; chhêng-hêng; sṳ̄-si̍t; lâi-le̍h. *of one's condition*, kuang-kéng; kéng-ngõ; kéng-khùang; khùang-kéng. *prosperous*, sũn-kéng, tsu-sṳ̄ sũn-ì; sũn-thû. *adverse*, nge̍k-kéng; tsu-sṳ̄ bô-hièⁿ-sũn. *able to accommodate oneself to*, ũ-pièn-thong; khûan-pièn.
+**circumstance**, *a*, sṳ̄; che̍k-kiãⁿ-sṳ̄. *circumstances*, ngûan-iû; chhêng-iû; chhêng-hêng; sṳ̄-si̍t; lâi-le̍h. *of one's condition*, kuang-kéng; kéng-ngõ; kéng-khùang; khùang-kéng. *prosperous*, sũn-kéng, tsu-sṳ̄ sũn-ì; sũn-thû. *adverse*, nge̍k-kéng; tsu-sṳ̄ bô-hièⁿ-sũn. *able to accommodate oneself to*, ũ-pièn-thong; khûan-pièn.
 
 **citadel**, tōa-phàu-thâi; siâⁿ-lâu.
 
@@ -790,7 +790,7 @@ date: 2024-03-31 16:11:00
 
 **common**, *ordinary*, phêng-siêⁿ; so̍k. *in common*, sie-kāng. *public*, kong-chèng. *people*, peh-sèⁿ; sù-mîn. *commoner*, phêng-siêⁿ-nâng. *interchangeable*, thong-ēng. *commonly*, phêng-sî; pâi-hûe; pâi-tn̍g; tãi-sì; siêⁿ-sî; siêⁿ-siêⁿ; tãi-khài; tãi-hûam.
 
-**communicate**, thong-ta̍t; thong-sie-sit; thûan-sìn; thong-tsai, pò-tsai; kàu-tsai; ta̍t-tsai; sàng-siaⁿ.
+**communicate**, *thong-ta̍t; thong-sie-sit; thûan-sìn; thong-tsai*, pò-tsai; kàu-tsai; ta̍t-tsai; sàng-siaⁿ.
 
 **communion**, *with anyone*, kāng--nâng sim kau.
 
@@ -850,7 +850,7 @@ date: 2024-03-31 16:11:00
 
 **compromise**, uán-tsuán; tshuang-tsua̍k.
 
-**compulsion**, by, tshut-tõ mién-kiáng, bô-khó nãiⁿ-hô; bô-pōu.
+**compulsion**, by, *tshut-tõ mién-kiáng*, bô-khó nãiⁿ-hô; bô-pōu.
 
 **compunction**, siẽⁿ-hùe; siẽⁿ-sí-hùe; thiàⁿ-hùe; thiàⁿ-kói tsôiⁿ-hui.
 
@@ -858,7 +858,7 @@ date: 2024-03-31 16:11:00
 
 **comrade**, húe-kì; tâng-phũaⁿ; phêng-iú; tâng-liâu.
 
-**concave**, thap; thap-tóu; thap-uh. spectacles, ma̍k-kiàⁿ chhia-thap-tóu.
+**concave**, thap; thap-tóu; thap-uh. *spectacles*, ma̍k-kiàⁿ chhia-thap-tóu.
 
 **conceal**, khn̍g; khn̍g-bûa; khn̍g-miⁿ; tshâng-khn̍g; tshâng-ne̍k. *oneself*, tiàm; tiàm-bûa; siám-bûa; tshâng-pī; tshâng-pī tsáu-siám; tsáu-khui; pī-bûa.
 
@@ -904,7 +904,7 @@ date: 2024-03-31 16:11:00
 
 **condiment**, mue̍h-phùe; tsa̍p-chhiau-liãu; hó-bī; chièⁿ; sī-iû.
 
-**condition**, chhêng-hêng; kéng-ngõ; kuang-kéng. in life, tī-ūi. *conditions of bargain*, ieh-tiâu.
+**condition**, chhêng-hêng; kéng-ngõ; kuang-kéng. *in life*, tī-ūi. *conditions of bargain*, ieh-tiâu.
 
 **condole**, kāng-nâng huân-ló; tiàu-ùe.
 
@@ -936,7 +936,7 @@ date: 2024-03-31 16:11:00
 
 **confluence**, *of waters*, sang-kap-tsúi; tsúi hũe-bûa; tsúi ha̍p-bûa; kap-bûa.
 
-**conform**, *to rule*, tsun-huap; chiè-lī; o̍h-tsún-sîn. to people, sũn-nâng-ì. *to pattern*, chiè-iēⁿ.
+**conform**, *to rule*, tsun-huap; chiè-lī; o̍h-tsún-sîn. *to people*, sũn-nâng-ì. *to pattern*, chiè-iēⁿ.
 
 **confound**, sie-hũn. *with fear*, phièn-nâng kiaⁿ-kông.
 
@@ -950,7 +950,7 @@ date: 2024-03-31 16:11:00
 
 **congeal**, kit-tōiⁿ; kit-ngẽ; tàng; kit-tàng.
 
-**congee**, *soft boiled rice*, mûeⁿ. *thick*, phõ-thâu-mûeⁿ. thin, hi-mûeⁿ; kà-mûeⁿ.
+**congee**, *soft boiled rice*, mûeⁿ. *thick*, phõ-thâu-mûeⁿ. *thin*, hi-mûeⁿ; kà-mûeⁿ.
 
 **congenial**, tâng-chhêng tâng-ì; tâng-sim tâng-ì.
 
@@ -988,7 +988,7 @@ date: 2024-03-31 16:11:00
 
 **consent**, tsún; zún-na̍p; khéng; hàuⁿ; ìn-na̍p; ìn-sêng; na̍p-ì.
 
-**consequences**, kuan-hĩ. bad, khan-gāi; liên-lūi; po-lūi; khan-thùa; khan-thua. *of no consequence*, bô-siang-kan; bô-siang; bô-hûang; bô-bī; mùiⁿ; bô-kàu tî-kò-khṳ̀; bô-chhiet-iàu. *consequently*, kù-tshṳ́; só-íⁿ; i̍n-tshṳ́; sn̍g-lâi.
+**consequences**, kuan-hĩ. *bad*, khan-gāi; liên-lūi; po-lūi; khan-thùa; khan-thua. *of no consequence*, bô-siang-kan; bô-siang; bô-hûang; bô-bī; mùiⁿ; bô-kàu tî-kò-khṳ̀; bô-chhiet-iàu. *consequently*, kù-tshṳ́; só-íⁿ; i̍n-tshṳ́; sn̍g-lâi.
 
 **conserve**, pó-tshûan.
 
@@ -1016,15 +1016,15 @@ date: 2024-03-31 16:11:00
 
 **constellation**, chheⁿ-siù. the ̂̍ *constellations*, jī-tsa̍p-poih siù.
 
-**consternation**, kiaⁿ kàu hûn phiau (or, pue), phek sùaⁿ.
+**consternation**, kiaⁿ kàu hûn phiau (or, *pue)*, phek sùaⁿ.
 
 **constipation**, tóu-lãi zua̍h; tãi-piẽn pì-kín; tóu pì-kat; tóu kat-ngẽ; tóu kat-kín.
 
 **constitute**, *appoint*, li̍p; siet-li̍p; tshàng-li̍p.
 
-**constitution**, *good*, sin-hūn tsàng; tsàng-kiẽn; khiàng; kiāⁿ-tsàng; khin-kiāⁿ. weak, sin-hūn phàⁿ; sin-hūn lám; jia̍k; nn̍g-jia̍k.
+**constitution**, *good*, sin-hūn tsàng; tsàng-kiẽn; khiàng; kiāⁿ-tsàng; khin-kiāⁿ. *weak*, sin-hūn phàⁿ; sin-hūn lám; jia̍k; nn̍g-jia̍k.
 
-**constrain**, mién-kiáng; ngẽ-lia̍h. *oneself*, tsṳ̃-mién. to stay, khiâng-lâu.
+**constrain**, mién-kiáng; ngẽ-lia̍h. *oneself*, tsṳ̃-mién. *to stay*, khiâng-lâu.
 
 **constriction**, tîⁿ-kín; sn̍g-kín; tshui-kín.
 
@@ -1034,7 +1034,7 @@ date: 2024-03-31 16:11:00
 
 **consult**, siang-liâng; kàu-niêⁿ; tsham-siâng; chim-chiak.
 
-**consume**, by fire, sie-tiāu. *by extravagance*, hua-hùi; phùa-chĩn; hùi-chĩn; húiⁿ-chĩn; huang-húiⁿ-chĩn. *consumption*, thâm-húe; lãi-siang-pēⁿ; hùi-pēⁿ; phùi-hueh-pēⁿ. *consumptive*, sán-kut lo̍h-ne̍k.
+**consume**, *by fire*, sie-tiāu. *by extravagance*, hua-hùi; phùa-chĩn; hùi-chĩn; húiⁿ-chĩn; huang-húiⁿ-chĩn. *consumption*, thâm-húe; lãi-siang-pēⁿ; hùi-pēⁿ; phùi-hueh-pēⁿ. *consumptive*, sán-kut lo̍h-ne̍k.
 
 **contact**, *to come into*, oi--tie̍h; tiaⁿ--tie̍h; khõiⁿ--tie̍h; tsuãng--tie̍h; thãng--tie̍h.
 
@@ -1052,7 +1052,7 @@ date: 2024-03-31 16:11:00
 
 **contend**, sie-cheⁿ. *for anything*, sie-cheⁿ-àiⁿ. *quarrel*, poh-khùi; sie-à. *contentious*, hàuⁿ-à; hàuⁿ-poh-khùi.
 
-**content**, sim múaⁿ, ì tsok; tsai-tsok; kùe-ì; uaⁿ-hūn. *contents of book*, ma̍k-lo̍k; tôi-thâu.
+**content**, *sim múaⁿ*, ì tsok; tsai-tsok; kùe-ì; uaⁿ-hūn. *contents of book*, ma̍k-lo̍k; tôi-thâu.
 
 **conterminous**, sie-kau-kài; sie-kiam-kài; chiap-kài; tsò-pû; liên-chiap; siang-liên. *(near)*, lîn-kṳ̃n.
 
@@ -1072,11 +1072,11 @@ date: 2024-03-31 16:11:00
 
 **contraband**, *trade*, tsáu-hiàng; tsáu-sai; lāu-sùe.
 
-**contract**, *to bargain*, li̍p-ieh; tiāⁿ-ieh. a, ieh-jī; khòi; ha̍p-tâng; ieh-toaⁿ. *take work by*, mãuⁿ-kang. *to draw in*, kiu; kiu-bûa; sok-bûa; kha-chhiú kiu-sok. *contracted writing*, sié-siá.
+**contract**, *to bargain*, li̍p-ieh; tiāⁿ-ieh. *a*, ieh-jī; khòi; ha̍p-tâng; ieh-toaⁿ. *take work by*, mãuⁿ-kang. *to draw in*, kiu; kiu-bûa; sok-bûa; kha-chhiú kiu-sok. *contracted writing*, sié-siá.
 
 **contradict**, piẽn-poh; poh-mn̄g. *oneself*, tsôiⁿ-ãu kâi-ūe m̄-siang-hû. *contradictory*, m̄-tùi; m̄-sie-tùi; m̄-siang-hû; m̄-siang-ha̍h; siang-huán.
 
-**contrary**, siang-huán; tò-huán; nge̍k; m̄-ha̍h. on the, tin-tò; huán-tn̍g. *to sound doctrine*, pũe-tãu. *wind*, nge̍k-huang.
+**contrary**, siang-huán; tò-huán; nge̍k; m̄-ha̍h. *on the*, tin-tò; huán-tn̍g. *to sound doctrine*, pũe-tãu. *wind*, nge̍k-huang.
 
 **contrast**, sie-tùi; siang-pí; tùi-chhiēⁿ; huán-chhiēⁿ; huán-chiè.
 
@@ -1110,7 +1110,7 @@ date: 2024-03-31 16:11:00
 
 **convex**, tsui; tsui-tsui; tìn-tang phû--khí-lâi.
 
-**convey**, *by ship*, tsûn tsài. letter, tòa-sìn.
+**convey**, *by ship*, tsûn tsài. *letter*, tòa-sìn.
 
 **convict**, *to*, tiāⁿ-tsũe. *a*, huãm-jîn.
 
@@ -1152,7 +1152,7 @@ date: 2024-03-31 16:11:00
 
 **copulate**, *of animals*, phah-chéng.
 
-**copy**, tshau; tshau-siá; tshau-jī. *to make a copy or draft*, phah-kó. book, tsúa-khòu. *line*, jī-keh; tsúa-khòu-sek. *to trace over*, biê-jī-keh. *to preserve a copy*, *as of a document*, tshûn-tói.
+**copy**, tshau; tshau-siá; tshau-jī. *to make a copy or draft*, phah-kó. *book*, tsúa-khòu. *line*, jī-keh; tsúa-khòu-sek. *to trace over*, biê-jī-keh. *to preserve a copy*, *as of a document*, tshûn-tói.
 
 **coral**, sien-hû; san-hû. *coral tree*, san-hû-chhiū.
 
@@ -1216,7 +1216,7 @@ date: 2024-03-31 16:11:00
 
 **cotton**, mîⁿ; mîⁿ-hue. *cloth*, ka-pùa; pòu. *thread*, sùaⁿ; se-sùaⁿ. *to beat with bow and string*, phah-mîⁿ; phah-po̍k-peng.
 
-**couch**, tshun-tèng, tn̂g-íⁿ; liâng-íⁿ.
+**couch**, *tshun-tèng*, tn̂g-íⁿ; liâng-íⁿ.
 
 **cough**, ka-sàu; sàu. *with expectoration*, thâm-sàu.
 
@@ -1238,7 +1238,7 @@ date: 2024-03-31 16:11:00
 
 **counterfeit**, ké; ké-tsò; ngũi-ûi; tsuang-tsò; tèⁿ-tsò; tsò--kâi. *dollar*, ké-ngṳ̂n; ngũi-ngṳ̂n.
 
-**countermand**, chiau lẽng, sek kói.
+**countermand**, *chiau lẽng*, sek kói.
 
 **counterpane**, phũe-toaⁿ.
 
@@ -1280,7 +1280,7 @@ date: 2024-03-31 16:11:00
 
 **cow**, gû; gû-bó. *common*, n̂g-gû; chhiah-gû. *water-buffalo*, tsúi-gû. *cowherd*, chiéⁿ-gû. *cowhouse*, gû-koiⁿ; gû-pâng.
 
-**coward**, bó-táⁿ; táⁿ khiap; táⁿ sòi; sòi-táⁿ, bun-táⁿ.
+**coward**, *bó-táⁿ; táⁿ khiap; táⁿ sòi; sòi-táⁿ*, bun-táⁿ.
 
 **coxcomb**, hàuⁿ-tsuang-hûang; hàuⁿ-iâu-pái; hùuⁿ-thì-tsò; hàuⁿ-tsuang-tsò.
 
@@ -1336,7 +1336,7 @@ date: 2024-03-31 16:11:00
 
 **creek**, káng; sié-khoi; sòi-khoi; thong-kà.
 
-**creep**, pê, so. *creep up*, pê--khí-lâi. *through a hole*, bùn-khang; nn̍g-khang. *under the bedclothes*, nn̍g--ji̍p phũe-tói. *stealthily along*, níhⁿ-kha-kiâⁿ.
+**creep**, *pê*, so. *creep up*, pê--khí-lâi. *through a hole*, bùn-khang; nn̍g-khang. *under the bedclothes*, nn̍g--ji̍p phũe-tói. *stealthily along*, níhⁿ-kha-kiâⁿ.
 
 **crescent**, *moon*, gue̍h-bâi; sin-gue̍h; ngô-bâi-gue̍h.
 
@@ -1434,7 +1434,7 @@ date: 2024-03-31 16:11:00
 
 **cumber**, *the ground*, tìn-tiāu tī-hng; tìn-tò.
 
-**cumbersome**, chhin-chhiẽⁿ taⁿ-tãng-tàⁿ; tãng-jĩm, hûang-gāi; thua-lūi.
+**cumbersome**, *chhin-chhiẽⁿ taⁿ-tãng-tàⁿ; tãng-jĩm*, hûang-gāi; thua-lūi.
 
 **cunning**, to-sim kek-sṳ̄; sim-sṳ̄ tsōi; ũ-sim-sṳ̄; khî-khá.
 

@@ -68,43 +68,43 @@ date: 2024-03-31 16:11:00
 
 **dead**, sí. *man*, sí-nâng. *body*, sin-si; si-hâi; si-siú. *he is dead*, kùe-sì--liáu; sî-sì--liáu; sí--khṳ̀. *dead tree*, chhiū kou-ta. *dead drunk*, tsùi kàu--mîⁿ-mîⁿ; tsùi kàu hun-hun mîⁿ-mîⁿ. *among the dead*, im--kan; àm--thâu. *deadly poison*, ta̍k; ta̍k-sí-nâng. *deadly hatred*, put-kāng tài-thiⁿ kâi-chhiû.
 
-**deaf**, hĩⁿ lâng. *slightly*, hĩⁿ se-su-kiáⁿ-lâng. *deafening*, hĩⁿ-khang-kúi ōng-ōng-kiè. pretend to be deaf and dumb, tèⁿ-lâng tèⁿ-é; tsuang-lâng tsuang-é; tèⁿ-tsò thiaⁿ-m̄-kìⁿ; tèⁿ-lâng tèⁿ-sat.
+**deaf**, hĩⁿ lâng. *slightly*, hĩⁿ se-su-kiáⁿ-lâng. *deafening*, hĩⁿ-khang-kúi ōng-ōng-kiè. *pretend to be deaf and dumb*, tèⁿ-lâng tèⁿ-é; tsuang-lâng tsuang-é; tèⁿ-tsò thiaⁿ-m̄-kìⁿ; tèⁿ-lâng tèⁿ-sat.
 
-**deal**, trade, bói-bōi; tsò-seng-lí; kau-e̍k; kau-kuan. a good deal, hoh-tsōi. deal well with any one, hó-khúan-thãi; kãu-thãi. a deal board, che̍k-kò-pang; che̍k-phièn-pang; che̍k-liàm-pang.
+**deal**, *trade*, bói-bōi; tsò-seng-lí; kau-e̍k; kau-kuan. *a good deal*, hoh-tsōi. *deal well with any one*, hó-khúan-thãi; kãu-thãi. *a deal board*, che̍k-kò-pang; che̍k-phièn-pang; che̍k-liàm-pang.
 
-**dear**, expensive, kùi; ta̍t-chîⁿ; kau-kè; kûiⁿ-kè. dear friend, siãng-hó kâi-phêng-iú; sim-pak kâi-phêng-iú; ti-kí kâi-phêng-iú; ti-sim kâi-phêng-iú.
+**dear**, *expensive*, kùi; ta̍t-chîⁿ; kau-kè; kûiⁿ-kè. *dear friend*, siãng-hó kâi-phêng-iú; sim-pak kâi-phêng-iú; ti-kí kâi-phêng-iú; ti-sim kâi-phêng-iú.
 
 **dearth**, ki-hng; bí kùi; nîⁿ--tang m̄-hó.
 
-**death**, sí. life and death are decreed, seⁿ-sí ũ-mẽng. near death, lîm-tsong; kṳ̃n-sí; chiang-sí; chiang-kṳ̃n àiⁿ-sí; lîm-sí. on one's deathbed, tó-tshn̂g. death-like, chhin-chhiẽⁿ sí-nâng kâi-iēⁿ.
+**death**, sí. *life and death are decreed*, seⁿ-sí ũ-mẽng. *near death*, lîm-tsong; kṳ̃n-sí; chiang-sí; chiang-kṳ̃n àiⁿ-sí; lîm-sí. *on one's deathbed*, tó-tshn̂g. *death-like*, chhin-chhiẽⁿ sí-nâng kâi-iēⁿ.
 
 **debar**, kìm-chí; kìm-kài; tsó-chí; m̄-tsún; put-hṳ́.
 
 **debark**, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-tsúi.
 
-**debase**, oneself, tshap-ji̍p hiã-liû; kàng-lo̍h hiã-liû; u-tsūaⁿ hiã-liû.
+**debase**, *oneself*, tshap-ji̍p hiã-liû; kàng-lo̍h hiã-liû; u-tsūaⁿ hiã-liû.
 
-**debate**, ngí-lũn; piẽn-lũn; piẽn-poh. in one's own mind, pheⁿ-phah; chim-chiak; tsham-siâng.
+**debate**, ngí-lũn; piẽn-lũn; piẽn-poh. *in one's own mind*, pheⁿ-phah; chim-chiak; tsham-siâng.
 
 **debauch**, tiam-u; îm nâng chhi-nn̍g; îm nâng bóu-kiáⁿ.
 
-**debauchee**, chiú-sek tsṳ-thû. debauchery, chia̍h-pua̍h-phiâu.
+**debauchee**, chiú-sek tsṳ-thû. *debauchery*, chia̍h-pua̍h-phiâu.
 
 **debility**, hṳ-jia̍k; nn̍g-jia̍k; khùn-jia̍k; hṳ-khùn; sin-hūn phàⁿ; hueh-khì put-tsok; hueh-khì sue-jia̍k.
 
-**debt**, chè; chîⁿ-chè. to be in debt, khiàm-chîⁿ; khiàm-chè; khiàm-siàu. to pay debts, hôiⁿ-chè; hôiⁿ--nâng. debtor and creditor, chè-kiáⁿ chè-tsú. collect debts, thó-siàu. absconding debtor, tô-chè; pī-chè; tsáu-chè. bad debts, phàⁿ-siàu.
+**debt**, chè; chîⁿ-chè. *to be in debt*, khiàm-chîⁿ; khiàm-chè; khiàm-siàu. *to pay debts*, hôiⁿ-chè; hôiⁿ--nâng. *debtor and creditor*, chè-kiáⁿ chè-tsú. *collect debts*, thó-siàu. *absconding debtor*, tô-chè; pī-chè; tsáu-chè. *bad debts*, phàⁿ-siàu.
 
-**decade**, sûn. first 10 days of month, tsho-sûn; chhiu--sûn; second ditto, tong-sûn; tsa̍p--sûn. third ditto, hiã-sûn; ji̍h--sûn.
+**decade**, sûn. first 10 days of month, tsho-sûn; chhiu--sûn; second ditto, tong-sûn; tsa̍p--sûn. *third ditto*, hiã-sûn; ji̍h--sûn.
 
 **decalogue**, tsa̍p-tiâu-kài.
 
-**decamp**, chhien-iâⁿ; î-iâⁿ; súa-iâⁿ. run away, tô-tsáu; thau-tsáu.
+**decamp**, chhien-iâⁿ; î-iâⁿ; súa-iâⁿ. *run away*, tô-tsáu; thau-tsáu.
 
-**decanter**, po-lî-tsun, po-lî-kùan.
+**decanter**, *po-lî-tsun*, po-lî-kùan.
 
 **decapitate**, thâi-thâu; tsám-thâu; tsám-siú; tshú-tsám.
 
-**decay**, sue; sue-mûiⁿ. rot, àu; àu-tshàu. decayed tooth, tsù-khí.
+**decay**, sue; sue-mûiⁿ. *rot*, àu; àu-tshàu. *decayed tooth*, tsù-khí.
 
 **decease**, kùe-sì; kùe-sin. *deceased parents*, kháu-pí. *my deceased father*, lẽng-soiⁿ-kháu; lẽng-soiⁿ-tsun.
 
@@ -132,7 +132,7 @@ date: 2024-03-31 16:11:00
 
 **decorous**, tuan-chiàⁿ; hẽng-chí tuan-chiàⁿ; ũ-thí-mīn. *decorum*, lói-ngî; kui-kṳ́.
 
-**decoy**, ín-iú; iú-ho̍k, phièn nâng ji̍p-io̍k; iú-phièn. *decoy-bird*, chiáu-bûe. see [abduct](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#abduct).
+**decoy**, *ín-iú; iú-ho̍k*, phièn nâng ji̍p-io̍k; iú-phièn. *decoy-bird*, chiáu-bûe. see [abduct](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/A#abduct).
 
 **decrease**, húan-kiám; chiãm-chiãm-kiám; siau-si̍h; sue-mûiⁿ.
 
@@ -214,7 +214,7 @@ date: 2024-03-31 16:11:00
 
 **deliberate**, *to*, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sn̍g-lâi sn̍g-khṳ̍; siẽⁿ-kâi siẽⁿ-khṳ̍; pí-kâi pí-khṳ̍; chiak-ngí.
 
-**deliberately**, soiⁿ sṳ, ãu kiâⁿ; ũ-ì; li̍p-ì; tshut-tõ ũ-ì.
+**deliberately**, *soiⁿ sṳ*, ãu kiâⁿ; ũ-ì; li̍p-ì; tshut-tõ ũ-ì.
 
 **delicate**, jiû-nn̍g. *in health*, sin-hūn phàⁿ; sin-hūn lám; sin-thói jia̍k; khì-thói jia̍k. *neat*, kiau-kiah. *fine*, iùⁿ-sòi; cheng-mûiⁿ. *fastidious*, tiau-khiâu-chia̍h. *in taste and flavour*, bī-sòu hó-tsãi; iũ-tiâm iũ-phang. *delicacies*, tien-bī; peh-bī; tien-siu peh-pī; suaⁿ-tien hái-bī.
 
@@ -354,7 +354,7 @@ date: 2024-03-31 16:11:00
 
 **destined**, tiāⁿ-tie̍h; ṳ̃-soiⁿ tiāⁿ-tie̍h; ũ-thien-mẽng; ũ-mẽng.
 
-**destiny**, miāⁿ, miāⁿ-ūn; seⁿ-sêng. *evil*, khóu-miāⁿ.
+**destiny**, *miāⁿ*, miāⁿ-ūn; seⁿ-sêng. *evil*, khóu-miāⁿ.
 
 **destitute**, lo̍h-po̍h; khueh-hua̍t; phîn-hua̍t; bô-chia̍h bô-chhēng; kêng; phîn-khiông; khiau; khiau-kêng.
 
@@ -392,7 +392,7 @@ date: 2024-03-31 16:11:00
 
 **devotion**, *religious*, sêng-kèng tsṳ-sim; kèng-khiên; khiên-kèng; khiên-sêng.
 
-**devour**, thun, thun-chia̍h.
+**devour**, *thun*, thun-chia̍h.
 
 **dew**, lōu-tsúi. *one drop of dew*, che̍k-tiám-lōu.
 
@@ -462,7 +462,7 @@ date: 2024-03-31 16:11:00
 
 **dilute**, thàu-po̍h; thàu-tsúi; tshong-tsúi; tshong-po̍h.
 
-**dim**, àm; sit-kng m̄-hīn; bū-bū. dim-sighted, ma̍k-chiu hue; ma̍k hue; ma̍k bū. *grow dim*, *as picture*, hùe--khṳ̍. *dimly seen*, ṳ́n-ṳ́n iak-iak.
+**dim**, àm; sit-kng m̄-hīn; bū-bū. *dim-sighted*, ma̍k-chiu hue; ma̍k hue; ma̍k bū. *grow dim*, *as picture*, hùe--khṳ̍. *dimly seen*, ṳ́n-ṳ́n iak-iak.
 
 **diminish**, kiám; tṳ̂-kiám; khà-kiám; kiám-chié. *the population*, *as epidemic*, kiám-nâng-kháu.
 
@@ -572,7 +572,7 @@ date: 2024-03-31 16:11:00
 
 **disgorge**, thòu; thòu--tshut.
 
-**disgrace**, tiu-lién; sit-lién; bô-mīn; kièn-siàu; u-zo̍k; chhíⁿ-zo̍k; lêng-zo̍k; siũ-zo̍k. *bring on oneself*, tsṳ̃-tshú-zo̍k. disgraceful, siáu-lí-sṳ̄; kièn-chhiè-sṳ̄.
+**disgrace**, tiu-lién; sit-lién; bô-mīn; kièn-siàu; u-zo̍k; chhíⁿ-zo̍k; lêng-zo̍k; siũ-zo̍k. *bring on oneself*, tsṳ̃-tshú-zo̍k. *disgraceful*, siáu-lí-sṳ̄; kièn-chhiè-sṳ̄.
 
 **disguise**, koh-iēⁿ tá-pān. *male or female*, tsuang-lâm ké-nńg. *as a literary man*, tsuang-tsò tha̍k-tsṳ-nâng.
 
@@ -618,7 +618,7 @@ date: 2024-03-31 16:11:00
 
 **dismount**, lo̍h-bé. *from carriage*, lo̍h-chhia.
 
-**disobedient**, m̄-sũn; m̄-sũn-mẽng; m̄-tsun-mẽng; m̄-sũn-tshông; ûi-mẽng; pũe-nge̍k; ûi-nge̍k; nge̍k-tsú. son, m̄-kiâⁿ-hàu; put-hàu; put-siàu.
+**disobedient**, m̄-sũn; m̄-sũn-mẽng; m̄-tsun-mẽng; m̄-sũn-tshông; ûi-mẽng; pũe-nge̍k; ûi-nge̍k; nge̍k-tsú. *son*, m̄-kiâⁿ-hàu; put-hàu; put-siàu.
 
 **disoblige**, m̃-kuan-kù; m̃-thóiⁿ-kù; m̃-thói-thiap; m̃-chiàu-ēng. *disobliging*, bô-nâng-chhêng.
 
@@ -720,7 +720,7 @@ date: 2024-03-31 16:11:00
 
 **distribute**, pun; phài; hun-phài.
 
-**district**, *region*, tī-hng. *Hien or county*, kūiⁿ. city, kūiⁿ-siâⁿ. *magistrate*, kūiⁿ; kūiⁿ-kuaⁿ; kūiⁿ-tsú; ti-kūiⁿ.
+**district**, *region*, tī-hng. *Hien or county*, kūiⁿ. *city*, kūiⁿ-siâⁿ. *magistrate*, kūiⁿ; kūiⁿ-kuaⁿ; kūiⁿ-tsú; ti-kūiⁿ.
 
 **distrust**, put-sìn; m̄-siang-sìn; tshai-gî; gî; hûai-gî.
 
@@ -764,7 +764,7 @@ date: 2024-03-31 16:11:00
 
 **dockyard**, tsûn-chhiáng; siu-si̍p-tsûn kâi-ūi-tshṳ̀.
 
-**doctor**, ui-seng; sin-seⁿ. to call, chhiáⁿ-ui-seng.
+**doctor**, ui-seng; sin-seⁿ. *to call*, chhiáⁿ-ui-seng.
 
 **doctrine**, kà; kà-tãu; tãu-lí; tõ-lí. *false doctrines*, ī-tuan.
 
@@ -950,7 +950,7 @@ date: 2024-03-31 16:11:00
 
 **duplicity**, nõⁿ-sim; sie-phièn; che̍k-mīn-to nõⁿ-mīn-sái.
 
-**durable**, nãiⁿ-kú; kien-kù; tōiⁿ, khiàng. *this cloth is very*, chí-kâi-pòu siãng-nãiⁿ-chhēng.
+**durable**, *nãiⁿ-kú; kien-kù; tōiⁿ*, khiàng. *this cloth is very*, chí-kâi-pòu siãng-nãiⁿ-chhēng.
 
 **duration**, kú; kú-tn̂g; chhiâng-kú. *endless*, ióng-kú; ióng-ién; kú-uán; kú-ién; bõi-liáu.
 

@@ -10,7 +10,7 @@ date: 2024-03-31 16:11:00
 
 **pacify**, khn̍g-nâng màiⁿ-khì; kiâⁿ-hûa; khng-hûa; khǹg-tshú. *Pacific ocean*, thài-phêng-iêⁿ.
 
-**pack**, pau; phah-pau; tsuang; siu-sip-bûa. tea, tsuang-tê. *in a box*, tsuang-lo̍h-sieⁿ. *packing box*, tsuang-sieⁿ.
+**pack**, pau; phah-pau; tsuang; siu-sip-bûa. *tea*, tsuang-tê. *in a box*, tsuang-lo̍h-sieⁿ. *packing box*, tsuang-sieⁿ.
 
 **paddle**, jiê. *to*, phẽ-tsûn. *a dragon-boat*, phẽ-lêng-tsûn.
 
@@ -108,15 +108,15 @@ date: 2024-03-31 16:11:00
 
 **parrot**, eng-ko; eng-bú.
 
-**parry**, tói-tiãu, koh-tsũ.
+**parry**, *tói-tiãu*, koh-tsũ.
 
-**parsimonious**, khiãm, khieh-si̍p; kien-liẽn.
+**parsimonious**, *khiãm*, khieh-si̍p; kien-liẽn.
 
 **parsley**, khṳ̂n-tshài.
 
 **parsnip**, *(foreign turnips)*, huan tshài-thâu.
 
-**part**, siang-pie̍t; lī-pie̍t; chiãm-pie̍t; lī-khui. *divide*, pun; pun-khui. *off*, keh; tsò-kak-pie̍t. a, hūn; kou; tn̄g; ē; ku̍eh; ûe. *the greater part*, che̍k-tōa-ûe; che̍k-tōa-pùaⁿ. *six parts out of ten*, la̍k-siâⁿ.
+**part**, siang-pie̍t; lī-pie̍t; chiãm-pie̍t; lī-khui. *divide*, pun; pun-khui. *off*, keh; tsò-kak-pie̍t. *a*, hūn; kou; tn̄g; ē; ku̍eh; ûe. *the greater part*, che̍k-tōa-ûe; che̍k-tōa-pùaⁿ. *six parts out of ten*, la̍k-siâⁿ.
 
 **partake**, ũ-hūn. *of a meal*, tsò-pû-chia̍h.
 
@@ -140,7 +140,7 @@ date: 2024-03-31 16:11:00
 
 **passage**, *in a book*, che̍k-tsat; chieⁿ; phien; mīn.
 
-**passions**, *the*, chhit-chhêng; hí, nōⁿ, ai, kũ, ài, ù, io̍k. *evil passions*, sṳ-io̍k; chhêng-io̍k. *to be in a passion*, siũ-khì; náuⁿ-khì; seⁿ-khì; huat-náuⁿ. *passionate*, jím-sèⁿ; kip-sèⁿ; kín-sèⁿ; pek-sèⁿ.
+**passions**, *the*, chhit-chhêng; hí, nōⁿ, ai, kũ, ài, *ù*, io̍k. *evil passions*, sṳ-io̍k; chhêng-io̍k. *to be in a passion*, siũ-khì; náuⁿ-khì; seⁿ-khì; huat-náuⁿ. *passionate*, jím-sèⁿ; kip-sèⁿ; kín-sèⁿ; pek-sèⁿ.
 
 **passover**, zû-ua̍t-tsoih.
 
@@ -214,7 +214,7 @@ date: 2024-03-31 16:11:00
 
 **pedlar**, tsò koiⁿ-thiau kâi-seng-lí; tsò iê-kóu seng-lí.
 
-**pedestal**, thiãu-chie̍h, thiãu-kha-chie̍h; thiãu-tún.
+**pedestal**, *thiãu-chie̍h*, thiãu-kha-chie̍h; thiãu-tún.
 
 **pedigree**, tso̍k-phóu.
 
@@ -460,7 +460,7 @@ date: 2024-03-31 16:11:00
 
 **placenta**, ui; tho-ui.
 
-**placid**, sim phêng, khi hûa; tshông-iông.
+**placid**, *sim phêng*, khi hûa; tshông-iông.
 
 **plagiarism**, thau-siá pa̍t-nâng-bûn.
 
@@ -476,7 +476,7 @@ date: 2024-03-31 16:11:00
 
 **plan**, huang-huap; huap-tsat; huap-tōu; kòi-chheh; kòi-mông; kòi-su̍t; huap-sek; huap-thiâⁿ. *for a building*, tshù-kek; tshù-ieⁿ. *to-plan*, siẽⁿ-sim-sṳ̃; siet-kòi; siet-huap. *an essay*, mong-phien; thiau-i. *a rebellion*, mông-huán. *the best plan is to... *, put-zû... *to hit the right*, tie̍h-huap.
 
-**plane**, *a*, thiu, thiu-to. *bead*, sùaⁿ-thiu. *gouge*, uan-thiu. *sash*, liú-thiu. *to*, thiu-pêⁿ; thiu-kng-ku̍t. *shavings from a*, tshâ-phùe-thiu.
+**plane**, *a*, *thiu*, thiu-to. *bead*, sùaⁿ-thiu. *gouge*, uan-thiu. *sash*, liú-thiu. *to*, thiu-pêⁿ; thiu-kng-ku̍t. *shavings from a*, tshâ-phùe-thiu.
 
 **planets**, ngóu-chheⁿ.
 
@@ -498,7 +498,7 @@ date: 2024-03-31 16:11:00
 
 **plead**, khiû; khṳ́n-khiû; koh-lô; sueh-chhêng.
 
-**pleasant**, tshù-bī, sóng-khùai. *weather*, thiⁿ-sî hó; thiⁿ-khi̍ hó. *passage*, sũn-huang. *I wish you a pleasant journey*, che̍k-lōu phêng-an. *to hear*, sũn-hĩⁿ.
+**pleasant**, *tshù-bī*, sóng-khùai. *weather*, thiⁿ-sî hó; thiⁿ-khi̍ hó. *passage*, sũn-huang. *I wish you a pleasant journey*, che̍k-lōu phêng-an. *to hear*, sũn-hĩⁿ.
 
 **please**, chhiáⁿ. *as you please*, sûi-tsãi-lṳ́; thãi-lṳ́ tsú-i̍; iû-lṳ́; jĩm-lṳ́; sûi-piẽn. *please anyone*, zû i-kâi i̍; zua̍t i-kâi-i̍. *difficult to*, tò-thi̍. *the palate*, ha̍h-chia̍h; suah-tshùi; suáng-kháu; zua̍t-kháu; sek-kháu;
 
@@ -704,7 +704,7 @@ date: 2024-03-31 16:11:00
 
 **precisely**, tùi-tùi; chìaⁿ-chiàⁿ; tú-tú; bô-tshò.
 
-**precocious**, siàu-nîⁿ láu-sêng; nîⁿ siàu, tshâi kau.
+**precocious**, *siàu-nîⁿ láu-sêng; nîⁿ siàu*, tshâi kau.
 
 **precursor**, soiⁿ-khu; tsôiⁿ-khu.
 

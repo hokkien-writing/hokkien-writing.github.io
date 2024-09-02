@@ -280,7 +280,7 @@ date: 2024-03-31 16:11:00
 
 **affix**, tah-tùe; sie-chiap. *a seal*, khap-ìn.
 
-**afflict**, kia-hāi; bûa-lān, kan-khóu; lân-ûi. *affliction*, kan-lân; kan-khóu; sng-sṳ̄. *affliction (mourning)*, pe̍h--sṳ̄.
+**afflict**, *kia-hāi; bûa-lān*, kan-khóu; lân-ûi. *affliction*, kan-lân; kan-khóu; sng-sṳ̄. *affliction (mourning)*, pe̍h--sṳ̄.
 
 **affluence**, pù; pù-tsok; hong-sẽng; kãu-nauh; hong-tsok; pù-kãu.
 
@@ -350,7 +350,7 @@ date: 2024-03-31 16:11:00
 
 **alike**, sie-tâng; pêⁿ-iēⁿ; che̍k-iēⁿ; che̍k-it.
 
-**alive**, ua̍h; seⁿ-ua̍h; ua̍h-tõng, õi tín-tãng; ũ-seⁿ-miāⁿ; ũ-hueh-khì.
+**alive**, *ua̍h; seⁿ-ua̍h; ua̍h-tõng*, õi tín-tãng; ũ-seⁿ-miāⁿ; ũ-hueh-khì.
 
 **all**, lóng-tsóng; chiàⁿ-kâi; kâi-kâi; tsò-che̍k-ē; kan-chẽng; tsn̂g-kâi. *men*, nâng-nâng; būan-nâng; tãi-ke; chèng-nâng; *things*, būan-mue̍h; kiãⁿ-kiãⁿ; hâm-kâi. *all day*, tsong-ji̍t. thàng-ji̍t. *all one’s life*, phêng-seⁿ; che̍k-sì-nâng; che̍k-seⁿ. *the family*, ha̍p-ke; che̍k-ke-nâng. *all at once*, tsò-che̍k-ē; che̍k-tsôi; ka-nn̂g. *all over a place*, múaⁿ-tshù; múaⁿ-kò. *with all one’s heart*, chĩn-sim; tsuan-sim. *all kinds*, peh-puaⁿ; kak-iēⁿ. *to know all*, tsai-thàng; hiáu-kàu-thàu.
 
@@ -460,7 +460,7 @@ date: 2024-03-31 16:11:00
 
 **amulet**, hieⁿ-húe-lâng; hieⁿ-húe-tō. *to wear*, kùa-hieⁿ-húe.
 
-**amusement**, sie-sńg; thit-thô, iû-la̍k. *amusing*, tshù-bī. *ramble about for amusement*, iû-nguán; nguán-la̍h.
+**amusement**, *sie-sńg; thit-thô*, iû-la̍k. *amusing*, tshù-bī. *ramble about for amusement*, iû-nguán; nguán-la̍h.
 
 **analyse**, tshat-si̍t; kháu-kiù.
 
@@ -744,7 +744,7 @@ date: 2024-03-31 16:11:00
 
 **astride**, khiâ-tsõ; khiâ-bé-tsõ; thí-kha-tsõ.
 
-**astringent**, tau-tsũ, chí-sià-ie̍h; siu-liám.
+**astringent**, *tau-tsũ*, chí-sià-ie̍h; siu-liám.
 
 **astrologer**, lo̍h-ngóu-chheⁿ; khùaⁿ-miāⁿ.
 

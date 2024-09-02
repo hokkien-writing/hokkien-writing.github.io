@@ -6,29 +6,29 @@ date: 2024-03-31 16:11:00
 
 [↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
-**yard**, of a ship, tsûn-ûi-kǹg. yard (measure), che̍k-bé.
+**yard**, *of a ship*, tsûn-ûi-kǹg. yard (measure), che̍k-bé.
 
 **yarn**, se; mîⁿ-se.
 
-**yawn**, to, huah-hì. and stretch, tshun-lûn.
+**yawn**, *to*, huah-hì. *and stretch*, tshun-lûn.
 
-**year**, a, che̍k-nîⁿ; chiu-nîⁿ. all the year, thàng-nîⁿ; tsong-nîⁿ. end of the, nîⁿ-búe; nîⁿ-piⁿ; nîⁿ-kha; nîⁿ-tói; nîⁿ-lãi. new, sin-nîⁿ. to keep the new year, kùe-nîⁿ; tsò-sin-nîⁿ. this, kin-nîⁿ; hīn-nîⁿ; pńg-nîⁿ. last, kū-nîⁿ; khṳ̀-nîⁿ. year before last, tsôiⁿ--nîⁿ. next, mêⁿ-nîⁿ; lâi-nîⁿ. six years old, la̍k-hùe. a year or half a year, che̍k-nîⁿ pùaⁿ-tsái.
+**year**, *a*, che̍k-nîⁿ; chiu-nîⁿ. *all the year*, thàng-nîⁿ; tsong-nîⁿ. *end of the*, nîⁿ-búe; nîⁿ-piⁿ; nîⁿ-kha; nîⁿ-tói; nîⁿ-lãi. *new*, sin-nîⁿ. *to keep the new year*, kùe-nîⁿ; tsò-sin-nîⁿ. *this*, kin-nîⁿ; hīn-nîⁿ; pńg-nîⁿ. *last*, kū-nîⁿ; khṳ̀-nîⁿ. *year before last*, tsôiⁿ--nîⁿ. *next*, mêⁿ-nîⁿ; lâi-nîⁿ. *six years old*, la̍k-hùe. *a year or half a year*, che̍k-nîⁿ pùaⁿ-tsái.
 
 **yeast**, kàⁿ; kàⁿ-bó; chiú-piáⁿ.
 
 **yell**, tōa-siaⁿ kiè.
 
-**yellow**, n̂g; n̂g-sek; chhiah. yellowish, chhién-n̂g.
+**yellow**, n̂g; n̂g-sek; chhiah. *yellowish*, chhién-n̂g.
 
 **yes**, sĩ; ũ; tie̍h. *is he in*, ũ-tõ a-bô. *yes*, tõ--kò.
 <!--more-->
-**yesterday**, tsa-ji̍t. yesterday night, tsa-mêⁿ.
+**yesterday**, tsa-ji̍t. *yesterday night*, tsa-mêⁿ.
 
-**yet**, tàu-tí; siãng-chhiáⁿ; huân-liáu; huân-iáu. and yet (of an unlikely circumstance), kèng-jiên. not yet, būe; huân-būe; iáu-būe; būe-chêng.
+**yet**, tàu-tí; siãng-chhiáⁿ; huân-liáu; huân-iáu. and yet (of an unlikely circumstance), kèng-jiên. *not yet*, būe; huân-būe; iáu-būe; būe-chêng.
 
-**yield**, tâu-hâng; hâng-ho̍k; kui-hâng. the way, jiãng-lōu; sie-tho-kùe. place, jiãng-ūi; sie-tho-tsõ. yielding, khiam-jiãng; tho-jiãng. to one, jiãng--khṳt-i.
+**yield**, tâu-hâng; hâng-ho̍k; kui-hâng. *the way*, jiãng-lōu; sie-tho-kùe. *place*, jiãng-ūi; sie-tho-tsõ. *yielding*, khiam-jiãng; tho-jiãng. *to one*, jiãng--khṳt-i.
 
-**yoke**, a, gû-taⁿ; gû-taⁿ-uaⁿ.
+**yoke**, *a*, gû-taⁿ; gû-taⁿ-uaⁿ.
 
 **yolk**, *of egg*, nñg-jîn.
 

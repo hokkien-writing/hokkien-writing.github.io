@@ -6,47 +6,47 @@ date: 2024-03-31 16:11:00
 
 [↩️ 轉總目錄](/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
-**wadding**, mîⁿ; mîⁿ-hue. wadded coat, ji̍p-mîⁿ-hiûⁿ. to put in wadding, phou-mîⁿ; ji̍p-mîⁿ.
+**wadding**, mîⁿ; mîⁿ-hue. *wadded coat*, ji̍p-mîⁿ-hiûⁿ. *to put in wadding*, phou-mîⁿ; ji̍p-mîⁿ.
 
-**waddle**, to, phiáng-a-phiáng; kûa-a-kûa.
+**waddle**, *to*, phiáng-a-phiáng; kûa-a-kûa.
 
-**wade**, to, ẽ-tsúi. over a river, ẽ-kùe-khoi.
+**wade**, *to*, ẽ-tsúi. *over a river*, ẽ-kùe-khoi.
 
-**wag**, to, iê. wag-tail, tih-tĩm-tim.
+**wag**, *to*, iê. *wag-tail*, tih-tĩm-tim.
 
-**wager**, sie-su; siang-tóu. let us wager, lâi-tóu--chē. to write a wager, siá-tóu-tsn̄g.
+**wager**, sie-su; siang-tóu. *let us wager*, lâi-tóu--chē. *to write a wager*, siá-tóu-tsn̄g.
 
 **wages**, kang-chîⁿ; kang-tsṳ; kang-kè. see SALARY.
 
 **wagon**, chhia.
 
-**wail**, khàu; ai-khàu; thî-khàu. for the dead, khàu-sí-sng. for death of son, khàu-kiáⁿ.
+**wail**, khàu; ai-khàu; thî-khàu. *for the dead*, khàu-sí-sng. *for death of son*, khàu-kiáⁿ.
 <!--more-->
-**waist**, ie; pùaⁿ-ie; sin-ie. to gird the, hâ-ie; sok-ie. waistcoat, tah-pùe; kah-kiáⁿ.
+**waist**, ie; pùaⁿ-ie; sin-ie. *to gird the*, hâ-ie; sok-ie. *waistcoat*, tah-pùe; kah-kiáⁿ.
 
-**wait**, tán; hāu; thẽng; thêng; thãi; thẽng-hāu. a little, tán--chē; hâu--chē. we are waiting for you, Sir, hāu-kè. to wait on, ho̍k-sṳ̃; kṳn-sûi; sĩ-tsái. waiters, tsáu-tn̂g; chìn-tôu; kṳn-pan.
+**wait**, tán; hāu; thẽng; thêng; thãi; thẽng-hāu. *a little*, tán--chē; hâu--chē. *we are waiting for you, Sir*, hāu-kè. *to wait on*, ho̍k-sṳ̃; kṳn-sûi; sĩ-tsái. *waiters*, tsáu-tn̂g; chìn-tôu; kṳn-pan.
 
 **waken**, *to (transitive)*, hàm-chhéⁿ; kiè-chhéⁿ; kiaⁿ-chhéⁿ; tsak-chhéⁿ. *(intransitive)*, gu̍t-chhéⁿ; chhéⁿ; chhéⁿ--khí-lâi. *wakeful*, gu̍t-m̄-lo̍h; bõi-gu̍t.
 
-**walk**, kiâⁿ. to and fro, kiâⁿ-lâi kiâⁿ-khṳ̀. on foot, pōu-kiâⁿ; pōu-lién. go for a, khṳ̀-thit-thô; khṳ̀-kîn-kiâⁿ; khṳ̀-sùaⁿ-pōu. walking-stick, kuái-chiãng; kuái-thûi.
+**walk**, kiâⁿ. *to and fro*, kiâⁿ-lâi kiâⁿ-khṳ̀. *on foot*, pōu-kiâⁿ; pōu-lién. *go for a*, khṳ̀-thit-thô; khṳ̀-kîn-kiâⁿ; khṳ̀-sùaⁿ-pōu. *walking-stick*, kuái-chiãng; kuái-thûi.
 
-**wall**, chhiêⁿ. a, che̍k-pang-chhiêⁿ. city-wall, siâⁿ; siâⁿ-chhiêⁿ. the great wall, buān-lí chhiâng-siâⁿ. a dividing, keh-piah. to fall down as a, pang. to build, see BUILD.
+**wall**, chhiêⁿ. *a*, che̍k-pang-chhiêⁿ. *city-wall*, siâⁿ; siâⁿ-chhiêⁿ. *the great wall*, buān-lí chhiâng-siâⁿ. *a dividing*, keh-piah. *to fall down as a*, pang. *to build*, see BUILD.
 
 **walnut**, hu̍t-thô.
 
-**wand**, a, chhiū-pie; chhiū-lêng; tek-lêng; che̍k-ki-tshûe.
+**wand**, *a*, chhiū-pie; chhiū-lêng; tek-lêng; che̍k-ki-tshûe.
 
-**wander**, iû; tshut-iû; chiu-liû. far, ién-iû. in poverty and distress, liû-lî sit-só; lâu-lî sit-só. out of the way, kiâⁿ-tāⁿ-lōu; tsáu-tshò lōu-thû; sit-lōu. wandering thoughts, huàng-sim; sim tsa̍p; sim seⁿ-tsa̍p-liãm.
+**wander**, iû; tshut-iû; chiu-liû. *far*, ién-iû. *in poverty and distress*, liû-lî sit-só; lâu-lî sit-só. *out of the way*, kiâⁿ-tāⁿ-lōu; tsáu-tshò lōu-thû; sit-lōu. *wandering thoughts*, huàng-sim; sim tsa̍p; sim seⁿ-tsa̍p-liãm.
 
-**wane**, as moon, gue̍h chiãm-chiãm-sòi; gue̍h chiãm-khui; gue̍h tsho-tsho-sòi.
+**wane**, *as moon*, gue̍h chiãm-chiãm-sòi; gue̍h chiãm-khui; gue̍h tsho-tsho-sòi.
 
 **want**, *(wish)*, àiⁿ. *(lack)*, khueh; khiàm.
 
 **wanton**, siâ-îm; hàuⁿ-phiâu; hàuⁿ-sek; hùang-îm.
 
-**war**, kau-chièn; kau-piaⁿ; ke-húe kau-chiap; sie-thâi. man-of-war, piaⁿ-tsûn; chièn-tsûn; kuaⁿ-tsûn.
+**war**, kau-chièn; kau-piaⁿ; ke-húe kau-chiap; sie-thâi. *man-of-war*, piaⁿ-tsûn; chièn-tsûn; kuaⁿ-tsûn.
 
-**ward**, to off, tói-tiāu; tí-tiāu; tú-gṳ̃; gṳ̃-chí; tú-tiām; gṳ̃-tiām; tháⁿ-tiāu.
+**ward**, *to off*, tói-tiāu; tí-tiāu; tú-gṳ̃; gṳ̃-chí; tú-tiām; gṳ̃-tiām; tháⁿ-tiāu.
 
 **wardrobe**, saⁿ-tû; saⁿ-kūiⁿ; i-sieⁿ.
 
@@ -54,27 +54,27 @@ date: 2024-03-31 16:11:00
 
 **warm**, sie. *weather*, chhiẽⁿ-sie. *weather (mild)*, un-hûa; lúan-khì; hûa-lúan. *warming-pan*, chhiú-lôu; húe-thang. *to warm oneself at the fire*, chieh-húe.
 
-**warn**, kéng-kài; khǹg-kòi; that-chhéⁿ; that-phùa; thàu. to take warning, na̍p-kài; tsṳ̃-kéng.
+**warn**, kéng-kài; khǹg-kòi; that-chhéⁿ; that-phùa; thàu. *to take warning*, na̍p-kài; tsṳ̃-kéng.
 
-**warp**, the, keⁿ; pòu-keⁿ. and woof, keⁿ-hūi. to warp, as boards, khiau; khiau-siâ.
+**warp**, *the*, keⁿ; pòu-keⁿ. *and woof*, keⁿ-hūi. *to warp, as boards*, khiau; khiau-siâ.
 
-**warrant**, a, phiè; pâi-phiè; chhe-phiè. to issue, tshut-phiè. to, pau-niáⁿ; pau-pó; tam-sêng.
+**warrant**, *a*, phiè; pâi-phiè; chhe-phiè. *to issue*, tshut-phiè. *to*, pau-niáⁿ; pau-pó; tam-sêng.
 
 **warrior**, ióng-sṳ̃.
 
-**wart**, a, tsùe; hṳ̂-lâng-tsùe.
+**wart**, *a*, tsùe; hṳ̂-lâng-tsùe.
 
-**wash**, sói. wash-stand, mīn-tháng-kè; mīn-phûn-kè. a washerman, sóiⁿ-saⁿ-nang. to wash iron dust, tôa-thih-sua; sói-thih. to wash with gold, tōu-kim; liū-kim; tsṳ́-kim. wash-hand basin, mīn-phûn; mīn-tháng.
+**wash**, sói. *wash-stand*, mīn-tháng-kè; mīn-phûn-kè. *a washerman*, sóiⁿ-saⁿ-nang. *to wash iron dust*, tôa-thih-sua; sói-thih. *to wash with gold*, tōu-kim; liū-kim; tsṳ́-kim. *wash-hand basin*, mīn-phûn; mīn-tháng.
 
 **wasp**, n̂g-phang; hóuⁿ-thâu-phang.
 
-**waste**, to, tak-nn̄g; hùi-tiāu; hṳ-hùi. time, phau-hng-tiāu sî-hāu; tak-nn̄g-tiāu sî-hāu; hṳ-iẽn ji̍t-chí; hṳ-tōu kuang-im; sit-lo̍h sî-hāu. to use wastefully, phah-phún-ēng. a waste place, khuàng-iá; khuàng-tī; khuàng-pou; pou-iá; phau-hng.
+**waste**, *to*, tak-nn̄g; hùi-tiāu; hṳ-hùi. *time*, phau-hng-tiāu sî-hāu; tak-nn̄g-tiāu sî-hāu; hṳ-iẽn ji̍t-chí; hṳ-tōu kuang-im; sit-lo̍h sî-hāu. *to use wastefully*, phah-phún-ēng. *a waste place*, khuàng-iá; khuàng-tī; khuàng-pou; pou-iá; phau-hng.
 
-**watch**, a, sî-pie. to wind a, khui-sî-pie.
+**watch**, *a*, sî-pie. *to wind a*, khui-sî-pie.
 
-**watch**, of the night, keⁿ; keⁿ-kóu; keⁿ-tiám. the first, an-keⁿ. to beat the, khà-keⁿ; sûn-keⁿ; chiéⁿ-keⁿ. the man who does this, keⁿ-hu. though the thief comes only in one watch, we must be on guard all night, tsò-tsha̍t che̍k-keⁿ, chiéⁿ-tsha̍t che̍k-mêⁿ.
+**watch**, *of the night*, keⁿ; keⁿ-kóu; keⁿ-tiám. *the first*, an-keⁿ. *to beat the*, khà-keⁿ; sûn-keⁿ; chiéⁿ-keⁿ. *the man who does this*, keⁿ-hu. though the thief comes only in one watch, we must be on guard all night, tsò-tsha̍t che̍k-keⁿ, chiéⁿ-tsha̍t che̍k-mêⁿ.
 
-**watch**, to, thóiⁿ-siú; chiéⁿ; siú. as sentry, sûn-hûang. watchful, m̄-káⁿ-gu̍t; kéng-chhéⁿ. watchword, àm-hō. to appoint a, phah-àm-hō.
+**watch**, *to*, thóiⁿ-siú; chiéⁿ; siú. *as sentry*, sûn-hûang. *watchful*, m̄-káⁿ-gu̍t; kéng-chhéⁿ. *watchword*, àm-hō. *to appoint a*, phah-àm-hō.
 
 **water**, tsúi. *to water*, ak-tsúi. *water flowers*, ak-hue. *water-caltrops*, nôiⁿ-kak. *water-course*, tsúi-kau. *watercress*, tsúi-khṳ̂n-tshài. *water-engine*, tsúi-chhia. *water-fall*, pak-pòu-tsúi; pak-pòu-tsûaⁿ. *water-lily*, nôiⁿ-hue. *water-mill*, tsúi-bō. *water-pail*, tsúi-tháng. *water melon*, si-kue. *watering-pot*, sũan-tháng; ak-tshài-tháng. *waterspout*, lêng kauh-tsúi. *watery*, tâm-tâm lok-lok-chhieh; kà-kà; seⁿ-tsúi; lóng-lóng.
 
@@ -82,17 +82,17 @@ date: 2024-03-31 16:11:00
 
 **wave**, éng; hái-éng; po-éng. *to wave a flag*, i̍t-kî. *the flag waves in the wind*, kî iãⁿ-huang.
 
-**waver**, to, siẽⁿ-thâu bô-tiāⁿ; būe-ũ kuat-ì; būe-chêng phah-tiāⁿ tsú-ì; phah-sǹg būe-tiāⁿ.
+**waver**, *to*, siẽⁿ-thâu bô-tiāⁿ; būe-ũ kuat-ì; būe-chêng phah-tiāⁿ tsú-ì; phah-sǹg būe-tiāⁿ.
 
-**wax**, la̍h. candle, la̍h-chek. to wax thread, sùaⁿ kia̍p-la̍h. in the ears, hĩⁿ-sái.
+**wax**, la̍h. *candle*, la̍h-chek. *to wax thread*, sùaⁿ kia̍p-la̍h. *in the ears*, hĩⁿ-sái.
 
 **way**, lōu; tãu; thû; lōu-thû; lōu-tãu; lōu-thâu; lōu-kèⁿ. *on the*, lōu-chiēⁿ; lōu-téng; lōu--kò. *to lead the*, tshūa-lōu; ín-lōu; kāng-lōu; kiau-lōu. *to be in one's*, hûang-gāi. *to be in the way*, tìn-tò; tìn-tiāu tī-hng. *half-way*, pùaⁿ-lōu; lōu-pùaⁿ-kue̍h. *do it this way*, chièⁿ-seⁿ-tsò. *what way*, ēng sĩ-mih huang-huap. *which is the right*, tùi tî-tiâu-lōu kiâⁿ chiàⁿ-tie̍h. *get out of the*, kiâⁿ-khui; kiâⁿ-bûa. *to get out of one another's*, sie-pī. *lose one's*, kiâⁿ-tāⁿ-lōu; kiâⁿ-tshò-lōu.
 
 **we**, *(excludingthe person addressed)*, ûn. *(including person addressed)*, nán.
 
-**weak**, nńg-jia̍k; bô-la̍t; phu̍h. tea, po̍h-tê; tãⁿ-tê. weakening, sún-cheng-sîn. in weak health, sin-hūn phàⁿ; sin-hūn lám.
+**weak**, nńg-jia̍k; bô-la̍t; phu̍h. *tea*, po̍h-tê; tãⁿ-tê. *weakening*, sún-cheng-sîn. *in weak health*, sin-hūn phàⁿ; sin-hūn lám.
 
-**wealth**, chîⁿ-tshâi; chîⁿ-ngṳ̂n; tshâi-pe̍h. wealthy, pù; ũ-chîⁿ. to become, huat-tshâi.
+**wealth**, chîⁿ-tshâi; chîⁿ-ngṳ̂n; tshâi-pe̍h. *wealthy*, pù; ũ-chîⁿ. *to become*, huat-tshâi.
 
 **wean**, keh-nĩⁿ; tñg-nĩⁿ; pàng-nĩⁿ.
 
@@ -100,17 +100,17 @@ date: 2024-03-31 16:11:00
 
 **wear**, *to wear clothes*, chhēng-saⁿ. *wear a hat*, tì-bō. *wear a ring (armlet)*, kùa-chhiú-hûan. *wear a finger-ring*, kùa-chhiú-tsat. *wear holes in one's clothes*, chhēng-phùa saⁿ-khòu. *as (for example) grind-stone*, siám-si̍h; siau-si̍h. *worn out*, chhēng-kàu-phùa; lau-se; thiau-se; phùa-mo̍hⁿ.
 
-**weary**, khùn; kha sng; kha sng, chhiú nńg.
+**weary**, *khùn; kha sng; kha sng*, chhiú nńg.
 
 **weather**, thîⁿ-sî; thiⁿ; thiⁿ-khì. *mild*, thiⁿ-sî un-hûa; thiⁿ-sî thiâu-hûa. *hot*, thiⁿ-sî zua̍h. *fair*, thiⁿ-sî chêⁿ. *weather-beaten*, mīn pha̍k-ou; huang khau-ou. *weather-cock*, sũn-huang-kî; tiāⁿ-huang-tsam; huang-sìn-kî.
 
-**weave**, keⁿ-pòu; chit-pòu. weaver's beam, te̍k-sim.
+**weave**, keⁿ-pòu; chit-pòu. *weaver's beam*, te̍k-sim.
 
-**web**, of cloth, che̍k-phit-pòu; che̍k-kui-pòu. spider's, ti-tu-si. the spider makes his web, ti-tu keⁿ-si; ti-tu kit-mãng; ti-tu thòu-si. web-footed, ũ-ah-tôi.
+**web**, *of cloth*, che̍k-phit-pòu; che̍k-kui-pòu. *spider's*, ti-tu-si. *the spider makes his web*, ti-tu keⁿ-si; ti-tu kit-mãng; ti-tu thòu-si. *web-footed*, ũ-ah-tôi.
 
 **wedding**, *a*, hun-in. *wedding-chair*, sin-niêⁿ-kiē; hue-kiē. see MARRY.
 
-**wedge**, chiⁿ; tshâ-chiⁿ; thih-chiⁿ. to wedge, chiⁿ; chiⁿ-kín; chiⁿ-soih. to open with wedges, chiⁿ-khui.
+**wedge**, chiⁿ; tshâ-chiⁿ; thih-chiⁿ. *to wedge*, chiⁿ; chiⁿ-kín; chiⁿ-soih. *to open with wedges*, chiⁿ-khui.
 
 **Wednesday**, lói-pài-saⁿ; pài-saⁿ.
 
@@ -158,17 +158,17 @@ date: 2024-03-31 16:11:00
 
 **wherefore**, in-ũi tsò-nîⁿ; ũ sĩ-mih-uân-kù; sĩ-mih uân-kù; sĩ-mih sṳ̄-kù. see THEREFORE.
 
-**whether**, or, ho̍k...ho̍k. whether he is willing or not I am going, m̄-kuán i huaⁿ-hí m̄-huaⁿ-hí, uá tsóng-sĩ àiⁿ-khṳ̀.
+**whether**, *or*, ho̍k...ho̍k. whether he is willing or not I am going, m̄-kuán i huaⁿ-hí m̄-huaⁿ-hí, uá tsóng-sĩ àiⁿ-khṳ̀.
 
 **whetstone**, bûa-to-chie̍h; bûa-chie̍h.
 
 **which**, tî-kâi; tî-che̍k-kâi. *which is it*, tî-che̍k-kiãⁿ-sĩ. *which is he*, tî-che̍k-nâng-sĩ. *the words which he spoke*, i só-tàⁿ kâi-ūe.
 
-**while**, a, che̍k-sî; khùn-kiáⁿ; siap-sî. while thinking, hṳ́-tsûn tõ-siẽⁿ. while a cash remains he will gamble, tshûn-kâi-chîⁿ siãng àiⁿ-khṳ̀-pua̍h; sui-sĩ tshûn-kâi-chîⁿ huân-liáu àiⁿ-khṳ̀-pua̍h. while I was speaking he arrived, uá chiàⁿ-tõ-tàⁿ-ūe kâi-sî-hāu, i chiũ-kàu. while, tng....kâi-sî-hāu.
+**while**, *a*, che̍k-sî; khùn-kiáⁿ; siap-sî. *while thinking*, hṳ́-tsûn tõ-siẽⁿ. *while a cash remains he will gamble*, tshûn-kâi-chîⁿ siãng àiⁿ-khṳ̀-pua̍h; sui-sĩ tshûn-kâi-chîⁿ huân-liáu àiⁿ-khṳ̀-pua̍h. while I was speaking he arrived, uá chiàⁿ-tõ-tàⁿ-ūe kâi-sî-hāu, i chiũ-kàu. *while*, tng....kâi-sî-hāu.
 
 **whimper**, hiuⁿ-hiuⁿ-kiè; hngh-hngh-kiè; hng-hng-kiè.
 
-**whip**, a, bé-piⁿ. to strike with a, pũaⁿ; hiuh; sut; piⁿ-phah. mosquito whip, máng-pũaⁿ. lash of whip, piⁿ-soh.
+**whip**, *a*, bé-piⁿ. *to strike with a*, pũaⁿ; hiuh; sut; piⁿ-phah. *mosquito whip*, máng-pũaⁿ. *lash of whip*, piⁿ-soh.
 
 **whirlpool**, tsúi ká-tsn̄g; tsúi ká-pūn; suân-lâu-tsúi.
 
@@ -176,21 +176,21 @@ date: 2024-03-31 16:11:00
 
 **whiskers**, hôu-chhiu.
 
-**whisper**, to, phak tõ-hĩⁿ-khang-kháu tàⁿ-ūe; tàⁿ àm-chẽⁿ-ūe; sî-so-kiè.
+**whisper**, *to*, phak tõ-hĩⁿ-khang-kháu tàⁿ-ūe; tàⁿ àm-chẽⁿ-ūe; sî-so-kiè.
 
-**whistle**, to, tshùi pûn ki-kû. a, ki-kû. to blow a, pûn ki-kû.
+**whistle**, *to*, tshùi pûn ki-kû. *a*, ki-kû. *to blow a*, pûn ki-kû.
 
-**white**, pe̍h. of an egg, nñg-chhêng; nñg-pe̍h; nñg-phûe. of the eye, ma̍k-chiu pe̍h-jîn. ants, pe̍h-hiã. to whitewash, sueh-pe̍h; hún-pe̍h; sueh-hún-tsúi; sói-hue-tsúi.
+**white**, pe̍h. *of an egg*, nñg-chhêng; nñg-pe̍h; nñg-phûe. *of the eye*, ma̍k-chiu pe̍h-jîn. *ants*, pe̍h-hiã. *to whitewash*, sueh-pe̍h; hún-pe̍h; sueh-hún-tsúi; sói-hue-tsúi.
 
 **whitlow**, tsńg-kah-tsu; seⁿ tsóiⁿ-búe-tsu.
 
-**whizzing**, sound, hiuh-hiuh-kiè.
+**whizzing**, *sound*, hiuh-hiuh-kiè.
 
 **who**, tî-tiâng; sĩ-mih-nâng. *whosoever*, put-lũn tî-tiâng; hũam-sĩ-mih-nâng.
 
-**whole**, tshûan; kàu-kâi; chiâⁿ-kâi; chiâⁿ-kò; ka-nn̂g-kâi; tsn̂g-kâi; hãm-kâi; kan-chẽng; lóng-tsóng. the whole, che̍k-khài; che̍k-chhiet; tsò-che̍k-ē; tsn̂g-kâi. family, ha̍p-ke; ha̍h-ke; tshûan-ke. life, che̍k-seⁿ; che̍k-sì-nâng; tsong-sin. day, tsong-ji̍t; thàng-ji̍t. heart, tsuan-sim; chĩn-sim. whole body wet, che̍k-sin tâm.
+**whole**, tshûan; kàu-kâi; chiâⁿ-kâi; chiâⁿ-kò; ka-nn̂g-kâi; tsn̂g-kâi; hãm-kâi; kan-chẽng; lóng-tsóng. *the whole*, che̍k-khài; che̍k-chhiet; tsò-che̍k-ē; tsn̂g-kâi. *family*, ha̍p-ke; ha̍h-ke; tshûan-ke. *life*, che̍k-seⁿ; che̍k-sì-nâng; tsong-sin. *day*, tsong-ji̍t; thàng-ji̍t. *heart*, tsuan-sim; chĩn-sim. *whole body wet*, che̍k-sin tâm.
 
-**wholesale**, house, hâng; bōi-chiàⁿ-khí; tsò-chiēⁿ-pûaⁿ. to buy, bói-chiēⁿ-pûaⁿ.
+**wholesale**, *house*, hâng; bōi-chiàⁿ-khí; tsò-chiēⁿ-pûaⁿ. *to buy*, bói-chiēⁿ-pûaⁿ.
 
 **whore**, see PROSTITUTE.
 
@@ -204,27 +204,27 @@ date: 2024-03-31 16:11:00
 
 **wicker**, *basket*, tîn-nâⁿ. *basket (with divisions)*, tîn-siāⁿ.
 
-**wide**, khuah; khuah-tōa; khuah-khǹg; kuang-khuah; khuan-khuah; khùaⁿ; khuan-khùaⁿ. to widen, liú-khuah; tsha̍k-khuah; khui-khuah; chhiâⁿ-khuah; mue̍h-khuah.
+**wide**, khuah; khuah-tōa; khuah-khǹg; kuang-khuah; khuan-khuah; khùaⁿ; khuan-khùaⁿ. *to widen*, liú-khuah; tsha̍k-khuah; khui-khuah; chhiâⁿ-khuah; mue̍h-khuah.
 
-**widow**, kúa-hũ; siú-kúa. who refuses to marry again, chiet-hũ; siú-chiet. widower, sit-ngóu.
+**widow**, kúa-hũ; siú-kúa. *who refuses to marry again*, chiet-hũ; siú-chiet. *widower*, sit-ngóu.
 
-**wife**, chhi; bóu; hũ; lãi-nâng; ke-lãi; ke-ãu; ke-kùan. take a wife, see MARRY. your wife, lẽng-chiàⁿ; tsun-só; lãi-tsõ; tsun-hu-jîn; tsun-lãi; hiên-só. my wife, lãi-nâng; lãi-tsuat; tsuat-keng. [if she has a son fer husband will call her so-and-so's mother.] my good wife (addressing her), hiên-chhi. wife and children, chhi-tsṳ́; bóu-kiáⁿ. to take a second wife, tshūa-jī-nâng. legal wife, chiàⁿ-chhi; tek-chhi; tsháu-thâu. first wife, huat-chhi; ngûan-phùe. wife's brother, chhi-kũ. wife's sister, chhi-î.
+**wife**, chhi; bóu; hũ; lãi-nâng; ke-lãi; ke-ãu; ke-kùan. *take a wife*, see MARRY. *your wife*, lẽng-chiàⁿ; tsun-só; lãi-tsõ; tsun-hu-jîn; tsun-lãi; hiên-só. *my wife*, lãi-nâng; lãi-tsuat; tsuat-keng. [if she has a son fer husband will call her so-and-so's mother.] my good wife (addressing her), hiên-chhi. *wife and children*, chhi-tsṳ́; bóu-kiáⁿ. *to take a second wife*, tshūa-jī-nâng. *legal wife*, chiàⁿ-chhi; tek-chhi; tsháu-thâu. *first wife*, huat-chhi; ngûan-phùe. *wife's brother*, chhi-kũ. *wife's sister*, chhi-î.
 
 **wig**, ké-môⁿ; ké-thâu-môⁿ.
 
-**wild**, iá. beast, iá-siù. growing wild, suaⁿ seⁿ; pe̍h-huat; tsṳ̃-seⁿ. fowl, tsúi-chiáu. goose, hái-gô.
+**wild**, iá. *beast*, iá-siù. *growing wild*, suaⁿ seⁿ; pe̍h-huat; tsṳ̃-seⁿ. *fowl*, tsúi-chiáu. *goose*, hái-gô.
 
 **wilderness**, khùang-iá; tsháu-iá.
 
 **will**, chì; sim-chì; chì-khì; tsú-ì. *will you or will you not*, lṳ́ àiⁿ a-màiⁿ; lṳ́ àiⁿ--mé. *I will go*, úa pit-àiⁿ-khṳ̀. *he will not do it*, i m̄-hàuⁿ-tsò; m̄-khéng; m̄-ngũan. *will this do*, chí-kâi hó--mé. *it will do*, õi--tsò-tit; khó-íⁿ.
 
-**will**, a, zũi-tsṳ; zũi-tsok.
+**will**, *a*, zũi-tsṳ; zũi-tsok.
 
 **wilful**, kù-ì; chip-ì.
 
 **willing**, khéng; hàuⁿ; huaⁿ-hí; ngũan; kam-sim chhêng-ngũan; kam-ngũan; tshut-pńg-sim.
 
-**willow**, liú; liú-chhiū. weeping, si-liú; sûi-si-liú.
+**willow**, liú; liú-chhiū. *weeping*, si-liú; sûi-si-liú.
 
 **wince**, sok-bûa; kiu-bûa.
 
@@ -234,15 +234,15 @@ date: 2024-03-31 16:11:00
 
 **window**, theng. *a sliding one*, theng-thuah. *shutters*, theng-mn̂g. *stanchions*, theng-chí.
 
-**wine**, *(spirituous liquor)*, chiú. *(grape)*, phû-thô-chiú. flagon, chiú-pân; chiú-tsun. cup, chiú-pue; chiú-cheng; chiú-tsúaⁿ; chiú-chiak, chiú-au. shop, chiú-tiàm; chiú-phòu. press, chiú-tsa̍h.
+**wine**, *(spirituous liquor)*, chiú. *(grape)*, phû-thô-chiú. *flagon*, chiú-pân; chiú-tsun. cup, chiú-pue; chiú-cheng; chiú-tsúaⁿ; chiú-chiak, chiú-au. *shop*, chiú-tiàm; chiú-phòu. *press*, chiú-tsa̍h.
 
-**wings**, si̍t. to flap the, phah-si̍t. to dress, tshńg-si̍t; tshóiⁿ-si̍t. to clip the, chién-si̍t.
+**wings**, si̍t. *to flap the*, phah-si̍t. *to dress*, tshńg-si̍t; tshóiⁿ-si̍t. *to clip the*, chién-si̍t.
 
-**wink**, nihⁿ-ma̍k. to wink at a thing, tèⁿ-tsò m̄-tsai.
+**wink**, nihⁿ-ma̍k. *to wink at a thing*, tèⁿ-tsò m̄-tsai.
 
-**winnow**, pùa-bí; pùa-chhek. tray used to, pùa-ki. fan used to, huang-kūiⁿ. to, in fan, ká-chhek.
+**winnow**, pùa-bí; pùa-chhek. *tray used to*, pùa-ki. *fan used to*, huang-kūiⁿ. *to, in fan*, ká-chhek.
 
-**winter**, tang; tang--thiⁿ; chhìn--thiⁿ. clothing, kûaⁿ-saⁿ; hân-i. cap, kûaⁿ-bō. solstice, tang-tsoih; tang-chì.
+**winter**, tang; tang--thiⁿ; chhìn--thiⁿ. *clothing*, kûaⁿ-saⁿ; hân-i. *cap*, kûaⁿ-bō. *solstice*, tang-tsoih; tang-chì.
 
 **wipe**, *to wipe (with dry cloth)*, chhit. *to wipe (with wet cloth)*, zṳ̂.
 
@@ -250,9 +250,9 @@ date: 2024-03-31 16:11:00
 
 **wise**, hiên; ũ-tì-hũi; kau-mêng; ũ-kièn-sek; ũ-tì-sek; ũ-tshâi-tì; ũ-tshâi-ha̍k.
 
-**wish**, àiⁿ; ngũan; ngũan-mōⁿ; siẽⁿ-mōⁿ; siẽⁿ-àiⁿ; him-iẽn; it--tie̍h. according to one's wish, zû-ì; zû-ngũan.
+**wish**, àiⁿ; ngũan; ngũan-mōⁿ; siẽⁿ-mōⁿ; siẽⁿ-àiⁿ; him-iẽn; it--tie̍h. *according to one's wish*, zû-ì; zû-ngũan.
 
-**wit**, ki-khá; sim-khiàu méⁿ; ua̍h-phuah; lêng-ki èng-pièn. frightened out of one's wits, kiâⁿ-kàu-kông; kiaⁿ-kàu-ngo̍h.
+**wit**, ki-khá; sim-khiàu méⁿ; ua̍h-phuah; lêng-ki èng-pièn. *frightened out of one's wits*, kiâⁿ-kàu-kông; kiaⁿ-kàu-ngo̍h.
 
 **witch**, thóiⁿ-siàⁿ-phûa; loo̍h-sîn-phûa. *(spiritualist medium)*, tshai-kou-î. *witch-craft*, siâ-su̍t; bû-su̍t; huap-su̍t; iau-su̍t.
 
@@ -268,7 +268,7 @@ date: 2024-03-31 16:11:00
 
 **withstand**, tí-tng; tang-tsũ; tng-tsũ; tùi-te̍k; khàng-kṳ̃; khàng-nge̍k; sie-káu-ke̍h.
 
-**witness**, a, kan-chèng; thih-kan-chèng. an eye-witness, chèng-kìⁿ; chhin-ma̍k thóiⁿ--kìⁿ. to bear, tsò-kan-chèng; tsò-chèng-kìⁿ. false, buáng-chèng. to suborn false witnesses, bói-chèng.
+**witness**, *a*, kan-chèng; thih-kan-chèng. *an eye-witness*, chèng-kìⁿ; chhin-ma̍k thóiⁿ--kìⁿ. *to bear*, tsò-kan-chèng; tsò-chèng-kìⁿ. *false*, buáng-chèng. *to suborn false witnesses*, bói-chèng.
 
 **wizard**, tâng-ki; tâng-sin; tsò-bû-su̍t; tsò-kuat-su̍t; tsò-huap-su̍t.
 
@@ -276,45 +276,45 @@ date: 2024-03-31 16:11:00
 
 **wolf**, tshâi-lâng.
 
-**woman**, tsṳ-niêⁿ; nńg; hũ-jîn; hũ-jîn-nâng; a-má-nâng. [tsa-bóu not used in Hoo city, and vulgar.] an old woman, lãu-tsṳ-niêⁿ; lãu-ḿ; lãu-sím-pô. woman's work, nńg-kang; tsṳ-niêⁿ-kang; hũ-kang.
+**woman**, tsṳ-niêⁿ; nńg; hũ-jîn; hũ-jîn-nâng; a-má-nâng. [tsa-bóu not used in Hoo city, and vulgar.] an old woman, lãu-tsṳ-niêⁿ; lãu-ḿ; lãu-sím-pô. *woman's work*, nńg-kang; tsṳ-niêⁿ-kang; hũ-kang.
 
 **womb**, tho.
 
-**wonder**, to, khî-ĩ; kuài-ĩ; thóiⁿ-khî. wonderful, khî-ĩ; khî-kuài; kuài-ĩ; tshut-khî; koh-iēⁿ; ĩ-sṳ̄; khî-sṳ̄; chin-khî-sṳ̄; kuài-sṳ̄.
+**wonder**, *to*, khî-ĩ; kuài-ĩ; thóiⁿ-khî. *wonderful*, khî-ĩ; khî-kuài; kuài-ĩ; tshut-khî; koh-iēⁿ; ĩ-sṳ̄; khî-sṳ̄; chin-khî-sṳ̄; kuài-sṳ̄.
 
 **wonted**, kùiⁿ-sìⁿ; phêng-siêⁿ; siêⁿ-sṳ̄; siêⁿ-so̍k.
 
-**wood**, ba̍k; tshâ; sam; chhiū-ba̍k. building materials of, tshâ-sāi; sam-sāi. a wood, chhiū-nâⁿ; chhiū-lîm. wood-yard, sam-chhiáng; sam-phòu; sam-hâng.
+**wood**, ba̍k; tshâ; sam; chhiū-ba̍k. *building materials of*, tshâ-sāi; sam-sāi. *a wood*, chhiū-nâⁿ; chhiū-lîm. *wood-yard*, sam-chhiáng; sam-phòu; sam-hâng.
 
-**woof**, hūi. warp and, keⁿ-hūi.
+**woof**, hūi. *warp and*, keⁿ-hūi.
 
-**wool**, iêⁿ-môⁿ. woollen cloth, nîⁿ.
+**wool**, iêⁿ-môⁿ. *woollen cloth*, nîⁿ.
 
-**word**, ūe; ngân; gṳ́. written, jī. to speak words, tàⁿ-ūe. I wish to asy a word to you, uà àiⁿ kāng-lṳ́-tàⁿ che̍k-kù-ūe. to keep one's, chiè i-kâi-ūe khṳ̀-kiâⁿ. to break one's, sit-sìn; sit-ieh; chia̍h-ngân. words and actions, ngân-hẽng. in a single word, tsóng--tsṳ. to speak a good word for one, kṳ́-chìn che̍k-kù. the Word of God, Siãng-tì kâi-tãu; Siàⁿ-tsṳ; Siàⁿ-kiaⁿ.
+**word**, ūe; ngân; gṳ́. *written*, jī. *to speak words*, tàⁿ-ūe. *I wish to asy a word to you*, uà àiⁿ kāng-lṳ́-tàⁿ che̍k-kù-ūe. *to keep one's*, chiè i-kâi-ūe khṳ̀-kiâⁿ. *to break one's*, sit-sìn; sit-ieh; chia̍h-ngân. *words and actions*, ngân-hẽng. *in a single word*, tsóng--tsṳ. *to speak a good word for one*, kṳ́-chìn che̍k-kù. *the Word of God*, Siãng-tì kâi-tãu; Siàⁿ-tsṳ; Siàⁿ-kiaⁿ.
 
-**work**, kang; kang-hu; khang-khùe. to work, tsò-kang. at work, ēng-kang. contract for, mãuⁿ-kang. needle-work, tsam-kang. to work clay, chhip-thôu. a scull, iẽ-lóu. to work by the day, lũn-ji̍t tsò-kang. workman, sai-pẽ; kang-jîn. workmanship, kang-hu. fine, cheng-kong; cheng-khá; iùⁿ-kang.
+**work**, kang; kang-hu; khang-khùe. *to work*, tsò-kang. *at work*, ēng-kang. *contract for*, mãuⁿ-kang. *needle-work*, tsam-kang. *to work clay*, chhip-thôu. *a scull*, iẽ-lóu. *to work by the day*, lũn-ji̍t tsò-kang. *workman*, sai-pẽ; kang-jîn. *workmanship*, kang-hu. *fine*, cheng-kong; cheng-khá; iùⁿ-kang.
 
-**world**, sì; sì-kài; sì-kan; âng-tîn; thiⁿ-ẽ. *(this dusty weary world)*, tîn-sì. all the, phóu-thiⁿ-ẽ; phóu-thiⁿ-kha-ẽ; thong-thiⁿ-kha-ẽ; buān-kok. this, tshṳ́-sì; kim-sì; iâng--kan; iâng-sì. the next, lâi-seⁿ; lâi-sì; im--kan; àm--thâu. *the next (all mean one's next appearance in this world)*, ãu-sì. ignorant of the, m̄-hiáu sì-bũ. this changing world, iâm-liâng sì-kài. since the world began, khai-phek íⁿ-lâi; khai-tshàng íⁿ-lâi. worldly affairs, sì-bũ; sì-chhêng.
+**world**, sì; sì-kài; sì-kan; âng-tîn; thiⁿ-ẽ. *(this dusty weary world)*, tîn-sì. *all the*, phóu-thiⁿ-ẽ; phóu-thiⁿ-kha-ẽ; thong-thiⁿ-kha-ẽ; buān-kok. *this*, tshṳ́-sì; kim-sì; iâng--kan; iâng-sì. *the next*, lâi-seⁿ; lâi-sì; im--kan; àm--thâu. *the next (all mean one's next appearance in this world)*, ãu-sì. *ignorant of the*, m̄-hiáu sì-bũ. *this changing world*, iâm-liâng sì-kài. *since the world began*, khai-phek íⁿ-lâi; khai-tshàng íⁿ-lâi. *worldly affairs*, sì-bũ; sì-chhêng.
 
-**worm**, a, thâng. earth-worm, kãu-ún. in the intestines, kam-thâng. in books, tsù-thâng. worm-eaten, tsù-tiāu; khòi-tiāu.
+**worm**, *a*, thâng. *earth-worm*, kãu-ún. *in the intestines*, kam-thâng. *in books*, tsù-thâng. *worm-eaten*, tsù-tiāu; khòi-tiāu.
 
 **wormwood**, în-tîn; în-tîn khóu-chhì.
 
-**worse**, kèng-m̄-hó; zú-m̄-hó; zû-kèng m̄-hó; kèng-sĩm; kèng-hāi; zú-sí. sickness, pēⁿ kèng-tãng. daily growing worse, che̍k-ji̍t kìⁿ-ji̍t-tãng.
+**worse**, kèng-m̄-hó; zú-m̄-hó; zû-kèng m̄-hó; kèng-sĩm; kèng-hāi; zú-sí. *sickness*, pēⁿ kèng-tãng. *daily growing worse*, che̍k-ji̍t kìⁿ-ji̍t-tãng.
 
-**worship**, to, pài; kũi-pài; kèng-pài; kèng-hõng, go to worship, khṳ̀-lói-pài. to worship idols, pài-sîn; pài-lãu-iâ; pài-tshâ-sîn; sāi-lãu-iâ. ancestors, pài-a-kong; pài-tsóu; pài-ke-sîn.
+**worship**, to, pài; kũi-pài; kèng-pài; kèng-hõng, *go to worship*, khṳ̀-lói-pài. *to worship idols*, pài-sîn; pài-lãu-iâ; pài-tshâ-sîn; sāi-lãu-iâ. *ancestors*, pài-a-kong; pài-tsóu; pài-ke-sîn.
 
 **worst**, ke̍k-ak; siãng-ak; chì-ak; siãng-téng m̄-hó.
 
-**worsted**, zông-sùaⁿ. stockings, kãu-ún-bue̍h; hôu-khî-bue̍h.
+**worsted**, zông-sùaⁿ. *stockings*, kãu-ún-bue̍h; hôu-khî-bue̍h.
 
 **worth**, *what is it*, ta̍t jie̍h-tsōi-chîⁿ; kè-ta̍t jie̍h-tsōi; sĩ-mih-kè. *not worth a single cash*, m̄-ta̍t kâi-chîⁿ; put-ta̍t che̍k-bûn. *is it worth the trouble*, m̄-tsai póu-tit-kùe kang-la̍t, mé.
 
 **worthless**, bô-ēng; bô-iah; m̄-tèng-ēng. *(of people)*, hiã-téng. *fellow*, siáu-jîn.
 
-**worthy**, kham-kai. he is worthy to receive it, kham-kai hó-tit-tie̍h; pńg-téng hó-tit--tie̍h.
+**worthy**, kham-kai. *he is worthy to receive it*, kham-kai hó-tit-tie̍h; pńg-téng hó-tit--tie̍h.
 
-**wound**, to, sieⁿ; phah-sieⁿ; sieⁿ--tie̍h; sún-sieⁿ; sieⁿ-sún. with a knife or sword, to-sieⁿ. with shot, chhèng-sieⁿ. wounded, õi-sieⁿ; siũ-sieⁿ. a wound, chhieⁿ-kháu; sieⁿ-kháu.
+**wound**, *to*, sieⁿ; phah-sieⁿ; sieⁿ--tie̍h; sún-sieⁿ; sieⁿ-sún. *with a knife or sword*, to-sieⁿ. *with shot*, chhèng-sieⁿ. *wounded*, õi-sieⁿ; siũ-sieⁿ. *a wound*, chhieⁿ-kháu; sieⁿ-kháu.
 
 **wrangle**, sie-cheⁿ; sie-à; sie-jiáng; jiáng kàu kî-kâ-kiè; jiáng kàu kũang-kũang-kiè.
 
@@ -322,13 +322,13 @@ date: 2024-03-31 16:11:00
 
 **wrath**, see ANGER.
 
-**wreak**, to, vengeance, soh-hṳ̃n; sia̍p-hún.
+**wreak**, to, *vengeance*, soh-hṳ̃n; sia̍p-hún.
 
 **wreck**, phùa-tsûn; pua̍h-phùa-tsûn; tiam-phùa-tsûn; pua̍h-tiāu-tsûn.
 
 **wren**, chheⁿ-thî; thiau-liâu.
 
-**wrench**, tsũn; tsũn-tshúa. off, tsũn-tiāu.
+**wrench**, tsũn; tsũn-tshúa. *off*, tsũn-tiāu.
 
 **wrestle**, sie-khím sie-mán; tòu-la̍t; tòu-la̍t pí-bú; lám-kau-pua̍h; pua̍h-kau.
 
@@ -336,18 +336,18 @@ date: 2024-03-31 16:11:00
 
 **wriggle**, tsũn-a-tsũn; kũan-a-kũan. *(as worm)*, thâu-hìⁿ búe-hìⁿ.
 
-**wring**, to, tsũn. dry, tsũn-ta.
+**wring**, *to*, tsũn. *dry*, tsũn-ta.
 
-**wrinkled**, jiâu. face, mīn-phûe kâu-jiâu; mīn jiâu-jiâu. wrinkles, niàuⁿ-hûn; chhi̍p-niàuⁿ; chhi̍p-jiâu.
+**wrinkled**, jiâu. *face*, mīn-phûe kâu-jiâu; mīn jiâu-jiâu. *wrinkles*, niàuⁿ-hûn; chhi̍p-niàuⁿ; chhi̍p-jiâu.
 
-**wrist**, the, chhiú-uán. bones of, chhiú-ma̍k.
+**wrist**, *the*, chhiú-uán. *bones of*, chhiú-ma̍k.
 
-**write**, to, siá; siá-jī. in a book, siá; kì. an essay, tsò-bûn; tsò-bûn-chieⁿ. a book, tù-tsṳ. to write out from a copy, tshau; piâⁿ. writing materials, bûn-pâng sì-pó; pit-ba̍k tsúa-īⁿ.
+**write**, *to*, siá; siá-jī. *in a book*, siá; kì. *an essay*, tsò-bûn; tsò-bûn-chieⁿ. *a book*, tù-tsṳ. *to write out from a copy*, tshau; piâⁿ. *writing materials*, bûn-pâng sì-pó; pit-ba̍k tsúa-īⁿ.
 
-**writhe**, to, kũan-a-kũan; tsũn-a-tsũn; thâu-hìⁿ búe-hìⁿ.
+**writhe**, *to*, kũan-a-kũan; tsũn-a-tsũn; thâu-hìⁿ búe-hìⁿ.
 
-**wrong**, m̄-tie̍h; m̄-sĩ; put-sĩ; m̄-tùi; tshò; tāⁿ; tsha-tshò; tsáu-tsua̍h. to wrong one, hāi; uan-khut; uan-uáng; uáng-khut; khui. to receive, siũ-khui; chia̍h-khui; siũ-uan-khut. to redress a wrong for any one, kāng--nâng sin-uan; thòi--nâng sin-uan.
+**wrong**, m̄-tie̍h; m̄-sĩ; put-sĩ; m̄-tùi; tshò; tāⁿ; tsha-tshò; tsáu-tsua̍h. *to wrong one*, hāi; uan-khut; uan-uáng; uáng-khut; khui. *to receive*, siũ-khui; chia̍h-khui; siũ-uan-khut. *to redress a wrong for any one*, kāng--nâng sin-uan; thòi--nâng sin-uan.
 
-**wrought**, iron, se̍k-thih.
+**wrought**, *iron*, se̍k-thih.
 
 **wry**, tshúa; m̄-chiàⁿ. *yam*, tōa-tsṳ̂.

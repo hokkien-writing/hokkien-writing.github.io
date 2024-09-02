@@ -18,7 +18,7 @@ date: 2024-03-31 16:11:00
 
 **earn**, thàn; thó-thàn. *money*, thàn-chîⁿ. *one's living*, thàn-chia̍h. *much*, tōa-thàn. *easily*, kōi-thàn.
 
-**earnest**, tsuan-sim; chhiet-chhiet; pek-chhiet; sim kien, ì chhiet; tsuan-it; jie̍t-sim. *speak in*, tàⁿ-si̍t-ūe. *earnest money*, tiāⁿ-ngṳ̂n; tiāⁿ-chîⁿ; tiāⁿ-thâu; tǹg. *accept earnest money*, siu-tiāⁿ.
+**earnest**, *tsuan-sim; chhiet-chhiet; pek-chhiet; sim kien*, ì chhiet; tsuan-it; jie̍t-sim. *speak in*, tàⁿ-si̍t-ūe. *earnest money*, tiāⁿ-ngṳ̂n; tiāⁿ-chîⁿ; tiāⁿ-thâu; tǹg. *accept earnest money*, siu-tiāⁿ.
 
 **earth**, tī; thôu; thóu. *the earth*, tī-kiû. *heaven and earth*, thiⁿ-tī. *on the earth*, tõ-tī-mīn; tõ-thóu-ẽ. *the whole earth*. phóu-thiⁿ-ẽ; thong thiⁿ-kha-ẽ. *garden-earth*, hn̂g-thôu. *earth-nut*, tī-tāu. *earth-worm*, kãu-ún. *earth-quake*, tī chín; tī tín-tãng; tī-gû ūaⁿ-koiⁿ. *earthenware*, hûi-khì; jiâu-khì; au-úaⁿ pûaⁿ-ti̍h.
 <!--more-->
@@ -106,7 +106,7 @@ date: 2024-03-31 16:11:00
 
 **elegant**, iông-mãuⁿ; ngî-iông. *composition*, bûn-ngiáⁿ. *scholar*, ũ-tshâi-ha̍k.
 
-**elements**, ngóu-hêng; kim, ba̍k, tsúi, húe, thôu.
+**elements**, ngóu-hêng; kim, ba̍k, tsúi, *húe*, thôu.
 
 **elephant**, chhiẽⁿ. *tusks*, chhiẽⁿ-gê. *elephantiasis*, tōa-kha.
 
@@ -300,7 +300,7 @@ date: 2024-03-31 16:11:00
 
 **enthusiastic**, tsuan-sim; jie̍t-sim; khóu-chì. *united and*, tâng-sim hia̍p-la̍t.
 
-**entice**, phièn; iú-ho̍k, ín-iú; ín-tshūa.
+**entice**, *phièn; iú-ho̍k*, ín-iú; ín-tshūa.
 
 **entire**, tsn̂g-kâi; ka-nn̂g-kâi; tshûan; kàu-kâi; kan-chẽng. *entirely false*, tsa̍p-hun-ké; bô-iáⁿ bô-chiah; ké liáu-liáu.
 
@@ -386,11 +386,11 @@ date: 2024-03-31 16:11:00
 
 **escape**, tsáu; tô-tsáu; pī-tsáu; pī-bûa; tsáu-tshut; thut-sin-kòi. *secretly*, thau-tsáu. *from prison*, tsáu-kam.
 
-**escort**, sàng, sàng-kiâⁿ. *a criminal*, ah-sàng; ah-kòi. *military*, piaⁿ-bé sàng-kiâⁿ; piaⁿ-teng hũ-sàng.
+**escort**, *sàng*, sàng-kiâⁿ. *a criminal*, ah-sàng; ah-kòi. *military*, piaⁿ-bé sàng-kiâⁿ; piaⁿ-teng hũ-sàng.
 
-**especial**, chì-chhiet; chhiet-iàu, te̍k-te̍k; tsuan-tsuan.
+**especial**, *chì-chhiet; chhiet-iàu*, te̍k-te̍k; tsuan-tsuan.
 
-**essay**, to, chhì--chē; chhì-thóiⁿ--chē; thèng-tsãu-hùe.
+**essay**, *to*, chhì--chē; chhì-thóiⁿ--chē; thèng-tsãu-hùe.
 
 **essay**, *an*, bûn-chieⁿ. *write*, tsò-bûn-chieⁿ; tsò-bûn. *a moral*, siẽn-tsṳ. *a moral tract*, khǹg-sì-bûn.
 
@@ -566,7 +566,7 @@ date: 2024-03-31 16:11:00
 
 **exploit**, kong-lâu; tōa-kong-lâu.
 
-**explore**, places, *for amusement*, iû-kuan; iû-ngúan. search, chhîm-tshūe; thàm-chhîm. *with a clue*, thàm-soh.
+**explore**, places, *for amusement*, iû-kuan; iû-ngúan. *search*, chhîm-tshūe; thàm-chhîm. *with a clue*, thàm-soh.
 
 **export**, *to*, tsài-hùe tshut-kháu. *exports*, tshut-kháu kâi-hùe-mue̍h.
 

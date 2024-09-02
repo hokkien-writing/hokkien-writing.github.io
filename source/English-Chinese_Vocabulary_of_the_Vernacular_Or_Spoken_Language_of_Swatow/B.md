@@ -104,7 +104,7 @@ date: 2024-03-31 16:11:00
 
 **barely**, *enough*, khat-khat-kàu. *doing any thing*, kṳ́n-kṳ́n; siè-siè.
 
-**bargain**, to fix, kè-chîⁿ tàⁿ-tiāⁿ-tie̍h; ieh-tiāⁿ; li̍p-ieh. *bargain maker*, tong-nâng.
+**bargain**, *to fix*, kè-chîⁿ tàⁿ-tiāⁿ-tie̍h; ieh-tiāⁿ; li̍p-ieh. *bargain maker*, tong-nâng.
 
 **bark**, chhiū-phûe.
 
@@ -180,7 +180,7 @@ date: 2024-03-31 16:11:00
 
 **beard**, chhiu. *beard silvery white*, chhiu soh-soh-pe̍h.
 
-**bearer**, taⁿ-tàⁿ-nâng; kieh-hu; thiau-hu; koiⁿ-thiau. chair, kiē-pou; kiē-ẽ; kng-kiē; kiē-hu; thâi-kiē. *(in addressing them)*, kong-siā. *three bearers*, saⁿ-miâⁿ.
+**bearer**, taⁿ-tàⁿ-nâng; kieh-hu; thiau-hu; koiⁿ-thiau. *chair*, kiē-pou; kiē-ẽ; kng-kiē; kiē-hu; thâi-kiē. *(in addressing them)*, kong-siā. *three bearers*, saⁿ-miâⁿ.
 
 **beast**, khîm-siù; iá-siù. *domestic*, seⁿ-kháu; cheng-seⁿ.
 
@@ -204,7 +204,7 @@ date: 2024-03-31 16:11:00
 
 **beckon**, ia̍h-chhiú; chie-chhiú. *to come*, ia̍h-lâi. *to go*, ia̍h-khṳ̀.
 
-**bed**, tshn̂g; mîn-tshn̂g. *tressel-bed*, phou. *bed-boards*, phou-pang. *bed-fellow*, tâng-phou; tsò-pô-u̍t. *make ready a bed*, phah-phou. *to go to bed*, lo̍h-mîn-tshn̂g gu̍t. *brought to bed*, lîm-phûn; seⁿ-kiáⁿ; lîm-súaⁿ. *bed-room*, u̍t-pâng; mîn-pâng; õ-pâng. *bed-clothes*, phũe. *bed-clothes (thin)*, phũe-toaⁿ. bed-post, mîn-tshn̂g-thiãu. *potato-bed*, huan-tsṳ-sieⁿ.
+**bed**, tshn̂g; mîn-tshn̂g. *tressel-bed*, phou. *bed-boards*, phou-pang. *bed-fellow*, tâng-phou; tsò-pô-u̍t. *make ready a bed*, phah-phou. *to go to bed*, lo̍h-mîn-tshn̂g gu̍t. *brought to bed*, lîm-phûn; seⁿ-kiáⁿ; lîm-súaⁿ. *bed-room*, u̍t-pâng; mîn-pâng; õ-pâng. *bed-clothes*, phũe. *bed-clothes (thin)*, phũe-toaⁿ. *bed-post*, mîn-tshn̂g-thiãu. *potato-bed*, huan-tsṳ-sieⁿ.
 
 **bedust**, seⁿ-eng-têng; mak--tie̍h thôu-hún; seⁿ-tîn-ai.
 
@@ -222,7 +222,7 @@ date: 2024-03-31 16:11:00
 
 **befoul**, bua̍h--tie̍h nah-sap; mak--tie̍h nah-sap; hú--tie̍h nap-sap.
 
-**beg**, khiû; khṳ́n-khiû; koh-lô. for alms, khṳt-chia̍h. *beg pardon*, m̄-tsai-thâu; sù-tsūe; tit-tsũe; sù--chē; sit-lót; tit-tsõ--tie̍h-lṳ́.
+**beg**, khiû; khṳ́n-khiû; koh-lô. *for alms*, khṳt-chia̍h. *beg pardon*, m̄-tsai-thâu; sù-tsūe; tit-tsũe; sù--chē; sit-lót; tit-tsõ--tie̍h-lṳ́.
 
 **beget**, seⁿ.
 
@@ -250,7 +250,7 @@ date: 2024-03-31 16:11:00
 
 **belfry**, cheng-lâu; cheng-thah.
 
-**believe**, sìn; siang-sìn; sìn-ho̍k; bô-gî. trust, sìn-kõu.
+**believe**, sìn; siang-sìn; sìn-ho̍k; bô-gî. *trust*, sìn-kõu.
 
 **bell**, cheng. *small*, leng. *strike*, khà-cheng. *tongue of bell*, cheng-thûi. *ring*, iê-leng; iẽ-leng. *belles lettres*, bûn-chieⁿ.
 
@@ -282,7 +282,7 @@ date: 2024-03-31 16:11:00
 
 **beneficial**, ũ-iah; ũ-lĩ-iah; ũ-kong-hāu.
 
-**benefit**, to, sái ũ-iah; si-ṳn; lĩ; lĩ-iah.
+**benefit**, *to*, sái ũ-iah; si-ṳn; lĩ; lĩ-iah.
 
 **benevolence**, jìn-ài; jîn-tek; ṳn-hũi; jîn-tshṳ̂; jîn-ṳn; ṳn-chhêng. *to shew*, kiâⁿ-tek; si-hũi; si-ṳn.
 
@@ -320,7 +320,7 @@ date: 2024-03-31 16:11:00
 
 **bet**, sie-su; sie-tóu. *fond of betting*, hàuⁿ-sie-su. *to make* a, lo̍h-tóu.
 
-**betel**, *leaf*, láu-hie̍h. nut, pin-nôⁿ.
+**betel**, *leaf*, láu-hie̍h. *nut*, pin-nôⁿ.
 
 **betimes**, tsá.
 
@@ -346,7 +346,7 @@ date: 2024-03-31 16:11:00
 
 **bias**, phien-sim; sim-kuaⁿ phõ-che̍k-pôiⁿ; tōa-sòi-sim.
 
-**bib**, a, ãm-ûi.
+**bib**, *a*, ãm-ûi.
 
 **Bible**, Siàⁿ-kiaⁿ; Siàⁿ-tsṳ.
 
@@ -390,7 +390,7 @@ date: 2024-03-31 16:11:00
 
 **bite**, kã. *bite off*, kã-tñg. *as pepper*, soh--tie̍h chi̍h; soh-tshùi soh-chi̍h.
 
-**bitter**, khóu. in life, khóu-tshó; sin-khóu.
+**bitter**, khóu. *in life*, khóu-tshó; sin-khóu.
 
 **bitumen**, chie̍h-iû.
 
@@ -400,7 +400,7 @@ date: 2024-03-31 16:11:00
 
 **blackbird**, peh-chi̍h-chiáu; peh-lêng.
 
-**blacking**, shou, sueh-ôi kâi-ba̍k-tsúi.
+**blacking**, *shou*, sueh-ôi kâi-ba̍k-tsúi.
 
 **blacksmith**, phah-thih sai-pẽ.
 
@@ -432,7 +432,7 @@ date: 2024-03-31 16:11:00
 
 **blemish**, ũ-hiâ--tshù. *on one's reputation*, miâⁿ-sek tiam-u.
 
-**blend**, sie-tsham. metal, tsò-pû-iêⁿ.
+**blend**, sie-tsham. *metal*, tsò-pû-iêⁿ.
 
 **bless**, tsok; tsok-hok. *as God*, sṳ̀-hok; kàng-hok; hṳ́-hok.
 
@@ -456,7 +456,7 @@ date: 2024-03-31 16:11:00
 
 **bloated**, tièⁿ; chéng; hap-hap.
 
-**block**, *for chopping meat*, tiam; tshâ-tiam. *large lump of wood*, tshâ-thâu. *printing*, ìn-póiⁿ. to cut, khek-ìn-póiⁿ; kuah-ìn-póiⁿ.
+**block**, *for chopping meat*, tiam; tshâ-tiam. *large lump of wood*, tshâ-thâu. *printing*, ìn-póiⁿ. *to cut*, khek-ìn-póiⁿ; kuah-ìn-póiⁿ.
 
 **blockade**, kìm-kháu; kìm-káng.
 
@@ -510,9 +510,9 @@ date: 2024-03-31 16:11:00
 
 **Bohea**, *hill*, Bú-î-suaⁿ.
 
-**boil**, *rice*, tsṳ́-pm̄g; pû-pn̄g. *tea*, pû-tê. fish, sa̍h-hṳ̂. *a fowl*, tũn-koi. egg, sa̍h-nñg. *half-boil*, sa̍h-thn̄g-sim. *thoroughly*, sa̍h-se̍k; sa̍h-thàng-sim; pû-mîⁿ-mîⁿ; pû-lok-lok. *the rice is not yet boiled*, pn̄g būe-se̍k. *rice boiled but not very soft*, pn̄g khiū. *boil water*, pû-tsúi. *boiling water*, kún-tsúi. boiler, ue; pn̄g-ue; tê-ue; tâng-ue.
+**boil**, *rice*, tsṳ́-pm̄g; pû-pn̄g. *tea*, pû-tê. *fish*, sa̍h-hṳ̂. *a fowl*, tũn-koi. *egg*, sa̍h-nñg. *half-boil*, sa̍h-thn̄g-sim. *thoroughly*, sa̍h-se̍k; sa̍h-thàng-sim; pû-mîⁿ-mîⁿ; pû-lok-lok. *the rice is not yet boiled*, pn̄g būe-se̍k. *rice boiled but not very soft*, pn̄g khiū. *boil water*, pû-tsúi. *boiling water*, kún-tsúi. *boiler*, ue; pn̄g-ue; tê-ue; tâng-ue.
 
-**boil**, a, che̍k-lia̍p-thûe; zua̍h-pauh; pùi kat. *on buttocks*, tsõ-póiⁿ-tshng.
+**boil**, *a*, che̍k-lia̍p-thûe; zua̍h-pauh; pùi kat. *on buttocks*, tsõ-póiⁿ-tshng.
 
 **boisterous**, *wind*, huang mé; huang tōa; khûang-huang tãi-tsak.
 
@@ -530,7 +530,7 @@ date: 2024-03-31 16:11:00
 
 **bombazine**, ú-lẽng; ú-tn̄g; ú-se.
 
-**bond**, *contract*, ieh-toaⁿ; ieh-jī; ha̍p-tâng, khòi.
+**bond**, *contract*, *ieh-toaⁿ; ieh-jī; ha̍p-tâng*, khòi.
 
 **bondman**, po̍k; nôuⁿ-po̍k; ke-po̍k; po̍k-jîn.
 
@@ -560,7 +560,7 @@ date: 2024-03-31 16:11:00
 
 **bore**, tsǹg. *a hole*, tsǹg-khang; sú-khang. *borer*, tsńg-kiáⁿ; keng-sú.
 
-**born**, seⁿ; seⁿ-tshut-sì; tshut-sì. again, têng-seⁿ.
+**born**, seⁿ; seⁿ-tshut-sì; tshut-sì. *again*, têng-seⁿ.
 
 **borrow**, chieh; chhia.
 
@@ -618,7 +618,7 @@ date: 2024-03-31 16:11:00
 
 **branch**, ki; chhiū-ki; chhiū-pà; chhiū-kàng. *branch off*, pun-ki; khui-a; pun-a.
 
-**brand**, chhiah-jī; chhih-jī; ù-jī. a, hō; jī-hō.
+**brand**, chhiah-jī; chhih-jī; ù-jī. *a*, hō; jī-hō.
 
 **brandish**, *a sword*, mõng-kiàm; bú-kiàm.
 
@@ -692,7 +692,7 @@ date: 2024-03-31 16:11:00
 
 **brine**, kiâm-tsúi; iâm-lóu.
 
-**bring**, khie̍h--lâi; tòa--lâi; tsah--lâi. tea, tshong-tê--lâi. *up*, iâng; chhī; chhī-tōa. *forth*, seⁿ. *back one's former feeling*, ho̍k-tńg nâng kâi-tsho-sim.
+**bring**, khie̍h--lâi; tòa--lâi; tsah--lâi. *tea*, tshong-tê--lâi. *up*, iâng; chhī; chhī-tōa. *forth*, seⁿ. *back one's former feeling*, ho̍k-tńg nâng kâi-tsho-sim.
 
 **brink**, *river*, hô-kîⁿ; hô-piⁿ; khoi-kîⁿ.
 
@@ -710,7 +710,7 @@ date: 2024-03-31 16:11:00
 
 **brogue**, hiang-thâm; thóu-ūe; gṳ́; thóu-gṳ́; thóu-thâm.
 
-**broil**, a, tshàu-mãuⁿ; uan-ke lâ-chè. *on the fire*, sie-ne̍k.
+**broil**, *a*, tshàu-mãuⁿ; uan-ke lâ-chè. *on the fire*, sie-ne̍k.
 
 **broken**, phùa; chi̍h. *fragments*, tshùi. *hearted*, sim sng. see [break](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#break).
 
@@ -750,7 +750,7 @@ date: 2024-03-31 16:11:00
 
 **buccaneer**, hái-tsha̍t.
 
-**buck**, te̍k-kóu. horn, te̍k-kak.
+**buck**, te̍k-kóu. *horn*, te̍k-kak.
 
 **bucket**, tsúi-tháng. *(with bow handle)*, tiàu-tháng. *for well*, pua̍h-tháng.
 
@@ -808,7 +808,7 @@ date: 2024-03-31 16:11:00
 
 **burial**, kuaⁿ-ba̍k sàng-chiẽⁿ suaⁿ-thâu; tsǹg-kuaⁿ-tshâ; sàng-tsǹg.
 
-**burn**, sie; húe sie. up, sie-tiāu. a, sie--tie̍h; húe thǹg--tie̍h; húe chhih--tie̍h.
+**burn**, sie; húe sie. *up*, sie-tiāu. *a*, sie--tie̍h; húe thǹg--tie̍h; húe chhih--tie̍h.
 
 **burnish**, bûa-kng; chhiù-kng.
 
@@ -822,7 +822,7 @@ date: 2024-03-31 16:11:00
 
 **bushel**, táu.
 
-**busy**, ũ-sṳ̄; m̄-ôiⁿ. very, che̍k-sin chẽng-sĩ-sṳ̄; sṳ̄-bũ tsōi-tsãi. *business*, sṳ̄; sṳ̄-bũ; thâu-lōu. *business (mercantile)*, seng-lí. *business (official)*, kong-sṳ̄.
+**busy**, ũ-sṳ̄; m̄-ôiⁿ. *very*, che̍k-sin chẽng-sĩ-sṳ̄; sṳ̄-bũ tsōi-tsãi. *business*, sṳ̄; sṳ̄-bũ; thâu-lōu. *business (mercantile)*, seng-lí. *business (official)*, kong-sṳ̄.
 
 **busybody**, hàuⁿ-seⁿ-sṳ̄.
 
@@ -846,7 +846,7 @@ date: 2024-03-31 16:11:00
 
 **buttress**, chhiêⁿ-tú; chhiêⁿ-tún. *of bridge*, kiê-tún.
 
-**buy**, bói. oil, tò-iû. *rice*, tia̍h-bí; niêⁿ-bí. *wine*, kou-chiú. *cloth*, ka-pòu. *fowls*, lia̍h-koi. *pork*, kuah-tṳ-ne̍k; phah-tṳ-ne̍k. *fish*, téng-hṳ̂. *and sell*, bói-bōi.
+**buy**, bói. *oil*, tò-iû. *rice*, tia̍h-bí; niêⁿ-bí. *wine*, kou-chiú. *cloth*, ka-pòu. *fowls*, lia̍h-koi. *pork*, kuah-tṳ-ne̍k; phah-tṳ-ne̍k. *fish*, téng-hṳ̂. *and sell*, bói-bōi.
 
 **buzz**, ng-ng-kiè; hng-hng-kiè.
 
