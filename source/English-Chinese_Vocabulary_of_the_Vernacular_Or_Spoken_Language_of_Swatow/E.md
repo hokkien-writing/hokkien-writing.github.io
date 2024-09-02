@@ -304,13 +304,13 @@ date: 2024-03-31 16:11:00
 
 **entire**, tsn̂g-kâi; ka-nn̂g-kâi; tshûan; kàu-kâi; kan-chẽng. *entirely false*, tsa̍p-hun-ké; bô-iáⁿ bô-chiah; ké liáu-liáu.
 
-**entitled***to*, kham-kai-tit; eng-kai-tit.
+**entitled**, *to*, kham-kai-tit; eng-kai-tit.
 
 **entrails**, tn̂g; sim-tn̂g; tóu-tn̂g; tn̂g-tõu.
 
 **entrance**, kháu; mn̂g. *no entrance*, bô-lōu hó-ji̍p; bô-lōu-mn̂g. *refuse entrance*, bô-i-ji̍p. *force an entrance*, khiâng-ji̍p.
 
-**entrap**, *see***ENSNARE**.
+**entrap**, see ENSNARE.
 
 **entreat**, khiû; khṳ́n-khiû; khî-khiû; khiû-khṳt; ai-khiû; khóu-khiû; koh-lô.
 
@@ -350,7 +350,7 @@ date: 2024-03-31 16:11:00
 
 **equilibrium**, pêⁿ-tãng; liáng-pôiⁿ pêⁿ-tãng; tùi-phêng.
 
-**equipoise**, *see***EQUILIBRIUM**.
+**equipoise**, see EQUILIBRIUM.
 
 **equinox**, ji̍t-mêⁿ pêⁿ-pun. *vernal*, tshun-hun. *autumnal*, chhiu-hun.
 
@@ -402,7 +402,7 @@ date: 2024-03-31 16:11:00
 
 **estate**, *landed*, tī; tī-hng; tshân-tī. *house*, tshù; tshù-the̍h. *general*, ke-sṳ̄; ke-tshâi; ke-ngia̍p; ke-tsṳ. *arrived at man's estate*, tōa--liáu; chiáng-sêng.
 
-**esteem**, *a person*, kèng-tõng; tsun-tõng; kùi-tõng; thóiⁿ-tõng. *see***CONSIDER**.
+**esteem**, *a person*, kèng-tõng; tsun-tõng; kùi-tõng; thóiⁿ-tõng. see CONSIDER.
 
 **estimate**, *price or value*, kóu-kè; kóu-ta̍t; phah-kè; pān; iak-pān; phah-pān; phah-sǹg; chhek-ta̍t; tshui-chhek.
 
@@ -514,7 +514,7 @@ date: 2024-03-31 16:11:00
 
 **exigency**, kín-kip kâi-sṳ̄; kín-iàu kâi-sṳ̄. *from the exigency of the case*, bô-khó nãi-hô.
 
-**exile**, *see***BANISH**.
+**exile**, see BANISH.
 
 **exist**, ũ; tõ. *still in existence*, huân-tshûn--tõ-kò.
 
@@ -574,7 +574,7 @@ date: 2024-03-31 16:11:00
 
 **expostulate**, khóu-khǹg; la̍t-khǹg; chhiet-khǹg; hiâm; cheh-khǹg; khǹg-kài.
 
-**expound**, *see***EXPLAIN**.
+**expound**, see EXPLAIN.
 
 **express**, tàⁿ; tàⁿ-tshut; káng-tshut; sueh-tshut. *one's opinion*, tàⁿ-tshut ì-kièn. *purpose*, piáu-mêng ì-sṳ̀. *juice*, tẽⁿ-tsap; liū-tsap. *juice of sugar cane*, ká-thn̂g. *an express*, tsuan-sái kâi-nâng; pò-bé. *government express*, tshoiⁿ-lí-bé. *express purpose*, tõu-tsuan-ài.
 
@@ -594,7 +594,7 @@ date: 2024-03-31 16:11:00
 
 **exterminate**, mi̍t-tso̍h; tu-mi̍t; tshau-mi̍t; tṳ̂-mi̍t; thâi-chĩn.
 
-**external**, *see***EXTERIOR**.
+**external**, see EXTERIOR.
 
 **extinct**, mi̍t-buâng; bô--liáu. *posterity*, bô-aũ; tso̍h-sṳ̂.
 

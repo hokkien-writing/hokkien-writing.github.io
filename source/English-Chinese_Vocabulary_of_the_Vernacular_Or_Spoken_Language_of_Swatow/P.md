@@ -838,7 +838,7 @@ date: 2024-03-31 16:11:00
 
 **profound**, chhim; chhim-àu; àu-biāu; mûiⁿ-àu; chhim-mûiⁿ.
 
-**profuse**, *in expenditure*, see [prodigal](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/P#prodigal). *in promises*, múaⁿ-tshùi ìn-sêng.
+**profuse**, *in promises*, múaⁿ-tshùi ìn-sêng.
 
 **progenitor**, soiⁿ-tsóu; tsóu-tsong; tsóu-kong.
 
@@ -938,7 +938,7 @@ date: 2024-03-31 16:11:00
 
 **pulp**, *of fruit*, kúeⁿ-chí-ne̍k.
 
-**pulse** ,*the*, me̍hⁿ. *feel the*, me̍hⁿ; phah-me̍hⁿ; tẽⁿ-me̍hⁿ; àn-me̍hⁿ; chién-me̍hⁿ; thóiⁿ-me̍hⁿ.
+**pulse**, *the*, me̍hⁿ. *feel the*, me̍hⁿ; phah-me̍hⁿ; tẽⁿ-me̍hⁿ; àn-me̍hⁿ; chién-me̍hⁿ; thóiⁿ-me̍hⁿ.
 
 **pulverize**, ngóiⁿ-bua̍h; lûi-iùⁿ.
 

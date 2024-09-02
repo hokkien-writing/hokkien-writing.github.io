@@ -642,7 +642,7 @@ date: 2024-03-31 16:11:00
 
 **cluck**, kok-kok-kiè.
 
-**clue**, see [clew](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#clew). *of an affair*, thâu-sû; thâu-sú.
+**clue**, *of an affair*, thâu-sû; thâu-sú. see [clew](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/C#clew).
 
 **clump**, *of trees*, chhiū-nâⁿ. *bamboo*, tek-lîm; tek-nâⁿ.
 

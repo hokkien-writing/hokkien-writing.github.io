@@ -410,7 +410,7 @@ date: 2024-03-31 16:11:00
 
 **dialect**, thóu-ūe; thóu-thâm; thóu-im; im-gṳ́; khieⁿ; thóu-khieⁿ. *native*, hiang-thâm.
 
-**dialogue**, mn̄g-tap; phue̍h-ūe. *see***CONVERSATION**.
+**dialogue**, mn̄g-tap; phue̍h-ūe. see CONVERSATION.
 
 **diameter**, tong-sùaⁿ; thàu-tong ti̍t-sùaⁿ.
 

@@ -154,7 +154,7 @@ date: 2024-03-31 16:11:00
 
 **whenever**, put-lũn tiâng-sî. *whenever I think of it tears come into my eyes*, sim che̍k-ē-siẽⁿ, ma̍k-tsap chiũ-àiⁿ-lâu.
 
-**where**. tî-kò; tõ-tî-kò. *where I was born*, uá tshut-sì kâi-ūi-tshṳ̀; uá tshut-sin kâi-tī. *wherever*, put-lũn tî-kò; put-lũn hô-tshù.
+**where**, tî-kò; tõ-tî-kò. *where I was born*, uá tshut-sì kâi-ūi-tshṳ̀; uá tshut-sin kâi-tī. *wherever*, put-lũn tî-kò; put-lũn hô-tshù.
 
 **wherefore**, in-ũi tsò-nîⁿ; ũ sĩ-mih-uân-kù; sĩ-mih uân-kù; sĩ-mih sṳ̄-kù. see THEREFORE.
 

@@ -194,7 +194,7 @@ date: 2024-03-31 16:11:00
 
 **beautify**, hún-sek; tá-pàn; siu-tsuang tá-pàn.
 
-**beauty**, see [beautiful](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#beautiful), *a beauty*, múiⁿ-jîn; thí-thài hó.
+**beauty**, *a beauty*, múiⁿ-jîn; thí-thài hó. see [beautiful](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#beautiful).
 
 **beaver**, hái-lô. *skin*, hái-lô-phûe.
 
