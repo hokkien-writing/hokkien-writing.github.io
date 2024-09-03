@@ -16,30 +16,30 @@ date: 2022-11-20 23:02:00
 * 【着力】(Tíh-lát) To be very ill, almost dying.
 <!--more-->
 * 【醫袂好】(Ui bõi-hó) Incurable.
-* 【醫難好】(Ui oh-hó) -
+* 【醫難好】(Ui oh-hó) Difficult to cure.
 * 【難醫】(Oh-ui) Difficult to cure.
 * 【畧好】(Ióu-hó) Better.
 * 【-】(Tsuáh) Better.
 * 【全愈】(Tshuân-zú) Quite recovered.
 * 【斷氣】(Tñg-khùi) To expire.
-* 【頭壳痛】(Thâu-khak thiàⁿ) -
+* 【頭壳痛】(Thâu-khak thiàⁿ) Headache.
 * 【頭壳眩】(Thâu-khak hîn) Headache.
-* 【人熱】(Nâng zuáh) -
+* 【人熱】(Nâng zuáh) Fever.
 * 【發燒】(Huat-sie) Fever.
 * 【畏冷】(Uì-chhìn) Ague.
 * 【發燒畏冷】(Huat-sie ùi-chhìn) Fever and ague.
 * 【肚痛】(Tóu-thiàⁿ) Stomachache.
 * 【抽痛】(Thiu-thiàⁿ) Cramp.
 * 【嘔】(Thôu) To vomit.
-* 【瀉屎】(Làu-sái) -
+* 【瀉屎】(Làu-sái) Diarrhoea.
 * 【肚瀉】(Tóu làu) Diarrhoea.
-* 【放血】(Pàng-àng) -
-* 【滯氣】(Thì-khì) -
+* 【放血】(Pàng-àng) Dysentery.
+* 【滯氣】(Thì-khì) Dysentery.
 * 【痢疾】(Lĩ-chit) Dysentery.
 * 【肚澁】(Tóu-siap) Costiveness.
 * 【着痧】(Tiéh-sua) Colic.
 * 【損病】(Sùn-pēⁿ) Consumption.
-* 【瘋痛】(Huang-thiàⁿ) -
+* 【瘋痛】(Huang-thiàⁿ) Rheumatism.
 * 【生瘋】(Seⁿ-huang) Rheumatism.
 * 【傷風】(Sieⁿ-huang) To catch cold when ill, or just after being ill.
 * 【寒着】(Kûaⁿ--tiéh) To catch cold.
@@ -47,7 +47,7 @@ date: 2022-11-20 23:02:00
 * 【甘癪】(Kam-chek) Having tape-worms in the stomach.
 * 【喘】(Tshuán) DIfficult respiration.
 * 【咬嗽】(Ka-sàu) To cough.
-* 【呾話重句】(Tàⁿ-uē têng-kù) -
+* 【呾話重句】(Tàⁿ-uē têng-kù) Stammering.
 * 【大舌】(Tūa-chíh) Stammering.
 * 【鮡】(Thiôu) Pimples.
 * 【瘡】(Tshng) Ulcers.
@@ -62,7 +62,7 @@ date: 2022-11-20 23:02:00
 * 【眩船】(Hîn-tsûn) Sea-sick.
 * 【齒痛】(Khí-thiàⁿ) Toothache.
 * 【吐瀉】(Thòu-sià) Cholera.
-* 【賢亞娘】(Gâu-a-niêⁿ) -
+* 【賢亞娘】(Gâu-a-niêⁿ) Small-pox.
 * 【出珠】(Tshut-tsu) Small-pox.
 * 【食痘】(Chiáh-tāu) -
 * 【出痘】(Tshut-tāu) Chicken-pox.
@@ -70,7 +70,7 @@ date: 2022-11-20 23:02:00
 * 【食粥】(Chiáh-mûeⁿ) Measles.
 * 【大頸奎】(Tūn-ãm-kui) Goitre.
 * 【瘤】(Liû) Tumour.
-* 【軟疕】(Nńg-nîⁿ) -
+* 【軟疕】(Nńg-nîⁿ) Palsy.
 * 【痒癲】(Kuàn-pien) Palsy.
 * 【顚】(Sióu) Mad.
 * 【心神不定】(Sim-sîn m̄-tiāⁿ) Insane.
@@ -88,7 +88,7 @@ date: 2022-11-20 23:02:00
 * 【缺嘴】(Khih-tshùi) Hare-lip.
 * 【腰龜】(Ie-ku) Humpback.
 * 【拐脚】(Kuái-kha) Lame.
-* 【枋脚䥥】(Páng-kha-liâm.) -
+* 【枋脚䥥】(Páng-kha-liâm) -
 * 【縻脚】(Miⁿ-kha) Ulcerated leg.
 * 【生物】(Seⁿ-muéh) To have a disease.
 * 【生㿗】(Seⁿ-thûe) To have a boil.
@@ -98,16 +98,16 @@ date: 2022-11-20 23:02:00
 * 【痣】(Kì) A wart.
 * 【侯蠅屎痣】(Hôu-sîn-sái-kì) A mole.
 * 【破相】(Phùa-sièⁿ) Deformed.
-* 【瘟疫】(Un-chiàng) -
+* 【瘟疫】(Un-chiàng) A plague.
 * 【天時粗澁】(Thiⁿ-sî tshou-siap) A plague.
 * 【平安】(Phêng-an) Peace.
-* 【藥單】(Iéh-tuaⁿ) -
+* 【藥單】(Iéh-tuaⁿ) A prescription.
 * 【藥方】(Iéh-hng) A prescription.
 * 【藥】(Iéh) Medicine.
 * 【藥丸】(Iéh-íⁿ) Pills.
 * 【膏藥】(Ko-iéh) Ointment, plaster.
 * 【藥粉】(Iéh-hún) Powder, for taking.
-* 【藥末】(Iéh-buáh) „ „ applying.
+* 【藥末】(Iéh-buáh)  Powder, for taking, applying.
 * 【寒藥】(Kûaⁿ-iéh) Quinine.
 * 【紅藥】(Âng-iéh) Pain-killer.
 * 【戒芬丸】(Kói-hun-îⁿ) “Stop-opium” pills.

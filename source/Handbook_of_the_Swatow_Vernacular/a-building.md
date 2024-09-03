@@ -58,7 +58,7 @@ date: 2022-11-20 21:38:00
 * 【看書房】(Thóiⁿ-tsṳ-pâng) A reading room.
 * 【食房】(Chiáh-pâng) A dining room.
 * 【臥房】(Út-pâng) A bed room.
-* 【洗浴房】(Sói-ék-pàng or) -
+* 【洗浴房】(Sói-ék-pàng or) A bath-room.
 * 【洗浴棚】(Sói-ék-pêⁿ) A bath-room.
 * 【貯貨房】(Tun-hùe-pâng) A store-room.
 * 【走馬樓】(Tsáu-bé-lâu) Verandah, up-stairs.

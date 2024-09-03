@@ -9,7 +9,7 @@ date: 2022-11-20 21:59:00
 ## Lesson XIV. household furniture &c.
 
 * 【家私】(Ke-si) Furnitures.
-* 【床】(Tshn̂g) -
+* 【床】(Tshn̂g) A table.
 * 【棹】(Toh) A table.
 * 【校椅】(Kau-íⁿ) A chair.
 * 【琴】(Khîm) An organ or piano.
@@ -41,7 +41,7 @@ date: 2022-11-20 21:59:00
 * 【墨水礶】(Bák-tsúi-kuàn) Ink-stand.
 * 【白竹紙】(Péh-tek-tsúa) Chinese note paper.
 * 【西國紙】(Sai-kok-tsúa) Foreign paper.
-* 【信皮】(Siǹ-phûe) -
+* 【信皮】(Siǹ-phûe) Envelopes.
 * 【批皮】(Pho-phûe) Envelopes.
 * 【草蓆】(Tsháu-chhiéh) Mats.
 * 【拭脚個蓑】(Chhit-kha kâi sui) Door-mat.
@@ -104,7 +104,7 @@ date: 2022-11-20 21:59:00
 * 【鏡】(Kiàⁿ) A looking glass.
 * 【梳】(Siu) A comb.
 * 【虱箆】(Sat-pìn) A Chinese small-tooth comb.
-* 【筅】(Tshóiⁿ) -
+* 【筅】(Tshóiⁿ) A brush.
 * 【刷】(Sueh) A brush.
 * 【齒刷】(Khí-chhiù) A tooth-brush.
 * 【剃刀】(Thì-to) A razor.
@@ -197,7 +197,7 @@ date: 2022-11-20 21:59:00
 * 【羔丕礶】(Ko-pî-kuàn) A coffee pot.
 * 【羔丕磨】(Ko-pî-bō) A coffee mill.
 * 【桶盤】(Tháng-pûaⁿ) A tray.
-* 【筒架】(Tãng-kè) -
+* 【筒架】(Tãng-kè) A cup-board.
 * 【食橱】(Chiáh-tû) A cup-board.
 * 【鹽碟】(Iâm-tíh) Salt cellar.
 * 【碟仔】(Tíh-kiáⁿ) Chinese little saucer for holding sauce.
@@ -252,7 +252,7 @@ date: 2022-11-20 21:59:00
 * 【水缸】(Tsúi-kng) A water jar.
 * 【鉢】(Puah) A pot.
 * 【桶】(Thãng) A tub, a bucket.
-* 【沐浴桶】(Sói-ék-tháng) -
+* 【沐浴桶】(Sói-ék-tháng) A bath-tub.
 * 【脚桶】(Kha-tháng) A bath-tub.
 * 【竹椅】(Tek-íⁿ) A bamboo seat.
 * 【椅頭】(Íⁿ-thâu) A high stool.
@@ -262,7 +262,7 @@ date: 2022-11-20 21:59:00
 * 【磨刀石】(Bûa-to-chiéh) Whetstone.
 * 【燈盞】(Teng-chuáⁿ) A Chinese table lamp.
 * 【紙輦燈】(Chúa-luán-teng) A paper spill.
-* 【火牌】(Húe-pâi) -
+* 【火牌】(Húe-pâi) Matches.
 * 【自來火】(Tsṳ̃-lâi-húe) Matches.
 * 【燈心】(Teng-sim) Lamp wick.
 * 【油】(Iû) Oil.

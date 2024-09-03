@@ -15,19 +15,19 @@ date: 2022-11-20 22:29:00
 * 【裘】(Hiûⁿ) A Winter coat.
 * 【長衫】(Tn̂g-saⁿ) A long coat.
 <!--more-->
-* 【答背】(Tah-pùe) -
+* 【答背】(Tah-pùe) A waistcoat.
 * 【袷子】(Kah-kiáⁿ) A waistcoat.
 * 【身裡衫】(Sin-tói-saⁿ) A shirt or singlet.
 * 【衫袖】(Saⁿ-ńg) Sleeves.
 * 【衫袋】(Saⁿ-tō) Pockets.
-* 【手布】(Chhiú-pòu) -
+* 【手布】(Chhiú-pòu) Handkerchiefs.
 * 【手綢】(Chhiú-tiû) Handkerchiefs.
 * 【手套】(Chhiú-lap) Gloves.
 * 【鈕】(Liú) Buttons.
 * 【鈕鈸】(Liú-phāng) Button holes.
 * 【棕蓑】(Tsang-sui) A rain coat, made of husk.
 * 【帽】(Bō) A hat.
-* 【帽子】(Bō-kiáⁿ) -
+* 【帽子】(Bō-kiáⁿ) A cap.
 * 【小帽】(Sié-bō) A cap.
 * 【氈帽】(Chiⁿ-bō) A felt hat.
 * 【草帽】(Tsháu-bō) A straw hat.
@@ -38,7 +38,7 @@ date: 2022-11-20 22:29:00
 * 【褲尘】(Khòu-kuéh) Short trowsers.
 * 【褲頭帶】(Khòu-thâu-tūa) A belt.
 * 【褲頭龍】(Khòu-thâu-léng) do silk.
-* 【肚腰】(Tói-ie) -
+* 【肚腰】(Tói-ie) A purse worn on the waist.
 * 【荷包】(Hô-pau) A purse worn on the waist.
 * 【襪】(Buéh) Stockings.
 * 【烏布鞋】(Ou-pòu-ôi) Shoes, black-cloth.

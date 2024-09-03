@@ -18,7 +18,7 @@ date: 2022-11-20 21:44:00
 * 【辮】(Piⁿ) Queue.
 * 【面】(Mīn) Face.
 <!--more-->
-* 【目】(Mák) -
+* 【目】(Mák) Eyes.
 * 【目周】(Mák-chiu) Eyes.
 * 【目眉】(Mák-bâi) Eye-brow.
 * 【目毛】(Mák-chhì-môⁿ) Eye-lash.

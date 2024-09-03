@@ -51,7 +51,7 @@ date: 2022-11-20 22:11:00
 * 【剝皮】(Pak-phûe) To peel, as skin.
 * 【舂】(Cheng) To pound.
 * 【試】(Chhì) To taste, to try.
-* 【氣味】(Khì-bī) -
+* 【氣味】(Khì-bī) Palate or taste.
 * 【味道】(Bī-sōu) Palate or taste.
 * 【臭生】(Tshàu-tsho) Fish smell.
 * 【甜】(Tiâm) Sweet.

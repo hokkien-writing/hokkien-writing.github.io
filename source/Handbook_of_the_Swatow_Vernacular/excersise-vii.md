@@ -10,7 +10,7 @@ date: 2022-11-16 20:16:00
 
 ### section I.
 
-* 【世間】(Sì-kan) -
+* 【世間】(Sì-kan) The world.
 * 【天下】(Thiⁿ-ẽ) The world.
 * 【天】(Thiⁿ) Heaven.
 * 【地】(Tī) Earth.
@@ -24,7 +24,7 @@ date: 2022-11-16 20:16:00
 * 【樹】(Chhiū) Trees.
 * 【葉】(Hiéh) Leaves.
 * 【大石】(Tūa-chiéh) Rocks.
-* 【石】(Chiéh) -
+* 【石】(Chiéh) Stones.
 * 【石部】(Chiéh-põu) Stones.
 * 【沙】(Sua) Sand.
 * 【人】(Nâng) Mankind.
@@ -59,7 +59,7 @@ date: 2022-11-16 20:16:00
 * 【雨】(Hõu) Rain.
 * 【雲】(Hûn) Clouds.
 * 【虹】(Khẽng) Rainbow.
-* 【雷】(Lûi) -
+* 【雷】(Lûi) Thunder, lightning.
 * 【雷公】(Lûi-kong) Thunder, lightning.
 * 【風颱】(Huang-thai) Typhoon.
 * 【湧】(Éng) Waves.

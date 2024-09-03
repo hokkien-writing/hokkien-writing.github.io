@@ -10,16 +10,16 @@ date: 2022-11-20 23:22:00
 
 ### Piece-goods.
 
-* 【布疋】(Pòu-phit) -
+* 【布疋】(Pòu-phit) Piece-goods.
 * 【布路】(Pòu-lōu) Piece-goods.
 * 【𦮴】(Nîⁿ) Woollen cloth.
-* 【烏𦮴】(Ou-nîⁿ) „ „ black.
+* 【烏𦮴】(Ou-nîⁿ) Woollen cloth, black.
 * 【白𦮴】(Péh-nîⁿ) Flannel.
 * 【水𦮴】(Tsúi-nîⁿ) Tweeds.
 * 【絨】(Zông) Velvet.
 <!--more-->
 * 【斜文】(Siâ-bûn) Calico.
-* 【朱布】(Tsu-pòu) -
+* 【朱布】(Tsu-pòu) Gray shirting.
 * 【畨布】(Huan-pòu) Gray shirting.
 * 【白布】(Péh-pòu) White cloth.
 * 【烏布】(Ou-pòu) Black cloth.
@@ -33,7 +33,7 @@ date: 2022-11-20 23:22:00
 * 【絲】(Si) Silk.
 * 【綴】(Tn̄g) Satin.
 * 【皺紗】(JIòu-se) Crape.
-* 【羽紗】(Ú-se) -
+* 【羽紗】(Ú-se) Camlet.
 * 【羽毛】(Ú-môⁿ) Camlet.
 * 【羽綾】(Ú-lêng) Lasting.
 * 【柒個布】(Níⁿ--kâi-pòu) Dyed cloth.
@@ -60,7 +60,7 @@ date: 2022-11-20 23:22:00
 * 【玉】(Gék) Jade, ox-stone.
 * 【石】(Chiéh) Stone.
 * 【火石】(Húe-chiéh) Flint.
-* 【硝】(Siou) -
+* 【硝】(Siou) Saltpetre.
 * 【鹽硝】(Iám-siou) Saltpetre.
 * 【硫磺】(Liû-n̂g) Sulphur, brimstone.
 * 【白𥐥】(Péh-huân) Alum.
@@ -77,10 +77,10 @@ date: 2022-11-20 23:22:00
 * 【竹器】(Tek-khì) Bamboo ware.
 * 【荖枳】(Láu-chí) Betel nuts.
 * 【荖葉】(Láu-hiéh) „ leaves.
-* 【燕】(Ièn) -
+* 【燕】(Ièn) Birdnests.
 * 【燕窩】(Ieǹ-o) Birdnests.
 * 【竹跑】(Tek-phâu) Bombs.
-* 【樟栳】(Chieⁿ-ló) -
+* 【樟栳】(Chieⁿ-ló) Camphor.
 * 【樟柴】(Chieⁿ-tshâ) Camphor.
 * 【帆布】(Phâng-pòu) Canvas.
 * 【桂皮】(Kùi-phûe) Cassia.
@@ -103,10 +103,10 @@ date: 2022-11-20 23:22:00
 * 【葵扇】(Kûe-sîⁿ) „ palm-leaf.
 * 【玩物】(Thih-thô-muéh) Fancy articles.
 * 【雞毛筅】(Koi-môⁿ-tshóiⁿ) Feather-duster.
-* 【魚肚】(Hṳ̂-tõu) -
+* 【魚肚】(Hṳ̂-tõu) Fishmaws.
 * 【魚膘】(Hṳ̂-phiẽ) Fishmaws.
 * 【甘蜜】(Kam-bít) Gambier.
-* 【人參】(Jîn-siam) -
+* 【人參】(Jîn-siam) Gin-seng.
 * 【高麗】(Kau-lî) Gin-seng.
 * 【玻璃】(Po-lî) Glass.
 * 【玻璃器】(Po-lî-khì) Glass ware.
@@ -129,7 +129,7 @@ date: 2022-11-20 23:22:00
 * 【蠔壳鏡】(Ô-khak-kiàⁿ) Mother-of-pearl.
 * 【荳油】(Tāu-iû) Oil, pea.
 * 【油紙】(Iû-tsúa) Oil-paper.
-* 【珠】(Tsu) -
+* 【珠】(Tsu) Pearl.
 * 【蠔珠】(Ô-tsu) Pearl.
 * 【枋】(Pang) Planks.
 * 【鑲銀器】(Liū-ngṳ̂n-khì) Plated ware, silver.
@@ -168,7 +168,7 @@ date: 2022-11-20 23:22:00
 * 【挫】(Tshò) A file.
 * 【斧頭】(Póu-tháu) An axe.
 * 【鐵釘】(Thih-teng) A nail.
-* 【羅絲釘】(Lô-si-teng) -
+* 【羅絲釘】(Lô-si-teng) A screw.
 * 【羅絲鑽】(Lô-si-zuán) A screw.
 * 【釘咬】(Teng-kã) Nippers.
 * 【蛺蝶】(Hiáp-tiáp) A hinge.
@@ -205,12 +205,12 @@ date: 2022-11-20 23:22:00
 
 ### Accounts.
 
-* 【數】(Siòu) -
+* 【數】(Siòu) An account.
 * 【數目】(Siòu-bák) An account.
 * 【數簿】(Siòu-phõu) An account book.
 * 【日逐】(Jít-tók) A rough-day book.
 * 【日清】(Jít-chheng) A day-book.
-* 【總簿】(Tsóng-phõu) -
+* 【總簿】(Tsóng-phõu) A ledger.
 * 【來往】(Lâi-uáng) A ledger.
 * 【歸原】(Kui-nguân) A stock ledger.
 * 【算】(Sǹg) To count.
@@ -219,18 +219,18 @@ date: 2022-11-20 23:22:00
 * 【押數】(Ap-siòu) To balance accounts between two persons.
 * 【面會】(Mīn-hũe) To meet together (so as to see if the accounts of each other correspond.)
 * 【䰗數】(Khou-siòu) Closed accounts.
-* 【數完】(Siòu uân) -
+* 【數完】(Siòu uân) Accounts paid up.
 * 【數還清】(Siòu hôiⁿ-chheng) Accounts paid up.
 * 【計共】(Kòi-kāng) Amount.
 * 【來銀】(Lái-ngṳ̂n) Received to account.
 * 【抵除後結欠】(Tí-tṳ̂-aũ kat-khiàm) Balance due.
-* 【記數】(Kì-siòu) -
+* 【記數】(Kì-siòu) To enter in account.
 * 【上數】(Chiẽⁿ-siòu) To enter in account.
 * 【盤數】(Pûaⁿ-siòu) To transfer account.
 * 【單】(Tuaⁿ) A bill.
 * 【開單】(Khui-tuaⁿ) To make out an account.
 * 【收單】(Siu-tuaⁿ) A receipt.
-* 【畫花號】(Uéh-hue-hō) -
+* 【畫花號】(Uéh-hue-hō) To sign.
 * 【簽名】(Chhiam-miâⁿ) To sign.
 * 【印】(Ìn) A seal.
 * 【印色】(Ìn-sek) Cotton waste soaked with red colour to stamp with.
@@ -239,7 +239,7 @@ date: 2022-11-20 23:22:00
 * 【對】(Tùi) To make reference, tas to a book or bill.
 * 【日子】(Jít-chí) Dates.
 * 【算盤】(Sǹg-pûaⁿ) Abacus.
-* 【扣算盤】(Khà-sǹg-pûaⁿ) -
+* 【扣算盤】(Khà-sǹg-pûaⁿ) To reckon on the abacus.
 * 【籜算盤】(Kiah-sǹg-pûaⁿ) To reckon on the abacus.
 * 【算總】(Sǹg-bûa) To add.
 * 【除】(Tṳ̂) To subtract.
@@ -451,7 +451,7 @@ date: 2022-11-20 23:22:00
 * 【三角】(Saⁿ-kak) A triangle.
 * 【斗】(Táu) A bushel (rice.)
 * 【石】(Chiéh) Ten bushels.
-* 【厘秤】(Lî-chhìn) -
+* 【厘秤】(Lî-chhìn) A small scale.
 * 【天平】(Thien-phêng) A small scale.
 * 【柴秤】(Tshâ-chhìn) A steelyard.
 * 【秤錘】(Chhìn-thûi) A weight.

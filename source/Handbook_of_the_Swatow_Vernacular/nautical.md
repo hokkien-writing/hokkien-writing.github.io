@@ -15,10 +15,10 @@ date: 2022-11-20 22:51:00
 * 【戰船】(Chièn-tsûn) A war vessel.
 * 【夾板】(Kap-pán) A sailing vessel.
 <!--more-->
-* 【洋船】(Iêⁿ-tsûn) -
+* 【洋船】(Iêⁿ-tsûn) A junk.
 * 【紅頭船】(Âng-thâu-tsûn) A junk.
 * 【渡船】(Tōu-tsûn) A passage boat.
-* 【船仔】(Tsûn-kiáⁿ) -
+* 【船仔】(Tsûn-kiáⁿ) A sampan.
 * 【竹篙噠】(Tek-ko-that) A sampan.
 * 【槳】(Chiéⁿ) An oar.
 * 【櫓】(Kò) To row.
@@ -65,20 +65,20 @@ date: 2022-11-20 22:51:00
 * 【羅經】(Lô-keⁿ) A compass.
 * 【千里鏡】(Tshoiⁿ-lí-kiàⁿ) A telescope.
 * 【旗】(Kî) A flag.
-* 【㨨旗】(Liū-kî) -
+* 【㨨旗】(Liū-kî) To hoist a flag.
 * 【升旗】(Seng-kî) To hoist a flag.
 * 【旗杆】(Kî-kuaⁿ) A flag-staff.
 * 【開帆】(Khui-phâng) To unfurl sail.
 * 【收帆】(Siu-phâng) o furl sail.
 * 【使】(Sái) To sail.
 * 【過帆】(Kùe-phâng) To gybe.
-* 【伙長】(Húe-tiéⁿ) -
+* 【伙長】(Húe-tiéⁿ) Captain.
 * 【船主】(Tsûn-tsú) Captain.
 * 【大伙】(Tūa-húe) Chief mate.
 * 【二伙】(Jī-húe) Second mate.
 * 【管藥鬼個人】(Kuán-iéh-kúi--kâi-nâng) Engineer.
 * 【燒火個人】(Hiâⁿ-húe--kâi-nâng) Stoker.
-* 【掠舵】(Liáh-tũa) -
+* 【掠舵】(Liáh-tũa) Steersman.
 * 【舵舡】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.
 * 【行船人】(Kiâⁿ-tsûn-náng) A sea-faring man.

@@ -15,7 +15,7 @@ date: 2022-11-20 23:55:00
 * 【Abominable】(Khó-ù) 可惡
 * 【Abrasion】(Phiù-phûe; lṳ̄--tiéh) 破皮
 * 【Abscond】(Tsáu-khṳ̀-tiàm) 走去藏
-* 【Absurd】(Thôu-thâu; bô-iáⁿ) -
+* 【Absurd】(Thôu-thâu; bô-iáⁿ) 無影
 * 【Abuse】(Mēⁿ) 罵
 * 【Accept】(Siu) 收
 <!--more-->
@@ -262,7 +262,7 @@ date: 2022-11-20 23:55:00
 * 【Brazier】(Phah-tâng sai-pẽ) 打銅司罘
 * 【Break】(Muéh-phùa) 打破
 * 【„ as crockery ware】(Khà-phǹa) 扣破
-* 【„ asunder, as a stick】(Á-chíh) -
+* 【„ asunder, as a stick】(Á-chíh) 掗折
 * 【Breakfast, to take】(Chiáh-mèng-khí) 食早朝
 * 【Breast】(Sim-kuaⁿ-thâu) 心肝頭
 * 【„ woman's】(Nĩⁿ) 乳
@@ -2083,7 +2083,7 @@ date: 2022-11-20 23:55:00
 * 【War】(Sie-thâi; kau-chièn) 相刣　交戰
 * 【Warm】(Sie) 溫
 * 【„ of weather】(Zuáh) 熱
-* 【„ „ mild】(Chhiẽⁿ-sie) 小暑
+* 【„ of weather, mild】(Chhiẽⁿ-sie) 小暑
 * 【Warn】(Khǹg-kòi; tàⁿ-tsai) 勸戒　呾知
 * 【Waste, to】(Tak-nn̄g) 花費
 * 【Watch, to】(Chiéⁿ) 守
@@ -2157,7 +2157,7 @@ date: 2022-11-20 23:55:00
 * 【Yoke, a】(Gû-taⁿ-uan) 牛擔灣
 * 【Yolk, of an egg】(Nñg-jîn) 卵仁
 * 【Young, of plants】(Chíⁿ) 幼
-* 【„ of man】(Hāu-seⁿ; siòu-nîⁿ) 少年
+* 【„ of man】(Hāu-seⁿ; siòu-nîⁿ) 後生 少年
 * 【Zigzag】(Uan-lâi uan-khṳ̀; in-uan khit-khek) 灣來灣去
 
 ------

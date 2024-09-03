@@ -66,7 +66,7 @@ date: 2022-11-20 23:34:00
 * 【„ son】(Lãi-sun) 內孫
 * 【„ daughter】(Lãi-tsáu-sun) 內女孫
 * 【„ son's son】(Cheng-sun) 曾孫
-* 【„ „ daughter】(Cheng-tsáu-sun) 曾女孫
+* 【„ son's daughter】(Cheng-tsáu-sun) 曾女孫
 * 【Daughter】(Tsáu-kiáⁿ) 女子
 * 【Daughter's husband】(Kiáⁿ-sài) 女壻
 * 【Daughter's son】(Gūa-sun) 外孫
