@@ -59,7 +59,7 @@ date: 2022-11-15 21:43:00
 * 【還了】(Huân-lióu) Still.
 * 【在】(Tõ) At, in, on, in the act of.
 * 【照】(Chiè) According to.
-* 【返轉】(Huán-tńg) 
+* 【返轉】(Huán-tńg) On the contrary, on the other hand.
 * 【顛倒】(Tin-tò) On the contrary, on the other hand.
 * 【共】(Kāng, kah) And.
 * 【是】(Sĩ) But.
