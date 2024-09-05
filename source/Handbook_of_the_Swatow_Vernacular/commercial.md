@@ -443,7 +443,7 @@ date: 2022-11-20 23:22:00
 * 【尺】(Chhieh) A foot. (Twelve English inches.)
 * 【丈】(Tñg) Ten feet.
 * 【步】(Pōu) A pace.
-* 【-】(Huáh) A pace.
+* 【跨】(Huáh) A pace.
 * 【碼】(Bā, Bé) A yard.
 * 【尋】(Siâm) A fathom.
 * 【量】(Nièⁿ) To measure.

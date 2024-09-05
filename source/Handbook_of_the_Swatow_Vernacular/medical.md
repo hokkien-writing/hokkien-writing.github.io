@@ -19,7 +19,7 @@ date: 2022-11-20 23:02:00
 * 【醫難好】(Ui oh-hó) Difficult to cure.
 * 【難醫】(Oh-ui) Difficult to cure.
 * 【畧好】(Ióu-hó) Better.
-* 【-】(Tsuáh) Better.
+* 【差】(Tsuáh) Better.
 * 【全愈】(Tshuân-zú) Quite recovered.
 * 【斷氣】(Tñg-khùi) To expire.
 * 【頭壳痛】(Thâu-khak thiàⁿ) Headache.
@@ -64,7 +64,7 @@ date: 2022-11-20 23:02:00
 * 【吐瀉】(Thòu-sià) Cholera.
 * 【賢亞娘】(Gâu-a-niêⁿ) Small-pox.
 * 【出珠】(Tshut-tsu) Small-pox.
-* 【食痘】(Chiáh-tāu) -
+* 【食痘】(Chiáh-tāu) Chicken-pox.
 * 【出痘】(Tshut-tāu) Chicken-pox.
 * 【種珠】(Chèng-tsu) To vacinate.
 * 【食粥】(Chiáh-mûeⁿ) Measles.
@@ -79,7 +79,7 @@ date: 2022-11-20 23:02:00
 * 【癬】(Sién) Ringworm.
 * 【目痛】(Mák--thiàⁿ) Sore-eyes.
 * 【近視】(Kṳ̃n-sī) Near-sighted.
-* 【-】(Kṳ̃n-tshṳ̀) Near-sighted.
+* 【近覷】(Kṳ̃n-tshṳ̀) Near-sighted.
 * 【睛盲】(Chheⁿ-mêⁿ) Blind.
 * 【眼睛灰】(Mák-chiu-hue) Dimness.
 * 【斜目】(Siâ-mák-chióu) Squinting.
@@ -88,7 +88,7 @@ date: 2022-11-20 23:02:00
 * 【缺嘴】(Khih-tshùi) Hare-lip.
 * 【腰龜】(Ie-ku) Humpback.
 * 【拐脚】(Kuái-kha) Lame.
-* 【枋脚䥥】(Páng-kha-liâm) -
+* 【枋脚䥥】(Páng-kha-liâm) Ulcerated leg.
 * 【縻脚】(Miⁿ-kha) Ulcerated leg.
 * 【生物】(Seⁿ-muéh) To have a disease.
 * 【生㿗】(Seⁿ-thûe) To have a boil.

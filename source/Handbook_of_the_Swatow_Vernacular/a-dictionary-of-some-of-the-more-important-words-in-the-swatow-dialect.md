@@ -315,7 +315,7 @@ date: 2022-11-20 23:55:00
 * 【Burn】(Sie) 燒
 * 【Burst】(Piàng-tiòu) 爆丢
 * 【Bury, the dead】(Tsǹg; tshut-suaⁿ) 葬　出山
-* 【Bury, as animal】(Kám) -
+* 【Bury, as animal】(Kám) 䃭
 * 【Bush, a cluster of shrubs】(Chhì-nàⁿ-phè) 莿藍帕
 * 【Bushel】(Táu) 斗
 * 【Business】(Sṳ̄; sṳ̄-bũ) 事　事務
@@ -334,7 +334,7 @@ date: 2022-11-20 23:55:00
 * 【„ as rice】(Tiáh-bí) 䨀米
 * 【„ as cloth】(Ka-pòu) 剪布
 * 【„ as pork, beef】(Kuah-tṳ-bah; kuah-gû-bah) 割猪肉　割牛肉
-* 【Buzz】(Ng-ng-kiè) -
+* 【Buzz】(Ng-ng-kiè) 嗡嗡叫
 * 【By-name, (nickname,)】(Thóu-miâⁿ) 土名
 * 【By-stander】(Khiã-tõ-kha-thāu--kâi-nâng) 立在脚邊之人
 * 【By-word】(Sók-gṳ́) 俗語
@@ -347,7 +347,7 @@ date: 2022-11-20 23:55:00
 * 【Calibre, of gun】(Chhèng-khang) 銃空
 * 【Call】(Hàm; kiè) 呌
 * 【„ by going about】(Chie) 招
-* 【„ animal】(Khou) -
+* 【„ animal】(Khou) 呼
 * 【Camel】(Lóh-thóh) 駱駝
 * 【Camp】(Iâⁿ-pûaⁿ) 營盤
 * 【Can】(Õi; õi-tit) 會　能得
@@ -423,7 +423,7 @@ date: 2022-11-20 23:55:00
 * 【Cheap】(Phiⁿ; pân-gî) 賤　平宜
 * 【Cheat】(Phièn) 騙
 * 【„ an ignorant person】(Kuang) 誘拐
-* 【„ by tricks】(Láu) -
+* 【„ by tricks】(Láu) 漏
 * 【„ in commerce】(Tshuah) 掇
 * 【Cheek】(Kih-kau) 頰
 * 【Chess, to play】(Teh-kî) 磧棋
@@ -633,7 +633,7 @@ date: 2022-11-20 23:55:00
 * 【Curse】(Chiù) 咒
 * 【Custom】(Hong-sók; lī) 風俗　例
 * 【Cymbals, large】(Khãm) 鈸
-* 【Cymbals, small】(Chhẽ) -
+* 【Cymbals, small】(Chhẽ) 鑔
 * 【Dangerous】(Hong-hiám; lî-hāi; lî-keng) 風險　利害　利更
 * 【Daughter】(Tsáu-kiáⁿ; tsṳ-niêⁿ-kiáⁿ) 女子　姿娘仔
 * 【Dawn】(Thiⁿ-kng; thiⁿ lâ-lân-kng) 天光　天初光
@@ -709,7 +709,7 @@ date: 2022-11-20 23:55:00
 * 【Distress】(Kan-khóu) 艱苦
 * 【District】(Kūiⁿ) 縣
 * 【Disturb】(Hũn) 紊
-* 【Disturb, in hearing】(Tsak) -
+* 【Disturb, in hearing】(Tsak) 攪
 * 【Ditch】(Kau; tsúi-kau; sái-kau) 溝　溝水　屎溝
 * 【Dive】(Bī) 氼
 * 【Divide】(Pun) 分
@@ -876,7 +876,7 @@ date: 2022-11-20 23:55:00
 * 【Fix, as date】(Tiāⁿ) 定
 * 【Flame】(Húe-iām; húe-chíh) 火炎　火舌
 * 【Flea】(Ka-tsáu) 膠走
-* 【Fling】(Sõ) -
+* 【Fling】(Sõ) 扔
 * 【Flock】(Khûn) 羣
 * 【Flood】(Tũa-tsúi; hái-tuang-tiê) 大水　海風朝
 * 【Flow】(Lâu) 流
@@ -904,7 +904,7 @@ date: 2022-11-20 23:55:00
 * 【„ as water】(Chiáⁿ) 淡
 * 【Friend】(Phêng-iú) 朋友
 * 【Frighten, people】(Muéh-nâng-kiaⁿ; phièn-nâng-kiaⁿ) 物人驚　騙人驚
-* 【Fuel】(Muéh-hiâⁿ) -
+* 【Fuel】(Muéh-hiâⁿ) 物燃
 * 【Full】(Tĩⁿ) 滿
 * 【Fun, to make】(Sńg) 耍
 * 【Funny】(Tshù-bī) 趣味
@@ -1076,7 +1076,7 @@ date: 2022-11-20 23:55:00
 * 【King】(Uâng) 王
 * 【Kiss】(Chim) 接吻
 * 【Kite】(Huang-khîm) 風箏
-* 【Knead】(Chhíp) -
+* 【Knead】(Chhip) 緝
 * 【Kneel】(Kũi) 跪
 * 【Knit】(Chhiah) 莿
 * 【Knock】(Khà) 扣
@@ -1094,7 +1094,7 @@ date: 2022-11-20 23:55:00
 * 【Landscape】(Suaⁿ-tsúi) 山水
 * 【Lane】(Hāng; hāng-kiáⁿ) 巷　巷仔
 * 【Language】(Uē) 話
-* 【Lash, to】(Pũaⁿ) -
+* 【Lash, to】(Pũaⁿ) 拂
 * 【Last】(Búe-búe; kióu-búe; tõiⁿ-búe) 尾尾　第尾
 * 【„ to】(Nãiⁿ) 耐
 * 【Latchet】(Ôi-tùa) 鞋帶
@@ -1215,7 +1215,7 @@ date: 2022-11-20 23:55:00
 * 【Noble】(Tsun-kui) 尊貴
 * 【Nod】(Tak-thâu) 㸃頭
 * 【Noise】(Siaⁿ) 聲
-* 【„ to make a great】(Kā-kā-kiè) -
+* 【„ to make a great】(Kā-kā-kiè) 轰轰叫
 * 【Nonsense】(Bô-iáⁿ-bô-chiah) 無影無跡
 * 【„ to talk】(Thèng-tàⁿ) 亂呾
 * 【Noose, to make a】(Thám-seⁿ-lam-khou) 縛活結
@@ -1313,7 +1313,7 @@ date: 2022-11-20 23:55:00
 * 【Pierce】(Tshǹg) 刺
 * 【Pile, to】(Tháh; thiáp) 叠
 * 【Pincers, for drawing hair】(Ah-nih; nih-kiáⁿ) 鴨攝　攝子
-* 【Pinch】(Liàm) -
+* 【Pinch】(Liàm) 捻
 * 【Pipe】(Tâng) 筒
 * 【„ for smoking】(Hun-táng) 烟筒
 * 【Pit】(Kheⁿ; khut) 坑　屈
@@ -1362,7 +1362,7 @@ date: 2022-11-20 23:55:00
 * 【Prepare】(Ṳ̃; ṳ̃-pĩ) 預　預備
 * 【Present, to】(Sàng) 送
 * 【„ time】(Hīn-tsãi; ngán-tsãi; tong-kim) 現在　眼在　中今
-* 【Press, with the hand】(Jih) -
+* 【Press, with the hand】(Jih) 按
 * 【„ with something heavy】(Teh) 壓
 * 【Pretend】(Ké) 假
 * 【„ not knowing】(Tèⁿ-m̄-tsai) 假不知
@@ -1443,7 +1443,7 @@ date: 2022-11-20 23:55:00
 * 【Religion】(Kà) 教
 * 【Rely】(Tit-pn̄g) 得飯
 * 【Remain】(Tshûn; sīn) 存
-* 【„ stay】(Nāⁿ) -
+* 【„ stay】(Nāⁿ) 待
 * 【Remarkable】(ku-kuài; khî-khá) 古怪　奇巧
 * 【Remember】(Kìⁿ-tit; it-tit; kì-liãm) 記得　憶得　紀念
 * 【Remove, residence】(Puaⁿ) 搬
@@ -1557,10 +1557,10 @@ date: 2022-11-20 23:55:00
 * 【Scholar】(Hák-seng) 學生
 * 【School】(Tsṳ-che) 書齋
 * 【Scold】(Mēⁿ) 罵
-* 【Scoop, with one hand】(Meⁿ; nák) -
-* 【„ with two hands】(Phóng) -
+* 【Scoop, with one hand】(Meⁿ; nák) 抓
+* 【„ with two hands】(Phóng) 捧
 * 【Scorpion】(Hiet-kiáⁿ) 蝎仔
-* 【Scoundrel】(Láu-kiáⁿ) 老仔
+* 【Scoundrel】(Láu-kiáⁿ) 漏仔
 * 【Scrape】(Kueh) 𧈳
 * 【Scratch】(Pê) 爬
 * 【Screen, to】(Tsáh) 閘
@@ -1632,7 +1632,7 @@ date: 2022-11-20 23:55:00
 * 【„ me】(Pun-uá-thóiⁿ) 與我看
 * 【Shrine】(Sin-kham) 神龕
 * 【Shut】(Kueⁿ) 閉
-* 【„ a door without bolting】(Hõiⁿ) -
+* 【„ a door without bolting】(Hõiⁿ) 闔
 * 【„ as the mouth, book】(Háp) 合
 * 【Shuttle】(So-kiáⁿ) 棱子
 * 【Shy】(Ùi-sióu-lí; m̄-káⁿ-kìⁿ-nâng) 畏羞恥
@@ -1683,7 +1683,7 @@ date: 2022-11-20 23:55:00
 * 【Small】(Sòi) 細
 * 【Smash, to pieces】(Phùa-tshùi-tshùi) 破碎碎
 * 【Smear】(Kôu; hú) 糊　敷
-* 【Smell】(Hiēn) -
+* 【Smell】(Hiēn) 味
 * 【„ to】(Phĩⁿ) 鼻
 * 【Smile】(Ba-bun-chhiè) 貓呅笑
 * 【Smoke】(In) 烟
@@ -1695,7 +1695,7 @@ date: 2022-11-20 23:55:00
 * 【Snail】(Lô; tshân-lô) 螺　田螺
 * 【Snare】(Lô-māng; khuán-thàu) 羅網　圈套
 * 【„ set a】(Tieⁿ-khuán-thàu) 設圈套
-* 【Snare, to】(Tng) -
+* 【Snare, to】(Tng) 當
 * 【Snatch】(Chhiéⁿ) 搶
 * 【Sneeze】(Phah-ka-khì) 打噴
 * 【Snore】(Hûaⁿ) 喘氣
@@ -1749,10 +1749,10 @@ date: 2022-11-20 23:55:00
 * 【Spirit】(Sîn) 神
 * 【Spit】(Phùi-nũaⁿ; phùi) 噴涏　噴
 * 【Spittoon】(Thâm-tāng; thâm-phùi) 痰筒
-* 【Splash】(Phùn) -
+* 【Splash】(Phùn) 噴
 * 【Split, with an axe】(Phùa) 破
-* 【„ with a knife】(Lòi) -
-* 【Spoil, to】(Muéh-tiòu) 𢪱丟
+* 【„ with a knife】(Lòi) 𠠍
+* 【Spoil, to】(Muéh-tiòu) 物丟
 * 【Spoiled】(Hāi--lō) 害了
 * 【Sport】(Thit-thô; sńg) 閑遊　耍
 * 【Spot, a】(Tiám) 點
@@ -1768,7 +1768,7 @@ date: 2022-11-20 23:55:00
 * 【„ accounts】(Ap-siòu) 押數
 * 【Squash, to】(Teh--tiéh) 壓着
 * 【Squat, on the heels】(Tshn̂g; khû) 蹲
-* 【Squeeze, with the hand】(Tẽⁿ) -
+* 【Squeeze, with the hand】(Tẽⁿ) 擠
 * 【„ to press closely】(Koíh) 夾
 * 【„ money】(Tsũn-chiáh) 撰食
 * 【Stab】(Tshǹg) 刺
@@ -1785,7 +1785,7 @@ date: 2022-11-20 23:55:00
 * 【Starve】(Gō) 餓
 * 【Statesman】(Chhîn; tāi-chhîn) 臣　大臣
 * 【Statue】(Sièⁿ) 像
-* 【Stay】(Nāⁿ) -
+* 【Stay】(Nāⁿ) 待
 * 【Steady】(Ngaíh) 堅
 * 【Steal】(Thau-khiéh) 盜取
 * 【Steep】(Kiā) 崎
@@ -1824,9 +1824,9 @@ date: 2022-11-20 23:55:00
 * 【Strict】(Ngiâm) 嚴
 * 【Stride】(Huáh) 步
 * 【Strike】(Phah) 打
-* 【„ with the fist】(Cheng) -
+* 【„ with the fist】(Cheng) 舂
 * 【„ with a stick】(Bú; bút) 舞
-* 【„ with a soft cane】(Sut) -
+* 【„ with a soft cane】(Sut) 摔
 * 【String】(Sùaⁿ; soh-kiáⁿ) 線　索仔
 * 【Strip, to】(Pak; thut; thǹg) 剝　脫
 * 【Striped】(Chék-tsūe chék-tsūe) 一行一行
@@ -1838,9 +1838,9 @@ date: 2022-11-20 23:55:00
 * 【Struggle】(Kuān) 捲
 * 【Student, for higher examination】(Thông-seng) 童生
 * 【Study, to】(Hák-síp) 學習
-* 【Stumble, as over a rope】(Kûe--tiéh) -
-* 【„ as over a stone】(Pu--tiéh; that--tiéh) 撻着
-* 【Stun, as noise】(Tsak; tsak--tiéh) 喧嚷着
+* 【Stumble, as over a rope】(Kûe--tiéh) 絆着
+* 【„ as over a stone】(Pu--tiéh; that--tiéh) 踢着
+* 【Stun, as noise】(Tsak; tsak--tiéh)  攪 攪着
 * 【Stupid】(Ngà; tshâ-kòng) 㦙　柴貢
 * 【Sty, for pigs】(Tṳ liôu; tṳ-lô) 豬尞　豬牢
 * 【Subject, of ruler】(Peh-sèⁿ; mîn--ke) 百姓　民家
@@ -1848,12 +1848,12 @@ date: 2022-11-20 23:55:00
 * 【Subordinate】(Chhiú-ẽ) 手下
 * 【Subscribe, money】(Tôi-chîⁿ) 題錢
 * 【Substitute, to】(Thòi) 代
-* 【Subtract】(Tṳ̂) -
+* 【Subtract】(Tṳ̂) 除
 * 【Subtraction】(Tṳ̂-huap) 除法
 * 【Suburbs】(Siâⁿ-gūa) 城外
 * 【Succeed】(Tit-ì) 得意
 * 【Successive】(Sie-sùa) 相接
-* 【Suck】(Kuh) -
+* 【Suck】(Kuh) 吸
 * 【„ with the mouth, with noise】(Tsuh) 哺
 * 【Suddenly】(Huh--chē-kiè; hó-sĩ-sĩ) 忽然間　好是是
 * 【Suffer】(Siũ-khóu) 受苦
@@ -1888,7 +1888,7 @@ date: 2022-11-20 23:55:00
 * 【Suspect】(Gi) 疑
 * 【Swallow】(Ìⁿ-chióu) 燕鳥
 * 【„ to】(Thun; thun--lóh-khṳ̀) 吞　吞落去
-* 【„ with effort】(Kṳ̃--lóh-khṳ̀) -
+* 【„ with effort】(Kṳ̃--lóh-khṳ̀) 吞落去
 * 【Swear】(Chìu-tshūa) 發誓
 * 【Sweep】(Sàu) 掃
 * 【Sweet】(Tiám) 甜
@@ -1896,8 +1896,8 @@ date: 2022-11-20 23:55:00
 * 【Swell, to】(Chêng) 腫
 * 【Swift】(Hiòng; méⁿ) 雄　猛
 * 【Swim】(Siû) 氽
-* 【Swing】(Sõ) 泗
-* 【Sycee】(Uâng-pó; khiòu-thâu-si; khò-si) 王寶
+* 【Swing】(Sõ) 蕩
+* 【Sycee】(Uâng-pó; khiòu-thâu-si; khò-si) 王寶 翹頭絲 鋯絲
 * 【Sympathy】(Thói-thiap) 體貼
 * 【Syrupt】(Thn̂g-tsúi) 糖水
 * 【Tael】(Niéⁿ) 両
@@ -1961,8 +1961,8 @@ date: 2022-11-20 23:55:00
 * 【„ to ascend the】(Teng-ki; teng-ūi; tsõ-ūi) 登基　登位　坐位
 * 【Throttle】(Tẽⁿ-aû) 擢喉
 * 【Through, over】(Thàng) 通
-* 【Throw, to】(Kák; sek, hám) -
-* 【„ away】(Kák-tiòu; sek-tiòu; hám-tiòu; phîn-tiòu) -
+* 【Throw, to】(Kák; sek, hám) 捔 擲 撼
+* 【„ away】(Kák-tiòu; sek-tiòu; hám-tiòu; phîn-tiòu) 捔丟 擲丟 撼丟 摒丟
 * 【Thrust】(Tshǹg) 刺
 * 【Ticket】(Tuaⁿ) 單
 * 【„ pawn】(Hui; tǹg-phiè) 揮　當票
@@ -1971,7 +1971,7 @@ date: 2022-11-20 23:55:00
 * 【„ as the hands together】(Khún) 捆
 * 【Tiffin】(Tiám-sim) 點心
 * 【Tight】(Kín) 緊
-* 【„ as rope】(Ân) -
+* 【„ as rope】(Ân) 緊
 * 【Timid】(Bô-táⁿ) 無胆
 * 【Tired】(Hék) 困
 * 【Title, official】(Kuaⁿ-ham) 官銜
@@ -1987,7 +1987,7 @@ date: 2022-11-20 23:55:00
 * 【Total】(Kòi-kāng; lóng-tsóng) 計共　俱皆
 * 【Touch, with the fingers】(Thāng; thāng--tiéh; mòng) 摸　摸着
 * 【„ come into contact】(Tiaⁿ--tiêh) 顚着
-* 【Tough】(Zūn) -
+* 【Tough】(Zūn) 韌
 * 【Tow, a ship】(Tũa) 拕
 * 【Towards】(Hiàng; niaⁿ) 向
 * 【Town】(Pou; pou-thau) 埠　埠頭
@@ -2088,10 +2088,10 @@ date: 2022-11-20 23:55:00
 * 【Waste, to】(Tak-nn̄g) 花費
 * 【Watch, to】(Chiéⁿ) 守
 * 【Water, to】(Ak; ak-tsúi) 沃　沃水
-* 【Watery】(Chhieh-chhieh) -
-* 【Wave, to, as a flag】(Ít) -
+* 【Watery】(Chhieh-chhieh) 淖淖
+* 【Wave, to, as a flag】(Ít) 飄
 * 【Weak】(Khùn; bô-lát) 困　無力
-* 【„ in power, influence】(Phúh) -
+* 【„ in power, influence】(Phúh) 薄
 * 【Wean】(Keh-nĩⁿ) 隔乳
 * 【Weapon】(Ke-húe) 家伙
 * 【Wear, as clothes, shoes】(Chhēng) 穿
@@ -2100,7 +2100,7 @@ date: 2022-11-20 23:55:00
 * 【Weather】(Thiⁿ-sî; thîⁿ) 天時　天
 * 【Weave】(Keⁿ-pòu) 織布
 * 【Web, spider's】(Ti-tu-si) 蜘蛛絲
-* 【Wedge】(Chiⁿ) -
+* 【Wedge】(Chiⁿ) 楔
 * 【Weed, a】(Péh-huat kâi-tsháu) 白發個草
 * 【Weigh, to】(Téng; chhìn) 戥　稱
 * 【„ with balances】(Phêng) 秤
@@ -2111,9 +2111,9 @@ date: 2022-11-20 23:55:00
 * 【Whatever】(Put-lũn; m̄-kuán) 不論　不管
 * 【Wheel】(Lín; lìn-chiⁿ) 輦　輦錢
 * 【Whip, a】(Bé-piⁿ) 馬鞭
-* 【„ to】(Pũaⁿ) -
+* 【„ to】(Pũaⁿ) 拂
 * 【Whisper, to】(Síh-súh; àm-chẽⁿ-tàⁿ) 暗靜呾
-* 【Whistle, with the mouth】(Pûn-hi-hû) -
+* 【Whistle, with the mouth】(Pûn-hi-hû) 歕唏噓
 * 【„ a】(Pi) 陂
 * 【White, of an egg】(Nñg-chheng) 卵淸
 * 【Whitewash, to】(Sàu-hue-tsúi; sueh-hue-tsúi) 掃灰水　刷灰水
@@ -2128,7 +2128,7 @@ date: 2022-11-20 23:55:00
 * 【Wink】(Nih-mák) 攝目
 * 【Winnow】(Pùa) 簸
 * 【Wipe, to, with dry cloth】(Chhit) 拭
-* 【„ to, with wet cloth】(Zṳ̂) -
+* 【„ to, with wet cloth】(Zṳ̂) 濡
 * 【Wise】(Gáu) 賢
 * 【Withdraw】(Thò; thò-khui) 退　退開
 * 【Witness, a】(Chèng; kan-chèng) 證　干証

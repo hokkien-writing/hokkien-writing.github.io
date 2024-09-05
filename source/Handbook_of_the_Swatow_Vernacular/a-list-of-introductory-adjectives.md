@@ -37,7 +37,7 @@ date: 2022-11-16 20:15:00
 * 【Comfortable】(Khùaⁿ-uáh) 快活
 * 【Confused】(Zṳ̂) 茹
 * 【Crooked】(Uan) 灣
-* 【Crowded】(Tsát) -
+* 【Crowded】(Tsát) 密
 * 【Dangerous】(Hong-hiám, lĩ-hāi) 荒險　利害
 * 【Dark】(Àm) 暗
 * 【Dread】(Sí) 死

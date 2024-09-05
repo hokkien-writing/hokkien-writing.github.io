@@ -65,7 +65,7 @@ date: 2022-11-20 21:59:00
 * 【未。我此時正要來起】(Bũ7e, uá chí-tsûn chiàⁿ-àiⁿ lâi-khí) Not yet, I am just going to make one.
 * 【猛猛冷在。火起熱熱】(Méⁿ méⁿ chhìn-tsãi, húe-khí jiét-jiét) Look sharp, it is very cold, and make the fire very fierce.
 * 【塗炭落多多】(Thôu-thùaⁿ lóh tsōi-tsōi) Put plenty of coals on.
-* 【此領氈携去伯丢塗粉】(Chí-niáⁿ chiⁿ khiéh khṳ̀ pũaⁿ-tiòu thôu-hún) Take this rug and beat off the dust.
+* 【此領氈携去拂丢塗粉】(Chí-niáⁿ chiⁿ khiéh khṳ̀ pũaⁿ-tiòu thôu-hún) Take this rug and beat off the dust.
 * 【在此好放壹張四方床】(Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g) Here can be put a square table.
 * 【此張員床來徙放別處】(Chí-tieⁿ îⁿ-tshn̂g lâi suá pàng pát-kò) Let us remove this round table to some other place.
 * 【要徙放何處】(Àiⁿ-súa pàng tî-kò?) Where shall we remove it to?
@@ -79,7 +79,7 @@ date: 2022-11-20 21:59:00
 * 【信皮要否】(Sìn-phûe àiⁿ mē?) Do you want an envelope?
 * 【要也。携張來】(Àiⁿ a, khiéh tieⁿ lâi) Yes, get me one.
 * 【草蓆共拭脚個蓑携去晒】(Tsháu-chhiéh kah chhit-kha kâi sui, khiéh khṳ̀ phák) Take the matting and the door-mat and air them in the sun.
-* 【拍清潔。了正去晒】(Pũaⁿ chheng-khih, lióu chiàⁿ-khṳ̀ phák) Beat them clean before putting them in the sun.
+* 【拂清潔。了正去晒】(Pũaⁿ chheng-khih, lióu chiàⁿ-khṳ̀ phák) Beat them clean before putting them in the sun.
 * 【走馬樓個簾放落來】(Tsáu-bé-lâu kâi liâm pàng--lôh-lâi) Let go the blinds of the verandah.
 * 【爾曉撞枳否】(Lṳ́ hióu thn̄g-chí mē?) Can you play billiards?
 * 【曉也。爾要共我輸贏】(Hióu a, lṳ́ àiⁿ kah uá su-iâⁿ?) Yes, do you wish to have a match with me?
@@ -146,7 +146,7 @@ date: 2022-11-20 21:59:00
 * 【枕頭囊亦着每個禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
 * 【被不可洗多次】(Phũe m̄-móⁿ sói khah-giáp) Bed-clothes shouldn't be washed too often.
 * 【洗多次袂暖】(Sói khah-giáp bõi-sie) (If) washed too often they will not be warm.
-* 【眠床拔蚊。了蚊帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
+* 【眠床拂蚊。了蚊帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
 * 【伊好觀鏡】(I hàuⁿ-iám-kìaⁿ) He is fond of looking in the looking-glass.
 * 【携我個梳共虱箆來】(Khiéh uá kâi siu kah sat-pìn lâi) Get me my comb and my small-tooth comb.
 * 【爾共我梳。了共我箆】(Lṳ́ kâh uá siu, lióu kah uá pìn) You comb my hair, then use the small-tooth comb.
@@ -243,7 +243,7 @@ date: 2022-11-20 21:59:00
 * 【燉鉢】(Tũn-puah) A Chinese earthen cooking vessel.
 * 【鼎】(Tiáⁿ) A pan.
 * 【盖】(Khòiⁿ) A lid, a cover.
-* 【-】(Khàm) A lid, a cover.
+* 【蓋】(Khàm) A lid, a cover.
 * 【砧】(Tiam) A chopping block.
 * 【方刀】(Pang-to) A chopper.
 * 【箸】(Tṳ̄) Chop-sticks.

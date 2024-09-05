@@ -89,7 +89,7 @@ date: 2022-11-15 21:43:00
 * 【Lend】(Chieh) 借
 * 【Let, (a house.)】(Sùe) 稅
 * 【Lie, (to tell an untruth.)】(Hue-niouⁿ) 花話
-* 【Lie down】(Tó) -
+* 【Lie down】(Tó) 倒
 * 【Light, (lamps.)】(Tiám) 點
 * 【Live, (reside.)】(Khiā-khí, tiū) 居住
 * 【Lose】(M̄-kìⁿ, sit-lóh) 不見　失落
