@@ -18,7 +18,7 @@ date: 2024-03-31 16:11:00
 
 **abase**, kàng-khip.
 <!--more-->
-**abash**, sit-nâng. kâi-thí-mīn. *abashed*, tshâm-khũi; kièn-siàu; siáu-lí; siu-chhí.
+**abash**, sit-nâng kâi-thí-mīn. *abashed*, tshâm-khũi; kièn-siàu; siáu-lí; siu-chhí.
 
 **abate**, kiám; chié. *the price*, sǹg-kiám; tṳ̂-kiám; khà-kiám; khà-tṳ̂; kiám--chē; chié--chē.
 
@@ -126,13 +126,13 @@ date: 2024-03-31 16:11:00
 
 **acclivity**, suaⁿ kiã-kiã; pho-lo-sia.
 
-**accommodate**, *others*, pang-tsõ; chieh-ēng. *oneself to others*, tshông-khûan; sûi-nâng-ì. *able to a. oneself to circumstances*, ũ-pièn-thong; ũ-khuân-pièn.
+**accommodate**, *others*, pang-tsõ; chieh-ēng. *oneself to others*, tshông-khûan; sûi-nâng-ì. *able to accommodate oneself to circumstances*, ũ-pièn-thong; ũ-khuân-pièn.
 
 **accompany**, tâng-kiâⁿ; tsò-pû-kiâⁿ; pûe-sàng; sie-phũaⁿ.
 
 **accomplice**, tâng-táng; tâng-pang.
 
-**accomplish**, tsùn-kang; sêng-kong; uân-kang; tsò-chiâⁿ. *one’s desire*, tit-ì; *to fulfil*, sîn-ngiām; èng-ngiām.
+**accomplish**, tsùn-kang; sêng-kong; uân-kang; tsò-chiâⁿ. *one’s desire*, tit-ì. *to fulfil*, sîn-ngiām; èng-ngiām.
 
 **accord**, hûa; hûa-ha̍h; siang-ha̍h; hûa-míⁿ; siang-hûa; hûa-mo̍k.
 
@@ -140,7 +140,7 @@ date: 2024-03-31 16:11:00
 
 **according**, chiè; chiè-iēⁿ. *to one’s wishes*, zû-ì. *to order*, zû-mẽng.
 
-**account**, siàu-ba̍k. *book*, siàu-phõu. *to enter*, chiẽⁿ-siàu; lo̍h-siàu; kì-siàu. *settle*, hôiⁿ-siàu; siàu-ba̍k chheng-tshó. *owe*, khiàm-siàu. *square*, ap-siàu. *collect*, thó-siàu. *manage*, hūaⁿ-siàu. *make up*, sǹg-siàu. *on account of*, in-ũi. *on no account*, būan-būan put-khó; tùan-tùan m̄-hó. *cannot a. for*, put-kói; siẽⁿ-m̄-phùa; siẽⁿ-m̄-tshut. *give an account of any event*, o̍h pun-nâng-thiaⁿ; kāng-nâng-tàⁿ.
+**account**, siàu-ba̍k. *book*, siàu-phõu. *to enter*, chiẽⁿ-siàu; lo̍h-siàu; kì-siàu. *settle*, hôiⁿ-siàu; siàu-ba̍k chheng-tshó. *owe*, khiàm-siàu. *square*, ap-siàu. *collect*, thó-siàu. *manage*, hūaⁿ-siàu. *make up*, sǹg-siàu. *on account of*, in-ũi. *on no account*, būan-būan put-khó; tùan-tùan m̄-hó. *cannot account for*, put-kói; siẽⁿ-m̄-phùa; siẽⁿ-m̄-tshut. *give an account of any event*, o̍h pun-nâng-thiaⁿ; kāng-nâng-tàⁿ.
 
 **accumulate**, tun-chek; chek-thiok. *wealth*, tun-kim chek-ge̍k. *merit*, chek-tek; chek-kong.
 
@@ -280,7 +280,7 @@ date: 2024-03-31 16:11:00
 
 **affix**, tah-tùe; sie-chiap. *a seal*, khap-ìn.
 
-**afflict**, *kia-hāi; bûa-lān*, kan-khóu; lân-ûi. *affliction*, kan-lân; kan-khóu; sng-sṳ̄. *affliction (mourning)*, pe̍h--sṳ̄.
+**afflict**, kia-hāi; bûa-lān, kan-khóu; lân-ûi. *affliction*, kan-lân; kan-khóu; sng-sṳ̄. *affliction (mourning)*, pe̍h--sṳ̄.
 
 **affluence**, pù; pù-tsok; hong-sẽng; kãu-nauh; hong-tsok; pù-kãu.
 
@@ -350,9 +350,9 @@ date: 2024-03-31 16:11:00
 
 **alike**, sie-tâng; pêⁿ-iēⁿ; che̍k-iēⁿ; che̍k-it.
 
-**alive**, *ua̍h; seⁿ-ua̍h; ua̍h-tõng*, õi tín-tãng; ũ-seⁿ-miāⁿ; ũ-hueh-khì.
+**alive**, ua̍h; seⁿ-ua̍h; ua̍h-tõng, õi tín-tãng; ũ-seⁿ-miāⁿ; ũ-hueh-khì.
 
-**all**, lóng-tsóng; chiàⁿ-kâi; kâi-kâi; tsò-che̍k-ē; kan-chẽng; tsn̂g-kâi. *men*, nâng-nâng; būan-nâng; tãi-ke; chèng-nâng; *things*, būan-mue̍h; kiãⁿ-kiãⁿ; hâm-kâi. *all day*, tsong-ji̍t. thàng-ji̍t. *all one’s life*, phêng-seⁿ; che̍k-sì-nâng; che̍k-seⁿ. *the family*, ha̍p-ke; che̍k-ke-nâng. *all at once*, tsò-che̍k-ē; che̍k-tsôi; ka-nn̂g. *all over a place*, múaⁿ-tshù; múaⁿ-kò. *with all one’s heart*, chĩn-sim; tsuan-sim. *all kinds*, peh-puaⁿ; kak-iēⁿ. *to know all*, tsai-thàng; hiáu-kàu-thàu.
+**all**, lóng-tsóng; chiàⁿ-kâi; kâi-kâi; tsò-che̍k-ē; kan-chẽng; tsn̂g-kâi. *men*, nâng-nâng; būan-nâng; tãi-ke; chèng-nâng. *things*, būan-mue̍h; kiãⁿ-kiãⁿ; hâm-kâi. *all day*, tsong-ji̍t; thàng-ji̍t. *all one’s life*, phêng-seⁿ; che̍k-sì-nâng; che̍k-seⁿ. *the family*, ha̍p-ke; che̍k-ke-nâng. *all at once*, tsò-che̍k-ē; che̍k-tsôi; ka-nn̂g. *all over a place*, múaⁿ-tshù; múaⁿ-kò. *with all one’s heart*, chĩn-sim; tsuan-sim. *all kinds*, peh-puaⁿ; kak-iēⁿ. *to know all*, tsai-thàng; hiáu-kàu-thàu.
 
 **allay**, *thirst*, kói-khuah; chí-âu; chí-khuah. *pain*, chí-thiàⁿ. *sorrow*, kói-iu. *disturbance*, uaⁿ-tiām tī-hng; uaⁿ-chẽⁿ tī-hng.
 
@@ -414,7 +414,7 @@ date: 2024-03-31 16:11:00
 
 **always**, siêⁿ-sî; sî-sî; pâi-sî; múeⁿ-múeⁿ; kú-kú; ē-ē; lú-lú.
 
-**am**, *I* úa sĩ. *I am the man*, úa chiũ-sĩ. *I am sick*, úa ũ-pēⁿ. *I am cold*, úa õi-chhìn.
+**am**, *I*, úa sĩ. *I am the man*, úa chiũ-sĩ. *I am sick*, úa ũ-pēⁿ. *I am cold*, úa õi-chhìn.
 
 **amanuensis**, thòi-siá; thòi-pit; thòi-tsṳ.
 
@@ -460,7 +460,7 @@ date: 2024-03-31 16:11:00
 
 **amulet**, hieⁿ-húe-lâng; hieⁿ-húe-tō. *to wear*, kùa-hieⁿ-húe.
 
-**amusement**, *sie-sńg; thit-thô*, iû-la̍k. *amusing*, tshù-bī. *ramble about for amusement*, iû-nguán; nguán-la̍h.
+**amusement**, sie-sńg; thit-thô; iû-la̍k. *amusing*, tshù-bī. *ramble about for amusement*, iû-nguán; nguán-la̍h.
 
 **analyse**, tshat-si̍t; kháu-kiù.
 
@@ -514,7 +514,7 @@ date: 2024-03-31 16:11:00
 
 **another**, pa̍t-kâi. *matter*, pa̍t-sṳ̄. *man*, pa̍t-nâng. *one more*, ke--kâi.
 
-**answer**, ìn; tap; ìn-tap; tùi-tap. *written*, hûe-jī, hûe-sìn; ho̍k-jī.
+**answer**, ìn; tap; ìn-tap; tùi-tap. *written*, hûe-jī; hûe-sìn; ho̍k-jī.
 
 **ant**, hiã; káu-hiã. *white*, pe̍h-hiã. *nest*, hiã-siū; hiã-tàu; hiã-hua̍t; hiã-khang. *hill*, hiã-èng. *covered way of white ants*, hiã-lōu.
 
@@ -744,7 +744,7 @@ date: 2024-03-31 16:11:00
 
 **astride**, khiâ-tsõ; khiâ-bé-tsõ; thí-kha-tsõ.
 
-**astringent**, *tau-tsũ*, chí-sià-ie̍h; siu-liám.
+**astringent**, tau-tsũ; chí-sià-ie̍h; siu-liám.
 
 **astrologer**, lo̍h-ngóu-chheⁿ; khùaⁿ-miāⁿ.
 
