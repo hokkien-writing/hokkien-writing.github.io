@@ -260,7 +260,7 @@ date: 2024-04-01 23:00:00
 
   the ants have got up on the table.
 
-**戲謔](https://en.wiktionary.org/wiki/戲謔)peh-gêh180
+**[戲謔](https://en.wiktionary.org/wiki/戲謔)peh-gêh180
 - To jest; to divert one's self.
 
 - i sĭ tó̤ peh-gêh;
@@ -462,7 +462,7 @@ date: 2024-04-01 23:00:00
 
   a counter snatcher.
 
-**謊唐](https://en.wiktionary.org/wiki/謊唐)pèh-cíaⁿ253
+**[謊唐](https://en.wiktionary.org/wiki/謊唐)pèh-cíaⁿ253
 - ; pêh-cíaⁿ; pêh-lô̤h;
 
 - i tŏ̤ pêh-lô̤h, màiⁿ thiaⁿ;

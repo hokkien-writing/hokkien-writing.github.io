@@ -222,13 +222,13 @@ date: 2024-03-31 16:11:00
 
 **befoul**, bua̍h--tie̍h nah-sap; mak--tie̍h nah-sap; hú--tie̍h nap-sap.
 
-**beg**, khiû; khṳ́n-khiû; koh-lô. *for alms*, khṳt-chia̍h. *beg pardon*, m̄-tsai-thâu; sù-tsūe; tit-tsũe; sù--chē; sit-lót; tit-tsõ--tie̍h-lṳ́.
+**beg**, khiû; khṳ́n-khiû; koh-lô. *for alms*, khṳt-chia̍h. *beg pardon*, m̄-tsai-thâu; sù-tsūe; tit-tsũe; sù--chē; sit-lói; tit-tsõ--tie̍h-lṳ́.
 
 **beget**, seⁿ.
 
 **beggar**, khṳt-chia̍h; kiâⁿ-bí; thó-chia̍h. *beggarly*, khṳt-chia̍h-iēⁿ.
 
-**begin**, khí; khui-chhiú; khí-kang; khí-thâu-tsò; tsho-ē-tsò. *a journey*, khí-thêng; khí-sin; khí-kiaⁿ. *beginner*, chheⁿ-chhiú. *beginning*, tsho; tsho-thâu-ē; tsho-ē; khí-tsho; tsho-soiⁿ; khí-soiⁿ.
+**begin**, khí; khui-chhiú; khí-kang; khí-thâu-tsò; tsho-ē-tsò. *a journey*, khí-thêng; khí-sin; khí-kiâⁿ. *beginner*, chheⁿ-chhiú. *beginning*, tsho; tsho-thâu-ē; tsho-ē; khí-tsho; tsho-soiⁿ; khí-soiⁿ.
 
 **begirt**, hâ-tòa; pa̍k-tòa; sok-tòa.
 
@@ -278,7 +278,7 @@ date: 2024-03-31 16:11:00
 
 **benediction**, tsok-hok kâi-ūe.
 
-**benefactor**, ṳn-jîn; ṳu-tsú.
+**benefactor**, ṳn-jîn; ṳn-tsú.
 
 **beneficial**, ũ-iah; ũ-lĩ-iah; ũ-kong-hāu.
 
@@ -310,7 +310,7 @@ date: 2024-03-31 16:11:00
 
 **bespeak**, tsham-siàng; tàⁿ-tiāⁿ-tie̍h; soiⁿ-tàⁿ.
 
-**best**, siãng-hó; chì-hó; siãng-téng-hó; it-hó; ke̍k-hó. *it would be best*, pur-zû …… kèng-hó; put-zû.
+**best**, siãng-hó; chì-hó; siãng-téng-hó; it-hó; ke̍k-hó. *it would be best*, put-zû …… kèng-hó; put-zû.
 
 **bestir**, *oneself*, khat-khóu; tshut-la̍t; lâu-sim; khṳ̂n-la̍t; mién-la̍t.
 
@@ -328,11 +328,11 @@ date: 2024-03-31 16:11:00
 
 **betroth**, hṳ́-chhin; kat-hun; kit-hun; tiāⁿ-hun; sàng-phiàⁿ; phiàⁿ-tiāⁿ; tsò-chhin-chiâⁿ. *betroth a girl to any one*, tsò--pun-nâng; phiàⁿ--pun--nâng. *betrothal presents*, phiàⁿ-lói.
 
-**better**, kèng-hó; zú-kèng-hó; hó--kùe; iâⁿ--kùe; kiêⁿ--kùe; sèng--kùe. *he is better today*, kim-ji̍t iáu-hó; iáu-tsha̍h. *you had better*, put-zû; m̄-pí; m̄-chhin-chhiẽⁿ.
+**better**, kèng-hó; zú-kèng-hó; hó--kùe; iâⁿ--kùe; kiêⁿ--kùe; sèng--kùe. *he is better today*, kim-ji̍t iáu-hó; iáu-tsua̍h. *you had better*, put-zû; m̄-pí; m̄-chhin-chhiẽⁿ.
 
 **between**, tang; tìn-tang; tong-iang; tong-sim; tong-kan; lãi.
 
-**bewail**, ai-khàu; thòng-khoh; thiàⁿ-khàu.
+**bewail**, ai-khàu; thòng-khok; thiàⁿ-khàu.
 
 **beware**, kṳ́n-sín; thî-huâng; kṳ́n-kù; kṳ́n-huâng.
 
@@ -382,7 +382,7 @@ date: 2024-03-31 16:11:00
 
 **birthday**, seⁿ-ji̍t; siū-tàng. *keep one's*, kāng-i-tsò seⁿ-ji̍t.
 
-**bistre**, tṳ-kuaⁿ-sek; tsang-sak; ou-âng-sek.
+**bistre**, tṳ-kuaⁿ-sek; tsang-sek; ou-âng-sek.
 
 **bit**, *of anything*, che̍k-tiám; tiám-kiáⁿ; kò-kiáⁿ. *boring*, tsǹg-kiáⁿ. *horse's*, bé-hâm-thih.
 
@@ -396,11 +396,11 @@ date: 2024-03-31 16:11:00
 
 **black**, ou; hek. *black and blue*, ou-chheⁿ.
 
-**blackguard**, láu-kiáⁿ; iá-kiáⁿ. pháiⁿ-kiáⁿ.
+**blackguard**, láu-kiáⁿ; iá-kiáⁿ; pháiⁿ-kiáⁿ.
 
 **blackbird**, peh-chi̍h-chiáu; peh-lêng.
 
-**blacking**, *shou*, sueh-ôi kâi-ba̍k-tsúi.
+**blacking**, *shoe*, sueh-ôi kâi-ba̍k-tsúi.
 
 **blacksmith**, phah-thih sai-pẽ.
 
@@ -418,7 +418,7 @@ date: 2024-03-31 16:11:00
 
 **blaspheme**, siet-to̍k Siãng-tì; mēⁿ-thiⁿ chiù-tī; chiù-thiⁿ mēⁿ-tī.
 
-**blast**, *wind*, che̍k-tsūn-huang. *rocks*, ēng húe-ie̍h sie-chie̍h pit-tsò-pôiⁿ; ēng húe-ie̍h sie-phùa-chie̍h; éng húe-ie̍h kâi kek-phùa-chie̍h.
+**blast**, *wind*, che̍k-tsūn-huang. *rocks*, ēng húe-ie̍h sie-chie̍h pit-tsò-pôiⁿ; ēng húe-ie̍h sie-phùa-chie̍h; éng húe-ie̍h lâi kek-phùa-chie̍h.
 
 **blaze**, húe-iām; húe-iãm; húe uak-uak-kiè; húe uāng-uāng-kiè.
 
@@ -436,7 +436,7 @@ date: 2024-03-31 16:11:00
 
 **bless**, tsok; tsok-hok. *as God*, sṳ̀-hok; kàng-hok; hṳ́-hok.
 
-**blesssedness**, hok; kok-khì; hok-che̍k.
+**blessedness**, hok; hok-khì; hok-che̍k.
 
 **blight**, *in grain*, m̄-kit-chí; m̄-kat-si̍t. *by frost*, khṳt sng-soh tàng-sí.
 
@@ -492,7 +492,7 @@ date: 2024-03-31 16:11:00
 
 **blurred**, *printing*, ìn-póiⁿ sie-hũn; ìn-póiⁿ kôu-kôu.
 
-**blush**, siẽⁿ-tie̍h siáu-lí; siáu-llí kàu mīn âng-âng.
+**blush**, siẽⁿ-tie̍h siáu-lí; siáu-lí kàu mīn âng-âng.
 
 **boar**, tṳ-ko.
 
@@ -510,7 +510,7 @@ date: 2024-03-31 16:11:00
 
 **Bohea**, *hill*, Bú-î-suaⁿ.
 
-**boil**, *rice*, tsṳ́-pm̄g; pû-pn̄g. *tea*, pû-tê. *fish*, sa̍h-hṳ̂. *a fowl*, tũn-koi. *egg*, sa̍h-nñg. *half-boil*, sa̍h-thn̄g-sim. *thoroughly*, sa̍h-se̍k; sa̍h-thàng-sim; pû-mîⁿ-mîⁿ; pû-lok-lok. *the rice is not yet boiled*, pn̄g būe-se̍k. *rice boiled but not very soft*, pn̄g khiū. *boil water*, pû-tsúi. *boiling water*, kún-tsúi. *boiler*, ue; pn̄g-ue; tê-ue; tâng-ue.
+**boil**, *rice*, tsṳ́-pn̄g; pû-pn̄g. *tea*, pû-tê. *fish*, sa̍h-hṳ̂. *a fowl*, tũn-koi. *egg*, sa̍h-nñg. *half-boil*, sa̍h-thn̄g-sim. *thoroughly*, sa̍h-se̍k; sa̍h-thàng-sim; pû-mîⁿ-mîⁿ; pû-lok-lok. *the rice is not yet boiled*, pn̄g būe-se̍k. *rice boiled but not very soft*, pn̄g khiū. *boil water*, pû-tsúi. *boiling water*, kún-tsúi. *boiler*, ue; pn̄g-ue; tê-ue; tâng-ue.
 
 **boil**, *a*, che̍k-lia̍p-thûe; zua̍h-pauh; pùi kat. *on buttocks*, tsõ-póiⁿ-tshng.
 
@@ -522,7 +522,7 @@ date: 2024-03-31 16:11:00
 
 **bolster**, tn̂g-chím-thâu; zo̍k.
 
-**bolt**, *of door*, mn̂g-tshùaⁿ; mn̂g-chhēng; mn̂g-tshùan. *iron bolt or wedge for boring stones*, tsãm. *thunder bolt*, lûi-tsãm, *bolt a door*, tshùaⁿ-mn̂g; chhēng-mn̂g; kueⁿ-mn̂g; tshùan-mn̂g. *bolt out*, tshùaⁿ--tshut-khṳ̀; kueⁿ-tiāu. *grain*, thai. *bolter*, bí-lô; bí-thai.
+**bolt**, *of door*, mn̂g-tshùaⁿ; mn̂g-chhēng; mn̂g-tshùan. *iron bolt or wedge for boring stones*, tsãm. *thunder bolt*, lûi-tsãm. *bolt a door*, tshùaⁿ-mn̂g; chhēng-mn̂g; kueⁿ-mn̂g; tshùan-mn̂g. *bolt out*, tshùaⁿ--tshut-khṳ̀; kueⁿ-tiāu. *grain*, thai. *bolter*, bí-lô; bí-thai.
 
 **bolus**, ie̍h-îⁿ; tōa-ie̍h-îⁿ.
 
@@ -530,7 +530,7 @@ date: 2024-03-31 16:11:00
 
 **bombazine**, ú-lẽng; ú-tn̄g; ú-se.
 
-**bond**, *contract*, *ieh-toaⁿ; ieh-jī; ha̍p-tâng*, khòi.
+**bond**, *contract*, ieh-toaⁿ; ieh-jī; ha̍p-tâng; khòi.
 
 **bondman**, po̍k; nôuⁿ-po̍k; ke-po̍k; po̍k-jîn.
 
@@ -644,9 +644,9 @@ date: 2024-03-31 16:11:00
 
 **breakfast**, mn̂g-khí-pn̄g; tsá-pn̄g. *to take*, chia̍h-mn̂g-khí; chia̍h-tsá-tǹg.
 
-**bream**, *to*, mãⁿ-húe. *a boat*, nãⁿ-tsûn; uãng-tsûn.
+**bream**, *to*, nãⁿ-húe. *a boat*, nãⁿ-tsûn; uãng-tsûn.
 
-**breast**, sim-kuaⁿ-thâu; heng-tsôiⁿ. *breasts*, nõⁿ-lia̍p-niⁿ, nĩⁿ-pâng; nĩⁿ-phè. *abscess in female breast*, niⁿ-hóuⁿ. *breastbone*, heng-tsôiⁿ-kut. *breastplate*, chia-heng-thih.
+**breast**, sim-kuaⁿ-thâu; heng-tsôiⁿ. *breasts*, nõⁿ-lia̍p-niⁿ; nĩⁿ-pâng; nĩⁿ-phè. *abscess in female breast*, niⁿ-hóuⁿ. *breastbone*, heng-tsôiⁿ-kut. *breastplate*, chia-heng-thih.
 
 **breath**, nâng-khùi; phīⁿ-khang-huang; u-khip. *to hold in one's breath*, khip-khùi; kìm-khùi.
 
@@ -710,7 +710,7 @@ date: 2024-03-31 16:11:00
 
 **brogue**, hiang-thâm; thóu-ūe; gṳ́; thóu-gṳ́; thóu-thâm.
 
-**broil**, *a*, tshàu-mãuⁿ; uan-ke lâ-chè. *on the fire*, sie-ne̍k.
+**broil**, *a*, tshàu-nãuⁿ; uan-ke lâ-chè. *on the fire*, sie-ne̍k.
 
 **broken**, phùa; chi̍h. *fragments*, tshùi. *hearted*, sim sng. see [break](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow/B#break).
 
@@ -842,7 +842,7 @@ date: 2024-03-31 16:11:00
 
 **buttock**, kha-tshng; kha-tshng-póiⁿ.
 
-**button**, niúⁿ; saⁿ-niúⁿ. *made of cloth*, tsó-niuⁿe. *gold*, kim-khàu; kim-niúⁿ. *hole*, niúⁿ-phàng. *on a cap, common*, bō-tsu. *mandarin*, lia̍p-téng.
+**button**, niúⁿ; saⁿ-niúⁿ. *made of cloth*, tsó-niuⁿ. *gold*, kim-khàu; kim-niúⁿ. *hole*, niúⁿ-phàng. *on a cap, common*, bō-tsu. *mandarin*, lia̍p-téng.
 
 **buttress**, chhiêⁿ-tú; chhiêⁿ-tún. *of bridge*, kiê-tún.
 

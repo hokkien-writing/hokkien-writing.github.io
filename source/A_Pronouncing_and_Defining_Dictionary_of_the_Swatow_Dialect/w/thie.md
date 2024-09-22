@@ -18,7 +18,7 @@ date: 2024-04-01 23:00:00
 
   pick it open with a needle.
 
-- thie lô̤h khṳ̀ ŏi huehlâu a bŏi?
+- thie lô̤h khṳ̀ ŏi hueh lâu a bŏi?
 
   Does it bleed when you pick into it?
 

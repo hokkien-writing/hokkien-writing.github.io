@@ -6741,7 +6741,7 @@ In the list of words, the common sound, or that under which it is arranged in th
 **惡3-** To hate; loathe.  
 **塢3-** A bank, dike or wall; barracks; a village.  
 
-### **ù**.
+### ù.
 **余-1** I; me.  
 **畬-1** A field which has been cultivated only three years.  
 **餘-1** Overplus; leavings; the rest.  

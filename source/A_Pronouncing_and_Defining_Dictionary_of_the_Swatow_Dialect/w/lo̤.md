@@ -351,7 +351,7 @@ date: 2024-04-01 23:00:00
 
   half-naked.
 
-**蘿蔔](https://en.wiktionary.org/wiki/蘿蔔)lô̤-phîah551
+**[蘿蔔](https://en.wiktionary.org/wiki/蘿蔔)lô̤-phîah551
 - Turnips.
 
 - lô̤-phîah cí;
