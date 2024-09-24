@@ -34,7 +34,7 @@ The seventh becomes the eighth.
 The eighth becomes the seventh.
 As:—
 1. 何時 Tiang-sî, when, read Tiang-sî.
-2. 的處 Tî-kò, where, „ Tī-kò.
+2. 底塊 Tî-kò, where, „ Tī-kò.
 3. 許處 Hṳ́-kó, there, „ Hṳ̃-kò.
 4. 做年 Tsò-nîⁿ, why, „ Tsó-nîⁿ.
 5. 上好 Siãng-hó, best, „ Siàng-hó.

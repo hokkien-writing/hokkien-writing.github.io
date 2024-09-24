@@ -8,22 +8,22 @@ date: 2022-11-20 23:41:00
 
 ## Lesson XXVIII. Notes—Nautical.
 
-* 【我要過畨】(Uá àiⁿ-kùe-huan) I am going to a foreign country.
-* 【爾要搭何隻火船】(Lṳ́ àiⁿ-tah tî-chék-chiah húe-tsûn?) By which steamer are you going?
+* 【我要過番】(Uá àiⁿ-kùe-huan) I am going to a foreign country.
+* 【汝要搭何隻火船】(Lṳ́ àiⁿ-tah tî-chék-chiah húe-tsûn?) By which steamer are you going?
 * 【我要搭甲板】(Uá àiⁿ-tah kap-pán) I am going by a sailing vessel.
 * 【此時做好搭甲板。逆風】(Chí--tiang-sî tsò-hó tah-kap-pán, ngék-huang) You shouldn't go by sailing vessel at this time, as the wind is contrary.
-* 【爾能可搭火船】(Lṳ́ nêng-kò tah húe-tsûn) You had better go by steamer.
+* 【汝能可搭火船】(Lṳ́ nêng-kò tah húe-tsûn) You had better go by steamer.
 <!--more-->
 * 【搭彼隻藍烟筒】(Tah hṳ́-chiah nâm-in-tâng) Go by the blue funnel (steamer.)
 * 【明天早入來】(Màⁿ-mêng-khí jíp--lâi) She comes in to-morrow morning.
 * 【舵舡好行了】(Tãi-kong hó-kiâⁿ--lō) Steersman, you had better start now.
 * 【天時好了】(Thiⁿ-sî hó--lō) The weather is fine.
-* 【我起來看】(Uá khí--kâi thóiⁿ) Let me come up and see.
+* 【我起來睇】(Uá khí--kâi thóiⁿ) Let me come up and see.
 * 【咳。雨還了未晴】(Uã! hōu huân-lióu būe-chêⁿ) Oh! the rain hasn't stopped yet.
-* 【須子雨子不畏也】(Su-kiáⁿ hōu-kiáⁿ, mùiⁿ--nō) You needn't be afraid of little rain.
+* 【須囝雨囝不畏也】(Su-kiáⁿ hōu-kiáⁿ, mùiⁿ--nō) You needn't be afraid of little rain.
 * 【霋時要浮大風湧】(Khiã-tiām àiⁿ-phû tūa-huang-êng) By and bye a storm and large waves will rise.
 * 【敢是要做風颱也】(Káⁿ-sĩ àiⁿ-tsò huang-thai ã!) Oh! I think there will be a typhoon.
-* 【來抛加壹個錠】(Lâi-pha ke--kâi tèng) Let us let go another anchor.
+* 【來抛加一個錠】(Lâi-pha ke--kâi tèng) Let us let go another anchor.
 * 【此天時做好行】(Chiá--thiⁿ-sî tsò-hó-kiâⁿ) Oh, we can't go on, in this weather.
 * 【今無變。多着在此被伊吹】(Taⁿ iou-ũ-pōu, lo-tiéh nãⁿ--chié khoih-i-tshue) Now, what help can there be we must stay here and let the wind blow.
 * 【流水雄。風不好】(Lâu-tsúi li hiông, huang li m̄-móⁿ) The tide is strong, and the wind is contrary.
@@ -39,12 +39,12 @@ date: 2022-11-20 23:41:00
 * 【火長在何處】(Húe-tiéⁿ tõ-tî-kò?) Where's the captain?
 * 【火長起去】(Húe-tiéⁿ khí-khṳ̀) The captain has gone on shore.
 * 【伊霋時就落來】(I khiã-tiām chiũ lóh--lâi) He will come on board by and bye.
-* 【火船有吹陂或未】(Húe-tsûn ũ pûn-pi a-būe?) Has the steamer sounder her whistle?
+* 【火船有吹陂亞未】(Húe-tsûn ũ pûn-pi a-būe?) Has the steamer sounder her whistle?
 * 【吹三次了】(Pûn saⁿ-ē--lō) She has whistled three times.
-* 【加壹次就要行】(Ke chék-ē chiũ àiⁿ-kiâⁿ) Once more (the next time) she will start.
+* 【加一次就要行】(Ke chék-ē chiũ àiⁿ-kiâⁿ) Once more (the next time) she will start.
 * 【船頭枝桅個旗。若是升半𰉗就要行】(Tsûn-thâu ki-ûi kâi kî, nāⁿ-sĩ liū pùaⁿ-kuéh chiũ àiⁿ-kiâⁿ) If the flag of the foremast is hoisted half mast high, then the steamer is going to start.
-* 【壹人跋落水底。無人去撈伊】(Kâi-nâng puáh-lóh tsúi-tói, bô-nâng khṳ̀-liôu i) A man has fallen over board, and no one has gone to pick him up.
+* 【一人跋落水底。無人去撈伊】(Kâi-nâng puáh-lóh tsúi-tói, bô-nâng khṳ̀-liôu i) A man has fallen over board, and no one has gone to pick him up.
 * 【伊無乜會氽】(I bô-mih õi-siû) He can't swim very well.
 * 【無速速去救伊。就着激死】(Bô méⁿ-méⁿ khṳ̀ kiù--i, chiũ-tiéh kek-sí) If he is not saved quickly, he will be drowned.
-* 【爾會氼否】(Lṳ́ õi bī mē?) Can you dive?
-* 【無羅經。駛不知何處】(Bô lô-keⁿ, sái m̄-pat-tò-khṳ) Without a compass we don't know where to sail to.
+* 【汝會氼否】(Lṳ́ õi bī mē?) Can you dive?
+* 【無羅經。駛毋知何處】(Bô lô-keⁿ, sái m̄-pat-tò-khṳ) Without a compass we don't know where to sail to.

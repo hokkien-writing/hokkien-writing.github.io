@@ -16,8 +16,8 @@ date: 2022-11-20 22:29:00
 * 【長衫】(Tn̂g-saⁿ) A long coat.
 <!--more-->
 * 【答背】(Tah-pùe) A waistcoat.
-* 【袷子】(Kah-kiáⁿ) A waistcoat.
-* 【身裡衫】(Sin-tói-saⁿ) A shirt or singlet.
+* 【袷囝】(Kah-kiáⁿ) A waistcoat.
+* 【身底衫】(Sin-tói-saⁿ) A shirt or singlet.
 * 【衫袖】(Saⁿ-ńg) Sleeves.
 * 【衫袋】(Saⁿ-tō) Pockets.
 * 【手布】(Chhiú-pòu) Handkerchiefs.
@@ -27,7 +27,7 @@ date: 2022-11-20 22:29:00
 * 【鈕鈸】(Liú-phāng) Button holes.
 * 【棕蓑】(Tsang-sui) A rain coat, made of husk.
 * 【帽】(Bō) A hat.
-* 【帽子】(Bō-kiáⁿ) A cap.
+* 【帽囝】(Bō-kiáⁿ) A cap.
 * 【小帽】(Sié-bō) A cap.
 * 【氈帽】(Chiⁿ-bō) A felt hat.
 * 【草帽】(Tsháu-bō) A straw hat.
@@ -35,7 +35,7 @@ date: 2022-11-20 22:29:00
 * 【頸領】(Ãm-niáⁿ) A collar.
 * 【褲】(Khòu) Trowsers.
 * 【褲腿】(Khòu-thúi) Leggings.
-* 【褲尘】(Khòu-kuéh) Short trowsers.
+* 【褲橛】(Khòu-kuéh) Short trowsers.
 * 【褲頭帶】(Khòu-thâu-tūa) A belt.
 * 【褲頭龍】(Khòu-thâu-léng) do silk.
 * 【肚腰】(Tói-ie) A purse worn on the waist.
@@ -63,7 +63,7 @@ date: 2022-11-20 22:29:00
 * 【脫衫褲】(Thǹg-saⁿ-khòu) To undress.
 * 【換衫褲】(Uāⁿ-saⁿ-khòu) To change clothes.
 * 【打扮】(Tá-pān) To dress prettily.
-* 【排塲】(Phâi-chhiâng) Gorgeous, well dressed.
+* 【排場】(Phâi-chhiâng) Gorgeous, well dressed.
 * 【君子】(Kun-tsṳ́) Gentlemanly.
 * 【珠】(Tsu) Beads.
 * 【領】(Niáⁿ) A (c.)[1] of a coat &c.

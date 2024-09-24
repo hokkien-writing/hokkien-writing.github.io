@@ -4,7 +4,7 @@ p: Handbook_of_the_Swatow_Vernacular
 date: 2022-11-15 21:43:00
 ---
 
-📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) 來，另外有 PDF版本，[點此地方可睇](https://github.com/hokkien-writing/reference/blob/main/book/Handbook_of_the_Swatow_Vernacular.pdf)。
+📌 原始資料對 [WIKISOURCE](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) 來，原版見 [PDF版本](https://github.com/hokkien-writing/reference/blob/main/book/Handbook_of_the_Swatow_Vernacular.pdf)。因應用字習慣變化佮現今其本字考證成果以及網路SEO考量，內容有所修改，已非原版，請仔甄別。
 
 ## 簡介
 

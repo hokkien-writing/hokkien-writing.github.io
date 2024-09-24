@@ -9,41 +9,41 @@ date: 2022-11-20 23:39:00
 ## Lesson XXVII. a list of classifiers.
 
 * 【個】(Kâi) Applied to, men and things generally.
-* 【粒】(Liáp) „ fruit, spherical things, as balls, pills, &c.
-* 【條】(Tiòu) „ rivers, roads, collars, ropes, laws, hair, snakes, lizards, &c. and things in stripes.
-* 【枝】(Ki) „ masts, sticks, knives, spoons, pencils, pillars, branches of trees or plants, &c.
-* 【雙】(Sang) „ things that go in pairs, as shoes, stockings, gloves, chop-sticks, &c.
-* 【對】(Tùi) „ things that go in pairs, as scrolls, candle-sticks, horses, &c.
-* 【頂】(Téng) „ hats, caps, sedan chairs, &c.
+* 【粒】(Liáp) Applied to, fruit, spherical things, as balls, pills, &c.
+* 【條】(Tiòu) Applied to, rivers, roads, collars, ropes, laws, hair, snakes, lizards, &c. and things in stripes.
+* 【枝】(Ki) Applied to, masts, sticks, knives, spoons, pencils, pillars, branches of trees or plants, &c.
+* 【雙】(Sang) Applied to, things that go in pairs, as shoes, stockings, gloves, chop-sticks, &c.
+* 【對】(Tùi) Applied to, things that go in pairs, as scrolls, candle-sticks, horses, &c.
+* 【頂】(Téng) Applied to, hats, caps, sedan chairs, &c.
 <!--more-->
-* 【領】(Niáⁿ) „ coats, bed clothes, nets, mats, &c.
-* 【脚】(Kha) „ boxes, coffins, bangles, rings, &c.
-* 【間】(Koiⁿ) „ houses, shops, rooms.
-* 【座】(Tsō) „ large dwelling houses, ancestral halls.
-* 【張】(Tieⁿ) „ sheets of paper, letters
-* 【包】(Pau) „ things in bundles and bales.
-* 【把】(Pé) „ bundles of wood, vegetables, flowers, &c.
-* 【欉】(Châng) „ trees, plants, vegetables.
-* 【節】(Chat) „ spaces between the joints on the finger, or on bamboo, sugarcane, &c.
-* 【隻】(Chiah) „ ships, quadrupeds, birds, fowls, &c.
-* 【儎】(Chāi) „ cargoes, boat loads, &c.
-* 【塊】(Kò) „ lands, gardens, boards &c., and slices or pieces of things.
-* 【篐】(Khou) „ dollars, bundles of firewood.
-* 【畝】(Bóu) „ fields.
-* 【羣】(Khûn) „ crowds of men, herds of quadrupeds, flocks of fowls, ducks, &c.
-* 【幅】(Pak) „ maps, Chinese pictures, &c.
-* 【件】(Kiãⁿ) „ any business or affair, &c.
-* 【尾】(Búe) „ fish.
-* 【㸃】(Tiám) „ spots of dirt, drops of rain, &c.
-* 【蕊】(Lúi) „ flowers.
-* 【列】(Léh) „ files of soldiers, rows of houses, &c.
-* 【串】(Kuãⁿ) „ strings of cash or beads, &c.
-* 【副】(Hù) „ things in sets and suits.
-* 【本】(Pńg) „ books.
-* 【頁】(Hiéh) „ leaves of books.
-* 【門】(Mn̂g) „ cannons.
-* 【口】(Kháu) „ gardens, smokes of opium or tobacco.
-* 【零些】(Tshoh) „ a quantity of things, a small crowd of men.
-* 【棚】(Péⁿ) „ stage-plays.
-* 【班】(Pan) „ companies of actors, bands, &c.
-* 【位】(Uī) „ persons of respectability.
+* 【領】(Niáⁿ) Applied to, coats, bed clothes, nets, mats, &c.
+* 【腳】(Kha) Applied to, boxes, coffins, bangles, rings, &c.
+* 【間】(Koiⁿ) Applied to, houses, shops, rooms.
+* 【座】(Tsō) Applied to, large dwelling houses, ancestral halls.
+* 【張】(Tieⁿ) Applied to, sheets of paper, letters
+* 【包】(Pau) Applied to, things in bundles and bales.
+* 【把】(Pé) Applied to, bundles of wood, vegetables, flowers, &c.
+* 【欉】(Châng) Applied to, trees, plants, vegetables.
+* 【節】(Chat) Applied to, spaces between the joints on the finger, or on bamboo, sugarcane, &c.
+* 【隻】(Chiah) Applied to, ships, quadrupeds, birds, fowls, &c.
+* 【載】(Chāi) Applied to, cargoes, boat loads, &c.
+* 【塊】(Kò) Applied to, lands, gardens, boards &c., and slices or pieces of things.
+* 【箍】(Khou) Applied to, dollars, bundles of firewood.
+* 【畝】(Bóu) Applied to, fields.
+* 【羣】(Khûn) Applied to, crowds of men, herds of quadrupeds, flocks of fowls, ducks, &c.
+* 【幅】(Pak) Applied to, maps, Chinese pictures, &c.
+* 【件】(Kiãⁿ) Applied to, any business or affair, &c.
+* 【尾】(Búe) Applied to, fish.
+* 【點】(Tiám) Applied to, spots of dirt, drops of rain, &c.
+* 【蕊】(Lúi) Applied to, flowers.
+* 【列】(Léh) Applied to, files of soldiers, rows of houses, &c.
+* 【串】(Kuãⁿ) Applied to, strings of cash or beads, &c.
+* 【副】(Hù) Applied to, things in sets and suits.
+* 【本】(Pńg) Applied to, books.
+* 【頁】(Hiéh) Applied to, leaves of books.
+* 【門】(Mn̂g) Applied to, cannons.
+* 【口】(Kháu) Applied to, gardens, smokes of opium or tobacco.
+* 【零些】(Tshoh) Applied to, a quantity of things, a small crowd of men.
+* 【棚】(Péⁿ) Applied to, stage-plays.
+* 【班】(Pan) Applied to, companies of actors, bands, &c.
+* 【位】(Uī) Applied to, persons of respectability.

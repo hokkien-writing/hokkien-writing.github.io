@@ -20,7 +20,7 @@ date: 2022-11-20 23:22:00
 <!--more-->
 * 【斜文】(Siâ-bûn) Calico.
 * 【朱布】(Tsu-pòu) Gray shirting.
-* 【畨布】(Huan-pòu) Gray shirting.
+* 【番布】(Huan-pòu) Gray shirting.
 * 【白布】(Péh-pòu) White cloth.
 * 【烏布】(Ou-pòu) Black cloth.
 * 【青布】(Chhíⁿ-pòu) Blue cloth.
@@ -39,8 +39,8 @@ date: 2022-11-20 23:22:00
 * 【柒個布】(Níⁿ--kâi-pòu) Dyed cloth.
 * 【綑条】(Kún-tiôu) Tape, for dress.
 * 【帶】(Tùa) „ tying.
-* 【壹疋】(Chék-phit) A piece of cloth.
-* 【壹枝】(Chék-ki) A roll of cloth.
+* 【一疋】(Chék-phit) A piece of cloth.
+* 【一枝】(Chék-ki) A roll of cloth.
 
 ### Mineral &c.
 
@@ -151,7 +151,7 @@ date: 2022-11-20 23:22:00
 * 【杉】(Sam) „ light.
 * 【皮箱】(Phûe-sieⁿ) Trunks, leather.
 * 【菜脯】(Tshài-póu) Turnips, salted.
-* 【索子】(Soh-kiáⁿ) Twine.
+* 【索囝】(Soh-kiáⁿ) Twine.
 * 【銀硃】(Ngṳ̂n-tsu) Vermilion.
 * 【黃蜡】(N̂g-láh) Wax, bees, yellow.
 * 【白蜡】(Péh-láh) „ insect, white.
@@ -163,8 +163,8 @@ date: 2022-11-20 23:22:00
 
 * 【鋸】(Kṳ̀) A saw.
 * 【抽】(Thiu) A plane.
-* 【鑿子】(Tshák-kiáⁿ) A chisel.
-* 【鎖子】(Tsǹg-kiáⁿ) An awl.
+* 【鑿囝】(Tshák-kiáⁿ) A chisel.
+* 【鎖囝】(Tsǹg-kiáⁿ) An awl.
 * 【挫】(Tshò) A file.
 * 【斧頭】(Póu-tháu) An axe.
 * 【鐵釘】(Thih-teng) A nail.
@@ -191,7 +191,7 @@ date: 2022-11-20 23:22:00
 * 【尺】(Chhieh) A measure.
 * 【布尺】(Pòu-chhieh) A tape-line, or cloth measure.
 * 【縫】(Thīⁿ) To sew.
-* 【⿰糸郎】(Nn̂g) To stitch.
+* 【䌜】(Nn̂g) To stitch.
 * 【摺痕】(Chih-tsūe) To them.
 * 【剪】(Ka) To cut with scissors.
 * 【做衫褲】(Tsò-saⁿ-khòu) To make clothes.
@@ -209,7 +209,7 @@ date: 2022-11-20 23:22:00
 * 【數目】(Siòu-bák) An account.
 * 【數簿】(Siòu-phõu) An account book.
 * 【日逐】(Jít-tók) A rough-day book.
-* 【日清】(Jít-chheng) A day-book.
+* 【日淸】(Jít-chheng) A day-book.
 * 【總簿】(Tsóng-phõu) A ledger.
 * 【來往】(Lâi-uáng) A ledger.
 * 【歸原】(Kui-nguân) A stock ledger.
@@ -220,7 +220,7 @@ date: 2022-11-20 23:22:00
 * 【面會】(Mīn-hũe) To meet together (so as to see if the accounts of each other correspond.)
 * 【䰗數】(Khou-siòu) Closed accounts.
 * 【數完】(Siòu uân) Accounts paid up.
-* 【數還清】(Siòu hôiⁿ-chheng) Accounts paid up.
+* 【數還淸】(Siòu hôiⁿ-chheng) Accounts paid up.
 * 【計共】(Kòi-kāng) Amount.
 * 【來銀】(Lái-ngṳ̂n) Received to account.
 * 【抵除後結欠】(Tí-tṳ̂-aũ kat-khiàm) Balance due.
@@ -239,7 +239,7 @@ date: 2022-11-20 23:22:00
 * 【對】(Tùi) To make reference, tas to a book or bill.
 * 【日子】(Jít-chí) Dates.
 * 【算盤】(Sǹg-pûaⁿ) Abacus.
-* 【扣算盤】(Khà-sǹg-pûaⁿ) To reckon on the abacus.
+* 【敲算盤】(Khà-sǹg-pûaⁿ) To reckon on the abacus.
 * 【籜算盤】(Kiah-sǹg-pûaⁿ) To reckon on the abacus.
 * 【算總】(Sǹg-bûa) To add.
 * 【除】(Tṳ̂) To subtract.
@@ -252,7 +252,7 @@ date: 2022-11-20 23:22:00
 
 ### Monetary.
 
-* 【Advantageous】(Hó-thàn) 好贃
+* 【Advantageous】(Hó-thàn) 好趁
 * 【Agree, on a price】(Sṳ-niéⁿ-sêng) 思量成
 * 【Bank, a】(Ngṳ̂n-hâng) 銀行
 * 【Banknote, a】(Tsúa-jī) 紙字
@@ -271,7 +271,7 @@ date: 2022-11-20 23:22:00
 * 【Creditor】(Chè-tsú) 債主
 * 【Dear】(Kùi) 貴
 * 【Debt】(Chè) 債
-* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠人個錢
+* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠人其錢
 * 【Deduct】(Tṳ̂) 除
 * 【Defray】(Tshut-só-hùi) 出使費
 * 【Deposit, entrust】(Tah) 搭
@@ -295,13 +295,13 @@ date: 2022-11-20 23:22:00
 * 【„ changer】(Táu-chiⁿ-hâng, táu-toh-kūiⁿ) 找錢行　找棹櫃
 * 【„ lender】(Pàng-seⁿ-chè, pàng-seⁿ-siòu) 放生債　放生數
 * 【Mortgage, to】(Tǹg, tóiⁿ) 當　典
-* 【„, deed】(Tóiⁿ-khòi) 典契
+* 【„ deed】(Tóiⁿ-khòi) 典契
 * 【Mortgagor】(Tóiⁿ-tsú) 典主
 * 【„ original】(Tói-tsṳ́) 底子
 * 【Mortgagee】(Tǹg-tsú) 當主
 * 【Owe】(Khiàm) 欠
 * 【Payment, punctual】(Bô-thua-khiàm) 無拖欠
-* 【„ non, (at time specified)】(Kùe-hãng) 過限
+* 【„ non-punctual, (at time specified)】(Kùe-hãng) 過限
 * 【Premium】(Ngṳ̂n-tsúi) 銀水
 * 【Price】(Kè-chîⁿ) 價錢
 * 【„ current】(Hâng-chhêng) 行情
@@ -309,13 +309,13 @@ date: 2022-11-20 23:22:00
 * 【„ fall in】(Lóh-kè) 落價
 * 【„ rise in】(Hó-kè, khí-kè) 好價　起價
 * 【Prime cost】(Nguân-kè) 原價
-* 【Profit】(Thàn, tit-lĩ) 贃　得利
+* 【Profit】(Thàn, tit-lĩ) 趁　得利
 * 【Refund, to】(Hôiⁿ) 還
 * 【Rent】(Sùe) 稅
 * 【Safe, an iron】(Thih-kap-buān) 鐵甲萬
-* 【Security, to stand】(Pó-niáⁿ, tam-sêng) 保領　担承
+* 【Security, to stand】(Pó-niáⁿ, tam-sêng) 保領　擔承
 * 【Treasury】(Khòu-pâng) 庫房
-* 【Usury】(Tãng-lāi, guéh-kiáⁿ) 重利　月子
+* 【Usury】(Tãng-lāi, guéh-kiáⁿ) 重利　月囝
 * 【Valuable】(Kùi-khì, tát-chîⁿ) 貴氣　値錢
 * 【Worth, to be】(Tát) 値
 
@@ -330,11 +330,11 @@ date: 2022-11-20 23:22:00
 * 【Auction】(Khà-lōi-long) 和黎郞
 * 【Bale, a】(Khún) 綑
 * 【Barter, to】(Hùe uāⁿ hùe) 貨換貨
-* 【Bill of lading】(Nám-tsāi-jī) 攬儎字
+* 【Bill of lading】(Nám-tsāi-jī) 攬載字
 * 【Broker, a】(Phah-khang) 打空
 * 【Bundle, a】(Pau) 包
 * 【Business】(Sṳ̄, seng-lí) 事　生理
-* 【Busy】(M̄-ôiⁿ, sṳ̄ tsōi) 不暇　事多
+* 【Busy】(M̄-ôiⁿ, sṳ̄ tsōi) 毋暇　事多
 * 【Cargo】(Hùe) 貨
 * 【Cask, a】(Tháng) 桶
 * 【Certificate, a】(Phêng-tuaⁿ) 憑單
@@ -355,7 +355,7 @@ date: 2022-11-20 23:22:00
 * 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交易之人
 * 【Defraud】(Tshuah) 騙
 * 【Demurrage】(Thiap-kùe-hãng kâi-ngṳ̂n) 貼過限之銀
-* 【Dissolve partnership】(Thiah-húe-kì) 拆夥記
+* 【Dissolve partnership】(Thiah-húe-kì) 拆夥計
 * 【Duty, (Customs,)】(Hiàng) 餉
 * 【„ to collect】(Khieh-hiàng) 携餉
 * 【„ to pay】(Láp-hiàng) 納餉
@@ -364,7 +364,7 @@ date: 2022-11-20 23:22:00
 * 【Estate, (lands and houses,)】(Súaⁿ-ngiáp) 產業
 * 【„ (properties of all kinds,)】(Ke-húe) 家伙
 * 【Estimate, to】(Kóu-kè, pān) 估價　酌
-* 【Examine, to】(Chhê-thóiⁿ) 查看
+* 【Examine, to】(Chhê-thóiⁿ) 查睇
 * 【Exhibit, to, (goods,)】(Pái) 擺
 * 【Exorbitant price】(Kùi-tsãi) 盡貴
 * 【Exports】(Tshut-kháu-hùe) 出口貨
@@ -379,7 +379,7 @@ date: 2022-11-20 23:22:00
 * 【Jetty, a】(Bé-thâu) 馬頭
 * 【Landlord】(Tshù-tsú) 厝主
 * 【Lease, to】(Tsou) 租
-* 【Leisure】(Oiⁿ) 閑
+* 【Leisure】(Oiⁿ) 閒
 * 【Letter, a】(Phoi, sìn) 批　信
 * 【Mail (from Europe,)】(Tsóu-ke-sìn) 祖家信
 * 【Manage, to】(Lí, phōiⁿ) 理　辨
@@ -393,13 +393,13 @@ date: 2022-11-20 23:22:00
 * 【Monthly】(Guéh-guéh) 月月
 * 【News】(Sin-bũn, sié-sit) 新聞　消息
 * 【Newspaper】(Sin-bũn-tsúa) 新聞紙
-* 【Note-book】(Phõu-kiáⁿ) 簿仔
+* 【Note-book】(Phõu-kiáⁿ) 簿囝
 * 【Notify, to】(Thong-tsai) 通知
 * 【Offer, (to make an,)】(Tshut) 出
 * 【Order, to, (goods,)】(Kià-khṳ̀-bói) 寄出買
 * 【„ money】(Ngṳ̂n-tuaⁿ) 銀單
 * 【Package, a】(Pau) 包
-* 【Partner, a】(Húe-kì) 夥記
+* 【Partner, a】(Húe-kì) 夥計
 * 【Passport, a】(Lōu-phiè) 路票
 * 【Postage】(Chiú-chîⁿ) 酒錢
 * 【Purchase, to】(Bói, kau-kuan) 買　交易
@@ -408,11 +408,11 @@ date: 2022-11-20 23:22:00
 * 【Retail, to】(Lân-san-bōi) 零些賣
 * 【Rough draft】(Tshó-kó) 草稿
 * 【Salary】(Kang-tsṳ) 工資
-* 【Sale, for】(Aîⁿ-bōi--kâi) 要賣個
+* 【Sale, for】(Aîⁿ-bōi--kâi) 要賣其
 * 【„ no】(Bõi-siou) 袂消
 * 【Sample】(Pān-thâu, pān) 辦頭　辦
 * 【Sell, to】(Bōi) 賣
-* 【„ stock in trade】(Phòu phah--khṳtg-náng) 舖打與人
+* 【„ stock in trade】(Phòu phah--khṳt-náng) 舖打乞人
 * 【Share, a】(Hūn) 分
 * 【Shop, a】(Phòu) 舖
 * 【„ proprietor of】(Tshâi-tsú) 財主
@@ -426,7 +426,7 @@ date: 2022-11-20 23:22:00
 * 【Tradesman, a】(Seng-lí-nâng) 生理人
 * 【Transaction, business】(Kau-kùa, bói-bōi) 交掛　買賣
 * 【Undersell, to】(Bōi-phiⁿ--nâng) 賣平伊人
-* 【Unprofitable】(Oh-thàn) 難贃
+* 【Unprofitable】(Oh-thàn) 難趁
 * 【Wages】(Kang-chîⁿ) 工錢
 * 【Wholesale, buy】(Bói-chiēⁿ-pûaⁿ) 買上盤
 * 【„ sell】(Bōi-chiēⁿ-pûaⁿ) 賣上盤
@@ -438,7 +438,7 @@ date: 2022-11-20 23:22:00
 * 【分】(Hun) Candareen.
 * 【両】(Niéⁿ) Tael.
 * 【斤】(Kṳn) Catty.
-* 【担】(Tàⁿ) Picul.
+* 【擔】(Tàⁿ) Picul.
 * 【寸】(Tshùn) An inch. (Chinese.)
 * 【尺】(Chhieh) A foot. (Twelve English inches.)
 * 【丈】(Tñg) Ten feet.

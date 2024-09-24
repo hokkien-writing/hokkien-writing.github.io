@@ -26,8 +26,8 @@ date: 2022-11-20 23:02:00
 * 【頭壳眩】(Thâu-khak hîn) Headache.
 * 【人熱】(Nâng zuáh) Fever.
 * 【發燒】(Huat-sie) Fever.
-* 【畏冷】(Uì-chhìn) Ague.
-* 【發燒畏冷】(Huat-sie ùi-chhìn) Fever and ague.
+* 【畏凊】(Uì-chhìn) Ague.
+* 【發燒畏凊】(Huat-sie ùi-chhìn) Fever and ague.
 * 【肚痛】(Tóu-thiàⁿ) Stomachache.
 * 【抽痛】(Thiu-thiàⁿ) Cramp.
 * 【嘔】(Thôu) To vomit.
@@ -36,7 +36,7 @@ date: 2022-11-20 23:02:00
 * 【放血】(Pàng-àng) Dysentery.
 * 【滯氣】(Thì-khì) Dysentery.
 * 【痢疾】(Lĩ-chit) Dysentery.
-* 【肚澁】(Tóu-siap) Costiveness.
+* 【肚澀】(Tóu-siap) Costiveness.
 * 【着痧】(Tiéh-sua) Colic.
 * 【損病】(Sùn-pēⁿ) Consumption.
 * 【瘋痛】(Huang-thiàⁿ) Rheumatism.
@@ -57,12 +57,12 @@ date: 2022-11-20 23:02:00
 * 【泡】(Phã) A blister.
 * 【起泡】(Phok-phã) To rise in blister.
 * 【腫】(Chéng) Swelling.
-* 【不知人】(M̄-tsai-nâng) Fainting.
+* 【毋知人】(M̄-tsai-nâng) Fainting.
 * 【眩】(Hîn) Giddy.
 * 【眩船】(Hîn-tsûn) Sea-sick.
 * 【齒痛】(Khí-thiàⁿ) Toothache.
 * 【吐瀉】(Thòu-sià) Cholera.
-* 【賢亞娘】(Gâu-a-niêⁿ) Small-pox.
+* 【賢阿娘】(Gâu-a-niêⁿ) Small-pox.
 * 【出珠】(Tshut-tsu) Small-pox.
 * 【食痘】(Chiáh-tāu) Chicken-pox.
 * 【出痘】(Tshut-tāu) Chicken-pox.
@@ -73,33 +73,33 @@ date: 2022-11-20 23:02:00
 * 【軟疕】(Nńg-nîⁿ) Palsy.
 * 【痒癲】(Kuàn-pien) Palsy.
 * 【顚】(Sióu) Mad.
-* 【心神不定】(Sim-sîn m̄-tiāⁿ) Insane.
+* 【心神毋定】(Sim-sîn m̄-tiāⁿ) Insane.
 * 【愩】(Kòng) Crazy.
 * 【輩】(Bùi, Pùi) Prickly heat.
 * 【癬】(Sién) Ringworm.
 * 【目痛】(Mák--thiàⁿ) Sore-eyes.
 * 【近視】(Kṳ̃n-sī) Near-sighted.
 * 【近覷】(Kṳ̃n-tshṳ̀) Near-sighted.
-* 【睛盲】(Chheⁿ-mêⁿ) Blind.
+* 【青盲】(Chheⁿ-mêⁿ) Blind.
 * 【眼睛灰】(Mák-chiu-hue) Dimness.
 * 【斜目】(Siâ-mák-chióu) Squinting.
 * 【耳聾】(Hĩⁿ--lâng) Deaf.
 * 【啞】(É) Dumb.
-* 【缺嘴】(Khih-tshùi) Hare-lip.
+* 【缺喙】(Khih-tshùi) Hare-lip.
 * 【腰龜】(Ie-ku) Humpback.
-* 【拐脚】(Kuái-kha) Lame.
-* 【枋脚䥥】(Páng-kha-liâm) Ulcerated leg.
-* 【縻脚】(Miⁿ-kha) Ulcerated leg.
+* 【拐腳】(Kuái-kha) Lame.
+* 【枋腳䥥】(Páng-kha-liâm) Ulcerated leg.
+* 【縻腳】(Miⁿ-kha) Ulcerated leg.
 * 【生物】(Seⁿ-muéh) To have a disease.
 * 【生㿗】(Seⁿ-thûe) To have a boil.
 * 【濃】(Lâng) Matter.
-* 【⿸疒尉】(Uè) To infect.
+* 【穢】(Uè) To infect.
 * 【傷痕】(Sieⁿ-hûn) A scar.
 * 【痣】(Kì) A wart.
 * 【侯蠅屎痣】(Hôu-sîn-sái-kì) A mole.
 * 【破相】(Phùa-sièⁿ) Deformed.
 * 【瘟疫】(Un-chiàng) A plague.
-* 【天時粗澁】(Thiⁿ-sî tshou-siap) A plague.
+* 【天時粗澀】(Thiⁿ-sî tshou-siap) A plague.
 * 【平安】(Phêng-an) Peace.
 * 【藥單】(Iéh-tuaⁿ) A prescription.
 * 【藥方】(Iéh-hng) A prescription.
@@ -119,13 +119,13 @@ date: 2022-11-20 23:02:00
 * 【薄荷油】(Pô-hò-iû) Peppermint.
 * 【毒】(Ták) Poisonous, as snakes.
 * 【食凉】(Chiáh-liâng) To take something cooling.
-* 【食補】(Chiáh-póu) To take something very strenghtening as gin-seng, deer horn, &c.
+* 【食補】(Chiáh-póu) To take something very strengthening as gin-seng, deer horn, &c.
 * 【有補】(Ũ-póu) Nutritious.
 * 【貼】(Tah) To apply, as a poultice, plaster &c.
 * 【抹】(Buah) To apply, as iodine, oinment &c.
 * 【食藥】(Chiáh-iéh) To take medicine.
 * 【解藥】(Kói-iéh) To act as an antidote.
-* 【壹帖】(Chék-thiap) A dose, (as of Chinese medicine.)
-* 【壹日食三餐】(Chék-jít chiáh-saⁿ-tǹg) To be taken three times a day.
+* 【一帖】(Chék-thiap) A dose, (as of Chinese medicine.)
+* 【一日食三餐】(Chék-jít chiáh-saⁿ-tǹg) To be taken three times a day.
 * 【空心肚食】(Khang-sim-tóu chiáh) To be taken when the stomach is empty.
 * 【未食先食】(Būe-chiáh soiⁿ-chiáh) To be taken before meals.

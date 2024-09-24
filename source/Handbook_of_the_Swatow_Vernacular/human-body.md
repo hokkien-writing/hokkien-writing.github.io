@@ -26,8 +26,8 @@ date: 2022-11-20 21:44:00
 * 【眼睛】(Mák-jîn) Eye-ball.
 * 【鼻】(Phīⁿ) Nose.
 * 【鼻孔】(Phīⁿ-khang) Nostril.
-* 【口】(Tshùi) Mouth.
-* 【口唇皮】(Tshùi-lîm-phûe) Lips.
+* 【喙】(Tshùi) Mouth.
+* 【喙唇皮】(Tshùi-lîm-phûe) Lips.
 * 【鬚】(Chhiu) Beard, moustache.
 * 【下髯】(Ẽ-hâi) Chin.
 * 【頰】(Kih-kau) Cheeks.
@@ -37,7 +37,7 @@ date: 2022-11-20 21:44:00
 * 【頸】(Ãm) Neck.
 * 【身】(Sin) Body.
 * 【心肝頭】(Sim-kuaⁿ-thâu) Chest.
-* 【腁⿰月⿱丸内】(Phiaⁿ-lî) Sides.
+* 【𩩍籬】(Phiaⁿ-lî) Sides.
 * 【肚】(Tóu) Belly.
 * 【肚臍】(Tóu-tsâi) Navel.
 * 【脇下】(Koh-lâng-ẽ) Arm-pit.
@@ -48,11 +48,11 @@ date: 2022-11-20 21:44:00
 * 【手指】(Chhiú-tsóiⁿ) Fingers.
 * 【指頭公】(Tsńng-thâu-kong) Thumb.
 * 【指甲】(Tsńg-kah) Nail.
-* 【脚】(Kha) Legs, feet.
-* 【脚腿】(Kha-thúi) Thigh.
+* 【腳】(Kha) Legs, feet.
+* 【腳腿】(Kha-thúi) Thigh.
 * 【膝】(Kha-thâu-u) Knees.
-* 【脚目】(Kha-mák) Ankles.
-* 【脚趾】(Kha-tsóiⁿ) Toes.
+* 【腳目】(Kha-mák) Ankles.
+* 【腳趾】(Kha-tsóiⁿ) Toes.
 * 【皮】(Phûe) Skin.
 
 ### External.
@@ -85,30 +85,30 @@ date: 2022-11-20 21:44:00
 ------
 
 * 【此個人壯在】(Chí-kâi nàng tsàng-tsãi) This man is very strong.
-* 【我個頭髮長了】(Uá kâi thâu-môⁿ tn̂g--lō) My hair is long.
+* 【我其頭髮長了】(Uá kâi thâu-môⁿ tn̂g--lō) My hair is long.
 * 【我要剃頭】(Uá àiⁿ thì-thâu) I want to shave.
-* 【爾個手伸出來】(Lṳ́ kâi chhiú tshun--tshut-lâi) Stretch out your hand.
-* 【我個手指流血】(Uá kâi chhiú-tsóiⁿ lâu-hueh) My finger is bleeding.
+* 【汝其手伸出來】(Lṳ́ kâi chhiú tshun--tshut-lâi) Stretch out your hand.
+* 【我其手指流血】(Uá kâi chhiú-tsóiⁿ lâu-hueh) My finger is bleeding.
 * 【我在批物件。刹着】(Uá tō phoi muéh-kiãⁿ, kuah--tiéh) I was cutting something, and it got cut.
-* 【伊跌到脚折去】(I puáh kàu kha chíh--khṳ̀) He fell down, and broke his leg.
-* 【脚手勿多】(Kha-chhiú màiⁿ-tsōi) Don't be mischievous.
+* 【伊跌到腳折去】(I puáh kàu kha chíh--khṳ̀) He fell down, and broke his leg.
+* 【腳手勿多】(Kha-chhiú màiⁿ-tsōi) Don't be mischievous.
 * 【伊死了】(I sí--lō) He is dead.
-* 【爾在批的個】(Lṳ́ tõ phoi tî-kâi?) What are you cutting?
-* 【我在批我個指甲】(Uá tõ phoi uá kái tsńg-kah) I am cutting my nails.
+* 【汝在批底個】(Lṳ́ tõ phoi tî-kâi?) What are you cutting?
+* 【我在批我其指甲】(Uá tõ phoi uá kái tsńg-kah) I am cutting my nails.
 * 【此個人肥在】(Chí-kâi nâng pûi-tsãi) This man is very fat.
 * 【伊要流鬚】(I àiⁿ lâu-chhiu) He wants to keep his beard.
-* 【伊個頭毛茹茹】(I kâi thâu-môⁿ zṳ̂-zṳ̂) His hair is rough.
+* 【伊其頭毛茹茹】(I kâi thâu-môⁿ zṳ̂-zṳ̂) His hair is rough.
 * 【伊無梳頭】(I bô siu-thâu) He doesn't comb his hair.
-* 【爾個人會不好或袂】(Lṳ́ kâi nâng õi m̄-móⁿ a-bõi?) Are you unwell?
-* 【會。我個人熱】(Õi, uá kâi nâng zuáh) Yes, I am suffering from fever.
-* 【爾要食零須藥否】(Lṳ́ àiⁿ-chiáh lân-ló iéh mē?) Do you wish to take some medicine?
-* 【要亞。請爾携零須分我】(Àiⁿ a, chhiáⁿ lṳ́ khiéh lân-ló pun uá) Oh yes, please get me some.
-* 【我個肚此几日澁在】(Uá kâi tóu chí-kua-jít siap-tsãi) I have been very costive during the last few days.
-* 【我壹身流汗】(Uá chék-sin lâu-kūaⁿ) I am in a perspiration.
+* 【汝其人會不好亞袂】(Lṳ́ kâi nâng õi m̄-móⁿ a-bõi?) Are you unwell?
+* 【會。我其人熱】(Õi, uá kâi nâng zuáh) Yes, I am suffering from fever.
+* 【汝要食零須藥否】(Lṳ́ àiⁿ-chiáh lân-ló iéh mē?) Do you wish to take some medicine?
+* 【要亞。請汝携零須分我】(Àiⁿ a, chhiáⁿ lṳ́ khiéh lân-ló pun uá) Oh yes, please get me some.
+* 【我其肚此几日澀在】(Uá kâi tóu chí-kua-jít siap-tsãi) I have been very costive during the last few days.
+* 【我一身流汗】(Uá chék-sin lâu-kūaⁿ) I am in a perspiration.
 * 【人困在】(Nâng khùn-tsãi) I am very weak.
 * 【我病有三個禮拜】(Uá pēⁿ ũ saⁿ-kâi lói-pài) I have been sick for about three weeks.
-* 【爾個人會少差或袂】(Lṳ́ kâi nâng õi ióu-tsuáh a-bõi?) Are you any better?
-* 【會。少差些輸】(Õi, ióu-tsúah su-kiáⁿ) Yes, a little better.
-* 【人會食或袂】(Nâng õi-chiáh a-bõi?) Can you eat?
+* 【汝其人會稍絀亞袂】(Lṳ́ kâi nâng õi ióu-tsuáh a-bõi?) Are you any better?
+* 【會。稍絀須囝】(Õi, ióu-tsúah su-kiáⁿ) Yes, a little better.
+* 【人會食亞袂】(Nâng õi-chiáh a-bõi?) Can you eat?
 * 【會零須】(Õi lân-ló) I can eat a little.
 * 【勿食太多】(Màiⁿ-chiáh khah-tsōi) Don't eat too much.

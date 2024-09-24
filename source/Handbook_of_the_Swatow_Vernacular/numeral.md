@@ -64,8 +64,8 @@ date: 2022-11-16 20:53:00
 * 【1000000】(Chék-peh-buān) 〡〇〇〇百万 一百萬
 
 ------
-[1] Or a shorter form jíh-it 卄乙
-[2] „ jít-jī 卄弍
-[3] „ peh-it 百壹
-[4] „ peh-jī 百弍
-[5] „ tshoiⁿ lân-it 千零壹
+[1] Or a shorter form jíh-it 廿一
+[2] „ jít-jī 廿二
+[3] „ peh-it 百一
+[4] „ peh-jī 百二
+[5] „ tshoiⁿ lân-it 千零一

@@ -17,7 +17,7 @@ date: 2022-11-15 21:43:00
 * 【Ask, (demand.)】(Thó) 討
 * 【Ask, (enquire.)】(Mn̄g) 問
 <!--more-->
-* 【Bear, (to suffer.)】(Nãiⁿ) 奈
+* 【Bear, (to suffer.)】(Nãiⁿ) 奈  耐
 * 【Beat】(Phah) 打
 * 【Beg】(Khṳt, khiû) 乞　求
 * 【Begin】(Khí) 起
@@ -29,7 +29,7 @@ date: 2022-11-15 21:43:00
 * 【Bring】(Khiéh, tùa) 持　帶
 * 【Brush】(Tshóiⁿ, chhiù) 筅　刷
 * 【Buy】(Bói) 買
-* 【Call】(Kiè, hàm) 呌　喊
+* 【Call】(Kiè, hàm) 叫　喊
 * 【Care】(Chién, kuan-kù) 掌　觀顧
 * 【Carry, (between two equal weights.)】(Taⁿ) 擔
 * 【Carry, (one weight by two persons.)】(Kng) 扛
@@ -41,7 +41,7 @@ date: 2022-11-15 21:43:00
 * 【Chase】(Jiōu) 追
 * 【Cheat】(Phièn) 騙
 * 【Choose】(Suán, tóh) 選　擇
-* 【Clean】(Muéh-chheng-khih) 修清潔
+* 【Clean】(Muéh-chheng-khih) 修淸潔
 * 【Cook】(Tsṳ́, pû) 煮　烳
 * 【Correct】(Kói) 改
 * 【Count】(Sǹg) 算
@@ -51,12 +51,12 @@ date: 2022-11-15 21:43:00
 * 【Delay】(Êng-ti, thû) 延遲
 * 【Descend】(Lóh) 落
 * 【Die】(Sí) 死
-* 【Dismiss, (from service.)】(Si-tiòu, sǹg-hiah) 亂丢　算歇
+* 【Dismiss, (from service.)】(Si-tiòu, sǹg-hiah) 亂掉　算歇
 * 【Do】(Tsò, muéh) 做　物
 * 【Dream】(Māng-kìⁿ) 夢見
 * 【Dry, (in the sun.)】(Phák) 曝
 * 【Eat】(Chiáh) 食
-* 【Engage, (servants.)】(Kiè) 呌
+* 【Engage, (servants.)】(Kiè) 叫
 * 【Engage, (as a literary man, a teacher.)】(Chhiáⁿ) 請
 * 【Examine】(Sûn, chhê) 巡　查
 * 【Examine, (literature.)】(Kháu) 考
@@ -79,7 +79,7 @@ date: 2022-11-15 21:43:00
 * 【Invite】(Chhiáⁿ) 請
 * 【Keep】(Khǹg) 藏
 * 【Kneel】(Kũi) 跪
-* 【Knock】(Khà) 扣
+* 【Knock】(Khà) 敲
 * 【Know, (as a fact.)】(Tsai) 知
 * 【Know, (as a person.)】(Pat) 識
 * 【Last】(Nãiⁿ) 耐
@@ -92,7 +92,7 @@ date: 2022-11-15 21:43:00
 * 【Lie down】(Tó) 倒
 * 【Light, (lamps.)】(Tiám) 點
 * 【Live, (reside.)】(Khiā-khí, tiū) 居住
-* 【Lose】(M̄-kìⁿ, sit-lóh) 不見　失落
+* 【Lose】(M̄-kìⁿ, sit-lóh) 毋見　失落
 * 【Love】(Sieh) 惜
 * 【Make】(Tsò, muéh) 做　物
 * 【Meet, (a person.)】(Ngõ) 遇
@@ -108,9 +108,9 @@ date: 2022-11-15 21:43:00
 * 【Put】(Pàng) 放
 * 【Quarrel】(Sie-mēⁿ) 相罵
 * 【Read, (aloud.)】(Thák) 讀
-* 【Read, (mentally.)】(Thóiⁿ-tsṳ) 看書
+* 【Read, (mentally.)】(Thóiⁿ-tsṳ) 睇書
 * 【Receive】(Siu, chih) 收　接
-* 【Refuse】(M̃-hàuⁿ) 不好
+* 【Refuse】(M̃-hàuⁿ) 毋好
 * 【Release】(Pàng) 放
 * 【Remember】(It-tit, kì-tit) 憶得　記得
 * 【Remove, (residence.)】(Puaⁿ) 搬
@@ -122,17 +122,17 @@ date: 2022-11-15 21:43:00
 * 【Run】(Tsáu) 走
 * 【Save】(Kiù) 救
 * 【Search】(Tshūe) 覔
-* 【See】(Thóiⁿ) 看
+* 【See】(Thóiⁿ) 睇
 * 【Sell】(Bōi) 賣
 * 【Shake】(Iẽ) 搖
 * 【Shout】(Soi, jiáng) 嘶　嚷
-* 【Shut】(Kueⁿ) 閉
+* 【Shut】(Kueⁿ) 關
 * 【Sit】(Tsõ) 坐
 * 【Sleep】(U̍t) 睡
 * 【Smell】(Phīⁿ) 鼻
 * 【Speak】(Tàⁿ) 呾
 * 【Spend】(Só-hùi, sái) 使費　使
-* 【Spoil】(Muèh-tiòu) 壞丢
+* 【Spoil】(Muèh-tiòu) 壞掉
 * 【Stand】(Khiã) 站
 * 【Stop, (silence.)】(Tiām-tiām) 靜靜
 * 【Stop, (discontinue.)】(Hiah) 歇
@@ -144,7 +144,7 @@ date: 2022-11-15 21:43:00
 * 【Tease, (annoy.)】(Pa-lói, tṳ̂) 擾亂　除
 * 【Think】(Siẽⁿ) 想
 * 【Throw, (as stones.)】(Kák) 丢
-* 【Throw away】(Kák-tiòu, sek-tiòu) 抛丢　丢去
+* 【Throw away】(Kák-tiòu, sek-tiòu) 抛掉　丢去
 * 【Tie】(Pák) 縛
 * 【Understand】(Hióu, mêng-péh) 曉　明白
 * 【Undo, Untie】(Tháu) 解

@@ -10,7 +10,7 @@ date: 2022-11-20 22:51:00
 
 * 【船】(Tsûn) A boat.
 * 【火船】(Húe-tsûn) A steamer.
-* 【火船仔】(Húe-tsûn-kiáⁿ) A steam-launch.
+* 【火船囝】(Húe-tsûn-kiáⁿ) A steam-launch.
 * 【明車火船】(Iâng-chhia húe-tsûn) A paddle steamer.
 * 【戰船】(Chièn-tsûn) A war vessel.
 * 【夾板】(Kap-pán) A sailing vessel.
@@ -18,7 +18,7 @@ date: 2022-11-20 22:51:00
 * 【洋船】(Iêⁿ-tsûn) A junk.
 * 【紅頭船】(Âng-thâu-tsûn) A junk.
 * 【渡船】(Tōu-tsûn) A passage boat.
-* 【船仔】(Tsûn-kiáⁿ) A sampan.
+* 【船囝】(Tsûn-kiáⁿ) A sampan.
 * 【竹篙噠】(Tek-ko-that) A sampan.
 * 【槳】(Chiéⁿ) An oar.
 * 【櫓】(Kò) To row.
@@ -57,7 +57,7 @@ date: 2022-11-20 22:51:00
 * 【車】(Chhia) A propeller.
 * 【紡】(Pháng) To propel.
 * 【開藥鬼】(Khui iék-kúi) To start engine.
-* 【閉藥鬼】(Kueⁿ iéh-kúi) To stop engine.
+* 【關藥鬼】(Kueⁿ iéh-kúi) To stop engine.
 * 【舵】(Tũa) A rudder.
 * 【掠舵】(Liáh-tũa) To steer.
 * 【地圖】(Tī-tôu) Maps.
@@ -76,8 +76,8 @@ date: 2022-11-20 22:51:00
 * 【船主】(Tsûn-tsú) Captain.
 * 【大伙】(Tūa-húe) Chief mate.
 * 【二伙】(Jī-húe) Second mate.
-* 【管藥鬼個人】(Kuán-iéh-kúi--kâi-nâng) Engineer.
-* 【燒火個人】(Hiâⁿ-húe--kâi-nâng) Stoker.
+* 【管藥鬼其人】(Kuán-iéh-kúi--kâi-nâng) Engineer.
+* 【燒火其人】(Hiâⁿ-húe--kâi-nâng) Stoker.
 * 【掠舵】(Liáh-tũa) Steersman.
 * 【舵舡】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.
@@ -97,9 +97,9 @@ date: 2022-11-20 22:51:00
 * 【貨】(Hûe) Cargo.
 * 【下貨】(Hẽ-hùe) To ship cargo.
 * 【起貨】(Khí-hùe) To discharge cargo.
-* 【儎貨】(Tsài-hùe) To convey cargo.
-* 【到儎】(Kàu-tsāi) (A ship) fully laden.
-* 【壹儎】(Chék-tsāi) A load.
+* 【載貨】(Tsài-hùe) To convey cargo.
+* 【到載】(Kàu-tsāi) (A ship) fully laden.
+* 【一載】(Chék-tsāi) A load.
 * 【徛船邊】(Uá-tsûn-piⁿ) Go alongside the ship.
 * 【直透】(Tít-thàu) To go direct without calling at any port.
 * 【跨】(Kua) To call at a port.

@@ -36,7 +36,7 @@ date: 2022-11-20 22:11:00
 * 【着火燒】(Téh-húe-sie) To get burnt by being over roasted or burnt for want of water.
 * 【燒】(Sie) To burn.
 * 【温】(sie) Hot.
-* 【冷】(Ngân) Cold.
+* 【凝】(Ngân) Cold.
 * 【滾】(Kún) Boiling.
 * 【熟】(Sék) Thoroughly boiled.
 * 【生】(Chheⁿ) Not yet boiled; raw.
@@ -47,7 +47,7 @@ date: 2022-11-20 22:11:00
 * 【冇】(Phàⁿ) Porous, soft.
 * 【參】(Tsham) To mix.
 * 【擾】(chhiou) To stir.
-* 【⿰高支 敲】(Khau) To scrape; to scratch.
+* 【敲】(Khau) To scrape; to scratch.
 * 【剝皮】(Pak-phûe) To peel, as skin.
 * 【舂】(Cheng) To pound.
 * 【試】(Chhì) To taste, to try.
@@ -63,4 +63,4 @@ date: 2022-11-20 22:11:00
 * 【熱】(Jiét) Hot, like ginger.
 * 【香】(Phang) Fragrant, nice, well-flavoured.
 * 【甘】(Kam) Sour and sweet, like olives.
-* 【澁】(Siap) Bitter and sour, like unripe fruit.
+* 【澀】(Siap) Bitter and sour, like unripe fruit.

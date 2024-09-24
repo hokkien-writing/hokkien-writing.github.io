@@ -34,7 +34,7 @@ date: 2022-11-20 23:28:00
 * 【Prosecutor】(Nguân-kò) 原告
 * 【Accused】(Pĩ-kò) 被告
 * 【Witness, a】(Kan-chèng) 干証
-* 【Eye-witness, an】(Chhin-mák thóiⁿ-kìⁿ) 親目看見
+* 【Eye-witness, an】(Chhin-mák thóiⁿ-kìⁿ) 親目睇見
 * 【Try, (a case)】(Sím, phōiⁿ) 審　辦
 * 【Clear】(Mêng-péh) 明白
 * 【Examine, to】(Kháu-mn̄g) 考問
@@ -83,7 +83,7 @@ date: 2022-11-20 23:28:00
 * 【„ low rank】(Sòi-kuaⁿ) 小官
 * 【Magistrate, district】(Kūiⁿ-kuaⁿ) 縣官
 * 【„ town】(Thôu-phóu-si) 巡檢司
-* 【Policeman, a】(A-tsóng, chhe-hiáh) 亞總　差役
+* 【Policeman, a】(A-tsóng, chhe-hiáh) 阿總　差役
 * 【Arrest, to】(Liáh) 掠
 * 【Lock up, to】(Kìm) 禁
 * 【Yamen】(Gê-mn̂g) 衙門
@@ -91,7 +91,7 @@ date: 2022-11-20 23:28:00
 * 【Sit, on bench】(Tsõ-tn̂g) 坐堂
 * 【Retire, to】(Thó-tn̂g) 退堂
 * 【Warrant, to issue】(Tshut-chhiam) 出簽
-* 【Summons, „】(Tshut-phiè) 出票
+* 【Summons, to issue】(Tshut-phiè) 出票
 * 【Prosecute, to】(Kò) 告
 * 【Withdraw, to】(Khai-pàng) 開放
 * 【Accuse falsely】(Bū-lūa, uáng-khut) 誣賴　枉屈
@@ -100,7 +100,7 @@ date: 2022-11-20 23:28:00
 * 【„ Excellency】(Tãi-jîn) 大人
 * 【Promote, to】(Kau-seng) 高陞
 * 【Degrade, to】(Kàng-khip) 降級
-* 【Dismiss, to】(Pã-cheh, lut-tiōu) 黜職　黜丢
+* 【Dismiss, to】(Pã-cheh, lut-tiōu) 黜職　黜掉
 * 【Appoint, to】(Siet-líp) 設立
 * 【Appointment, an】(Cheh-jĩm) 職位
 * 【Case, a】(Uàⁿ, uàⁿ-kiãⁿ) 案　案件
@@ -116,7 +116,7 @@ date: 2022-11-20 23:28:00
 * 【Good-hearted】(Hó-sim) 好心
 * 【Revenge, to】(Pò-chhiû) 報仇
 * 【Just】(Kong-tãu) 公道
-* 【Unjust】(M̄-kong-tãu) 不公道
+* 【Unjust】(M̄-kong-tãu) 毋公道
 * 【Truth, speak the】(Sít-uē tàⁿ) 實話呾
 * 【Lie, to】(Hue-niouⁿ) 巧語
 * 【Swear, to】(Chiù-chūa) 發誓

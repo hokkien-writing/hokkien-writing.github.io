@@ -14,7 +14,7 @@ date: 2022-11-16 20:15:00
 * 【All】(Lóng-tsóng) 總共
 * 【Ashamed】(Sióu-lí) 羞耻
 * 【Back】(Aũ) 後
-* 【Bad】(M̃-móⁿ) 不好
+* 【Bad】(M̃-móⁿ) 毋好
 * 【Best】(Siãng-hó) 上好
 * 【Better】(Zú-hó, kèng-hó) 愈好　更好
 <!--more-->
@@ -28,12 +28,12 @@ date: 2022-11-16 20:15:00
 * 【Careful】(Tsṳ́-sòi, sòi-jī) 仔細　細字
 * 【Careless】(Chhìn-tshái, bô-tsṳ́-sòi) 隨便　無仔細
 * 【Cheap】(Phiⁿ) 跌
-* 【Clear, (of water.)】(Chheng) 清
+* 【Clear, (of water.)】(Chheng) 淸
 * 【Clear, (of affairs.)】(Mêng, mêng-péh) 明　明白
 * 【Clever】(Gâu, khiàng) 賢　能
 * 【Close, (not airy.)】(Hip) 翕
 * 【Coarse】(Tshou) 粗
-* 【Cold】(Chhìn, ngân) 冷　寒
+* 【Cold】(Chhìn, ngân) 凊　凝
 * 【Comfortable】(Khùaⁿ-uáh) 快活
 * 【Confused】(Zṳ̂) 茹
 * 【Crooked】(Uan) 灣
@@ -45,10 +45,10 @@ date: 2022-11-16 20:15:00
 * 【Deep】(Chhim) 深
 * 【Difficult】(Oh, kan-khóu) 難　艱苦
 * 【Diligent】(Lát) 勤
-* 【Dirty】(Nah-sap, o-tso) 汚穢
+* 【Dirty】(Nah-sap, o-tso) 污穢
 * 【Dry】(Ta) 亁
 * 【Easy】(Kōi) 易
-* 【Enough】(Kàu, lã) 足　撈
+* 【Enough】(Kàu, lã) 夠　𤰉
 * 【False】(Ké) 假
 * 【Far】(Hñg) 遠
 * 【Fast】(Méⁿ, hiông) 猛　雄
@@ -110,7 +110,7 @@ date: 2022-11-16 20:15:00
 * 【Short】(Tó) 短
 * 【Sick】(Pēⁿ) 病
 * 【Similar】(Chhin-chhiẽⁿ) 親像
-* 【Sleepy】(Mák-chiu-siap, mák--siap) 目睛澁　目澁
+* 【Sleepy】(Mák-chiu-siap, mák--siap) 目睛澀　目澀
 * 【Slow】(Mān) 緩
 * 【Small】(Sòi) 細
 * 【Smooth】(Ku̍t) 滑
@@ -134,5 +134,5 @@ date: 2022-11-16 20:15:00
 * 【Wet, (thoroughly.)】(Lok) 漉
 * 【White】(Péh) 白
 * 【Wicked】(Ak, phái) 惡　敗
-* 【Wrong】(M̄-tiéh, tshò) 不着　錯
+* 【Wrong】(M̄-tiéh, tshò) 毋着　錯
 * 【Yellow】(N̂g) 黃

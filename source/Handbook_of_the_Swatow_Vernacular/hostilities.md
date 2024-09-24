@@ -32,7 +32,7 @@ date: 2022-11-20 23:30:00
 * 【Advance, to】(Chìn) 進
 * 【Retreat, to】(Thò) 退
 * 【Surround, to】(Uî) 圍
-* 【Enemy】(Uan-chhiû) 寃仇
+* 【Enemy】(Uan-chhiû) 冤仇
 * 【Arrow】(Chìⁿ) 箭
 * 【„ to shoot】(Siã-chîⁿ) 射箭
 * 【Spear】(Pie) 標
