@@ -15,7 +15,7 @@ date: 2022-11-20 23:46:00
 <!--more-->
 * 【伊在審一條刣人案】(I tõ sím chék-tiôu thâi-nâng uàⁿ) He is trying a murder case.
 * 【老爹呾要去睇屍】(Lãu-tia tàⁿ-àiⁿ-khṳ̀ thóiⁿ si) The mandarin says he is going to see the corpse.
-* 【被告之人有認否】(Pĩ-kò--kâi-nâng khah-ũ jīn-mē?) Does the person accused admit it?
+* 【被告之人有認嗎】(Pĩ-kò--kâi-nâng khah-ũ jīn-mē?) Does the person accused admit it?
 * 【無。伊呾毋是伊刣】(Bô, i tàⁿ m̄-sĩ i thâi) No, he said the man was not killed by him.
 * 【伊佮老爹呾。老爺亞。我無罪】(I kah lãu-tia tàⁿ, lãu-iâ--a, uá bô-tsũe) He said to the mandarin, "Your Worship, I am innocent."
 * 【我是被人枉屈】(Uá sĩ khoih--nâng uáng-khut) "I am falsely accused by the people.

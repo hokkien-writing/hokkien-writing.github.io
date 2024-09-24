@@ -46,7 +46,7 @@ date: 2022-11-20 21:38:00
 * 【我要作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
 * 【汝叫司阜霎時來】(Lṳ́ kiè sai-pẽ khiã-tiām lâi) You tell the carpenter to come bye-and-bye.
 * 【共伊呾我此處要作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
-* 【司阜其內在何處汝知否】(Sai-pẽ kâi lãi tõ tî-kò lṳ́ tsai mē?) Do you know where the carpenter's place is?
+* 【司阜其內在何處汝知嗎】(Sai-pẽ kâi lãi tõ tî-kò lṳ́ tsai mē?) Do you know where the carpenter's place is?
 * 【知亞】(Tsai--a) Oh yes, I know.
 * 【熱在。我霎時正來去】(Zuáh-tsãi, uá khiã-tiām chiàⁿ-lâi-khṳ̀) It is very warm (now), I will go bye-and-bye.
 
@@ -76,7 +76,7 @@ date: 2022-11-20 21:38:00
 * 【有。關了我鎖定】(Ũ, kueⁿ-lióu uá só--tiāⁿ) Yes, after shutting I locked it.
 * 【鎖匙在何處】(Só-sî tõ tî-kò?) Where is the key?
 * 【鎖匙在此處】(Só-sî tõ--chié?) Here's the key.
-* 【汝其房其門有鎖否】(Lṳ́ kâi pâng kâi mn̂g ũ só mē?) Did you lock the door of your room?
+* 【汝其房其門有鎖嗎】(Lṳ́ kâi pâng kâi mn̂g ũ só mē?) Did you lock the door of your room?
 * 【我其房何用鎖】(Uá kâi pâng tsò-ēng só) Why? my room needn't be locked.
 * 【廳有人客亞無】(Thiaⁿ ũ nâng-kheh a-bô?) Are there any guests in the drawing room?
 * 【四指呾無】(Sì-tsóiⁿ tàⁿ-bô) The boy says "no".
@@ -123,7 +123,7 @@ date: 2022-11-20 21:38:00
 * 【我此個地方毋熟】(Uá chí-kâi tī-hng m̄-sék) I am not familiar with this place.
 * 【汝貴處】(Lṳ́ tî-kò húe?) Where do you belong to?
 * 【我菴埠處】(Uá Am-pou húe) I belong to Am-pou.
-* 【汝嘗識去府城否】(Lṳ́ khah-pat khṳ̀ Hú-siâⁿ mē?) Have you ever been to Ch'ao-chow-fu?
+* 【汝嘗識去府城嗎】(Lṳ́ khah-pat khṳ̀ Hú-siâⁿ mē?) Have you ever been to Ch'ao-chow-fu?
 * 【識也。我有去四五次】(Pat a, uá ũ khṳ̀ sì-ngõu tsūa) Oh yes, I have been there four or five times.
 * 【城是大在】(Siâⁿ sĩ tūa-tsãi) The city is very large.
 * 【有其街大汕頭其街多也】(Ũ-kâi koi tūa Suaⁿ-thâu kâi koi tsōi a) Some streets are much larger than the streets in Swatow.

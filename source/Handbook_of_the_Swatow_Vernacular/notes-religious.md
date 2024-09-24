@@ -14,7 +14,7 @@ date: 2022-11-20 23:49:00
 * 【阮是耶穌教】(Ún sĩ Iâ-sou-kà) We are Protestant.
 * 【汝是傳道理之人亞毋是】(Lṳ́ sĩ thuân-tõ-lí--kâi-nâng a m̄-sĩ?) Are you a preacher?
 <!--more-->
-* 【是。汝有要聽零些否】(Sĩ, lṳ́ ũ àiⁿ-thiaⁿ lân-ló mē?) Yes, do you wish to hear me a little?
+* 【是。汝有要聽零些嗎】(Sĩ, lṳ́ ũ àiⁿ-thiaⁿ lân-ló mē?) Yes, do you wish to hear me a little?
 * 【我有閒。我來去禮拜堂聽】(Uá ũ-ôiⁿ, uá lâi-khṳ̀ lói-pài-tn̂g thiaⁿ) If I have time, I shall go to the church and hear.
 * 【今日菴埠閙熱】(Kíaⁿ-jît Am-pou lãu-jiét) To-day is a festival day in Am-pou.
 * 【做二十棚戯。共迎老爺】(Tsò jī-tsáp-pêⁿ hì, kah iâⁿ-lãu-iâ) They have twenty theatre stages besides a procession.

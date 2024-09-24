@@ -250,7 +250,7 @@ date: 2022-11-20 22:19:00
 * 【芎蕉熟就甜。生就澀】(Keng-chie sék chiũ tiâm, chheⁿ chiũ siap.) Bananas when ripe are sweet, but when unripe are sour.
 * 【柚一粒要一百錢】(Iū chék-liáp àiⁿ chék-peh-chîⁿ.) A hundred cash is wanted for a pumelo.
 * 【山東梨還了未到】(Suaⁿ-tang-lâi huân-lióu būe-kàu.) Shantung pears have not yet arrived.
-* 【汝豈識食榴蓮否】(Lṳ́ khah-pat chiáh liû-liân mē?) Have you ever eaten durians?
+* 【汝豈識食榴蓮嗎】(Lṳ́ khah-pat chiáh liû-liân mē?) Have you ever eaten durians?
 * 【是香在也】(Sĩ phang tsãi a.) It is very fragrant indeed.
 * 【葡萄好作酒】(Phû-thô hó-tsò-chiú) Grapes can be made into wine.
-* 【汝上食果子否】(Lú siãng-chiáh kúe-chí mē?) Are you fond of eating fruit?
+* 【汝上食果子嗎】(Lú siãng-chiáh kúe-chí mē?) Are you fond of eating fruit?

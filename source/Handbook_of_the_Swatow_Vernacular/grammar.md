@@ -54,7 +54,7 @@ Chiàⁿ 正 (just) and 識 pat (ever) can be used both to questions and answers
 
 * 【伊正來】(I chiàⁿ-lâi) He has just come.
 * 【汝此時正來】(Lṳ́ chi-tsûn chìaⁿ-lâi?) Have you just now come?
-* 【汝昔識來此處否】(Lṳ́ tsá pat-lâi--chié mē?) Have you ever been here before?
+* 【汝昔識來此處嗎】(Lṳ́ tsá pat-lâi--chié mē?) Have you ever been here before?
 * 【我昔毋識來此處】(Uá tsá m̄-pat lâi--chié) I have never been here before.
 
 Ũ (have) 有 in the Perfect Tense, generally followed by the interrogative sign 亞未 a-būe, is used for questions only, and 未 būe (not yet) is used for answers, viz.—
@@ -96,9 +96,9 @@ The signs of the Potential Mood are 會 õi, 袂 bõi, 會得 õi-tit, 袂得 b�
 
 Hó 好 is very nearly the same as the English auxiliary verb may, and implies liberty.
 
-* 【我好去否】(Uá hó-khṳ̀ mē?) May I go?
+* 【我好去嗎】(Uá hó-khṳ̀ mē?) May I go?
 * 【汝好去】(Lṳ́ hó-khṳ̀) You may go.
-* 【我好呾否】(Uá hó-tàⁿ mē?) May I speak?
+* 【我好呾嗎】(Uá hó-tàⁿ mē?) May I speak?
 
 Tiéh 着 (must, ought, or should) implies obligation.
 
@@ -149,14 +149,14 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 * 【汝寫其字贏我其】(Lṳ́ siá kâi jī iâⁿ uá kâi) Your writing is better than mine.
 * 【伊作事贏汝】(I tsò-sṳ̄ iâⁿ lṳ́) He does things better than you.
 * 【汝無用。輸伊】(Lṳ́ bô-ēng su i) You are no use, and are surpassed by him.
-* 【汝會走贏伊否】(Lṳ́ õi tsáu-iâⁿ i mē?) Can you over take him in running?
+* 【汝會走贏伊嗎】(Lṳ́ õi tsáu-iâⁿ i mē?) Can you over take him in running?
 * 【袂。我輸伊】(Bõi, uá su i) No, I am behind him in running.
 
 #### the superlative degree.
 
 The words employed in the superlative degrree are 上 siãng and 上頂 siãng-téng (supreme); the latter generally refers to the qualities of goods, viz.—
 
-* 【有上大其否】(Ũ siãng-tūa--kâi mē?) Have you the largest one?
+* 【有上大其嗎】(Ũ siãng-tūa--kâi mē?) Have you the largest one?
 * 【此個就是上大其】(Chí--kâi chiũ-sĩ siãng-tūa kâi) This is the largest one.
 * 【我要上頂好其】(Uá àiⁿ siãng-téng-hó--kâi) I want the best (quality.)
 

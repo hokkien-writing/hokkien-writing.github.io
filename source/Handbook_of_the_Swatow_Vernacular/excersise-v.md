@@ -10,7 +10,7 @@ date: 2022-11-16 20:14:00
 
 ### section I.
 
-* 【伊要認否】(I àiⁿ-jīn mē?) Is he going to confess?
+* 【伊要認嗎】(I àiⁿ-jīn mē?) Is he going to confess?
 * 【伊毋應】(I m̃-ìn) He won't answer.
 * 【伊要辦】(I àiⁿ-à) He wants to argue.
 * 【汝何時到】(Lṳ́ tiang-sî kàu?) When did you arrive?
@@ -18,7 +18,7 @@ date: 2022-11-16 20:14:00
 * 【我問汝】(Uá mn̄g lṳ́.) I ask you.
 * 【誰人打汝】(Tî-tiâng phah lṳ́?) Who beat you?
 <!--more-->
-* 【汝知否】(Lṳ́ tsai mē?) Do you know?
+* 【汝知嗎】(Lṳ́ tsai mē?) Do you know?
 * 【我毋知】(Uá m̄-tsai) I don't know.
 * 【我毋信汝】(Uá m̃-sìn lṳ́) I don't believe you.
 * 【汝如何毋信我】(Lṳ́ tsò-nîⁿ m̃-sìn uá?) Why don't you believe me?
@@ -31,7 +31,7 @@ date: 2022-11-16 20:14:00
 * 【伊會走】(I õi-tsáu) He can run.
 * 【我會行袂走】(Ua õi-kiâⁿ, bõi tsáu) I can walk, but I cannot run.
 * 【汝掠伊】(Lṳ́ liáh--i) You catch him.
-* 【汝掠伊會着否】(Lṳ́ liáh i õi-tiéh mē?) Can you catch him?
+* 【汝掠伊會着嗎】(Lṳ́ liáh i õi-tiéh mē?) Can you catch him?
 * 【我袂走。掠伊袂着】(Uá bõi-tsáu, liáh i bõi tiéh.) I can't run, and I can't catch him.
 
 ### section II.
@@ -44,17 +44,17 @@ date: 2022-11-16 20:14:00
 * 【汝要選底一個】(Lṳ́ àiⁿ-suán tî-chék-kâi?) Which do you wish to choose?
 * 【此個修淸潔】(Chí--kâi muéh-chheng-khih) Clean this.
 * 【此個携去煮】(Chí--kâi khiéh-khṳ̀ tsṳ́) Take this and cook it.
-* 【汝曉算否】(Lṳ́ hióu-sǹg mē?) Can you count?
+* 【汝曉算嗎】(Lṳ́ hióu-sǹg mē?) Can you count?
 * 【我毋曉】(Uá m̄-hióu) I can't.
 * 【勿哭】(Màiⁿ-khàu) Don't cry.
-* 【伊敢去否】(I káⁿ-khṳ́ mē?) Does he dare to go?
+* 【伊敢去嗎】(I káⁿ-khṳ́ mē?) Does he dare to go?
 * 【伊毋敢】(I m̄-káⁿ) He dare not.
 * 【伊袂食】(I bõi-chiáh) He can't eat.
 * 【何爲袂食】(Tsò-nîⁿ bõi-chiáh) Why can't he eat?
 * 【我毋知】(Uá m̄-tsai) I don't know.
 * 【入來】(Jíp--lái) Come in.
 * 【出去】(Tshut--khṳ̀) Go out.
-* 【汝聽我會見否】(Lṳ́ thiaⁿ uá õi-kìⁿ mē?) Can you hear me?
+* 【汝聽我會見嗎】(Lṳ́ thiaⁿ uá õi-kìⁿ mē?) Can you hear me?
 * 【我聽毋見】(Uá thiaⁿ m̄-kìⁿ) I can't hear you.
 
 ### section III.
@@ -66,9 +66,9 @@ date: 2022-11-16 20:14:00
 * 【携來】(Khiéh--lài) Bring it here.
 * 【感謝】(Kám-siā) Thank you.
 * 【好了】(Hó--lō) That will do.
-* 【伊會傷着否】(I õi sieⁿ-tiéh mē?) Is he hurt?
+* 【伊會傷着嗎】(I õi sieⁿ-tiéh mē?) Is he hurt?
 * 【袂】(Bõi) No.
-* 【伊會死否】(I õi sí mē?) Will he die?
+* 【伊會死嗎】(I õi sí mē?) Will he die?
 * 【我想伊會】(Uá siẽⁿ i õi.) I think he will.
 * 【我聽見伊哭】(Uá thiaⁿ-kìⁿ i khàu) I heard him cry.
 * 【此個携去藏】(Chí--kâi khiéh-khṳ̀ khǹg) Take this and keep it.
@@ -97,12 +97,12 @@ date: 2022-11-16 20:14:00
 * 【放此】(Pàng--chié) Put it here.
 * 【勿佮伊相罵】(Màiⁿ kah i sie-mēⁿ) Don't quarrel with him.
 * 【去也】(Khṳ̀--nō) Go away.
-* 【汝曉讀否】(Lṳ́ hióu-thák mē?) Can you read?
+* 【汝曉讀嗎】(Lṳ́ hióu-thák mē?) Can you read?
 * 【毋曉】(M̄-hióu) I can't.
 * 【放伊去】(Pàng i khṳ̀) Let him go.
 * 【伊毋好去】(I m̃-hàuⁿ khṳ̀) He refuses to go.
 * 【我記得汝】(Uá kì-tit lṳ́) I remember you.
-* 【汝有記得我否】(Lṳ́ ũ kì-tit uá mē?) Do you remember me?
+* 【汝有記得我嗎】(Lṳ́ ũ kì-tit uá mē?) Do you remember me?
 * 【我要搬】(Uá àiⁿ-puaⁿ) I am going to remove.
 * 【要搬去何處】(Àiⁿ-puaⁿ khṳ̀ tî-kò?) Where are you going to remove to?
 * 【還了未知】(Huân-lióu būe-tsai) I don't know yet.
@@ -111,7 +111,7 @@ date: 2022-11-16 20:14:00
 * 【伊轉來亞未】(I tńg--lâi a-būe?) Has he come home?
 * 【未】(Būe) He hasn't.
 * 【此個携去還伊】(Chí--kâi khiéh-khṳ̀ hôiⁿ i) Take this, go and return it to him.
-* 【汝有覔否】(Lṳ́ ũ tshūe mē?) Did you search for it?
+* 【汝有覔嗎】(Lṳ́ ũ tshūe mē?) Did you search for it?
 * 【有。我覔無】(Ũ. Uá tshūe bô) Yes. I searched, but I couldn't find it.
 * 【立起來】(Khiã--khí-lâi) Stand up.
 * 【坐】(Tsõ) Sit down.

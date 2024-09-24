@@ -46,5 +46,5 @@ date: 2022-11-20 23:41:00
 * 【一人跋落水底。無人去撈伊】(Kâi-nâng puáh-lóh tsúi-tói, bô-nâng khṳ̀-liôu i) A man has fallen over board, and no one has gone to pick him up.
 * 【伊無乜會氽】(I bô-mih õi-siû) He can't swim very well.
 * 【無速速去救伊。就着激死】(Bô méⁿ-méⁿ khṳ̀ kiù--i, chiũ-tiéh kek-sí) If he is not saved quickly, he will be drowned.
-* 【汝會氼否】(Lṳ́ õi bī mē?) Can you dive?
+* 【汝會氼嗎】(Lṳ́ õi bī mē?) Can you dive?
 * 【無羅經。駛毋知何處】(Bô lô-keⁿ, sái m̄-pat-tò-khṳ) Without a compass we don't know where to sail to.

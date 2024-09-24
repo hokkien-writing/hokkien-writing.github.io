@@ -12,7 +12,7 @@ date: 2022-11-20 23:43:00
 * 【汝能可去睡】(Lṳ́ nêng-kò khṳ̀-tó) You had better go and lie down.
 * 【汝其人如何】(Lṳ́ kâi nâng tsò-nîⁿ?) What is the matter with you?
 * 【人熱】(Nâng zuáh) I have got fever.
-* 【要請先生否】(Âiⁿ-chhiáⁿ sin-seⁿ mē?) Do you wish to engage a doctor?
+* 【要請先生嗎】(Âiⁿ-chhiáⁿ sin-seⁿ mē?) Do you wish to engage a doctor?
 <!--more-->
 * 【汝其脉猛】(Lṳ́ kâi méhⁿ méⁿ) Your pulse is fast.
 * 【我零些寒藥分汝食】(Uá lân-ló kûaⁿ-iéh pun lṳ́ chiáh) I will give you some quinine to take.

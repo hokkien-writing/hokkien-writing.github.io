@@ -76,12 +76,12 @@ date: 2022-11-20 21:59:00
 * 【是可紙。白竹紙亞是西國紙】(Sĩ-mih tsúa, péh-tek-tsúa a-sĩ sai-kok-tsúa) What sort of paper, Chinese or foreign?
 * 【隨便都好】(Zuãn tou-hó) Either will do.
 * 【先生要寫字汝來磨墨】(Sin-seⁿ àiⁿ siá-jī lṳ́ lâi bûa-bák) The teacher is going to write, you come and rub the ink-stick.
-* 【信皮要否】(Sìn-phûe àiⁿ mē?) Do you want an envelope?
+* 【信皮要嗎】(Sìn-phûe àiⁿ mē?) Do you want an envelope?
 * 【要也。携張來】(Àiⁿ a, khiéh tieⁿ lâi) Yes, get me one.
 * 【草蓆共拭腳個蓑携去晒】(Tsháu-chhiéh kah chhit-kha kâi sui, khiéh khṳ̀ phák) Take the matting and the door-mat and air them in the sun.
 * 【拂淸潔。了正去晒】(Pũaⁿ chheng-khih, lióu chiàⁿ-khṳ̀ phák) Beat them clean before putting them in the sun.
 * 【走馬樓個簾放落來】(Tsáu-bé-lâu kâi liâm pàng--lôh-lâi) Let go the blinds of the verandah.
-* 【汝曉撞枳否】(Lṳ́ hióu thn̄g-chí mē?) Can you play billiards?
+* 【汝曉撞枳嗎】(Lṳ́ hióu thn̄g-chí mē?) Can you play billiards?
 * 【曉也。汝要共我輸贏】(Hióu a, lṳ́ àiⁿ kah uá su-iâⁿ?) Yes, do you wish to have a match with me?
 * 【咱來撞戲耍就好】(Nán lâi thn̄g thit-thô chiũ-hó) Let us simply play (a game) for pleasure.
 * 【免用相輸。我毋上賭賻】(Mín-ēng sie-su, uá m̄-siãng puáh-chîⁿ) We needn't have a match, as I don't like to gamble.

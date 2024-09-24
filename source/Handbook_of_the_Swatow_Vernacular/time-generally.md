@@ -71,7 +71,7 @@ date: 2022-11-17 23:28:00
 * 【此個月大亞是小】(Chí-kâi guéh tuā a-sĩ sié?) Is this moon long or short?
 * 【毋知】(M̄-tsai) I don't know.
 * 【月大就三十。月小就廿九】(Guéh tuā chiũ saⁿ-tsáp, guéh sié chiũ jíh-káu) In a great moon there will be thirty days, and in a small moon twenty nine.
-* 【今年有閏月否】(Ke-nîⁿ ũ zūn-guéh mē?) Is there an intercalary moon this year?
+* 【今年有閏月嗎】(Ke-nîⁿ ũ zūn-guéh mē?) Is there an intercalary moon this year?
 * 【有。閏五】(Ũ, zūn-ngõu) Yes, the fifth intercalary moon.
 * 【昨夜月蝕汝有睇亞無】(Tsa-mêⁿ guéh síh lṳ́ ũ thóiⁿ a-bô?) Last night there was an eclipse of the moon, did you see it?
 * 【毋嘗。我在睡】(M̄-chêng, uá tõ út) No, I was in bed.

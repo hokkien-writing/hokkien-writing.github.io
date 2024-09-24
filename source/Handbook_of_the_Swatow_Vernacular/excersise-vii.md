@@ -89,7 +89,7 @@ date: 2022-11-16 20:16:00
 * 【咱所有其色是從虹處來】(Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi) The colours which we have, come from the rainbow.
 * 【流漲亞是退】(Lâu tĩⁿ a-sĩ khó?) Is it high tide or ebb tide?
 * 【流退】(Lâu khó) It is ebb tide.
-* 【海有湧否】(Hái ũ éng mē?) Are there any waves in the sea?
+* 【海有湧嗎】(Hái ũ éng mē?) Are there any waves in the sea?
 * 【有。湧袂大】(Ũ, éng bõi-tūa) Yes, the waves are not big.
 * 【風颱時荒險】(Huang-thai sĩ hong-hiám) The typhoon is dangerous.
 

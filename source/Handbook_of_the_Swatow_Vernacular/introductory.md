@@ -91,7 +91,7 @@ date: 2022-11-15 21:43:00
 * 【汝是誰人】(Lṳ́ sĩ tî-tiâng?) Who are you?
 * 【此是誰人其】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
 * 【此賤個毋是】(Chí-chùaⁿ-kâi m̄-sĩ) These are not them.
-* 【彼賤個是否】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
+* 【彼賤個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
 * 【汝有若干】(Lṳ́ ũ jiéh-tsōi?) How much have you?
 * 【汝有若干個】(Lṳ́ ũ jiéh-tsōi kâi?) How many have you?
 * 【是如此】(Sĩ chièⁿ-seⁿ) It is like this.
@@ -109,7 +109,7 @@ date: 2022-11-15 21:43:00
 * 【或者無】(Pa-lak bô) Perhaps not.
 * 【汝有亞無】(Lṳ́ ũ a-bô?) Have you or have you not? did you or did you not?
 * 【我無】(Uá bô) I havn't; I did not.
-* 【汝有去否】(Lṳ́ ũ-khṳ̀ mē?) Did you go?
+* 【汝有去嗎】(Lṳ́ ũ-khṳ̀ mē?) Did you go?
 * 【無】(Bô) No.
 * 【如何無也】(Tsò-nîⁿ bô--nē?) Why not?
 * 【因為我毋去】(In-ûi uá m̃-khṳ̀) Because I don't want to go.
