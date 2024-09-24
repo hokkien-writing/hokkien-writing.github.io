@@ -46,7 +46,7 @@ date: 2024-03-31 16:11:00
 
 **balances**, thien-phêng.
 
-**bald**, la̍h-chie̍h-thâu; thâu-khah kng-kng; thâu kng-nñg.
+**bald**, la̍h-chie̍h-thâu; thâu-khak kng-kng; thâu kng-nñg.
 
 **bale**, *of goods*, khún; tōa-khún. *out water*, ié-tiāu-tsúi.
 
