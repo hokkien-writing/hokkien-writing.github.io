@@ -68,7 +68,7 @@ date: 2022-11-20 22:19:00
 * 【若是毋夠一路好買】(Nāⁿ-sĩ m̄-kàu chék-lōu hó-bói) If we haven't got enough, we can buy on the way.
 * 【叫伙頭來】(Kiè húe-thâu lâi) Call the cook here.
 * 【明夜昏我要請人】(Màⁿ-mêⁿ-hng uá àiⁿ-chhiáⁿ-nâng) To-morrow night I wish to invite a few persons.
-* 【有要請几多人】(Ũ àiⁿ-chhiáⁿ jiéh-tsōi nâng?) How many people do you wish to invite?
+* 【有要請几㩼人】(Ũ àiⁿ-chhiáⁿ jiéh-tsōi nâng?) How many people do you wish to invite?
 * 【大約畧捌人】(Iak-bó-liãng poih-nâng) Probably eight persons.
 * 【買一隻雞做湯】(Bói chék-chiah koi tsò-thng) Buy a fowl and make soup.
 * 【一隻鴨𤇢。一隻鵝浮】(Chék-chiah ah pek, chek-chiah gô phû) Roast one duck and fry one goose.
@@ -78,7 +78,7 @@ date: 2022-11-20 22:19:00
 * 【荷蘭薯還了有亞無】(Hô-lan-tsṳ̂ huân-lióu ũ a-bô?) Have you any more potatoes?
 * 【有加零些】(Ũ ke lân-ló) I have a few more.
 * 【𤰉亞毋𤰉】(Lã a m̄-lã?) Have you enough?
-* 【我想𤰉也】(Uá siẽⁿ lã--a) I think there are enough.
+* 【我想𤰉亞】(Uá siẽⁿ lã--a) I think there are enough.
 * 【好也。若是𤰉就免用買】(Hó--nōⁿ, nāⁿ-sĩ lã chiũ mín-ēng bói) All right, if you have enough you needn't buy any.
 * 【雞卵買三十粒】(Koi-nñg bói saⁿ-tsáp liáp) Buy thirty fowl's eggs.
 * 【十陸粒烙半生熟】(Tsáp-lák liáp luah pùaⁿ-chheⁿ sék) Half-fry sixteen of them.
@@ -89,13 +89,13 @@ date: 2022-11-20 22:19:00
 * 【膠離勿煮過辣】(Ka-lî màiⁿ-tsṳ́ khah-hiam) Don't make the curry too hot.
 * 【食飯無鹹酸食毋落】(Chiáh-pn̄g bô kiâm-sng chiáh m̄-lóh) To take rice without relish it cannot be eaten.
 * 【伊請人滿席在】(I chhiáⁿ-nâng phâng-phài tsãi) He invited people to lots of dishes.
-* 【伊個鹹酸多樣在。食毋盡】(I kâi kiâm-sng tsōi-iēⁿ tsāi, chiáh m̄-lióu) His relishes were of many kinds, we could'nt eat them all.
+* 【伊其鹹酸㩼樣在。食毋盡】(I kâi kiâm-sng tsōi-iēⁿ tsāi, chiáh m̄-lióu) His relishes were of many kinds, we could'nt eat them all.
 * 【人人食到飽】(Nâng-nâng chiáh-kàu-pá) Every body ate until they had enough.
-* 【伊個伙頭會在】(I kâi húe-thâu õi-tsãi) His cook is very clever.
+* 【伊其伙頭會在】(I kâi húe-thâu õi-tsãi) His cook is very clever.
 * 【每樣伊煮來好在】(Iēⁿ-Iēⁿ i tsṳ́-lâi hó-tsãi) Every thing he made was very nice indeed.
 * 【起初就食雞囝湯。佮麪包焙其】(Thâu-tshái chiũ chiáh koi-kiáⁿ-thng, kah mīⁿ-pau pūe--kâi) First of all, we had chicken soup and toasted bread.
 * 【後羊肉烙。佮荷蘭薯】(Lióu iêⁿ-bah luah, kah hô-lan-tsṳ̂) Then mutton-chop and potatoes.
-* 【後火雞浮。煴芥辣又還了多多樣】(Lióu húe-koi phû, ùn kài-luáh, lióu huân-lióu tsōi-tsōi iēⁿ) Then turkey fried in oil, and eaten with mustard, and many other kinds.
+* 【後火雞浮。煴芥辣又還了㩼㩼樣】(Lióu húe-koi phû, ùn kài-luáh, lióu huân-lióu tsōi-tsōi iēⁿ) Then turkey fried in oil, and eaten with mustard, and many other kinds.
 
 ### Fish.
 
@@ -129,14 +129,14 @@ date: 2022-11-20 22:19:00
 ------
 
 * 【巿今早無魚】(Chhĩ mêng-khí bô-hṳ̂) There are no fish this morning in the market.
-* 【有一尾我出一百錢賣魚個人還了不好賣我】(Ũ chék-búe uá tshut chék-peh-chî, bōi-hṳ̂--kâi-nâng huân-lióu m̃-hàuⁿ bōi uá) There is one, which I offered a hundred cash for yet the fisherman wouldn't sell it to me.
+* 【有一尾我出一百錢賣魚其人還了不好賣我】(Ũ chék-búe uá tshut chék-peh-chî, bōi-hṳ̂--kâi-nâng huân-lióu m̃-hàuⁿ bōi uá) There is one, which I offered a hundred cash for yet the fisherman wouldn't sell it to me.
 * 【一尾紅鰽要二百錢】(Chék-búe âng-tsô àiⁿ nõⁿ-peh-chîⁿ) Two hundred cash for a red-fish.
 * 【鯧魚上減一尾要百五錢】(Chhieⁿ-hṳ̂ siãng-kiám chék-búe àiⁿ peh-ngõu-chîⁿ) At least one hundred and fifty cash for a flounder.
 * 【馬鮫若是一尾無三百錢免用出】(Bé-ka nãⁿ-sĩ chék-búe bô saⁿ-peh-chîⁿ, mín-ēng tshut) As for mackeral you needn't offer for it, unless you are prepared to give three hundred cash for it.
-* 【我買零些木斗共零些蝦】(Uá bói lân-ló bák-táu, kah tshoh-hê) I bought some cuttle-fish, and some shrimps.
+* 【我買零些木斗佮零些蝦】(Uá bói lân-ló bák-táu, kah tshoh-hê) I bought some cuttle-fish, and some shrimps.
 * 【一条鰻。數隻蟹】(Chék tiôu mûaⁿ, kua-chiah hõi) One eel, several crabs.
 * 【十粘粒蠔。二十粒蚶】(Tsáp-liáp ô, jī-tsáp liáp ham) Ten oysters, twenty cockles.
-* 【魚干陸両。共鹹魚半斤】(Hṳ̂-kuaⁿ lák-niéⁿ, kah kiâm-hṳ̂ pùaⁿ-kṳn) Dried salt fish six taels, and salt fish half a catty.
+* 【魚干陸両。佮鹹魚半斤】(Hṳ̂-kuaⁿ lák-niéⁿ, kah kiâm-hṳ̂ pùaⁿ-kṳn) Dried salt fish six taels, and salt fish half a catty.
 * 【蝦米一擔若干】(Hê-bí chék-tàⁿ jiéh-tsōi?) How much for a picul of dried prawns?
 * 【一擔敢是五箍亞】(Chék-tàⁿ káⁿ-sĩ ngõu-khou ã) I think five dollars a picul.
 * 【五箍會貴亞袂】(Ngõu-khou õi-kùi a-bõi?) Is it dear at five dollars (a picul)?
@@ -157,8 +157,8 @@ date: 2022-11-20 22:19:00
 * 【Pumpkin, white】(Pû) 匏
 * 【Melon, (vegetable)】(Tang-kue) 冬瓜
 * 【Bamboo shoots】(Tek-sún) 竹笋
-* 【Peas】(Hô-lan-tāu) 荷蘭荳
-* 【Long beans】(Tshài-tāu) 菜荳
+* 【Peas】(Hô-lan-tāu) 荷蘭豆
+* 【Long beans】(Tshài-tāu) 菜豆
 * 【Name of bitter vegetable】(Khóu-kue) 苦瓜
 * 【Name of vegetable】(Kak-kue) 角瓜
 * 【Yam】(Tūa-tsṳ̂) 大薯
@@ -166,7 +166,7 @@ date: 2022-11-20 22:19:00
 * 【Mint】(Pô-hô) 薄荷
 * 【Celery】(Khṳ̂n-tshài) 芹菜
 * 【Coriander】(Uân-sui) 莞荽
-* 【Salad】(Phang-tshài, chheⁿ-tshài) 香菜　生菜
+* 【Salad】(Phang-tshài, chheⁿ-tshài) 芳菜　生菜
 * 【Ginger】(Kieⁿ) 薑
 * 【Chillies】(Hiam-chie, kim-kaⁿ-náⁿ) 辣椒　金橄欖
 * 【Onion, fresh】(Tshang) 葱
@@ -185,14 +185,14 @@ date: 2022-11-20 22:19:00
 * 【貪窮人食粥配鹹菜】(Khiou-kiáⁿ-nâng chiáh mûeⁿ phùe kiâm-tshài) Poor people take congee with salted vegetable.
 * 【簥好煮膠離】(Kiê hó-tsṳ́ ka-lî) Brinjal can be curried.
 * 【冬瓜食凉】(Tang-kue chiáh-liâng) Vegetable melon is taken for cooling purposes.
-* 【有個竹笋苦】(Ũ-kâi tek-sún khóu) Some bamboo shoots are bitter.
-* 【荷蘭荳拍掉皮携伊個仁】(Hô-lan-tāu, peh-tiòu phûe, khiéh i kâi jîn) Break the pods of the peas and take the seed.
+* 【有其竹笋苦】(Ũ-kâi tek-sún khóu) Some bamboo shoots are bitter.
+* 【荷蘭豆拍掉皮携伊其仁】(Hô-lan-tāu, peh-tiòu phûe, khiéh i kâi jîn) Break the pods of the peas and take the seed.
 * 【苦瓜亦是食凉】(Khóu-kue iā-sĩ chiáh-liâng) The bitter vegetable is also taken as a cooling eatables.
-* 【菜荳唐人炒】(Tshài-tāu Tn̂g-nâng tshá) The Chinese fry long beans.
+* 【菜豆唐人炒】(Tshài-tāu Tn̂g-nâng tshá) The Chinese fry long beans.
 * 【芋翕】(Ōu hip) Steam the taro.
 * 【伊要翕番葛】(I àiⁿ-hip huan-kuah) He wants to steam potatoes
-* 【雞湯落些須芹菜就香】(Koi-thng lóh tiám-kíaⁿ khṳ̂n-tshài chiũ phang) A little celery put in the soup will make it nice.
-* 【辣椒是番邊來個】(Hiam-chie sĩ huan-pôiⁿ lâi--kâi) Chillies come from foreign countries.
+* 【雞湯落些須芹菜就芳】(Koi-thng lóh tiám-kíaⁿ khṳ̂n-tshài chiũ phang) A little celery put in the soup will make it nice.
+* 【辣椒是番邊來其】(Hiam-chie sĩ huan-pôiⁿ lâi--kâi) Chillies come from foreign countries.
 * 【辣過楜椒】(Hiam-kùe hôu-chie) They are hotter than pepper
 * 【蒜食後口臭】(Sǹg chiáh-lióu tshùi tshàu) After eating garlic the mouth will be foul.
 * 【薑毋好作藥】(Kieⁿ-bó hó-tsò-iéh) Dry ginger can be used as medicine.
@@ -245,12 +245,12 @@ date: 2022-11-20 22:19:00
 
 ------
 
-* 【果子個時要到】(Kué-chí kâi sî àiⁿ-kàu) The fruit season is near at hand.
+* 【果子其時要到】(Kué-chí kâi sî àiⁿ-kàu) The fruit season is near at hand.
 * 【旺梨是好在】(Uâng-lâi sĩ hó-tsãi) Pineapple is very nice.
 * 【芎蕉熟就甜。生就澀】(Keng-chie sék chiũ tiâm, chheⁿ chiũ siap.) Bananas when ripe are sweet, but when unripe are sour.
 * 【柚一粒要一百錢】(Iū chék-liáp àiⁿ chék-peh-chîⁿ.) A hundred cash is wanted for a pumelo.
 * 【山東梨還了未到】(Suaⁿ-tang-lâi huân-lióu būe-kàu.) Shantung pears have not yet arrived.
 * 【汝豈識食榴蓮嗎】(Lṳ́ khah-pat chiáh liû-liân mē?) Have you ever eaten durians?
-* 【是香在也】(Sĩ phang tsãi a.) It is very fragrant indeed.
+* 【是芳在亞】(Sĩ phang tsãi a.) It is very fragrant indeed.
 * 【葡萄好作酒】(Phû-thô hó-tsò-chiú) Grapes can be made into wine.
 * 【汝上食果子嗎】(Lú siãng-chiáh kúe-chí mē?) Are you fond of eating fruit?

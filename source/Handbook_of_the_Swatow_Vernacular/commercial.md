@@ -127,7 +127,7 @@ date: 2022-11-20 23:22:00
 * 【皮】(Phûe) Leather.
 * 【甘草】(Kam-tsháu) Liquorice.
 * 【蠔壳鏡】(Ô-khak-kiàⁿ) Mother-of-pearl.
-* 【荳油】(Tāu-iû) Oil, pea.
+* 【豆油】(Tāu-iû) Oil, pea.
 * 【油紙】(Iû-tsúa) Oil-paper.
 * 【珠】(Tsu) Pearl.
 * 【蠔珠】(Ô-tsu) Pearl.
@@ -334,7 +334,7 @@ date: 2022-11-20 23:22:00
 * 【Broker, a】(Phah-khang) 打空
 * 【Bundle, a】(Pau) 包
 * 【Business】(Sṳ̄, seng-lí) 事　生理
-* 【Busy】(M̄-ôiⁿ, sṳ̄ tsōi) 毋暇　事多
+* 【Busy】(M̄-ôiⁿ, sṳ̄ tsōi) 毋暇　事㩼
 * 【Cargo】(Hùe) 貨
 * 【Cask, a】(Tháng) 桶
 * 【Certificate, a】(Phêng-tuaⁿ) 憑單

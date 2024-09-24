@@ -90,9 +90,9 @@ The signs of the Potential Mood are 會 õi, 袂 bõi, 會得 õi-tit, 袂得 b�
 
 * 【汝今夜回得來亞袂】(Lṳ́ ke-mêⁿ õi-tit lâi a-bõi?) Can you come to-night or not?
 * 【我毋閒。我今夜袂得去】(Uá m̄-ôiⁿ, uá ke-mêⁿ bõi-tit khṳ̀) I am busy, I cannot go to-night.
-* 【汝早時呾汝袂得來。汝只陣如何會得來】(Lṳ́ thâng-kùa tàⁿ-lṳ́ bõi-tit lái, lṳ́ chí-tsûn tsò-nîⁿ õi-tit lâi?) You said just now you could not come, how is it you can come now?
+* 【汝早時呾汝袂得來。汝只陣怎呢會得來】(Lṳ́ thâng-kùa tàⁿ-lṳ́ bõi-tit lái, lṳ́ chí-tsûn tsò-nîⁿ õi-tit lâi?) You said just now you could not come, how is it you can come now?
 * 【我只陣閒。故此就會得來】(Uá chí-tsûn ôiⁿ, kù-tshṳ́ chiũ õi-tit lâi) I have leisure just now, and therefore I can come.
-* 【汝若是無共伊呾。伊袂得知】(Lṳ́ nāⁿ-sĩ bô kah i tàⁿ, i bõi-tit tsai) If you did not tell him, he could not know it.
+* 【汝若是無佮伊呾。伊袂得知】(Lṳ́ nāⁿ-sĩ bô kah i tàⁿ, i bõi-tit tsai) If you did not tell him, he could not know it.
 
 Hó 好 is very nearly the same as the English auxiliary verb may, and implies liberty.
 
@@ -115,14 +115,14 @@ M̄-móⁿ (don't) 不可 implies the opposite of 着 tiéh, viz. must not, ough
 
 The Passive verb is formed by the use of the words 分 pun, 乞 khoih (to give) and 分人 pun--nâng (give people.)
 
-* 【汝乞何人打】(Lṳ́ khoih tî-tiâng phah?) By whom were you beaten?
+* 【汝乞底誰打】(Lṳ́ khoih tî-tiâng phah?) By whom were you beaten?
 * 【我分伊打】(Uá pun i phah) I was beaten by him.
 * 【伊分人殺】(I pun--nâng thâi) He was killed.
-* 【分何人殺】(Pun tî-tiâng thâi?) Was killed by whom?
+* 【分底誰殺】(Pun tî-tiâng thâi?) Was killed by whom?
 * 【是分伊殺亞毋是】(Sĩ pun i thâi a m̄-sĩ?) Was he kileld by him or not?
 * 【伊分雷公敲死】(I pun lûi-kong khà-sí) He was struck to death by lightning.
 * 【伊袂分人騙】(I bõi pun--nâng phièn) He cannot be deceived by people.
-* 【伊其名聲乞人稱誦】(I kâi miâⁿ-siaⁿ khoih--nâng o-ló) His name is praised by the people.
+* 【伊其名聲乞人呵咾】(I kâi miâⁿ-siaⁿ khoih--nâng o-ló) His name is praised by the people.
 
 The Progressive Form is formed by the use of the word 在 tõ (in the act of) and 要 iàⁿ (want.)
 
@@ -138,9 +138,9 @@ The Progressive Form is formed by the use of the word 在 tõ (in the act of) an
 
 The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 ióu, (a little) 過 kùe, (over) 贏 iâⁿ (to be superior, to defeat,) and 輸, (to be inferior, to be defeated.)
 
-* 【愈多愈好】(Zú-tsōi zú-hó) The more the better.
-* 【只個稍大】(Chí--kâi ióu-tūa) This is a little larger.
-* 【伊有愈多我】(I ũ zú-tsōi uá) He has more than I.
+* 【愈㩼愈好】(Zú-tsōi zú-hó) The more the better.
+* 【此個稍大】(Chí--kâi ióu-tūa) This is a little larger.
+* 【伊有愈㩼我】(I ũ zú-tsōi uá) He has more than I.
 * 【此個敬長過彼個】(Chí--kâi kèng-tn̂g kùe hṳ́-kâi) This is longer than that.
 * 【汝其好。我其愈敬好】(Lṳ́--kâi hó, uá--kâi zú-kèng hó) Yours is good, (but) mine better.
 * 【伊會走猛過我】(-) He can run faster than I.

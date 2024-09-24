@@ -13,7 +13,7 @@ date: 2022-11-20 22:01:00
 * 【花】(Hue) Plants or flowers.
 * 【蕊】(Lúi) A bud.
 * 【月記】(Guéh-kì) Rose.
-* 【香葉】(Phang-hiéh) Geranium or scented leaves.
+* 【芳葉】(Phang-hiéh) Geranium or scented leaves.
 * 【茉莉】(Bák-lĩ) Jasmine.
 <!--more-->
 * 【菊花】(Kek-hue) Chrysanthemum.
@@ -39,15 +39,15 @@ date: 2022-11-20 22:01:00
 
 ------
 
-* 【沃花其人在何處】(Ak-hue--kâi-nâng tõ tî-ko?) Where is the gardener?
+* 【沃花其人在底塊】(Ak-hue--kâi-nâng tõ tî-ko?) Where is the gardener?
 * 【叫伊速速來沃花】(Hàm i méⁿ-méⁿ lâi ak-hue) Tell him to look sharp and come and water the plants.
 * 【花俱皆饒饒】(Hue lóng-tsóng jiôu-jîou) The plants are all dried up.
-* 【好多日無沃】(Hoh-tsōi jít bô-ak) They have not been watered for several days.
+* 【好㩼日無沃】(Hoh-tsōi jít bô-ak) They have not been watered for several days.
 * 【有其要死了】(Ũ-kâi àiⁿ-sí--lō) Some of them are withering.
 * 【此欉死了。扭掉】(Chí--tsâng sí lō, liú-tiòu) This one is withered, dig it out.
 * 【在彼有䓶。着去掘掉】(Tõ-hié ũ chhì, tiéh khṳ̀ kút-tiòu) There are thorns there, you must go and hoe them away.
 * 【掘了携糞箕携掉】(Kút-lióu khiéh pùn-ki put-tiòu) After hoing them get baskets and remove them.
-* 【此欉花何人種其】(Chí-tsâng hue tî-tiâng chèng--kâi?) Who has planted this plant here?
+* 【此欉花底人種其】(Chí-tsâng hue tî-tiâng chèng--kâi?) Who has planted this plant here?
 * 【是我種其】(Sĩ uá chèng--kâi.) I planted it.
 * 【彼欉是白發其】(Hṳ́--tsâng sĩ péh-huat--kâi) That one is a weed.
 * 【白發其勿。挽掉】(Péh-huat--kâi màiⁿ, mán-tiòu) I don't want any weeds, pull it up.

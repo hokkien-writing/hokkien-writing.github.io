@@ -16,7 +16,7 @@ date: 2022-11-20 23:31:00
 * 【Lord】(Tsú) 主
 * 【Saviour】(Kiù-tsú) 救主
 <!--more-->
-* 【Mediator】(Tong-pó) 中寶
+* 【Mediator】(Tong-pó) 中保
 * 【Pastor, Protestant】(Mók-sṳ) 牧師
 * 【„ Roman Catholic】(Sîn-hũ) 神父
 * 【Preach, to】(Thuân-tõ-lí) 傳道理
@@ -29,7 +29,7 @@ date: 2022-11-20 23:31:00
 * 【„ building】(Lói-pài-tn̂g) 禮拜堂
 * 【Church, building, Roman Catholics】(Sèng-tn̂g) 聖堂
 * 【Cross】(Tsáp-jī-kè) 十字架
-* 【Image】(Sièⁿ) 像
+* 【Image】(Sièⁿ) 相
 * 【Idol】(Lãu-iâ) 老爺
 * 【Goddess of Sailors】(Máⁿ-tsóu) 媽祖
 * 【Buddha】(Hút, hút-tsóu) 佛　佛祖
@@ -85,7 +85,7 @@ date: 2022-11-20 23:31:00
 * 【Lord Supper】(Mńg-tshan) 晚餐
 * 【Duties】(Pńg-hūn) 本分
 * 【Pray, to】(Khî-táu) 祈禱
-* 【Praise, to】(O-ló) 稱誦
+* 【Praise, to】(O-ló) 呵咾
 * 【Faith】(Sìn) 信
 * 【Repent, to】(Kói-pìⁿ) 改變
 * 【Filial piety】(Kiâⁿ-hàu) 行孝

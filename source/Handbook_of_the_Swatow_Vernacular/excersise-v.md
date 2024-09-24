@@ -21,7 +21,7 @@ date: 2022-11-16 20:14:00
 * 【汝知嗎】(Lṳ́ tsai mē?) Do you know?
 * 【我毋知】(Uá m̄-tsai) I don't know.
 * 【我毋信汝】(Uá m̃-sìn lṳ́) I don't believe you.
-* 【汝如何毋信我】(Lṳ́ tsò-nîⁿ m̃-sìn uá?) Why don't you believe me?
+* 【汝怎呢毋信我】(Lṳ́ tsò-nîⁿ m̃-sìn uá?) Why don't you believe me?
 * 【彼個携來】(Hṳ́-kâi khiéh--lâi) Bring me that.
 * 【筅】(Tshóiⁿ) Brush it.
 * 【刷好携來】(Tshóiⁿ-hó khiéh--lâi) After you have brushed it, bring it to me.
@@ -50,7 +50,7 @@ date: 2022-11-16 20:14:00
 * 【伊敢去嗎】(I káⁿ-khṳ́ mē?) Does he dare to go?
 * 【伊毋敢】(I m̄-káⁿ) He dare not.
 * 【伊袂食】(I bõi-chiáh) He can't eat.
-* 【何爲袂食】(Tsò-nîⁿ bõi-chiáh) Why can't he eat?
+* 【怎呢袂食】(Tsò-nîⁿ bõi-chiáh) Why can't he eat?
 * 【我毋知】(Uá m̄-tsai) I don't know.
 * 【入來】(Jíp--lái) Come in.
 * 【出去】(Tshut--khṳ̀) Go out.
@@ -76,13 +76,13 @@ date: 2022-11-16 20:14:00
 * 【起來】(Khí--lâi) Get up.
 * 【勿笑】(Màiⁿ-chhiè) Don't laugh.
 * 【我毋識伊】(Uá m̄-pat i) I don't know him.
-* 【我只伊在何處居住】(Uá tsai i tõ tî-kò khiã-khí) I know where he lives.
+* 【我只伊在底塊居住】(Uá tsai i tõ tî-kò khiã-khí) I know where he lives.
 * 【伊毋作。要歇】(I m̃-tsoh, àiⁿ-hiah) He doesn't want to work, (but) wants to leave.
 * 【汝去佮伊呾勿歇】(Lṳ́ khṳ̀ kah i tàⁿ, màiⁿ-hiah) You go and tell him not to leave.
 * 【此個借我】(Chí--kâi chieh uá) Lend me this.
 * 【袂使】(Bõi-sái) That won't do.
 * 【我自己要用】(Uá ka-kī àiⁿ-ēng) I want to use it myself.
-* 【此我毋曉如何作】(Chiá uá m̄-hióu tsò-nîⁿ muéh) I don't understand how to do this.
+* 【此我毋曉怎呢作】(Chiá uá m̄-hióu tsò-nîⁿ muéh) I don't understand how to do this.
 * 【請汝佮我呾】(Chhiáⁿ lṳ́ kah uá tàⁿ) Please tell me.
 * 【來去遊玩】(Lâi-khṳ̀ thit-thô) Come let us go out to amuse ourselves.
 * 【咱勿由彼處過】(Nán màiⁿ tùi-hié kùe) Let us not pass by that way.
@@ -96,7 +96,7 @@ date: 2022-11-16 20:14:00
 * 【感謝】(Kám-siā) Thank you.
 * 【放此】(Pàng--chié) Put it here.
 * 【勿佮伊相罵】(Màiⁿ kah i sie-mēⁿ) Don't quarrel with him.
-* 【去也】(Khṳ̀--nō) Go away.
+* 【去哪】(Khṳ̀--nō) Go away.
 * 【汝曉讀嗎】(Lṳ́ hióu-thák mē?) Can you read?
 * 【毋曉】(M̄-hióu) I can't.
 * 【放伊去】(Pàng i khṳ̀) Let him go.
@@ -104,7 +104,7 @@ date: 2022-11-16 20:14:00
 * 【我記得汝】(Uá kì-tit lṳ́) I remember you.
 * 【汝有記得我嗎】(Lṳ́ ũ kì-tit uá mē?) Do you remember me?
 * 【我要搬】(Uá àiⁿ-puaⁿ) I am going to remove.
-* 【要搬去何處】(Àiⁿ-puaⁿ khṳ̀ tî-kò?) Where are you going to remove to?
+* 【要搬去底塊】(Àiⁿ-puaⁿ khṳ̀ tî-kò?) Where are you going to remove to?
 * 【還了未知】(Huân-lióu būe-tsai) I don't know yet.
 * 【到何時正知】(Kàu tiang-sî chiàⁿ-tsai?) When will you know?
 * 【汝若是要搬。請汝佮我呾】(Lṳ́ nāⁿ-sĩ àiⁿ-puaⁿ chhíaⁿ lṳ́ kah uá tàⁿ) If you are going to remove, please tell me.

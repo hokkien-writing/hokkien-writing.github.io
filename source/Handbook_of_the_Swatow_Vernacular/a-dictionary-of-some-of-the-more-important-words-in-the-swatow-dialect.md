@@ -321,7 +321,7 @@ date: 2022-11-20 23:55:00
 * 【Business】(Sṳ̄; sṳ̄-bũ) 事　事務
 * 【„ mercantile】(Seng-lí) 生理
 * 【„ official】(Kong-sṳ̄) 公事
-* 【Busy】(M̄-ôiⁿ; sṳ̄-tsōi) 毋閒　事多
+* 【Busy】(M̄-ôiⁿ; sṳ̄-tsōi) 毋閒　事㩼
 * 【But】(Sĩ; tsòng-sĩ) 是　總是
 * 【Butcher】(Thâi-tU; thâi-gû) 刣豬　刣牛
 * 【Butt, to】(Tak) 觸
@@ -628,7 +628,7 @@ date: 2022-11-20 23:55:00
 * 【Cry】(Khàu) 哭
 * 【Cry, as animal】(Kiè) 叫
 * 【Cultivate, field】(Chèng-tsoh; keⁿ-tsoh) 種作　耕作
-* 【Cunning】(Sim-sṳ̄ tsōi; ũ-sim-sṳ̄) 心事多　有心事
+* 【Cunning】(Sim-sṳ̄ tsōi; ũ-sim-sṳ̄) 心事㩼　有心事
 * 【Curious】(Khî-khá) 奇巧
 * 【Curse】(Chiù) 咒
 * 【Custom】(Hong-sók; lī) 風俗　例
@@ -640,7 +640,7 @@ date: 2022-11-20 23:55:00
 * 【Dazzle】(In-n̄g; iàng-mák; chhiēⁿ-mák) 映目
 * 【Dead】(Sí; kùe--khṳ̀; kùe-sì) 死　過去　過世
 * 【Deaf】(Hĩⁿ--lâng; hĩⁿ lâng) 耳聾
-* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè) 欠人個錢　欠人個債
+* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè) 欠人其錢　欠人其債
 * 【Decide】(Tsú-ì) 主意
 * 【„ in law】(Kat; kat-uàⁿ; kat-tít) 結　結案　結直
 * 【Decorate】(Tshái) 彩
@@ -1039,7 +1039,7 @@ date: 2022-11-20 23:55:00
 * 【Instruct】(Kà) 教
 * 【Instrument】(Khì-kũ) 器具
 * 【Intercourse】(Lâi-uáng) 來往
-* 【Interfere, with other's affair】(Tshap-nâng-kâi-sṳ̄) 插人個事
+* 【Interfere, with other's affair】(Tshap-nâng-kâi-sṳ̄) 插人其事
 * 【Interior】(Lãi; lãi-pôiⁿ) 內　內爿
 * 【Interpret】(Hûe; hûe-uē) 回　回話
 * 【Interpreter】(Hûe-uē) 回話
@@ -1183,7 +1183,7 @@ date: 2022-11-20 23:55:00
 * 【Miscarry】(Lóh-súaⁿ; phah-tó) 落產　打倒
 * 【Miscellaneous】(Tshàm-tshùi) 零須
 * 【„ articles】(Tsáp-muéh) 雜物
-* 【Mischievous】(Kha-chhiú tsōi) 踋手多
+* 【Mischievous】(Kha-chhiú tsōi) 踋手㩼
 * 【Miser】(Kîam-siap) 鹹澀
 * 【Miserable】(Chhi-tshám; kan-khóu; chhi-liâng) 悽慘　艱苦　凄凉
 * 【Miss, a young girl】(A-niêⁿ-kiáⁿ) 阿娘囝
@@ -1549,7 +1549,7 @@ date: 2022-11-20 23:55:00
 * 【Scaffold】(In-kè) 因架
 * 【Scald】(Thǹg--tiéh; nâm--tiéh) 淋着
 * 【Scales, of fish】(Hṳ̂-lân) 魚鱗
-* 【Scandal, to】(Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄) 議論人個事
+* 【Scandal, to】(Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄) 議論人其事
 * 【Scar】(Hûn; sieⁿ-hûn) 痕　傷痕
 * 【Scar-face】(Phùa-kìaⁿ) 破鏡
 * 【Scarce】(Chíe) 少
@@ -1614,7 +1614,7 @@ date: 2022-11-20 23:55:00
 * 【„ blood】(Lâu-hueh) 流血
 * 【Shell, as of eggs, shell-fish】(Khak) 壳
 * 【Shelter, to take】(Siám) 避
-* 【Shepherd】(Chiéⁿ-iêⁿ--kâi-nâng) 守羊個人
+* 【Shepherd】(Chiéⁿ-iêⁿ--kâi-nâng) 守羊其人
 * 【Shield】(Pâi; tin-pâi) 牌　籐牌
 * 【Shift】(Súa) 徙
 * 【Shin】(Kha-liâm) 腳廉
@@ -1828,7 +1828,7 @@ date: 2022-11-20 23:55:00
 * 【„ with a stick】(Bú; bút) 舞
 * 【„ with a soft cane】(Sut) 摔
 * 【String】(Sùaⁿ; soh-kiáⁿ) 線　索囝
-* 【Strip, to】(Pak; thut; thǹg) 剝　脫
+* 【Strip, to】(Pak; thut; thǹg) 剝　脫  褪
 * 【Striped】(Chék-tsūe chék-tsūe) 一行一行
 * 【Strive】(Sie-cheⁿ) 相爭
 * 【Stroke, as of pen】(Uéh) 畫
@@ -2060,7 +2060,7 @@ date: 2022-11-20 23:55:00
 * 【Usual】(Siêⁿ-siêⁿ; pâi-tńg; siam-put-sî) 常常
 * 【Vacant】(Khang) 空
 * 【Vacation, of school】(Pàng-kè) 放假
-* 【Vaccinate】(Chèng-tsu; chèng-tāu) 種珠　種荳
+* 【Vaccinate】(Chèng-tsu; chèng-tāu) 種珠　種豆
 * 【Vagrant】(Ló-tōng--kâi-nâng) 浪蕩人
 * 【Valley】(Chhim-kheⁿ) 深坑
 * 【Valuable】(Kùi-khì; tát-chîⁿ) 貴氣　值錢
@@ -2101,7 +2101,7 @@ date: 2022-11-20 23:55:00
 * 【Weave】(Keⁿ-pòu) 織布
 * 【Web, spider's】(Ti-tu-si) 蜘蛛絲
 * 【Wedge】(Chiⁿ) 楔
-* 【Weed, a】(Péh-huat kâi-tsháu) 白發個草
+* 【Weed, a】(Péh-huat kâi-tsháu) 白發其草
 * 【Weigh, to】(Téng; chhìn) 戥　稱
 * 【„ with balances】(Phêng) 秤
 * 【West】(Sai; sai-pôiⁿ) 西　西畔

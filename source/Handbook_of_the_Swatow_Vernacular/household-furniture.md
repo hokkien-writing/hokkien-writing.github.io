@@ -58,31 +58,31 @@ date: 2022-11-20 21:59:00
 * 【我曉】(Uá hióu) I know.
 * 【此個人囝雅在】(Chí-kâi ang-kiáⁿ ngiá-tsãi) This picture is very beautiful.
 * 【燈拭毋淸潔】(Teng chhit m̄-chheng-khi) The lamps are not wiped clean.
-* 【共四指呾，叫伊叧外拭】(Kah sì-tsóiⁿ tàⁿ, hàm i lêng-ngūa chhit) Tell the boy to wipe the lamps again.
-* 【汝此內有許多奇巧物】(Lṳ́ chí-lãi ũ chék-tsoh khî-khá-muéh) You have a quantity of curiosities in your house.
+* 【佮四指呾，叫伊另外拭】(Kah sì-tsóiⁿ tàⁿ, hàm i lêng-ngūa chhit) Tell the boy to wipe the lamps again.
+* 【汝此內有一撮奇巧物】(Lṳ́ chí-lãi ũ chék-tshoh khî-khá-muéh) You have a quantity of curiosities in your house.
 * 【是趣味在】(Sĩ tshù-bi̍ tsãi) They are very funny indeed.
 * 【火爐有起火亞未】(Húe-lôu ũ khí-húe a-būe?) Have you made a fire in the grate?
 * 【未。我此時正要來起】(Bũ7e, uá chí-tsûn chiàⁿ-àiⁿ lâi-khí) Not yet, I am just going to make one.
 * 【猛猛凊在。火起熱熱】(Méⁿ méⁿ chhìn-tsãi, húe-khí jiét-jiét) Look sharp, it is very cold, and make the fire very fierce.
-* 【塗炭落多多】(Thôu-thùaⁿ lóh tsōi-tsōi) Put plenty of coals on.
+* 【塗炭落㩼㩼】(Thôu-thùaⁿ lóh tsōi-tsōi) Put plenty of coals on.
 * 【此領氈携去拂掉塗粉】(Chí-niáⁿ chiⁿ khiéh khṳ̀ pũaⁿ-tiòu thôu-hún) Take this rug and beat off the dust.
 * 【在此好放一張四方牀】(Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g) Here can be put a square table.
 * 【此張員牀來徙放別處】(Chí-tieⁿ îⁿ-tshn̂g lâi suá pàng pát-kò) Let us remove this round table to some other place.
-* 【要徙放何處】(Àiⁿ-súa pàng tî-kò?) Where shall we remove it to?
+* 【要徙放底塊】(Àiⁿ-súa pàng tî-kò?) Where shall we remove it to?
 * 【此張册架來徙放此】(Chí-tieⁿ chheh-kè lài súa pàng chié;) Let us remove the book-stand here;
 * 【員牀來放彼】(Îⁿ-tshn̂g lâi-sāi pàng-hié…) And place the round table there.
 * 【汝去我寫字牀携一枝鉛筆來】(Lṳ́ khṳ̀ uá siá-jī-tshn̂g khiéh chék-ki în-pit lâi) You go to my writing desk and get me a pencil
-* 【共携一張紙】(Kah khiéh chék-tieⁿ tsúa) And a sheet of paper.
+* 【佮携一張紙】(Kah khiéh chék-tieⁿ tsúa) And a sheet of paper.
 * 【是可紙。白竹紙亞是西國紙】(Sĩ-mih tsúa, péh-tek-tsúa a-sĩ sai-kok-tsúa) What sort of paper, Chinese or foreign?
 * 【隨便都好】(Zuãn tou-hó) Either will do.
 * 【先生要寫字汝來磨墨】(Sin-seⁿ àiⁿ siá-jī lṳ́ lâi bûa-bák) The teacher is going to write, you come and rub the ink-stick.
 * 【信皮要嗎】(Sìn-phûe àiⁿ mē?) Do you want an envelope?
 * 【要也。携張來】(Àiⁿ a, khiéh tieⁿ lâi) Yes, get me one.
-* 【草蓆共拭腳個蓑携去晒】(Tsháu-chhiéh kah chhit-kha kâi sui, khiéh khṳ̀ phák) Take the matting and the door-mat and air them in the sun.
+* 【草蓆佮拭腳其蓑携去晒】(Tsháu-chhiéh kah chhit-kha kâi sui, khiéh khṳ̀ phák) Take the matting and the door-mat and air them in the sun.
 * 【拂淸潔。了正去晒】(Pũaⁿ chheng-khih, lióu chiàⁿ-khṳ̀ phák) Beat them clean before putting them in the sun.
-* 【走馬樓個簾放落來】(Tsáu-bé-lâu kâi liâm pàng--lôh-lâi) Let go the blinds of the verandah.
+* 【走馬樓其簾放落來】(Tsáu-bé-lâu kâi liâm pàng--lôh-lâi) Let go the blinds of the verandah.
 * 【汝曉撞枳嗎】(Lṳ́ hióu thn̄g-chí mē?) Can you play billiards?
-* 【曉也。汝要共我輸贏】(Hióu a, lṳ́ àiⁿ kah uá su-iâⁿ?) Yes, do you wish to have a match with me?
+* 【曉也。汝要佮我輸贏】(Hióu a, lṳ́ àiⁿ kah uá su-iâⁿ?) Yes, do you wish to have a match with me?
 * 【咱來撞戲耍就好】(Nán lâi thn̄g thit-thô chiũ-hó) Let us simply play (a game) for pleasure.
 * 【免用相輸。我毋上賭賻】(Mín-ēng sie-su, uá m̄-siãng puáh-chîⁿ) We needn't have a match, as I don't like to gamble.
 * 【賭賻是不好事】(Puáh-chîⁿ sĩ m̄-móⁿ sṳ̄) Gambling is a bad thing.
@@ -94,7 +94,7 @@ date: 2022-11-20 21:59:00
 * 【鋪】(Phou) A bed formed of two benches with boards laid across.
 * 【褥】(Zók) Mattress.
 * 【枕頭】(Chím-thâu) A pillow.
-* 【欖個枕頭】(Nám--kâi chím-thâu) A bolster.
+* 【攬其枕頭】(Nám--kâi chím-thâu) A bolster.
 * 【蚊帳】(Máng-tiàⁿ) Mosquito curtain.
 * 【眠牀白布】(Mîn-tshn̂g péh-pòu) Bed-sheet.
 * 【枕頭囊】(Chím-thâu-lông) Pillow-case.
@@ -118,8 +118,8 @@ date: 2022-11-20 21:59:00
 * 【扇】(Sìⁿ) A fan.
 * 【燭】(Chek) Candles.
 * 【燭檯】(Chek-tâi) A candle-stick.
-* 【放衫褲個筐】(Tshō saⁿ-khòu kâi kheng) A clothes basket.
-* 【洗面個牀】(Sói-mīn kâi tshn̂g) A toilet table.
+* 【放衫褲其筐】(Tshō saⁿ-khòu kâi kheng) A clothes basket.
+* 【洗面其牀】(Sói-mīn kâi tshn̂g) A toilet table.
 * 【面盆】(Mīn-phûn) A wash basin.
 * 【面桶】(Mīn-tháng) Do. (wooden.)
 * 【面桶架】(Mīn-tháng-kè) Do. stand.
@@ -131,7 +131,7 @@ date: 2022-11-20 21:59:00
 * 【茶枳枯】(Tê-chí-khou) A kind of Chinese washing stuff.
 * 【海茸】(Hái-zông) Sponge.
 * 【粉】(Hún) Powder.
-* 【香水】(Phang-tsúi) Perfume.
+* 【芳水】(Phang-tsúi) Perfume.
 * 【花露水】(Hue-lōu-tsúi) Lavender water.
 * 【尿壺】(Jiē-hû) A chamber utensil.
 * 【屎鉢】(Sái-puah) Do.
@@ -141,31 +141,31 @@ date: 2022-11-20 21:59:00
 * 【眠牀每明早着修好】(Mīn-tshn̂g pâi-mêng-khí tiéh muéh-hó) Every morning the bed must be put right.
 * 【褥携去晒】(Zók khiéh khṳ̀ phák) Take the mattress and put it in the sun.
 * 【枕頭亦着晒】(Chím-thâu iā tiéh phák) The pillows must be aired too.
-* 【蚊帳污穢了。着乞洗衫個洗】(Máng-tiàⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
+* 【蚊帳污穢了。着乞洗衫其洗】(Máng-tiàⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
 * 【眠牀白布每個禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
 * 【枕頭囊亦着每個禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
-* 【被不可洗多次】(Phũe m̄-móⁿ sói khah-giáp) Bed-clothes shouldn't be washed too often.
-* 【洗多次袂暖】(Sói khah-giáp bõi-sie) (If) washed too often they will not be warm.
+* 【被不可洗較業】(Phũe m̄-móⁿ sói khah-giáp) Bed-clothes shouldn't be washed too often.
+* 【洗較業袂燒】(Sói khah-giáp bõi-sie) (If) washed too often they will not be warm.
 * 【眠牀拂蚊。了蚊帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
 * 【伊好觀鏡】(I hàuⁿ-iám-kìaⁿ) He is fond of looking in the looking-glass.
-* 【携我個梳共虱箆來】(Khiéh uá kâi siu kah sat-pìn lâi) Get me my comb and my small-tooth comb.
-* 【汝共我梳。了共我箆】(Lṳ́ kâh uá siu, lióu kah uá pìn) You comb my hair, then use the small-tooth comb.
+* 【携我其梳佮虱箆來】(Khiéh uá kâi siu kah sat-pìn lâi) Get me my comb and my small-tooth comb.
+* 【汝佮我梳。了佮我箆】(Lṳ́ kâh uá siu, lióu kah uá pìn) You comb my hair, then use the small-tooth comb.
 * 【剃刀毋利。不好剃頭】(Thì-to m̄-lāi, m̄-móⁿ thì-thâu) The razor is not sharp, I can't shave (with it.)
-* 【我個頭筅在何處】(Uá kâi thâu-tshóiⁿ tõ tî-kò?) Where is my hair-brush?
-* 【吊放何處】(Tiòu-pàng tî-kò?) Where shall I hang it?
+* 【我其頭筅在底塊】(Uá kâi thâu-tshóiⁿ tõ tî-kò?) Where is my hair-brush?
+* 【吊放底塊】(Tiòu-pàng tî-kò?) Where shall I hang it?
 * 【吊放衫吊】(Tiòu-pàng saⁿ-tiòu) Hang it on the clothes-horse.
-* 【汝個箱有鎖定亞無】(Lṳ́ kâi sieⁿ ũ só-tiāⁿ a-bô?) Is your box locked?
+* 【汝其箱有鎖定亞無】(Lṳ́ kâi sieⁿ ũ só-tiāⁿ a-bô?) Is your box locked?
 * 【無鎖。我毋知鎖定】(Bô--só, uá m̄-tsai só--tiāⁿ) No. I have forgotten to lock it.
 * 【藏放櫃底】(Khǹg-pàng kūiⁿ-tói) Keep it in the chest of drawers.
-* 【番港在洗面個牀隔底】(Huan-káng tõ sói-mīn kâi tshn̂g-keh-tói) The soap is in the drawer of the toilet table.
-* 【携一塊就好。香個】(Khiéh chék-kò chĩu-hó, phang--kâi) Get one piece, a fragrant one.
+* 【番港在洗面其牀隔底】(Huan-káng tõ sói-mīn kâi tshn̂g-keh-tói) The soap is in the drawer of the toilet table.
+* 【携一塊就好。芳其】(Khiéh chék-kò chĩu-hó, phang--kâi) Get one piece, a fragrant one.
 * 【水罐有水亞無】(Tsúi-kuàn ũ tsúi a-bô?) Is there any water in the jug?
 * 【水完了。我來去携】(Tsúi lióu--lō, uá lâi khṳ̀-khiéh) The water is finished, I will go and get (some.)
-* 【携一条淸潔個浴布來】(Khiéh chék-tióu chheng-khih kâi ék-pòu lâi) Get me a clean bath-towel.
+* 【携一条淸潔其浴布來】(Khiéh chék-tióu chheng-khih kâi ék-pòu lâi) Get me a clean bath-towel.
 * 【我要沐浴】(Uá àiⁿ sói-ék) I want to bathe.
 * 【有温水亞無】(Ũ sie-tsúi a-bô?) Is there hot water?
 * 【無。我來去煖】(Bô, uá lâi khṳ̀-hiâⁿ) No, I will go and boil (some.)
-* 【汝個面有抹粉亞無】(Lṳ́ kâi mīn ũ buah-hún a-bô?) Do you put powder on your face?
+* 【汝其面有抹粉亞無】(Lṳ́ kâi mīn ũ buah-hún a-bô?) Do you put powder on your face?
 * 【無。我每日用花露水】(Bô, uá jít-jít ēng hue-lōu-tsúi) No, I use lavender water every day.
 
 ### Dining Room.
@@ -220,14 +220,14 @@ date: 2022-11-20 21:59:00
 * 【我要食】(Uá àiⁿ-chiáh) I want to drink.
 * 【盤碗食了着洗】(Pûaⁿ-uáⁿ chiáh-lióu tiéh-sói) After dinner you must wash the dishes.
 * 【洗了着拭亁】(Sói-lióu tiéh chhit-ta) After washing you must wipe them dry.
-* 【牀布共手巾污穢好換】(Tshn̂g-pòu kah chhiú-kṳn nah-sap hó-uāⁿ) The table-cloth and the napkins may be changed, if they are dirty.
+* 【牀布佮手巾污穢好換】(Tshn̂g-pòu kah chhiú-kṳn nah-sap hó-uāⁿ) The table-cloth and the napkins may be changed, if they are dirty.
 * 【調雞湯個匙。拭就好。不好磨】(Ié-koi-thng kâi-sî chhit chiũ-hó, m̄-móⁿ chhiù) Just wipe the soup ladle, you must not rub it.
 * 【茶鍾有几個】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
 * 【有五個而已】(Ũ ngõu-kâi tiāⁿ-tiāⁿ) There are only five.
-* 【五個而已。加一個與何人敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
+* 【五個而已。加一個與底誰敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
 * 【我毋知】(Uá li m̄-tsai) I don't know.
-* 【汝爲何好毋知。物件是汝管個】(Lṳ́ tsò-nîⁿ hó m̄-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi) How is it you don't know, the things are in your charge.
-* 【我煩惱。我即割汝個工錢】(Uá huân-ló, uá li kuah lṳ́ kâi kang-chiⁿ) I don't care, I will cut your wages.
+* 【汝怎呢好毋知。物件是汝管其】(Lṳ́ tsò-nîⁿ hó m̄-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi) How is it you don't know, the things are in your charge.
+* 【我煩惱。我即割汝其工錢】(Uá huân-ló, uá li kuah lṳ́ kâi kang-chiⁿ) I don't care, I will cut your wages.
 * 【無。汝來買一個來賠我】(Bô, lṳ́ li khṳ̀-bói chék-kâi lâi pûe uá) Otherwise, you had better go and buy one to compensate me.
 * 【汝此近時惰在。做事無詳細】(Lṳ́ chí-chùaⁿ-sî tũaⁿ-tsāi, tsò-sṳ̄ bô tsṳ́-sòi) You have been very idle of late, and do things carelessly.
 * 【我要算汝歇】(Uá àiⁿ-sǹg lṳ́ hiah) I want to discharge you.
@@ -276,30 +276,30 @@ date: 2022-11-20 21:59:00
 
 ------
 
-* 【風爐在煲何個】(Huang-lôu tõ pû tî-kâi?) What is boiling on the stove?
+* 【風爐在煲底個】(Huang-lôu tõ pû tî-kâi?) What is boiling on the stove?
 * 【煲零些温水】(Pû lân-ló sie-tsúi) Some hot water is boiling.
 * 【鼎裂。不好用】(Tiáⁿ líh, m̄-móⁿ ēng) The pan is cracked and cannot be used.
-* 【着另外買一個新個】(Tiéh lêng-ngūa bói chék-kâi sin--kâi) You must buy a new one.
-* 【若是好補。免用買新個】(Nāⁿ-sĩ hó-póu mín-ēng bói sin--kâi) If it can be mended you needn't buy a new one.
+* 【着另外買一個新其】(Tiéh lêng-ngūa bói chék-kâi sin--kâi) You must buy a new one.
+* 【若是好補。免用買新其】(Nāⁿ-sĩ hó-póu mín-ēng bói sin--kâi) If it can be mended you needn't buy a new one.
 * 【要琢物着在砧頂】(Àiⁿ tok-muéh tiéh nāⁿ tiam-téng) If you want to cut things you must cut them on the chopping block.
 * 【我毋曉執箸】(Uá m̄-hióu khiâ-tṳ̄) I don't know how to use chop-sticks.
 * 【阮執刀叉】(Ún khiâ to-chhe) We use knives and forks.
-* 【甕底貯何個】(Àng-tói tshō tî-kâi?) What does the jar contain?
+* 【甕底貯底個】(Àng-tói tshō tî-kâi?) What does the jar contain?
 * 【貯水】(Tshō tsúi) It contains water.
 * 【虧一桶水來】(Kũaⁿ chék-tháng tsúi lâi) Get me a bucket of water.
 * 【腳桶貯水】(Kha-tháng tshō-tsúi) Put water in the bath-tub.
 * 【水缸個水傾掉】(Tsúi-kng kâi tsúi tò-tiòu;) Pour the water out of the jar;
-* 【叧外貯淸潔個】(Lêng-ngūa tshō chheng-khih--kâi) And put clean water in it.
+* 【另外貯淸潔其】(Lêng-ngūa tshō chheng-khih--kâi) And put clean water in it.
 * 【方刀琢着鐵釘缺去】(Pang-to tok--tiéh thih-teng khih-khṳ̀) The chopper struck against a nail and is blunt.
-* 【叧外磨會利】(Lêng-ngūa bûa õi-lāi) Whet it, and it will be sharp again.
-* 【磨刀石何處】(Bûa-to chiéh tî-kò?) Where is the whet-stone?
+* 【另外磨會利】(Lêng-ngūa bûa õi-lāi) Whet it, and it will be sharp again.
+* 【磨刀石底塊】(Bûa-to chiéh tî-kò?) Where is the whet-stone?
 * 【携來磨】(Khiéh lâi bûa) Bring it here to sharpen.
 * 【挑一張竹椅我坐】(Taⁿ chék-chiah tek-íⁿ uá tsõ) Get me a bamboo seat to sit on.
-* 【燈盞個火熄去】(Leng-chúaⁿ kâi húe kùe--khṳ̀) The table lamp has gone out.
-* 【叧外點】(Lêng-ngūa tiám) Light it again.
+* 【燈盞其火熄去】(Leng-chúaⁿ kâi húe kùe--khṳ̀) The table lamp has gone out.
+* 【另外點】(Lêng-ngūa tiám) Light it again.
 * 【添加零些油】(Thiⁿ ke lân-ló iû) Add some more oil.
 * 【火牌濕。畫袂焰】(Húe-pâi tâm, uéh bõi-tóh) The matches are damp, (though) they are struck they will not light.
 * 【燈心盡了】(Teng-sim lióu--lō) The wick is burnt down.
 * 【用火炭。勿用火柴】(Ēng húe-thùaⁿ, màiⁿ ēng húe-tshâ) Use charcoal, don't use fire-wood.
 * 【用柴通間內烟】(Ēng tshâ thong-koiⁿ-lãi huu) If you use wood the whole house will be full of smoke.
-* 【灶空個火灰携去】(Tsàu-khang kâi húe-hu put-tiòu) Remove the ashes in the furnace.
+* 【灶空其火灰携去】(Tsàu-khang kâi húe-hu put-tiòu) Remove the ashes in the furnace.

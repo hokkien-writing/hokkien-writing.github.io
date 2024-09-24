@@ -45,8 +45,8 @@ date: 2022-11-20 21:38:00
 * 【此處無明朝早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
 * 【我要作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
 * 【汝叫司阜霎時來】(Lṳ́ kiè sai-pẽ khiã-tiām lâi) You tell the carpenter to come bye-and-bye.
-* 【共伊呾我此處要作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
-* 【司阜其內在何處汝知嗎】(Sai-pẽ kâi lãi tõ tî-kò lṳ́ tsai mē?) Do you know where the carpenter's place is?
+* 【佮伊呾我此處要作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
+* 【司阜其內在底塊汝知嗎】(Sai-pẽ kâi lãi tõ tî-kò lṳ́ tsai mē?) Do you know where the carpenter's place is?
 * 【知亞】(Tsai--a) Oh yes, I know.
 * 【熱在。我霎時正來去】(Zuáh-tsãi, uá khiã-tiām chiàⁿ-lâi-khṳ̀) It is very warm (now), I will go bye-and-bye.
 
@@ -60,7 +60,7 @@ date: 2022-11-20 21:38:00
 * 【臥房】(Út-pâng) A bed room.
 * 【洗浴房】(Sói-ék-pàng or) A bath-room.
 * 【洗浴棚】(Sói-ék-pêⁿ) A bath-room.
-* 【貯貨房】(Tun-hùe-pâng) A store-room.
+* 【囤貨房】(Tun-hùe-pâng) A store-room.
 * 【走馬樓】(Tsáu-bé-lâu) Verandah, up-stairs.
 * 【窗】(Theng) A window.
 * 【玻璃】(Po-lî) Glass.
@@ -74,10 +74,10 @@ date: 2022-11-20 21:38:00
 
 * 【門有關亞無】(Mn̂g ũ kueⁿ a-bô?) Did you shut the door?
 * 【有。關了我鎖定】(Ũ, kueⁿ-lióu uá só--tiāⁿ) Yes, after shutting I locked it.
-* 【鎖匙在何處】(Só-sî tõ tî-kò?) Where is the key?
+* 【鎖匙在底塊】(Só-sî tõ tî-kò?) Where is the key?
 * 【鎖匙在此處】(Só-sî tõ--chié?) Here's the key.
 * 【汝其房其門有鎖嗎】(Lṳ́ kâi pâng kâi mn̂g ũ só mē?) Did you lock the door of your room?
-* 【我其房何用鎖】(Uá kâi pâng tsò-ēng só) Why? my room needn't be locked.
+* 【我其房怎用鎖】(Uá kâi pâng tsò-ēng só) Why? my room needn't be locked.
 * 【廳有人客亞無】(Thiaⁿ ũ nâng-kheh a-bô?) Are there any guests in the drawing room?
 * 【四指呾無】(Sì-tsóiⁿ tàⁿ-bô) The boy says "no".
 * 【我其臥房汝有掃亞未】(Uá-kâi út-pâng lṳ́ ũ sàu a-būe?) Have you swept my bed-room?
@@ -86,8 +86,8 @@ date: 2022-11-20 21:38:00
 * 【無。樓頂還了是淸潔】(Bô, lâu-téng huân-lióu sĩ chheng-khih) No, up-stairs is still clean.
 * 【洗浴房有水亞無】(Sói-ék-pâng ũ tsúi a-bô?) Is there any water in the bath-room?
 * 【無。我來去擔】(Bô, uá lâi khṳ̀ taⁿ) No, I will go and carry some.
-* 【速速去我要洗浴】(Méⁿ-méⁿ khṳ̀, uá àiⁿ sói-ék) Go quickly, I am going to bathe.
-* 【此携去藏房貯貨房】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
+* 【猛猛去。我要洗浴】(Méⁿ-méⁿ khṳ̀, uá àiⁿ sói-ék) Go quickly, I am going to bathe.
+* 【此携去藏放底塊】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
 * 【窗關玻璃免用關】(Theng kueⁿ, po-lî mín-ēng kueⁿ) Shut the window, you needn't shut the glass.
 * 【若是有雨鱟伯策就着關】(Naⁿ-sĩ ũ hõu hāu-peh-chheh chiũ tiéh-kueⁿ) If there is rain, then shut the venetians.
 * 【要落樓梯勿乒乓叫】(Àiⁿ-lóh lâu-thui màiⁿ pĩn-põng-kiè) If you are coming down the stair-case, don't make a trampling noise.
@@ -114,11 +114,11 @@ date: 2022-11-20 21:38:00
 
 * 【此張信携去餉關】(Chí-tieⁿ sìn khiéh khṳ̀ hiàng-kuan) Take this letter to the custom-house.
 * 【此三張携去信關】(Chí saⁿ-tieⁿ khiéh khṳ̀ sìn-kuan) These three, take them to the post-office.
-* 【信關在何處】(Sìn-kuan tõ tî-kò?) Where is the post-office?
+* 【信關在底塊】(Sìn-kuan tõ tî-kò?) Where is the post-office?
 * 【汝毋識携信去信關】(Lṳ́ m̄-pat khiéh sìn khṳ̀ sin-kuan?) Have you never taken letters to the post-office?
 * 【毋識】(M̄-pat) I never have.
 * 【信關在角石】(Sìn-kuan tõ Kak-chiéh) The post-office is at Kak-chieh.
-* 【汝知炮臺在何處】(Lṳ́ tsai phàu-thâi tõ tî-kò?) You know where the fort is?
+* 【汝知炮臺在底塊】(Lṳ́ tsai phàu-thâi tõ tî-kò?) You know where the fort is?
 * 【毋知。我早毋識來此汕頭】(M̄ tsai, uá tsá m̄-pat lâi chí Suaⁿ-thâu) I don't know, I have never been at Swatow before.
 * 【我此個地方毋熟】(Uá chí-kâi tī-hng m̄-sék) I am not familiar with this place.
 * 【汝貴處】(Lṳ́ tî-kò húe?) Where do you belong to?
@@ -126,7 +126,7 @@ date: 2022-11-20 21:38:00
 * 【汝嘗識去府城嗎】(Lṳ́ khah-pat khṳ̀ Hú-siâⁿ mē?) Have you ever been to Ch'ao-chow-fu?
 * 【識也。我有去四五次】(Pat a, uá ũ khṳ̀ sì-ngõu tsūa) Oh yes, I have been there four or five times.
 * 【城是大在】(Siâⁿ sĩ tūa-tsãi) The city is very large.
-* 【有其街大汕頭其街多也】(Ũ-kâi koi tūa Suaⁿ-thâu kâi koi tsōi a) Some streets are much larger than the streets in Swatow.
+* 【有其街大汕頭其街㩼亞】(Ũ-kâi koi tūa Suaⁿ-thâu kâi koi tsōi a) Some streets are much larger than the streets in Swatow.
 * 【阮其鄉里莊隴】(Ún kâi hieⁿ-lí Tsng-léng) Our village is Tsng-leng.
 * 【離菴埠無若遠】(Lî Am-pou bô-jiéh-hñg) Not very far from Am-pou.
 * 【恁其鄉里有塔亞無】(Nín kâi hieⁿ-lí ũ thah a-bô?) Is there any pagoda in your village?

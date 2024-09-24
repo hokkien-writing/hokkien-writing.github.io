@@ -46,7 +46,7 @@ date: 2022-11-16 20:16:00
 * 【人在世毋久】(Nâng tõ sì m̄-kú) Man is not long in the world.
 * 【男人愈壯過女人】(Ta-pou zú-tsàng kùe tsṳ-niêⁿ) Man is stronger than woman.
 * 【有其女人愈賢過男人】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
-* 【在祖家有多多女人。賢過男人】(Tõ Tsóu-ke ũ ke-ke tsu-niêⁿ, gâu kùe ta-pou) There are many ladies in England cleverer than men.
+* 【在祖家有加加女人。賢過男人】(Tõ Tsóu-ke ũ ke-ke tsu-niêⁿ, gâu kùe ta-pou) There are many ladies in England cleverer than men.
 * 【唐人其女人少少識字】(Tn̂g-nâng kâi tsṳ-niêⁿ chié-chié pat-jī) Very few Chinese ladies can read.
 * 【阮其女人俱皆識字】(Ún--kâi tsṳ-niêⁿ lóng-tsóng pat-jī) Our ladies can all read.
 
@@ -82,7 +82,7 @@ date: 2022-11-16 20:16:00
 * 【唐人講究雷公毋對】(Tn̂g-nâng káng-kiù lûi-kong m̄-tùi) What the Chinese discuss about the lightning is not correct.
 * 【唐人此事毋曉】(Tn̂g-nâng chí-kâi sū m̄-hióu) The Chinese do not understand about this matter.
 * 【英國人就曉】(Eng-kok-nâng chiũ-hióu) The English understand.
-* 【虹有多多色】(Khẽng ũ ke-ke sek) The rainbow has many colours.
+* 【虹有加加色】(Khẽng ũ ke-ke sek) The rainbow has many colours.
 * 【肩紅有白有藍有青有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
 * 【還了有】(Huân-lióu ũ) It has some more.
 * 【是雅在】(Sĩ ngiá-tsãi) It is very beautiful.
@@ -153,7 +153,7 @@ date: 2022-11-16 20:16:00
 * 【今夜伊毋在】(Ke-mêⁿ i m̄-tõ) He shall not be at home to-night.
 * 【夜昏囝伊要來我此處】(Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò) He is coming to my place to-night.
 * 【我請伊】(Uá chhiáⁿ i) I have invited him.
-* 【伊作有幾多日工】(I tsoh ũ jiéh-tsōi jít kang?) How many days' work has he done?
+* 【伊作有幾㩼日工】(I tsoh ũ jiéh-tsōi jít kang?) How many days' work has he done?
 * 【伊作有一個月】(I tsoh ũ chék-kâi guéh) He has worked one month.
 * 【伊日間作。夜間亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
 * 【伊其工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.

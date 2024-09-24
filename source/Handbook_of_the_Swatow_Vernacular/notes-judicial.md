@@ -11,7 +11,7 @@ date: 2022-11-20 23:46:00
 * 【老爹坐堂亞未】(Lãu-tia tsõ-tn̂g a-būe?) Has the mandarin sat on the bench?
 * 【坐好久了】(Tsõ-hoh-kú--lō) He has sat a long time.
 * 【要退堂了】(Àiⁿ-thò-tn̂g--lō) He is going to retire now.
-* 【伊在審何案】(I tõ sím sĩ-mih uàⁿ?) What case is he trying?
+* 【伊在審是乜案】(I tõ sím sĩ-mih uàⁿ?) What case is he trying?
 <!--more-->
 * 【伊在審一條刣人案】(I tõ sím chék-tiôu thâi-nâng uàⁿ) He is trying a murder case.
 * 【老爹呾要去睇屍】(Lãu-tia tàⁿ-àiⁿ-khṳ̀ thóiⁿ si) The mandarin says he is going to see the corpse.
@@ -22,7 +22,7 @@ date: 2022-11-20 23:46:00
 * 【人要害我】(Nâng-àiⁿ-hāi úa) "People wish to do me harm.
 * 【求老爺代我伸冤。可憐我】(Khiû lãu-iâ thòi-úa sin-uan, khó-liên uá) "I beg Your Worship to investigate the case on my behalf, and to have mercy on me."
 * 【老爹叫伊訴】(Lãu-tia kiè i sù) The mandarin asked him to make his statement.
-* 【伊呾甚多話】(I tàⁿ hiàⁿ-chiàⁿ-tsōi ūe) He made a long statement.
+* 【伊呾甚㩼話】(I tàⁿ hiàⁿ-chiàⁿ-tsōi ūe) He made a long statement.
 * 【老爹聽了就點頭】(Lãu-tia thiaⁿ-lióu chiũ tak-thâu) The mandarin after hearing him, nodded his head.
 * 【伊其案要限到明天】(I kâi uàⁿ àiⁿ-àn-kàu màⁿ-khí) His case will be postponed till to-morrow.
 * 【不可做賊】(M̄-móⁿ tsǒ-tshát) Don't be a thief.
@@ -38,7 +38,7 @@ date: 2022-11-20 23:46:00
 * 【無枉屈人】(Bô-uáng-khut nâng) He does not deal with people unjustly.
 * 【亦無食人其錢】(Iā bô chiáh nâng kâi chîⁿ) Nor does he take bribes.
 * 【人忠直】(Nâng tong-tít) He is a straight-forward man.
-* 【百姓稱誦此個官府】(Peh-sèⁿ o-ló chí-kâi kuaⁿ-hú) The people praise this mandarin.
+* 【百姓呵咾此個官府】(Peh-sèⁿ o-ló chí-kâi kuaⁿ-hú) The people praise this mandarin.
 * 【伊要高陞了】(I àiⁿ-kau-seng--lō) He is going to be promoted.
 * 【雖然律是嚴。還了恁着順】(Sui-jiên lút sĩ ngiâm, huân-lióu nín tiéh sũn) Though the law is strict, yet you must obey it.
 * 【犯律其人着受罰】(Huãm-lút--kâi-nâng tiéh siũ-huát) Those who break the law should be punished.
@@ -52,7 +52,7 @@ date: 2022-11-20 23:46:00
 * 【老爺審到甚久了。人熱在】(Lãu-tia sím kàu hoh-kú--lō, nâng zuáh-tsãi) The mandarin after a long trial found it rather warm.
 * 【粒頂就脫掉放在牀頂】(Liáp-téng chiũ thut-tiòu pàng tõ tshn̂g-téng) And he took off his hat to which the button was attached and put it on the table.
 * 【秀才在跪隨時就起來】(Siù-tsâi tõ-kũi sûi-sî chiû khí--lâi) The graduate who was kneeling down at once got up.
-* 【老爺問伊呾。汝爲何起來也】(Lãu-tia mn̄g i tàⁿ, "lṳ́ tsò-nîⁿ khí--lâi nē?") The mandarin asked him and said, "Why do you get up"?
+* 【老爺問伊呾。汝怎呢起來呢】(Lãu-tia mn̄g i tàⁿ, "lṳ́ tsò-nîⁿ khí--lâi nē?") The mandarin asked him and said, "Why do you get up"?
 * 【秀才就呾。曰。我是跪皇帝。非是跪汝】(Siù-tsâi chiũ tàⁿ-tàⁿ, "uá sĩ kũi Huâng-tì, m̄-sĩ kũi-lṳ́") The graduate said, "I kneel down to the Emperor, not to you."
 * 【秀才就出去】(Siû-tsâi chiũ tshut--khṳ̀) And the graduate walked out.
 * 【明天伊其案再審】(Màⁿ-khí i kâi uàⁿ tsài-sím) The next day his case was tried again.

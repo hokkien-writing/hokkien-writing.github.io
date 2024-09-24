@@ -81,7 +81,7 @@ date: 2022-11-16 20:15:00
 * 【Long, (not short.)】(Tn̂g) 長
 * 【Long, (of time.)】(Kú) 久
 * 【Low】(Kẽ) 低
-* 【Many, much】(Tsōi) 多
+* 【Many, much】(Tsōi) 㩼
 * 【Miseable】(Chhi-tshám) 悽慘
 * 【More】(Ke) 加
 * 【Near】(Kṳ̃n) 近

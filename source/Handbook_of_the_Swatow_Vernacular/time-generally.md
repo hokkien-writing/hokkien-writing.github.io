@@ -28,7 +28,7 @@ date: 2022-11-17 23:28:00
 * 【今日拜一】(Kiáⁿ-jít pài-it) To-day is Monday.
 * 【汝下個拜一來】(Lṳ́ ẽ-kâi pài-it lâi) You come on Monday next.
 * 【我此個禮拜毋閒在】(Uá chí-kâi lói-pài m̄-ôiⁿ tsãi) I am very busy this week.
-* 【我明天其事多在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
+* 【我明天其事㩼在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
 * 【先生汝明天早者來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
 * 【我要讀零些。了汝好轉來】(Uá àiⁿ-ták lân-ló, lióu lṳ́ hó-tńg--khṳ̀) I will read a little, and then you can go.
 * 【拜三先生汝免用來】(Pài-saⁿ sin-seⁿ lṳ́ mín-ēng lâi) On Wednesday, teacher, you needn't come.
@@ -77,8 +77,8 @@ date: 2022-11-17 23:28:00
 * 【毋嘗。我在睡】(M̄-chêng, uá tõ út) No, I was in bed.
 * 【昨夜三更蝕】(Tsá-mêⁿ saⁿ-keⁿ síh) The eclipse took place at the third watch last night.
 * 【我若是知。我走起来睇】(Uá nāⁿ-sĩ tsai, uá tsáu-khí lâi-thóiⁿ) If I had known, I would have got up to see it.
-* 【汝昨日無共我呾】(Lṳ́ tsa-jít bô kah uá tàⁿ) You didn't tell me yesterday.
-* 【我昨日毋記得共汝呾】(Uá tsa-jít m̄-kì-tit kah lṳ́ tàⁿ) I forgot to tell you yesterday.
+* 【汝昨日無佮我呾】(Lṳ́ tsa-jít bô kah uá tàⁿ) You didn't tell me yesterday.
+* 【我昨日毋記得佮汝呾】(Uá tsa-jít m̄-kì-tit kah lṳ́ tàⁿ) I forgot to tell you yesterday.
 * 【汝知日何時正蝕】(Lṳ́ tsai jít tiang-sî chiàⁿ-síh?) Do you know when there will be an eclipse of the sun?
 * 【毋知。我無歷日】(M̄-tsai, uá bô láh-jít) I don't know, I haven't got a calendar.
 * 【我昨夜終夜袂睡】(Uá tsa-mêⁿ thàng-mêⁿ bõi-út) I couldn't sleep the whole of last night.

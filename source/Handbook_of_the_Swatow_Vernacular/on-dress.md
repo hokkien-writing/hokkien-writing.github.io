@@ -37,7 +37,7 @@ date: 2022-11-20 22:29:00
 * 【褲腿】(Khòu-thúi) Leggings.
 * 【褲橛】(Khòu-kuéh) Short trowsers.
 * 【褲頭帶】(Khòu-thâu-tūa) A belt.
-* 【褲頭龍】(Khòu-thâu-léng) do silk.
+* 【褲頭綾】(Khòu-thâu-léng) A belt, do silk.
 * 【肚腰】(Tói-ie) A purse worn on the waist.
 * 【荷包】(Hô-pau) A purse worn on the waist.
 * 【襪】(Buéh) Stockings.
@@ -60,7 +60,7 @@ date: 2022-11-20 22:29:00
 * 【扇】(Sìⁿ) A fan.
 * 【雨傘】(Hõu-sùaⁿ) An umbrella.
 * 【穿衫褲】(Chhēng-saⁿ-khòu) To dress.
-* 【脫衫褲】(Thǹg-saⁿ-khòu) To undress.
+* 【褪衫褲】(Thǹg-saⁿ-khòu) To undress.
 * 【換衫褲】(Uāⁿ-saⁿ-khòu) To change clothes.
 * 【打扮】(Tá-pān) To dress prettily.
 * 【排場】(Phâi-chhiâng) Gorgeous, well dressed.

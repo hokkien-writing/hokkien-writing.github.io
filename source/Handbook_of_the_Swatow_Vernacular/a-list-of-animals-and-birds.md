@@ -13,7 +13,7 @@ date: 2022-11-20 23:36:00
 * 【Elephant】(Chhiẽⁿ) 象
 * 【Rhinoceros】(Sai-gû) 犀牛
 * 【Camel】(Lóh-thóh) 駱駝
-* 【Ass】(Lṳ̂, lô) 驪　騾
+* 【Ass】(Lṳ̂, lô) 驢　騾
 * 【Deer】(Ték) 鹿
 * 【Wolf】(Tshâi-lâng) 豺狼
 <!--more-->
@@ -27,11 +27,11 @@ date: 2022-11-20 23:36:00
 * 【Phoenix】(Hõng) 鳳
 * 【Dragon】(Lêng) 龍
 * 【Bird】(Chióu) 鳥
-* 【Parrot】(Eng-ko) 鸚歌
+* 【Parrot】(Eng-ko) 鸚哥
 * 【Hawk】(Eng-pô) 鸚婆
 * 【Stork】(Hóh, péh-liōu-si) 鶴　白鷺絲
-* 【Rabbit】(Chiéh-tshṳ́) 石鬣
-* 【Sparrow】(MÛaⁿ-chiah-chióu) 麻隻鳥
+* 【Rabbit】(Chiéh-tshṳ́) 石鼠
+* 【Sparrow】(MÛaⁿ-chiah-chióu) 麻雀鳥
 * 【Pigeon】(Hún-chióu) 粉鳥
 * 【Butterfly】(Búe-iáh) 蝴蝶
 * 【Dragon-fly】(Sua-meⁿ) 沙蜢
@@ -45,13 +45,13 @@ date: 2022-11-20 23:36:00
 * 【Pig】(Tṳ) 豬
 * 【Dog】(Káu) 狗
 * 【Cat】(Ngiou) 貓
-* 【Rat】(Ngióu-tsṳ́) 貓鬣
+* 【Rat】(Ngióu-tshṳ́) 老鼠
 * 【Centipede】(Gê-kang) 蜈蚣
 * 【Frog】(Tsúi-koi) 水雞
 * 【Toad】(Kap-pô) 蛤婆
-* 【Cockroach】(Ka-tsuáh) 膠賊
+* 【Cockroach】(Ka-tsuáh) 虼蚻
 * 【Lizard】(Chîⁿ-lêng) 蠐龍
-* 【Spider, large】(Bé-lêng-khiâ) 螳螂
+* 【Spider, large】(Bé-lêng-khiâ) 馬龍騎
 * 【„ little】(Ti-tu) 蜘蛛
 * 【Fly】(Hôu-sîn) 蝴蠅
 * 【Mosquito】(Máng) 蟒
@@ -59,5 +59,5 @@ date: 2022-11-20 23:36:00
 * 【Worm】(Thâng) 虫
 * 【„ in books.】(Chheh-hṳ̂) 册魚
 * 【Ant】(Hiā) 蟻
-* 【Flea】(Ka-tsáu) 蝨
+* 【Flea】(Ka-tsáu) 虼蚤
 * 【Louse】(Sat) 虱

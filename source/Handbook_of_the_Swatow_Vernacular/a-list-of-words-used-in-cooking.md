@@ -35,7 +35,7 @@ date: 2022-11-20 22:11:00
 * 【冲】(Tshong) To infuse, as tea &c.
 * 【着火燒】(Téh-húe-sie) To get burnt by being over roasted or burnt for want of water.
 * 【燒】(Sie) To burn.
-* 【温】(sie) Hot.
+* 【燒】(sie) Hot.
 * 【凝】(Ngân) Cold.
 * 【滾】(Kún) Boiling.
 * 【熟】(Sék) Thoroughly boiled.
@@ -53,7 +53,7 @@ date: 2022-11-20 22:11:00
 * 【試】(Chhì) To taste, to try.
 * 【氣味】(Khì-bī) Palate or taste.
 * 【味道】(Bī-sōu) Palate or taste.
-* 【臭生】(Tshàu-tsho) Fish smell.
+* 【臭臊】(Tshàu-tsho) Fish smell.
 * 【甜】(Tiâm) Sweet.
 * 【酸】(Sng) Sour.
 * 【鹹】(Kiâm) Salt.
@@ -61,6 +61,6 @@ date: 2022-11-20 22:11:00
 * 【苦】(Khóu) Bitter.
 * 【辣】(Hiam) Pungent.
 * 【熱】(Jiét) Hot, like ginger.
-* 【香】(Phang) Fragrant, nice, well-flavoured.
+* 【芳】(Phang) Fragrant, nice, well-flavoured.
 * 【甘】(Kam) Sour and sweet, like olives.
 * 【澀】(Siap) Bitter and sour, like unripe fruit.

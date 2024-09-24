@@ -9,7 +9,7 @@ date: 2022-11-20 23:47:00
 ## Lesson XXXII. Notes—Hostilities.
 
 * 【中國佮荷蘭西相刣】(Tong-kok kah Hô-lan-se sie-thâi) War between China and France.
-* 【何人刣羸】(Tî-tiâng thâi-iâⁿ?) Who has won the victory?
+* 【底誰刣羸】(Tî-tiâng thâi-iâⁿ?) Who has won the victory?
 * 【還了未知】(Huân-lióu būe-tsai) We don't know yet.
 * 【荷蘭西其兵來未齊】(Hô-lan-se kâi-piaⁿ lâi būe-tsôi) The French troops have not all arrived yet.
 * 【伊若是來齊就要直直去京城處】(In nāⁿ-sĩ lâi-tsôi chiũ àiⁿ tít-tít khṳ̀ kiaⁿ-siâⁿ--kō;) If they all have come out, they will go direct to the capital;

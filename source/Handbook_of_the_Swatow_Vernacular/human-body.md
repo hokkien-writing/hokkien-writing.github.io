@@ -31,7 +31,7 @@ date: 2022-11-20 21:44:00
 * 【鬚】(Chhiu) Beard, moustache.
 * 【下髯】(Ẽ-hâi) Chin.
 * 【頰】(Kih-kau) Cheeks.
-* 【額頭】(Hiáh-mn̂g-sîn) Forehead.
+* 【額門神】(Hiáh-mn̂g-sîn) Forehead.
 * 【草眼】(Tsháu-ngán) Temples.
 * 【耳】(Hĩⁿ) Ear.
 * 【頸】(Ãm) Neck.
@@ -59,7 +59,7 @@ date: 2022-11-20 21:44:00
 
 * 【前齒】(Tsôiⁿ-khí) Front teeth.
 * 【牙頭齒】(Gê-thâu-khi) Back teeth.
-* 【齒銀】(Khí-ngṳ̂n) Gum.
+* 【齒齦】(Khí-ngṳ̂n) Gum.
 * 【舌】(Chíh) Tongue.
 * 【喉嚨】(Âu-lèng) Throat.
 * 【涎】(Nũaⁿ) Spittle.
@@ -89,9 +89,9 @@ date: 2022-11-20 21:44:00
 * 【我要剃頭】(Uá àiⁿ thì-thâu) I want to shave.
 * 【汝其手伸出來】(Lṳ́ kâi chhiú tshun--tshut-lâi) Stretch out your hand.
 * 【我其手指流血】(Uá kâi chhiú-tsóiⁿ lâu-hueh) My finger is bleeding.
-* 【我在批物件。刹着】(Uá tō phoi muéh-kiãⁿ, kuah--tiéh) I was cutting something, and it got cut.
+* 【我在批物件。割着】(Uá tō phoi muéh-kiãⁿ, kuah--tiéh) I was cutting something, and it got cut.
 * 【伊跌到腳折去】(I puáh kàu kha chíh--khṳ̀) He fell down, and broke his leg.
-* 【腳手勿多】(Kha-chhiú màiⁿ-tsōi) Don't be mischievous.
+* 【腳手勿㩼】(Kha-chhiú màiⁿ-tsōi) Don't be mischievous.
 * 【伊死了】(I sí--lō) He is dead.
 * 【汝在批底個】(Lṳ́ tõ phoi tî-kâi?) What are you cutting?
 * 【我在批我其指甲】(Uá tõ phoi uá kái tsńg-kah) I am cutting my nails.
@@ -111,4 +111,4 @@ date: 2022-11-20 21:44:00
 * 【會。稍絀須囝】(Õi, ióu-tsúah su-kiáⁿ) Yes, a little better.
 * 【人會食亞袂】(Nâng õi-chiáh a-bõi?) Can you eat?
 * 【會零須】(Õi lân-ló) I can eat a little.
-* 【勿食太多】(Màiⁿ-chiáh khah-tsōi) Don't eat too much.
+* 【勿食較㩼】(Màiⁿ-chiáh khah-tsōi) Don't eat too much.
