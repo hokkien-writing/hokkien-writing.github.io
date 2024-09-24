@@ -29,7 +29,7 @@ date: 2022-11-20 21:59:00
 * 【牀落凍石】(Tshn̂g lóh tàng-chiéh) Tables with marble-top.
 * 【册架】(Chheh-kè) A book-stand.
 * 【册橱】(Chheh-tû) A book-case.
-* 【寫字牀刻個】(Siá-jī-tshn̂g khek--kâi) A carved writing desk.
+* 【寫字牀刻其】(Siá-jī-tshn̂g khek--kâi) A carved writing desk.
 * 【牀櫃】(Tshn̂g-kūiⁿ) A Chinese writing desk.
 * 【鉛筆】(În-pit) Pencil (lead.)
 * 【鐵筆】(Thih-pit) Steel-pen.
@@ -44,16 +44,16 @@ date: 2022-11-20 21:59:00
 * 【信皮】(Siǹ-phûe) Envelopes.
 * 【批皮】(Pho-phûe) Envelopes.
 * 【草蓆】(Tsháu-chhiéh) Mats.
-* 【拭腳個蓑】(Chhit-kha kâi sui) Door-mat.
+* 【拭腳其蓑】(Chhit-kha kâi sui) Door-mat.
 * 【撞枳】(Thn̄g-chí) Billiards, (to play.)
 * 【簾】(Liâm) Blinds.
 
 ------
 
-* 【伊個內無乜家私】(I kâi lãi bô-mih ke-si) There is not much furniture in his house.
-* 【伊是初到個人】(I sĩ sin-kàu--kâi-nâng) He is a new comer.
+* 【伊其內無乜家私】(I kâi lãi bô-mih ke-si) There is not much furniture in his house.
+* 【伊是初到其人】(I sĩ sin-kàu--kâi-nâng) He is a new comer.
 * 【擔一張校椅來】(Taⁿ chék-chiah kau-íⁿ lâi) Get me a chair.
-* 【樓頂個氈。舖】(Lâu-téng kâi chiⁿ, tshṳ) Spread the carpet up-stairs.
+* 【樓頂其氈。舖】(Lâu-téng kâi chiⁿ, tshṳ) Spread the carpet up-stairs.
 * 【汝曉彈琴亞毋曉】(Lṳ́ hióu tūaⁿ-khîm a m̄-hióu?) Do you know how to play the piano?
 * 【我曉】(Uá hióu) I know.
 * 【此個人囝雅在】(Chí-kâi ang-kiáⁿ ngiá-tsãi) This picture is very beautiful.

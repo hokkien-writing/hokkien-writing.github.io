@@ -63,7 +63,7 @@ date: 2022-11-20 22:19:00
 * 【咱明天要出門。食有到亞無】(Nán màⁿ-khí àiⁿ tshut-mǹg, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
 * 【着預夠】(Tiéh ṳ̃-kàu) You must prepare enough.
 * 【勿毋夠。了在路就無食】(Màiⁿ-m̄-kàu, lióu tõ lōu chiũ bô-chiáh) For if there is not enough, then we shall get no food on the way.
-* 【今咱有何個】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
+* 【今咱有底個】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
 * 【麫包有三個。牛乳油有一盒】(Mīⁿ-pau ũ saⁿ-kâi, gû-nĩⁿ iû ũ chék-áp) We have three loaves of bread, and one tin of butter.
 * 【若是毋夠一路好買】(Nāⁿ-sĩ m̄-kàu chék-lōu hó-bói) If we haven't got enough, we can buy on the way.
 * 【叫伙頭來】(Kiè húe-thâu lâi) Call the cook here.
@@ -83,7 +83,7 @@ date: 2022-11-20 22:19:00
 * 【雞卵買三十粒】(Koi-nñg bói saⁿ-tsáp liáp) Buy thirty fowl's eggs.
 * 【十陸粒烙半生熟】(Tsáp-lák liáp luah pùaⁿ-chheⁿ sék) Half-fry sixteen of them.
 * 【存十四粒做粿】(Tshûn tsáp-sì liáp tsò-kúe) The remaining fourteen make them into cakes.
-* 【着選鮮個】(Tiéh suán chhiⁿ--kâi) You must choose fresh ones.
+* 【着選鮮其】(Tiéh suán chhiⁿ--kâi) You must choose fresh ones.
 * 【就是如此】(Chiũ-sĩ chièⁿ-seⁿ) That's all.
 * 【飯勿烳過糜】(Pn̄g màiⁿ-pû khah-mîⁿ) Don't boil the rice to soft.
 * 【膠離勿煮過辣】(Ka-lî màiⁿ-tsṳ́ khah-hiam) Don't make the curry too hot.

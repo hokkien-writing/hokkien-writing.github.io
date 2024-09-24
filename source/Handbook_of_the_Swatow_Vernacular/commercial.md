@@ -36,7 +36,7 @@ date: 2022-11-20 23:22:00
 * 【羽紗】(Ú-se) Camlet.
 * 【羽毛】(Ú-môⁿ) Camlet.
 * 【羽綾】(Ú-lêng) Lasting.
-* 【柒個布】(Níⁿ--kâi-pòu) Dyed cloth.
+* 【柒其布】(Níⁿ--kâi-pòu) Dyed cloth.
 * 【綑条】(Kún-tiôu) Tape, for dress.
 * 【帶】(Tùa) „ tying.
 * 【一疋】(Chék-phit) A piece of cloth.

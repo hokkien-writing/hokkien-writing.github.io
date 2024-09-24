@@ -15,9 +15,9 @@ date: 2022-11-20 23:44:00
 * 【在何間舖買】(Tõ tî-chék-koiⁿ phòu bói?) From which shop have you just bought them?
 <!--more-->
 * 【在順合隔壁】(Tõ Sũn-háh keh-piah) Next to (chop) Sun-hah.
-* 【順合個貨不可比阮個】(Sũn-háh kâi-hùe m̄-móⁿ ún--kâi) Sun-hah's goods cannot be compared with our goods.
-* 【阮個俱皆是正上海個】(Ún--kâi lóng-tsóng sĩ chiàⁿ Siāng-hái--kâi) Ours are all genuine Shanghai goods.
-* 【無假個】(Bô-ké--kâi) None are false.
+* 【順合其貨不可比阮其】(Sũn-háh kâi-hùe m̄-móⁿ ún--kâi) Sun-hah's goods cannot be compared with our goods.
+* 【阮其俱皆是正上海其】(Ún--kâi lóng-tsóng sĩ chiàⁿ Siāng-hái--kâi) Ours are all genuine Shanghai goods.
+* 【無假其】(Bô-ké--kâi) None are false.
 * 【太値錢我毋敢買】(Khah-tát-chîⁿ, uá m̄-káⁿ-bói) They are too costly, I dare not buy.
 * 【誰人是財主】(Tî-tiâng sĩ tshâi-tsú?) Who is the proprietor (of the shop)?
 * 【財主在此內】(Tshâi-tsú tõ hṳ́-lãi) The proprietor is inside.
@@ -29,9 +29,9 @@ date: 2022-11-20 23:44:00
 * 【我上英國人】(Uá siãng Eng-kok-nâng) I like Englishmen.
 * 【花旗行倒賬了】(Hue-kî-hâng tó-tièⁿ--lō) The American firm is bankrupt.
 * 【葵扇一枝若干錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
-* 【一枝捌個錢】(Ki poih-kâi chîⁿ) Eight cash each.
+* 【一枝八個錢】(Ki poih-kâi chîⁿ) Eight cash each.
 * 【此近時無生理】(Chí-chùaⁿ-sî bô seng-lí) My trade is very dull of late.
-* 【恁個生理好熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
+* 【恁其生理好熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
 * 【四個銀。二式。四個錢】(Sì-kâi-ngṳ̂n, nõⁿ-sek sì-kâi chîⁿ) Four dollars, twenty cents and four cash.
 * 【百五個錢】(Peh-ngõu kâi chîⁿ) Hundred and fifty cash.
 * 【陸斤四】(Lák-kṳn-si) Six catties and four taels.

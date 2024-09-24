@@ -42,7 +42,7 @@ date: 2022-11-20 23:41:00
 * 【火船有吹陂亞未】(Húe-tsûn ũ pûn-pi a-būe?) Has the steamer sounder her whistle?
 * 【吹三次了】(Pûn saⁿ-ē--lō) She has whistled three times.
 * 【加一次就要行】(Ke chék-ē chiũ àiⁿ-kiâⁿ) Once more (the next time) she will start.
-* 【船頭枝桅個旗。若是升半𰉗就要行】(Tsûn-thâu ki-ûi kâi kî, nāⁿ-sĩ liū pùaⁿ-kuéh chiũ àiⁿ-kiâⁿ) If the flag of the foremast is hoisted half mast high, then the steamer is going to start.
+* 【船頭枝桅其旗。若是升半橛就要行】(Tsûn-thâu ki-ûi kâi kî, nāⁿ-sĩ liū pùaⁿ-kuéh chiũ àiⁿ-kiâⁿ) If the flag of the foremast is hoisted half mast high, then the steamer is going to start.
 * 【一人跋落水底。無人去撈伊】(Kâi-nâng puáh-lóh tsúi-tói, bô-nâng khṳ̀-liôu i) A man has fallen over board, and no one has gone to pick him up.
 * 【伊無乜會氽】(I bô-mih õi-siû) He can't swim very well.
 * 【無速速去救伊。就着激死】(Bô méⁿ-méⁿ khṳ̀ kiù--i, chiũ-tiéh kek-sí) If he is not saved quickly, he will be drowned.

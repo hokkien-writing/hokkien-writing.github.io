@@ -113,8 +113,8 @@ date: 2022-11-15 21:43:00
 * 【無】(Bô) No.
 * 【如何無也】(Tsò-nîⁿ bô--nē?) Why not?
 * 【因為我毋去】(In-ûi uá m̃-khṳ̀) Because I don't want to go.
-* 【此個是我個】(Chí-kâi sĩ uá-kâi) This is mine.
-* 【毋是汝個】(M̄-sĩ lṳ́-kâi) It isn't yours.
-* 【是伊個】(Si i-kâi) It is his.
-* 【汝個毋是如此】(Lṳ́-kâi m̄-sĩ chièⁿ-seⁿ) Yours is not like his.
-* 【伊個是如此】(I kâi sĩ chièⁿ-seⁿ) His is like this.
+* 【此個是我其】(Chí-kâi sĩ uá-kâi) This is mine.
+* 【毋是汝其】(M̄-sĩ lṳ́-kâi) It isn't yours.
+* 【是伊其】(Si i-kâi) It is his.
+* 【汝其毋是如此】(Lṳ́-kâi m̄-sĩ chièⁿ-seⁿ) Yours is not like his.
+* 【伊其是如此】(I kâi sĩ chièⁿ-seⁿ) His is like this.
