@@ -10,13 +10,13 @@ date: 2022-11-16 20:14:00
 
 ### section I.
 
-* 【伊要認嗎】(I àiⁿ-jīn mē?) Is he going to confess?
+* 【伊欲認嗎】(I àiⁿ-jīn mē?) Is he going to confess?
 * 【伊毋應】(I m̃-ìn) He won't answer.
-* 【伊要辦】(I àiⁿ-à) He wants to argue.
+* 【伊欲辦】(I àiⁿ-à) He wants to argue.
 * 【汝何時到】(Lṳ́ tiang-sî kàu?) When did you arrive?
-* 【汝問誰人】(Lṳ́ mn̄g tî-tiâng?) Who are you asking?
+* 【汝問底儂】(Lṳ́ mn̄g tî-tiâng?) Who are you asking?
 * 【我問汝】(Uá mn̄g lṳ́.) I ask you.
-* 【誰人打汝】(Tî-tiâng phah lṳ́?) Who beat you?
+* 【誰儂拍汝】(Tî-tiâng phah lṳ́?) Who beat you?
 <!--more-->
 * 【汝知嗎】(Lṳ́ tsai mē?) Do you know?
 * 【我毋知】(Uá m̄-tsai) I don't know.
@@ -36,12 +36,12 @@ date: 2022-11-16 20:14:00
 
 ### section II.
 
-* 【此個我勿。我要換】(Chí--kâi uá màiⁿ, uá aìⁿ-ūaⁿ) I don't want a change.
+* 【此個我勿。我欲換】(Chí--kâi uá màiⁿ, uá aìⁿ-ūaⁿ) I don't want a change.
 * 【汝去追伊】(Lṳ́ khṳ̀-jiōu i) You go and chase him.
 * 【追毋着】(Jiōu m̄-tièh) Can't overtake him.
 * 【汝走就追會着】(Lṳ́ tsáu chiũ-jiōu õi-tièh) If you run, you will overtake him.
 * 【汝勿騙我】(Lṳ́ màiⁿ-phièn úa) Don't you deceive me.
-* 【汝要選底一個】(Lṳ́ àiⁿ-suán tî-chék-kâi?) Which do you wish to choose?
+* 【汝欲選底一個】(Lṳ́ àiⁿ-suán tî-chék-kâi?) Which do you wish to choose?
 * 【此個修淸潔】(Chí--kâi muéh-chheng-khih) Clean this.
 * 【此個携去煮】(Chí--kâi khiéh-khṳ̀ tsṳ́) Take this and cook it.
 * 【汝曉算嗎】(Lṳ́ hióu-sǹg mē?) Can you count?
@@ -71,17 +71,17 @@ date: 2022-11-16 20:14:00
 * 【伊會死嗎】(I õi sí mē?) Will he die?
 * 【我想伊會】(Uá siẽⁿ i õi.) I think he will.
 * 【我聽見伊哭】(Uá thiaⁿ-kìⁿ i khàu) I heard him cry.
-* 【此個携去藏】(Chí--kâi khiéh-khṳ̀ khǹg) Take this and keep it.
+* 【此個携去囥】(Chí--kâi khiéh-khṳ̀ khǹg) Take this and keep it.
 * 【跪落去】(Kũi--lóh-khṳ̀) Kneel down.
 * 【起來】(Khí--lâi) Get up.
 * 【勿笑】(Màiⁿ-chhiè) Don't laugh.
 * 【我毋識伊】(Uá m̄-pat i) I don't know him.
-* 【我只伊在底塊居住】(Uá tsai i tõ tî-kò khiã-khí) I know where he lives.
-* 【伊毋作。要歇】(I m̃-tsoh, àiⁿ-hiah) He doesn't want to work, (but) wants to leave.
+* 【我只伊在底塊徛起】(Uá tsai i tõ tî-kò khiã-khí) I know where he lives.
+* 【伊毋作。欲歇】(I m̃-tsoh, àiⁿ-hiah) He doesn't want to work, (but) wants to leave.
 * 【汝去佮伊呾勿歇】(Lṳ́ khṳ̀ kah i tàⁿ, màiⁿ-hiah) You go and tell him not to leave.
 * 【此個借我】(Chí--kâi chieh uá) Lend me this.
 * 【袂使】(Bõi-sái) That won't do.
-* 【我自己要用】(Uá ka-kī àiⁿ-ēng) I want to use it myself.
+* 【我自己欲用】(Uá ka-kī àiⁿ-ēng) I want to use it myself.
 * 【此我毋曉怎呢作】(Chiá uá m̄-hióu tsò-nîⁿ muéh) I don't understand how to do this.
 * 【請汝佮我呾】(Chhiáⁿ lṳ́ kah uá tàⁿ) Please tell me.
 * 【來去遊玩】(Lâi-khṳ̀ thit-thô) Come let us go out to amuse ourselves.
@@ -103,17 +103,17 @@ date: 2022-11-16 20:14:00
 * 【伊毋好去】(I m̃-hàuⁿ khṳ̀) He refuses to go.
 * 【我記得汝】(Uá kì-tit lṳ́) I remember you.
 * 【汝有記得我嗎】(Lṳ́ ũ kì-tit uá mē?) Do you remember me?
-* 【我要搬】(Uá àiⁿ-puaⁿ) I am going to remove.
-* 【要搬去底塊】(Àiⁿ-puaⁿ khṳ̀ tî-kò?) Where are you going to remove to?
+* 【我欲搬】(Uá àiⁿ-puaⁿ) I am going to remove.
+* 【欲搬去底塊】(Àiⁿ-puaⁿ khṳ̀ tî-kò?) Where are you going to remove to?
 * 【還了未知】(Huân-lióu būe-tsai) I don't know yet.
 * 【到何時正知】(Kàu tiang-sî chiàⁿ-tsai?) When will you know?
-* 【汝若是要搬。請汝佮我呾】(Lṳ́ nāⁿ-sĩ àiⁿ-puaⁿ chhíaⁿ lṳ́ kah uá tàⁿ) If you are going to remove, please tell me.
+* 【汝若是欲搬。請汝佮我呾】(Lṳ́ nāⁿ-sĩ àiⁿ-puaⁿ chhíaⁿ lṳ́ kah uá tàⁿ) If you are going to remove, please tell me.
 * 【伊轉來亞未】(I tńg--lâi a-būe?) Has he come home?
 * 【未】(Būe) He hasn't.
 * 【此個携去還伊】(Chí--kâi khiéh-khṳ̀ hôiⁿ i) Take this, go and return it to him.
 * 【汝有覔嗎】(Lṳ́ ũ tshūe mē?) Did you search for it?
 * 【有。我覔無】(Ũ. Uá tshūe bô) Yes. I searched, but I couldn't find it.
-* 【立起來】(Khiã--khí-lâi) Stand up.
+* 【徛起來】(Khiã--khí-lâi) Stand up.
 * 【坐】(Tsõ) Sit down.
 * 【請汝教我】(Chhiáⁿ lṳ́ kà uá) You teach me, please.
 * 【伊來巡汝】(I lâi-sûn lṳ́) He comes to visit you.

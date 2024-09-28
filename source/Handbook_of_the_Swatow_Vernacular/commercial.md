@@ -84,7 +84,7 @@ date: 2022-11-20 23:22:00
 * 【樟柴】(Chieⁿ-tshâ) Camphor.
 * 【帆布】(Phâng-pòu) Canvas.
 * 【桂皮】(Kùi-phûe) Cassia.
-* 【呂宋煙】(Lṳ̃-sòng-hun) Cigar, Manila.
+* 【呂宋薰】(Lṳ̃-sòng-hun) Cigar, Manila.
 * 【硃砂】(Tsu-sa) Cinnabar.
 * 【棕】(Tsang) Coir.
 * 【物食】(Muéh-chiáh) Confections.
@@ -139,9 +139,9 @@ date: 2022-11-20 23:22:00
 * 【火箭】(Húe-súh) Rockets.
 * 【香柴】(Hioⁿ-tshâ) Sandal-wood.
 * 【燕菜】(Ièn-tshài) Seaweeds.
-* 【魚翅】(Hṳ̂-sít) Shark-fins.
+* 【魚翼】(Hṳ̂-sít) Shark-fins.
 * 【螺】(Lô) Shells.
-* 【鼻烟】(Phīⁿ-hun) Snuff.
+* 【鼻薰】(Phīⁿ-hun) Snuff.
 * 【紙煤】(Tsúa-bûe) Spill.
 * 【白糖】(Péh-thn̂g) Sugar, white.
 * 【赤糖】(Chhiah-thn̂g) „ brown.
@@ -230,7 +230,7 @@ date: 2022-11-20 23:22:00
 * 【單】(Tuaⁿ) A bill.
 * 【開單】(Khui-tuaⁿ) To make out an account.
 * 【收單】(Siu-tuaⁿ) A receipt.
-* 【畫花號】(Uéh-hue-hō) To sign.
+* 【劃花號】(Uéh-hue-hō) To sign.
 * 【簽名】(Chhiam-miâⁿ) To sign.
 * 【印】(Ìn) A seal.
 * 【印色】(Ìn-sek) Cotton waste soaked with red colour to stamp with.
@@ -271,7 +271,7 @@ date: 2022-11-20 23:22:00
 * 【Creditor】(Chè-tsú) 債主
 * 【Dear】(Kùi) 貴
 * 【Debt】(Chè) 債
-* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠人其錢
+* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠儂其錢
 * 【Deduct】(Tṳ̂) 除
 * 【Defray】(Tshut-só-hùi) 出使費
 * 【Deposit, entrust】(Tah) 搭
@@ -292,7 +292,7 @@ date: 2022-11-20 23:22:00
 * 【Lend, to】(Chieh) 借
 * 【Loss, in commerce】(Síh-pńg) 缺本
 * 【Money】(Chiⁿ, chiⁿ-ngṳ̂u) 錢　錢銀
-* 【„ changer】(Táu-chiⁿ-hâng, táu-toh-kūiⁿ) 找錢行　找棹櫃
+* 【„ changer】(Táu-chiⁿ-hâng, táu-toh-kūiⁿ) 找錢行　找桌櫃
 * 【„ lender】(Pàng-seⁿ-chè, pàng-seⁿ-siòu) 放生債　放生數
 * 【Mortgage, to】(Tǹg, tóiⁿ) 當　典
 * 【„ deed】(Tóiⁿ-khòi) 典契
@@ -301,7 +301,7 @@ date: 2022-11-20 23:22:00
 * 【Mortgagee】(Tǹg-tsú) 當主
 * 【Owe】(Khiàm) 欠
 * 【Payment, punctual】(Bô-thua-khiàm) 無拖欠
-* 【„ non-punctual, (at time specified)】(Kùe-hãng) 過限
+* 【„ non-punctual, (at time specified)】(Kùe-hãn) 過限
 * 【Premium】(Ngṳ̂n-tsúi) 銀水
 * 【Price】(Kè-chîⁿ) 價錢
 * 【„ current】(Hâng-chhêng) 行情
@@ -331,7 +331,7 @@ date: 2022-11-20 23:22:00
 * 【Bale, a】(Khún) 綑
 * 【Barter, to】(Hùe uāⁿ hùe) 貨換貨
 * 【Bill of lading】(Nám-tsāi-jī) 攬載字
-* 【Broker, a】(Phah-khang) 打空
+* 【Broker, a】(Phah-khang) 拍空
 * 【Bundle, a】(Pau) 包
 * 【Business】(Sṳ̄, seng-lí) 事　生理
 * 【Busy】(M̄-ôiⁿ, sṳ̄ tsōi) 毋暇　事㩼
@@ -339,7 +339,7 @@ date: 2022-11-20 23:22:00
 * 【Cask, a】(Tháng) 桶
 * 【Certificate, a】(Phêng-tuaⁿ) 憑單
 * 【Charter a ship】(Pák-tsûn) 縛船
-* 【Charter bond】(Pák-tsûn kâi-jī) 縛船之字
+* 【Charter bond】(Pák-tsûn kâi-jī) 縛船其字
 * 【Cheat, in commerce】(Tshuah) 棳
 * 【Chest, a】(Sieⁿ) 箱
 * 【Chop, a】(Jī-hō) 字號
@@ -352,9 +352,9 @@ date: 2022-11-20 23:22:00
 * 【Contract】(Háp-táng) 合約
 * 【Correspondence】(Phoi-sìn) 批信
 * 【Courier】(Tshoiⁿ lí-bé, tsáu-bûn-tsṳ) 千里馬　走文書
-* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交易之人
+* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交易其儂
 * 【Defraud】(Tshuah) 騙
-* 【Demurrage】(Thiap-kùe-hãng kâi-ngṳ̂n) 貼過限之銀
+* 【Demurrage】(Thiap-kùe-hãn kâi-ngṳ̂n) 貼過限其銀
 * 【Dissolve partnership】(Thiah-húe-kì) 拆夥計
 * 【Duty, (Customs,)】(Hiàng) 餉
 * 【„ to collect】(Khieh-hiàng) 携餉
@@ -403,16 +403,16 @@ date: 2022-11-20 23:22:00
 * 【Passport, a】(Lōu-phiè) 路票
 * 【Postage】(Chiú-chîⁿ) 酒錢
 * 【Purchase, to】(Bói, kau-kuan) 買　交易
-* 【„ stock in trade】(Phah-phòu) 打舖
+* 【„ stock in trade】(Phah-phòu) 拍舖
 * 【Register, to】(Chhiam-miâⁿ) 簽名
 * 【Retail, to】(Lân-san-bōi) 零些賣
 * 【Rough draft】(Tshó-kó) 草稿
 * 【Salary】(Kang-tsṳ) 工資
-* 【Sale, for】(Aîⁿ-bōi--kâi) 要賣其
+* 【Sale, for】(Aîⁿ-bōi--kâi) 欲賣其
 * 【„ no】(Bõi-siou) 袂消
 * 【Sample】(Pān-thâu, pān) 辦頭　辦
 * 【Sell, to】(Bōi) 賣
-* 【„ stock in trade】(Phòu phah--khṳt-náng) 舖打乞人
+* 【„ stock in trade】(Phòu phah--khṳt-náng) 舖拍乞儂
 * 【Share, a】(Hūn) 分
 * 【Shop, a】(Phòu) 舖
 * 【„ proprietor of】(Tshâi-tsú) 財主
@@ -423,9 +423,9 @@ date: 2022-11-20 23:22:00
 * 【Trade, a】(Seng-lí) 生理
 * 【„ brisk】(Seng-lí jiét) 生理鬧
 * 【„ dull】(Bô-seng-lí) 無生理
-* 【Tradesman, a】(Seng-lí-nâng) 生理人
+* 【Tradesman, a】(Seng-lí-nâng) 生理儂
 * 【Transaction, business】(Kau-kùa, bói-bōi) 交掛　買賣
-* 【Undersell, to】(Bōi-phiⁿ--nâng) 賣平伊人
+* 【Undersell, to】(Bōi-phiⁿ--nâng) 賣平伊儂
 * 【Unprofitable】(Oh-thàn) 難趁
 * 【Wages】(Kang-chîⁿ) 工錢
 * 【Wholesale, buy】(Bói-chiēⁿ-pûaⁿ) 買上盤
@@ -455,7 +455,7 @@ date: 2022-11-20 23:22:00
 * 【天平】(Thien-phêng) A small scale.
 * 【柴秤】(Tshâ-chhìn) A steelyard.
 * 【秤錘】(Chhìn-thûi) A weight.
-* 【頂】(Téng) To weigh.
-* 【頂減】(Téng-siám) To cheat in weighing.
+* 【戥】(Téng) To weigh.
+* 【戥減】(Téng-siám) To cheat in weighing.
 * 【秤。正】(Chhìn chhiàⁿ) A correct scale.
-* 【秤。細】(Chhìn siám) An incorrect scale.
+* 【秤。閃】(Chhìn siám) An incorrect scale.

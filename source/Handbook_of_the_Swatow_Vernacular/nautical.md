@@ -42,11 +42,11 @@ date: 2022-11-20 22:51:00
 * 【船頂】(Tsûn-téng) Deck.
 * 【峇厘】(Bā-lî) A cabin.
 * 【玉】(Gék[1]) A ship's boat.
-* 【烟筒】(In-tâng) A funnel.
+* 【煙筒】(In-tâng) A funnel.
 * 【陂】(Pi) A whistle.
 * 【呠陂】(Pûn-pi) To blow a whistle.
 * 【鼎】(Tiáⁿ) A boiler.
-* 【水烟】(Tsúi-in) Steam.
+* 【水煙】(Tsúi-in) Steam.
 * 【灶】(Tsàu) Furnace.
 * 【起火】(Khí-húe) To make a fire.
 * 【燒】(Hiáⁿ) To burn; to boil as a large quantity of water.
@@ -76,14 +76,14 @@ date: 2022-11-20 22:51:00
 * 【船主】(Tsûn-tsú) Captain.
 * 【大伙】(Tūa-húe) Chief mate.
 * 【二伙】(Jī-húe) Second mate.
-* 【管藥鬼其人】(Kuán-iéh-kúi--kâi-nâng) Engineer.
-* 【燒火其人】(Hiâⁿ-húe--kâi-nâng) Stoker.
+* 【管藥鬼其儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
+* 【燒火其儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
 * 【掠舵】(Liáh-tũa) Steersman.
 * 【舵舡】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.
-* 【行船人】(Kiâⁿ-tsûn-náng) A sea-faring man.
+* 【行船儂】(Kiâⁿ-tsûn-náng) A sea-faring man.
 * 【帶水】(Tshūa-tsúi) A pilot.
-* 【船要行】(Tsûn àiⁿ-kiàⁿ) Ships leaving.
+* 【船欲行】(Tsûn àiⁿ-kiàⁿ) Ships leaving.
 * 【船行了】(Tsûn kiàⁿ--lō) Ships have gone.
 * 【船袂行】(Tsûn bõi-kiâⁿ) Ships can't go.
 * 【船敲風】(Tsûn khau-huang) Ships tacking.
@@ -116,7 +116,7 @@ date: 2022-11-20 22:51:00
 * 【逆風】(Ngék-huang) Contrary wind.
 * 【逆流】(Ngék-lâu) Contrary tide.
 * 【天時好】(Thiⁿ-sî hó) Fine settled weather.
-* 【天時不好】(Thiⁿ-sî m̄-móⁿ) Bad weather.
+* 【天時毋好】(Thiⁿ-sî m̄-móⁿ) Bad weather.
 * 【天時烏暗】(Thiⁿ-sî ou-àm) Weather black and dark.
 * 【東】(Tang) East.
 * 【西】(Sai) West.

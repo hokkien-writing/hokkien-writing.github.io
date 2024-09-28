@@ -19,14 +19,14 @@ date: 2022-11-20 23:44:00
 * 【阮其俱皆是正上海其】(Ún--kâi lóng-tsóng sĩ chiàⁿ Siāng-hái--kâi) Ours are all genuine Shanghai goods.
 * 【無假其】(Bô-ké--kâi) None are false.
 * 【太値錢我毋敢買】(Khah-tát-chîⁿ, uá m̄-káⁿ-bói) They are too costly, I dare not buy.
-* 【誰人是財主】(Tî-tiâng sĩ tshâi-tsú?) Who is the proprietor (of the shop)?
+* 【底儂是財主】(Tî-tiâng sĩ tshâi-tsú?) Who is the proprietor (of the shop)?
 * 【財主在此內】(Tshâi-tsú tõ hṳ́-lãi) The proprietor is inside.
-* 【苦船到來。要叫伊去起貨】(Húe-tsṳ̂n kâu--lâi, àiⁿ-kiè i khṳ̀ khí-hùe) The steamer has arrived, I want to ask him to go and unload his cargo.
+* 【苦船到來。欲叫伊去起貨】(Húe-tsṳ̂n kâu--lâi, àiⁿ-kiè i khṳ̀ khí-hùe) The steamer has arrived, I want to ask him to go and unload his cargo.
 * 【我佮此間雜港行。交易㩼】(Uá kah chí-koiⁿ Tsáp-káng-háng kau-kuan tsōi) I have a large transaction with this German firm.
 * 【佮荷蘭西行。有交易亞無】(Kah Hô-lan-se hâng nē, ũ kau-kuan a-bô?) And with the French firms, do you have any transaction?
 * 【有零些亞。我識寄去法國賣物】(Ũ--lân-ló ā, uá pat kià-khṳ̀ Huap-kok--kò bói-muéh) Well, a little, I have ordered something from France.
-* 【我佮大英國人就大交易哪】(Uá kah Tãi-eng-kok-nâng chiũ tūa kau-kuan nō) Oh, I do much business with Englishmen.
-* 【我上英國人】(Uá siãng Eng-kok-nâng) I like Englishmen.
+* 【我佮大英國儂就大交易哪】(Uá kah Tãi-eng-kok-nâng chiũ tūa kau-kuan nō) Oh, I do much business with Englishmen.
+* 【我尚英國人】(Uá siãng Eng-kok-nâng) I like Englishmen.
 * 【花旗行倒賬了】(Hue-kî-hâng tó-tièⁿ--lō) The American firm is bankrupt.
 * 【葵扇一枝若干錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
 * 【一枝八個錢】(Ki poih-kâi chîⁿ) Eight cash each.

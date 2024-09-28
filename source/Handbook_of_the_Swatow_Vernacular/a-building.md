@@ -28,13 +28,13 @@ date: 2022-11-20 21:38:00
 
 ------
 
-* 【要建厝着有地腳】(Àiⁿ khí-tshù tiéh ũ tī-kha) To build a house, there must be a foundation.
+* 【欲建厝着有地腳】(Àiⁿ khí-tshù tiéh ũ tī-kha) To build a house, there must be a foundation.
 * 【地腳深。厝就堅】(Tī-kha chhim, tshù chiũ khiàng) If the foundation is deep, then the house will be strong.
-* 【無地腳厝袂站】(Bô tī-kha tshù bõi-khiã) Without a foundation, the house will not stand.
-* 【灰切要着夠。無。墻袂有】(Hue chhiet-iòⁿ tiéh kàu, bô, chhiêⁿ bõi-tōiⁿ) It is important to have sufficient lime, otherwise, the walls will not be hard.
+* 【無地腳厝袂徛】(Bô tī-kha tshù bõi-khiã) Without a foundation, the house will not stand.
+* 【灰切要着夠。無。墻袂有】(Hue chhiet-iòu tiéh kàu, bô, chhiêⁿ bõi-tōiⁿ) It is important to have sufficient lime, otherwise, the walls will not be hard.
 * 【我其厝頂其厝瓦有零塊破】(Uá kâi tshù-téng kâi tshù-hiã ũ lân-kò phùa) Some of the tiles on my roof are broken.
 * 【厝漏】(Tshù lāu) The house leaks.
-* 【我要叫司阜來修整】(Uá àiⁿ-kiè sai-pẽ lâi siu-síp) I want to get a bulder to repair it.
+* 【我欲叫司阜來修拾】(Uá àiⁿ-kiè sai-pẽ lâi siu-síp) I want to get a bulder to repair it.
 * 【此枝柱大枝】(Chí-ki thiõu tuā-ki) This pillar is large.
 * 【塗腳其紅磚破】(Thôu-kha kâi âng-tsng phùa) The bricks of the floor are broken.
 * 【叫司阜來補】(Kiè sai-pẽ lâi póu) Call the builder to mend them.
@@ -43,9 +43,9 @@ date: 2022-11-20 21:38:00
 * 【每個禮拜着洗淸潔淸潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
 * 【灰埕亦着洗】(Hue-tiâⁿ iā tiéh sói) The lime floor must be washed.
 * 【此處無明朝早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
-* 【我要作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
+* 【我欲作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
 * 【汝叫司阜霎時來】(Lṳ́ kiè sai-pẽ khiã-tiām lâi) You tell the carpenter to come bye-and-bye.
-* 【佮伊呾我此處要作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
+* 【佮伊呾我此處欲作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
 * 【司阜其內在底塊汝知嗎】(Sai-pẽ kâi lãi tõ tî-kò lṳ́ tsai mē?) Do you know where the carpenter's place is?
 * 【知亞】(Tsai--a) Oh yes, I know.
 * 【熱在。我霎時正來去】(Zuáh-tsãi, uá khiã-tiām chiàⁿ-lâi-khṳ̀) It is very warm (now), I will go bye-and-bye.
@@ -78,7 +78,7 @@ date: 2022-11-20 21:38:00
 * 【鎖匙在此處】(Só-sî tõ--chié?) Here's the key.
 * 【汝其房其門有鎖嗎】(Lṳ́ kâi pâng kâi mn̂g ũ só mē?) Did you lock the door of your room?
 * 【我其房怎用鎖】(Uá kâi pâng tsò-ēng só) Why? my room needn't be locked.
-* 【廳有人客亞無】(Thiaⁿ ũ nâng-kheh a-bô?) Are there any guests in the drawing room?
+* 【廳有儂客亞無】(Thiaⁿ ũ nâng-kheh a-bô?) Are there any guests in the drawing room?
 * 【四指呾無】(Sì-tsóiⁿ tàⁿ-bô) The boy says "no".
 * 【我其臥房汝有掃亞未】(Uá-kâi út-pâng lṳ́ ũ sàu a-būe?) Have you swept my bed-room?
 * 【有。樓頂俱皆掃淸潔】(Ũ, lâu-téng lóng-tsóng sàu chheng-khih) Yes, I have swept the whole of up-stairs clean.
@@ -86,11 +86,11 @@ date: 2022-11-20 21:38:00
 * 【無。樓頂還了是淸潔】(Bô, lâu-téng huân-lióu sĩ chheng-khih) No, up-stairs is still clean.
 * 【洗浴房有水亞無】(Sói-ék-pâng ũ tsúi a-bô?) Is there any water in the bath-room?
 * 【無。我來去擔】(Bô, uá lâi khṳ̀ taⁿ) No, I will go and carry some.
-* 【猛猛去。我要洗浴】(Méⁿ-méⁿ khṳ̀, uá àiⁿ sói-ék) Go quickly, I am going to bathe.
-* 【此携去藏放底塊】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
+* 【猛猛去。我欲洗浴】(Méⁿ-méⁿ khṳ̀, uá àiⁿ sói-ék) Go quickly, I am going to bathe.
+* 【此携去囥放底塊】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
 * 【窗關玻璃免用關】(Theng kueⁿ, po-lî mín-ēng kueⁿ) Shut the window, you needn't shut the glass.
 * 【若是有雨鱟伯策就着關】(Naⁿ-sĩ ũ hõu hāu-peh-chheh chiũ tiéh-kueⁿ) If there is rain, then shut the venetians.
-* 【要落樓梯勿乒乓叫】(Àiⁿ-lóh lâu-thui màiⁿ pĩn-põng-kiè) If you are coming down the stair-case, don't make a trampling noise.
+* 【欲落樓梯勿乒乓叫】(Àiⁿ-lóh lâu-thui màiⁿ pĩn-põng-kiè) If you are coming down the stair-case, don't make a trampling noise.
 * 【火爐起火】(Húe-lôu khí-húe) Make a fire in the grate.
 * 【汝去伙食房叫火頭來】(Lṳ́ khṳ̀ húe-sít-pâng kiè húe-thâu lâi) You go to the kitchen, and tell the cook to come.
 

@@ -30,13 +30,13 @@ date: 2022-11-17 23:28:00
 * 【我此個禮拜毋閒在】(Uá chí-kâi lói-pài m̄-ôiⁿ tsãi) I am very busy this week.
 * 【我明天其事㩼在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
 * 【先生汝明天早者來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
-* 【我要讀零些。了汝好轉來】(Uá àiⁿ-ták lân-ló, lióu lṳ́ hó-tńg--khṳ̀) I will read a little, and then you can go.
+* 【我欲讀零些。了汝好轉來】(Uá àiⁿ-ták lân-ló, lióu lṳ́ hó-tńg--khṳ̀) I will read a little, and then you can go.
 * 【拜三先生汝免用來】(Pài-saⁿ sin-seⁿ lṳ́ mín-ēng lâi) On Wednesday, teacher, you needn't come.
 * 【拜四我毋在】(Pài-sì uá m̄-tõ) I shan't be at home on Thursday.
 * 【拜五我亞者轉來】(Pài-ngõu uá pa-lak tńg--lâi) Probably, I shall be back on Friday.
 * 【無定着。拜六亦毋知】(Bô tiāⁿ-tiéh, pài-lák iā m̄-tsai) I am not sure, I might come back on Saturday.
 * 【汝拜六下午來】(Lṳ́ pài-lák ẽ-kùa lâi) You come on Saturday afternoon.
-* 【禮拜日我要去禮拜】(Lói-pài-jít uá àiⁿ-khṳ̀ lói-pài) On Sunday I go to worship.
+* 【禮拜日我欲去禮拜】(Lói-pài-jít uá àiⁿ-khṳ̀ lói-pài) On Sunday I go to worship.
 * 【加毋久就正月】(Ke m̄-kú chiũ chiaⁿ--guéh) Before long it will be the New Year.
 * 【二月還了是凊】(Jī--guéh huân-lióu sĩ chhìn) The second moon is still cold.
 * 【三月稍絀】(Saⁿ--guéh ióu-tsuáh) The third moon is a little less (cold.)
@@ -82,4 +82,4 @@ date: 2022-11-17 23:28:00
 * 【汝知日何時正蝕】(Lṳ́ tsai jít tiang-sî chiàⁿ-síh?) Do you know when there will be an eclipse of the sun?
 * 【毋知。我無歷日】(M̄-tsai, uá bô láh-jít) I don't know, I haven't got a calendar.
 * 【我昨夜終夜袂睡】(Uá tsa-mêⁿ thàng-mêⁿ bõi-út) I couldn't sleep the whole of last night.
-* 【巡更其人昨夜無掌】(Chiéⁿ-keⁿ--kâi-nâng tsa-mêⁿ bô chiéⁿ) The watchman didn't watch last night.
+* 【巡更其儂昨夜無掌】(Chiéⁿ-keⁿ--kâi-nâng tsa-mêⁿ bô chiéⁿ) The watchman didn't watch last night.

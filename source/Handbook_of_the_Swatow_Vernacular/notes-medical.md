@@ -8,11 +8,11 @@ date: 2022-11-20 23:43:00
 
 ## Lesson XXIX. Notes—Medical.
 
-* 【我今日人不好】(Uá kiáⁿ-jít nâng m̄-móⁿ) I am unwell to-day.
+* 【我今日儂毋好】(Uá kiáⁿ-jít nâng m̄-móⁿ) I am unwell to-day.
 * 【汝能可去睡】(Lṳ́ nêng-kò khṳ̀-tó) You had better go and lie down.
-* 【汝其人怎呢】(Lṳ́ kâi nâng tsò-nîⁿ?) What is the matter with you?
-* 【人熱】(Nâng zuáh) I have got fever.
-* 【要請先生嗎】(Âiⁿ-chhiáⁿ sin-seⁿ mē?) Do you wish to engage a doctor?
+* 【汝其儂怎呢】(Lṳ́ kâi nâng tsò-nîⁿ?) What is the matter with you?
+* 【儂熱】(Nâng zuáh) I have got fever.
+* 【欲請先生嗎】(Âiⁿ-chhiáⁿ sin-seⁿ mē?) Do you wish to engage a doctor?
 <!--more-->
 * 【汝其脉猛】(Lṳ́ kâi méhⁿ méⁿ) Your pulse is fast.
 * 【我零些寒藥分汝食】(Uá lân-ló kûaⁿ-iéh pun lṳ́ chiáh) I will give you some quinine to take.
@@ -36,7 +36,7 @@ date: 2022-11-20 23:43:00
 * 【歸去。着尅苦奈】(Kui-khṳ̀, tiéh khah-khóu nãiⁿ) Let it be, you must do your best to bear it.
 * 【每明早。起來。用此藥水洗】(Chék-mêng-khí khí-lâi-kâu ēng chiá iéh-tsúi sói) When you get up in the morning, wash it with this lotion.
 * 【伊其病重】(I-kâi pēⁿ tãng) His illness is serious.
-* 【甚着力。要死】(Tih-lát-tsãi, àiⁿ-sí) Very serious, almost dying.
+* 【甚着力。欲死】(Tih-lát-tsãi, àiⁿ-sí) Very serious, almost dying.
 * 【無救了】(Bô-kiù--lō) There is no hope, (lit. there is no salvation.)
-* 【不可亂食】(Màiⁿ-thèng-chiáh) Don't be eating what you shouldn't eat.
+* 【勿亂食】(Màiⁿ-thèng-chiáh) Don't be eating what you shouldn't eat.
 * 【食粥配鹹梅則可】(Chiáh-mûeⁿ phùe kiâm-bûe chiũ-hó) Take congee with salted plums.

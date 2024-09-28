@@ -20,7 +20,7 @@ date: 2022-11-20 23:36:00
 * 【Fox】(Hõu-lâi) 狐狸
 * 【Snake】(Tsûa) 蛇
 * 【Monkey】(Kâu) 猴
-* 【Orang-outang】(Suaⁿ-nâng) 山人
+* 【Orang-outang】(Suaⁿ-nâng) 山儂
 * 【Bear】(Him) 熊
 * 【Peacock】(Khóng-chhieh) 孔雀
 * 【Pheasant】(Suaⁿ-koi) 山雞
@@ -33,7 +33,7 @@ date: 2022-11-20 23:36:00
 * 【Rabbit】(Chiéh-tshṳ́) 石鼠
 * 【Sparrow】(MÛaⁿ-chiah-chióu) 麻雀鳥
 * 【Pigeon】(Hún-chióu) 粉鳥
-* 【Butterfly】(Búe-iáh) 蝴蝶
+* 【Butterfly】(Búe-iáh) 尾蝶
 * 【Dragon-fly】(Sua-meⁿ) 沙蜢
 * 【Grasshopper】(Tsháu-méⁿ) 草蟒
 * 【Bee】(Phang) 蜂
@@ -56,7 +56,7 @@ date: 2022-11-20 23:36:00
 * 【Fly】(Hôu-sîn) 蝴蠅
 * 【Mosquito】(Máng) 蟒
 * 【Gnat】(Bun) 蚊
-* 【Worm】(Thâng) 虫
+* 【Worm】(Thâng) 蟲
 * 【„ in books.】(Chheh-hṳ̂) 册魚
 * 【Ant】(Hiā) 蟻
 * 【Flea】(Ka-tsáu) 虼蚤

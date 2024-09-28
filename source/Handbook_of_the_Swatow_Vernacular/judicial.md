@@ -8,7 +8,7 @@ date: 2022-11-20 23:28:00
 
 ## Lesson XXII. judicial.
 
-* 【Murder】(Thâi-nâng) 殺人
+* 【Murder】(Thâi-nâng) 殺儂
 * 【Forgery, of another's name】(Ké-chhiú-pit) 假手筆
 * 【„ of seal】(Ké-ìn) 假印
 * 【Arson】(Pàng-húe) 放火
@@ -19,11 +19,11 @@ date: 2022-11-20 23:28:00
 * 【Theft】(Tsò-tshát) 做賊
 * 【Breach of trust】(Tîm-sìn) 沉信
 * 【„ faith】(Sit-sìn) 失信
-* 【Cheating】(Láu-nâng, phièn-nâng) 拐人　騙人
-* 【Causing hurt】(Sieⁿ-nâng) 傷人
-* 【Assault】(Phah-nâng) 打人
+* 【Cheating】(Láu-nâng, phièn-nâng) 拐儂　騙儂
+* 【Causing hurt】(Sieⁿ-nâng) 傷儂
+* 【Assault】(Phah-nâng) 拍儂
 * 【Drunkenness】(Chiáh-chiú-tsùi) 食酒醉
-* 【Fighting】(Sie-phah) 相打
+* 【Fighting】(Sie-phah) 相拍
 * 【Quarrelling】(Sie-mēⁿ) 相罵
 * 【Stab, to】(Tshǹg) 剌
 * 【Rob, to】(Tshǹg) 剌
@@ -43,7 +43,7 @@ date: 2022-11-20 23:28:00
 * 【„ corroborated】(Kháu-keng siang-hûa) 口供相和
 * 【„ contradicted】(Kháu-keng siang-huán) 口供相反
 * 【Statement, make your】(Sú--lâi) 訴來
-* 【„ wish to make】(Aìⁿ-sù) 要訴
+* 【„ wish to make】(Aìⁿ-sù) 欲訴
 * 【„ allow to make】(Iông-sù) 容訴
 * 【Guilty】(Ũ-tsũe) 有罪
 * 【Innocent】(Bô-tsũe) 無罪
@@ -51,8 +51,8 @@ date: 2022-11-20 23:28:00
 * 【Condemn, to death】(Tiāⁿ-sí tsũe) 定死罪
 * 【Punish, to】(Huát) 罰
 * 【Fine, to】(Huát-ngṳ̂n) 罰銀
-* 【Flogging, on buttocks】(Phah kha-tshng-póiⁿ) 打屁股板
-* 【Flog severely】(Phah thiám-thiám) 打重重
+* 【Flogging, on buttocks】(Phah kha-tshng-póiⁿ) 拍屁股板
+* 【Flog severely】(Phah thiám-thiám) 拍重重
 * 【Strangle to death】(Liû-sí) 絞死
 * 【Behead, to】(Tsám-thâu) 斬頭
 * 【Imprison, to】(Kìm-kam, siu-kam) 禁獄　收監
@@ -80,7 +80,7 @@ date: 2022-11-20 23:28:00
 * 【„ civil】(Bûn-kuaⁿ) 文官
 * 【„ military】(Bú-kuaⁿ) 武官
 * 【„ high rank】(Tūa-kuaⁿ) 大官
-* 【„ low rank】(Sòi-kuaⁿ) 小官
+* 【„ low rank】(Sòi-kuaⁿ) 細官
 * 【Magistrate, district】(Kūiⁿ-kuaⁿ) 縣官
 * 【„ town】(Thôu-phóu-si) 巡檢司
 * 【Policeman, a】(A-tsóng, chhe-hiáh) 阿總　差役
@@ -104,7 +104,7 @@ date: 2022-11-20 23:28:00
 * 【Appoint, to】(Siet-líp) 設立
 * 【Appointment, an】(Cheh-jĩm) 職位
 * 【Case, a】(Uàⁿ, uàⁿ-kiãⁿ) 案　案件
-* 【„ to have it tried】(Phah-kuaⁿ-si, sie-kõ) 打官司　相告
+* 【„ to have it tried】(Phah-kuaⁿ-si, sie-kõ) 拍官司　相告
 * 【„ to win】(Kõ-iâⁿ) 告贏
 * 【Case, to lose】(Kò-su) 告輸
 * 【Discharge, (a case)】(Pàng) 放

@@ -19,7 +19,7 @@ date: 2022-11-15 21:43:00
 * 【是】(Sĩ) Yes, is.
 <!--more-->
 * 【毋是】(M̄-sĩ) Not, no.
-* 【要】(Àiⁿ) Want, wish.
+* 【欲】(Àiⁿ) Want, wish.
 * 【勿】(Màiⁿ) Don't want, don't.
 * 【來】(Lâi) Come.
 * 【去】(Khṳ̀) Go.
@@ -29,7 +29,7 @@ date: 2022-11-15 21:43:00
 * 【阮勿】(Ún màiⁿ) We don't want.
 * 【恁來】(Nín lâi) You (plural) come.
 * 【伊毋來】(I m̃-lâi) He won't come.
-* 【伊要去】(I àiⁿ-khṳ̀) He wants to go.
+* 【伊欲去】(I àiⁿ-khṳ̀) He wants to go.
 * 【咱來去】(Nán lâi-khṳ̀) Let us go.
 * 【我毋去】(Uá m̃-khṳ̀) I am not going.
 * 【毋是汝】(M̄-sĩ lṳ́) Not you.
@@ -85,12 +85,12 @@ date: 2022-11-15 21:43:00
 * 【恁何時去】(Nín tiang-sî khṳ̀?) When did you go?
 * 【此個是底個】(Chí-kâi sĩ tî-kâi?) What is this?
 * 【彼個我勿】(Hṳ́-kâi uá màiⁿ) I don't want that one.
-* 【汝要底一個】(Lṳ́ àiⁿ tî-chék-kâi?) Which do you want?
-* 【汝要底個】(Lṳ́ aìⁿ tî-kâi?) What do you want?
+* 【汝欲底一個】(Lṳ́ àiⁿ tî-chék-kâi?) Which do you want?
+* 【汝欲底個】(Lṳ́ aìⁿ tî-kâi?) What do you want?
 * 【伊怎呢無來】(I tsò-nîⁿ bô-lâi?) Why did he not come?
 * 【是因爲怎呢】(Sĩ in-ûi tsò-nîⁿ?) For what reason?
-* 【汝是誰人】(Lṳ́ sĩ tî-tiâng?) Who are you?
-* 【此是誰人其】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
+* 【汝是底儂】(Lṳ́ sĩ tî-tiâng?) Who are you?
+* 【此是底儂其】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
 * 【此賤個毋是】(Chí-chùaⁿ-kâi m̄-sĩ) These are not them.
 * 【彼賤個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
 * 【汝有若干】(Lṳ́ ũ jiéh-tsōi?) How much have you?

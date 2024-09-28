@@ -57,7 +57,7 @@ date: 2022-11-20 22:11:00
 * 【甜】(Tiâm) Sweet.
 * 【酸】(Sng) Sour.
 * 【鹹】(Kiâm) Salt.
-* 【淡】(Chiáⁿ) Insipid or tasteless.
+* 【䭕】(Chiáⁿ) Insipid or tasteless.
 * 【苦】(Khóu) Bitter.
 * 【辣】(Hiam) Pungent.
 * 【熱】(Jiét) Hot, like ginger.

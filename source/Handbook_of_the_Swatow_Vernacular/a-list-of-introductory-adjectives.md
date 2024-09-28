@@ -26,7 +26,7 @@ date: 2022-11-16 20:15:00
 * 【Broad】(Khuah) 闊
 * 【Broken】(Phùa) 破
 * 【Careful】(Tsṳ́-sòi, sòi-jī) 仔細　細字
-* 【Careless】(Chhìn-tshái, bô-tsṳ́-sòi) 隨便　無仔細
+* 【Careless】(Chhìn-tshái, bô-tsṳ́-sòi) 凊彩　無仔細
 * 【Cheap】(Phiⁿ) 跌
 * 【Clear, (of water.)】(Chheng) 淸
 * 【Clear, (of affairs.)】(Mêng, mêng-péh) 明　明白
@@ -35,7 +35,7 @@ date: 2022-11-16 20:15:00
 * 【Coarse】(Tshou) 粗
 * 【Cold】(Chhìn, ngân) 凊　凝
 * 【Comfortable】(Khùaⁿ-uáh) 快活
-* 【Confused】(Zṳ̂) 茹
+* 【Confused】(Zṳ̂) 挐
 * 【Crooked】(Uan) 灣
 * 【Crowded】(Tsát) 密
 * 【Dangerous】(Hong-hiám, lĩ-hāi) 荒險　利害
@@ -45,7 +45,7 @@ date: 2022-11-16 20:15:00
 * 【Deep】(Chhim) 深
 * 【Difficult】(Oh, kan-khóu) 難　艱苦
 * 【Diligent】(Lát) 勤
-* 【Dirty】(Nah-sap, o-tso) 污穢
+* 【Dirty】(Nah-sap, o-tso) 垃圾  污糟
 * 【Dry】(Ta) 亁
 * 【Easy】(Kōi) 易
 * 【Enough】(Kàu, lã) 夠　𤰉
@@ -55,7 +55,7 @@ date: 2022-11-16 20:15:00
 * 【Fat】(Pûi) 肥
 * 【Filthy】(Chhi-gî) 生疑
 * 【Fine, (not coarse.)】(Iùⁿ) 幼
-* 【Firm, (steady.)】(Ngaíh) 堅　不動
+* 【Firm, (steady.)】(Ngaíh) 堅
 * 【Flat, (level.)】(Pêⁿ) 平
 * 【Fresh】(Chhiⁿ) 鮮
 * 【Front】(Tsôiⁿ) 前
@@ -91,7 +91,7 @@ date: 2022-11-16 20:15:00
 * 【Old, (aged.)】(Lãu) 老
 * 【Past】(Kùe) 過
 * 【Polite】(Kui-kṳ́) 規矩
-* 【Poor】(Khiou, kêng) 窮　貧
+* 【Poor】(Khiou, kêng) 磽　貧
 * 【Present, at】(Ngán-tsãi, hīn-tsãi) 眼在　現在
 * 【Pretty】(Ngiá) 雅
 * 【Quick】(Méⁿ, khùe) 猛　快
@@ -130,7 +130,7 @@ date: 2022-11-16 20:15:00
 * 【Unripe】(Chheⁿ) 青
 * 【Warm】(Zuáh) 爇
 * 【Weak】(Khùn) 軟弱
-* 【Wet】(Tâm) 濕
+* 【Wet】(Tâm) 㴷
 * 【Wet, (thoroughly.)】(Lok) 漉
 * 【White】(Péh) 白
 * 【Wicked】(Ak, phái) 惡　敗

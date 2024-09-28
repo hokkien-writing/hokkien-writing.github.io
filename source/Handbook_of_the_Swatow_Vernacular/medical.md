@@ -11,7 +11,7 @@ date: 2022-11-20 23:02:00
 * 【先生】(Sin-seⁿ) A doctor.
 * 【醫】(Ui) To cure.
 * 【病】(Pēⁿ) To be ill; sickness.
-* 【人不好】(Nâng m̄-móⁿ) Unwell.
+* 【儂毋好】(Nâng m̄-móⁿ) Unwell.
 * 【抱病】(Phùa-pēⁿ) To be very ill for a long period.
 * 【着力】(Tíh-lát) To be very ill, almost dying.
 <!--more-->
@@ -24,7 +24,7 @@ date: 2022-11-20 23:02:00
 * 【斷氣】(Tñg-khùi) To expire.
 * 【頭壳痛】(Thâu-khak thiàⁿ) Headache.
 * 【頭壳眩】(Thâu-khak hîn) Headache.
-* 【人熱】(Nâng zuáh) Fever.
+* 【儂熱】(Nâng zuáh) Fever.
 * 【發燒】(Huat-sie) Fever.
 * 【畏凊】(Uì-chhìn) Ague.
 * 【發燒畏凊】(Huat-sie ùi-chhìn) Fever and ague.
@@ -43,7 +43,7 @@ date: 2022-11-20 23:02:00
 * 【生瘋】(Seⁿ-huang) Rheumatism.
 * 【傷風】(Sieⁿ-huang) To catch cold when ill, or just after being ill.
 * 【寒着】(Kûaⁿ--tiéh) To catch cold.
-* 【甘虫】(Kam-thâng) Tape-worms.
+* 【甘蟲】(Kam-thâng) Tape-worms.
 * 【甘癪】(Kam-chek) Having tape-worms in the stomach.
 * 【喘】(Tshuán) DIfficult respiration.
 * 【咬嗽】(Ka-sàu) To cough.
@@ -57,7 +57,7 @@ date: 2022-11-20 23:02:00
 * 【泡】(Phã) A blister.
 * 【起泡】(Phok-phã) To rise in blister.
 * 【腫】(Chéng) Swelling.
-* 【毋知人】(M̄-tsai-nâng) Fainting.
+* 【毋知儂】(M̄-tsai-nâng) Fainting.
 * 【眩】(Hîn) Giddy.
 * 【眩船】(Hîn-tsûn) Sea-sick.
 * 【齒痛】(Khí-thiàⁿ) Toothache.
@@ -114,7 +114,7 @@ date: 2022-11-20 23:02:00
 * 【卑蔴油】(Pi-mûaⁿ-iû) Castor oil.
 * 【食瀉】(Chiáh-sià) To take an aperient.
 * 【瀉】(Sià) To purge.
-* 【食死人】(Chiáh-sí-nâng) Poison.
+* 【食死儂】(Chiáh-sí-nâng) Poison.
 * 【飯粒】(Pn̄g-liáp) Poultice.
 * 【薄荷油】(Pô-hò-iû) Peppermint.
 * 【毒】(Ták) Poisonous, as snakes.

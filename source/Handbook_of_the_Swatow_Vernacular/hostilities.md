@@ -24,7 +24,7 @@ date: 2022-11-20 23:30:00
 * 【Sword, a】(Kiàm) 劍
 * 【Gun, a】(Chhèng) 銃
 * 【„ large】(Tūa-chhèng, kòng) 大銃　𨫋
-* 【„ to fire】(Phah-chhèng) 打銃
+* 【„ to fire】(Phah-chhèng) 拍銃
 * 【Gun-powder】(Chhèng-iéh) 銃藥
 * 【Shots】(Chhèng-chí) 銃子
 * 【Fight, to】(Thâi, chièn) 刣　戰

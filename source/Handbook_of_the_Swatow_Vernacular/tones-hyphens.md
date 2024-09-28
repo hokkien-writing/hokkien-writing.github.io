@@ -50,6 +50,6 @@ On this admittedly difficult subject, I transcribe a few remarks from one well q
 
 “A Double Hyphen implies that the word preceding it retains its own proper tone in full force, and that the word or words following it are either enclitic or unaccented, and as far as possible deprived of distinctive tonal character,” as,
 
-入來 jíp--lâi, come in, 覔着 tshūe--tiéh, found, 來了 lái--lō, has come, 掠着了 liáh--tiéh-lō, has been caught, 站起來, khiã--khí-lâi, stand up.
+入來 jíp--lâi, come in, 覔着 tshūe--tiéh, found, 來了 lái--lō, has come, 掠着了 liáh--tiéh-lō, has been caught, 徛起來, khiã--khí-lâi, stand up.
 
 “The use of hyphens, though most essential, is yet difficult to regulate by any stringent law, and much must be left to discretion.”

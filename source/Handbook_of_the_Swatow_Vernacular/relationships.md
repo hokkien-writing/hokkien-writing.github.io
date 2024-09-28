@@ -73,7 +73,7 @@ date: 2022-11-20 23:34:00
 * 【Daughter's daughter】(Gūa-tsáu-sun) 外女孫
 * 【Husband】(Ang, jî-sài, chiãng-hu) 翁　兒壻　丈夫
 * 【Wife】(Bóu, chhi, lãu-phûa) 𡚸　妻　老婆
-* 【Husband's father-in-law】(Tiẽⁿ-nâng, ngák-pẽ) 丈人　岳父
+* 【Husband's father-in-law】(Tiẽⁿ-nâng, ngák-pẽ) 丈儂　岳父
 * 【Husband's mother-in-law】(Tiẽⁿ-ḿ-phûa, ngák-bó) 丈母婆　岳母
 * 【Wife's father-in-law】(Ta-kuaⁿ) 大官
 * 【Wife's mother-in-law】(Ta-ke) 大家
@@ -93,14 +93,14 @@ date: 2022-11-20 23:34:00
 * 【Twins】(Sang-seⁿ) 雙生
 * 【Family】(Ke) 家
 * 【Surname】(Sèⁿ) 姓
-* 【Surname of the same clan】(Chhin-nâng) 親人
+* 【Surname of the same clan】(Chhin-nâng) 親儂
 * 【Posterity】(Kiáⁿ-sun) 囝孫
 * 【Virgin, a】(Âng-hue-nńg) 紅花女
-* 【Bridegroom】(Sin-nâng-tia) 新人爹
-* 【Bride】(Sin-niêⁿ, sin-nâng) 新娘　新人
+* 【Bridegroom】(Sin-nâng-tia) 新儂爹
+* 【Bride】(Sin-niêⁿ, sin-nâng) 新娘　新儂
 * 【Betroth, to】(Tsò) 做
 * 【Betrothed money】(Phiàⁿ-kim) 聘金
-* 【Middle-man, a】(Bûe-nâng) 媒人
-* 【Marry, a wife】(Tshūa-bóu) 取妻
+* 【Middle-man, a】(Bûe-nâng) 媒儂
+* 【Marry, a wife】(Tshūa-bóu) 娶𡚸
 * 【Marry, a husband】(Kè) 嫁
 * 【Widow, a】(Siú-kúa) 守寡

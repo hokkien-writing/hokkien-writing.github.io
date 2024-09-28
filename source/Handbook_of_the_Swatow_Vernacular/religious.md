@@ -20,16 +20,16 @@ date: 2022-11-20 23:31:00
 * 【Pastor, Protestant】(Mók-sṳ) 牧師
 * 【„ Roman Catholic】(Sîn-hũ) 神父
 * 【Preach, to】(Thuân-tõ-lí) 傳道理
-* 【Preacher, a】(Thuân-tõ-lí--kâi-nâng) 傳道理之人
+* 【Preacher, a】(Thuân-tõ-lí--kâi-nâng) 傳道理其儂
 * 【Christians】(Hông-kà) 奉教
-* 【„ Protestant】(Iâ-sou-kà, pài-siãng-tì-nâng) 耶穌教　拜上帝人
+* 【„ Protestant】(Iâ-sou-kà, pài-siãng-tì-nâng) 耶穌教　拜上帝儂
 * 【„ R. Catholics】(Thien-tsú-kà) 天主教
 * 【„ to be】(Tshap-hông-kà, jíp-kà) 入奉教　入教
 * 【Church, members】(Siàⁿ-hũe) 聖會
 * 【„ building】(Lói-pài-tn̂g) 禮拜堂
 * 【Church, building, Roman Catholics】(Sèng-tn̂g) 聖堂
 * 【Cross】(Tsáp-jī-kè) 十字架
-* 【Image】(Sièⁿ) 相
+* 【Image】(Sièⁿ) 像
 * 【Idol】(Lãu-iâ) 老爺
 * 【Goddess of Sailors】(Máⁿ-tsóu) 媽祖
 * 【Buddha】(Hút, hút-tsóu) 佛　佛祖

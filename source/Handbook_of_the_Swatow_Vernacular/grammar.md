@@ -14,7 +14,7 @@ Substantives and Adjectives are not declined: the same word expresses both the s
 | ---------------------- | ----------------------------------- |
 | 【我】 (Uá) I.           | 【阮。咱】(Ún or nán) we.                |
 | 【汝】(Lṳ́) thou or you. | 【恁】(Nín) ye or you.                 |
-| 【伊】(I) he, she, it.   | 【因。伊人】 (In or i--nâng) they, them. |
+| 【伊】(I) he, she, it.   | 【因。伊儂】 (In or i--nâng) they, them. |
 
 <!--more-->
 The distinctions of moods, tenses, numbers and persons are shown by the addition of certain auxiliary verbs or particles, as follows:—
@@ -25,10 +25,10 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 
 * 【我來】(Uá lâi) I come.
 * 【汝去】(Lṳ́ khṳ̀) You go.
-* 【伊要】(I àiⁿ) He wants.
+* 【伊欲】(I àiⁿ) He wants.
 * 【阮勿】(Ún màiⁿ) We don't want.
 * 【恁是我其朋友】(Nín sĩ uá kâi phêng-iú) You are my friends.
-* 【因。伊人是外人】(In or i--nâng sĩ gūa-nâng) They are outsiders.
+* 【因。伊儂是外儂】(In or i--nâng sĩ gūa-nâng) They are outsiders.
 
 #### past tense.
 
@@ -66,13 +66,13 @@ Chiàⁿ 正 (just) and 識 pat (ever) can be used both to questions and answers
 
 #### future tense.
 
-The chief signs of the Future Tense are àiⁿ, 正要 chiàⁿ-àiⁿ, (want) 會 õi (can) and 袂 bõi (cannot.) viz.—
+The chief signs of the Future Tense are àiⁿ, 正欲 chiàⁿ-àiⁿ, (want) 會 õi (can) and 袂 bõi (cannot.) viz.—
 
-* 【伊明天要來】(I màⁿ-khí àiⁿ-lâi) He will come to-morrow.
-* 【霎時要落雨】(Khiã-tiām àiⁿ-lóh-hõu) It will rain bye-and-bye.
-* 【伊何時正要來】(I tiang-sî chiàⁿ-àiⁿ lâi?) When will he come?[3]
-* 【伊霎時正要來】(I khiã-tiām chiàⁿ-àiⁿ-lâi) He will come bye-and-bye.
-* 【我下個月要轉】(Uá ẽ-kâi-guêh àiⁿ-tńg) I shall go home next month.
+* 【伊明天欲來】(I màⁿ-khí àiⁿ-lâi) He will come to-morrow.
+* 【霎時欲落雨】(Khiã-tiām àiⁿ-lóh-hõu) It will rain bye-and-bye.
+* 【伊何時正欲來】(I tiang-sî chiàⁿ-àiⁿ lâi?) When will he come?[3]
+* 【伊霎時正欲來】(I khiã-tiām chiàⁿ-àiⁿ-lâi) He will come bye-and-bye.
+* 【我下個月欲轉】(Uá ẽ-kâi-guêh àiⁿ-tńg) I shall go home next month.
 * 【伊會死亞袂】(I õi sí a-bõi?) Will he die?
 * 【伊袂死】(I bõi--sí) He will not die.
 * 【伊將來會做大】(I chiang-lâi õi tsò-tūa) He will be great in the future.
@@ -111,26 +111,26 @@ M̄-móⁿ (don't) 不可 implies the opposite of 着 tiéh, viz. must not, ough
 
 * 【汝不可去】(Luú m̄-móⁿ khṳ̀) You must not go.
 * 【恁不可分伊去】(Nín m̄-móⁿ pun i khṳ̀) You ought not to let him go.
-* 【恁不可辯】(Nín m̄-móⁿ à) You should not argue.
+* 【恁不可詏】(Nín m̄-móⁿ à) You should not argue.
 
-The Passive verb is formed by the use of the words 分 pun, 乞 khoih (to give) and 分人 pun--nâng (give people.)
+The Passive verb is formed by the use of the words 分 pun, 乞 khoih (to give) and 分儂 pun--nâng (give people.)
 
-* 【汝乞底誰打】(Lṳ́ khoih tî-tiâng phah?) By whom were you beaten?
-* 【我分伊打】(Uá pun i phah) I was beaten by him.
-* 【伊分人殺】(I pun--nâng thâi) He was killed.
+* 【汝乞底誰拍】(Lṳ́ khoih tî-tiâng phah?) By whom were you beaten?
+* 【我分伊拍】(Uá pun i phah) I was beaten by him.
+* 【伊分儂殺】(I pun--nâng thâi) He was killed.
 * 【分底誰殺】(Pun tî-tiâng thâi?) Was killed by whom?
 * 【是分伊殺亞毋是】(Sĩ pun i thâi a m̄-sĩ?) Was he kileld by him or not?
 * 【伊分雷公敲死】(I pun lûi-kong khà-sí) He was struck to death by lightning.
-* 【伊袂分人騙】(I bõi pun--nâng phièn) He cannot be deceived by people.
-* 【伊其名聲乞人呵咾】(I kâi miâⁿ-siaⁿ khoih--nâng o-ló) His name is praised by the people.
+* 【伊袂分儂騙】(I bõi pun--nâng phièn) He cannot be deceived by people.
+* 【伊其名聲乞儂呵咾】(I kâi miâⁿ-siaⁿ khoih--nâng o-ló) His name is praised by the people.
 
-The Progressive Form is formed by the use of the word 在 tõ (in the act of) and 要 iàⁿ (want.)
+The Progressive Form is formed by the use of the word 在 tõ (in the act of) and 欲 àiⁿ (want.)
 
 * 【小兒在耍】(Nouⁿ-kiáⁿ tõ sńg) The boys are playing.
 * 【我在寫字】(Uá tõ siá-jī) I am writing.
 * 【阿孥在哭】(A-nôuⁿ tõ khàu) The child is crying.
-* 【伊呾伊要去】(I tàⁿ i àiⁿ-lâi) He says he is coming.
-* 【伊要轉去】(I àiⁿ-tńg--khṳ̀) He is going home.
+* 【伊呾伊欲去】(I tàⁿ i àiⁿ-lâi) He says he is coming.
+* 【伊欲轉去】(I àiⁿ-tńg--khṳ̀) He is going home.
 
 ### comparison of adjectives.
 
@@ -158,7 +158,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 * 【有上大其嗎】(Ũ siãng-tūa--kâi mē?) Have you the largest one?
 * 【此個就是上大其】(Chí--kâi chiũ-sĩ siãng-tūa kâi) This is the largest one.
-* 【我要上頂好其】(Uá àiⁿ siãng-téng-hó--kâi) I want the best (quality.)
+* 【我欲上頂好其】(Uá àiⁿ siãng-téng-hó--kâi) I want the best (quality.)
 
 ------
 

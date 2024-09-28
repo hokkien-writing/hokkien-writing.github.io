@@ -11,14 +11,14 @@ date: 2022-11-15 21:43:00
 * 【Add】(Thiⁿ) 添
 * 【Admit, (as a fault.)】(Jīn) 認
 * 【Answer】(Ìn) 應
-* 【Argue】(Poh, à) 駁　辯
+* 【Argue】(Poh, à) 駁　詏
 * 【Arrive】(Kàu) 到
 * 【Ascend】(Chiẽⁿ) 上
 * 【Ask, (demand.)】(Thó) 討
 * 【Ask, (enquire.)】(Mn̄g) 問
 <!--more-->
 * 【Bear, (to suffer.)】(Nãiⁿ) 奈  耐
-* 【Beat】(Phah) 打
+* 【Beat】(Phah) 拍
 * 【Beg】(Khṳt, khiû) 乞　求
 * 【Begin】(Khí) 起
 * 【Believe】(Sìn) 信
@@ -63,7 +63,7 @@ date: 2022-11-15 21:43:00
 * 【Fall, (as a person, animal.)】(Puáh) 拔
 * 【Fall down, (as things.)】(Ka-laúh) 跌落
 * 【Fear】(Kiaⁿ, ùi) 驚　畏
-* 【Fight, (with the fists.)】(Sie-phah) 相打
+* 【Fight, (with the fists.)】(Sie-phah) 相拍
 * 【Find】(Tshūe--tiéh) 覔着
 * 【Fly】(Pue) 飛
 * 【Fond】(Hàuⁿ) 好
@@ -77,7 +77,7 @@ date: 2022-11-15 21:43:00
 * 【Hold, (to take.)】(Hūaⁿ, khiéh--tiāⁿ) 執　携定
 * 【Hurt】(Sieⁿ) 傷
 * 【Invite】(Chhiáⁿ) 請
-* 【Keep】(Khǹg) 藏
+* 【Keep】(Khǹg) 囥
 * 【Kneel】(Kũi) 跪
 * 【Knock】(Khà) 敲
 * 【Know, (as a fact.)】(Tsai) 知
@@ -133,7 +133,7 @@ date: 2022-11-15 21:43:00
 * 【Speak】(Tàⁿ) 呾
 * 【Spend】(Só-hùi, sái) 使費　使
 * 【Spoil】(Muèh-tiòu) 壞掉
-* 【Stand】(Khiã) 站
+* 【Stand】(Khiã) 徛
 * 【Stop, (silence.)】(Tiām-tiām) 靜靜
 * 【Stop, (discontinue.)】(Hiah) 歇
 * 【Sweep】(Sàu) 掃
