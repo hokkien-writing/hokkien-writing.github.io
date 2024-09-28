@@ -73,8 +73,8 @@ date: 2022-11-20 22:19:00
 * 【買一隻雞做湯】(Bói chék-chiah koi tsò-thng) Buy a fowl and make soup.
 * 【一隻鴨𤇢。一隻鵝浮】(Chék-chiah ah pek, chek-chiah gô phû) Roast one duck and fry one goose.
 * 【割四斤牛肉。三斤羊肉。二斤豬朥】(Kuah sì-kṳn gû-bah, saⁿ kṳn iêⁿ-bah, nõⁿ-kṳn tṳ-lâ) Buy (lit. cut) four catties of beef, three catties of mutton, two catties of lard.
-* 【火腿去高菜館携】(Húe-thúi khṳ̀ kau-tshài-kuán khiéh) For ham, go to the compradore and get it.
-* 【携一腿】(Khiéh chék-thúi) Get one ham.
+* 【火腿去高菜館挈】(Húe-thúi khṳ̀ kau-tshài-kuán khiéh) For ham, go to the compradore and get it.
+* 【挈一腿】(Khiéh chék-thúi) Get one ham.
 * 【荷蘭薯還了有亞無】(Hô-lan-tsṳ̂ huân-lióu ũ a-bô?) Have you any more potatoes?
 * 【有加零些】(Ũ ke lân-ló) I have a few more.
 * 【𤰉亞毋𤰉】(Lã a m̄-lã?) Have you enough?
@@ -186,7 +186,7 @@ date: 2022-11-20 22:19:00
 * 【簥好煮膠離】(Kiê hó-tsṳ́ ka-lî) Brinjal can be curried.
 * 【冬瓜食凉】(Tang-kue chiáh-liâng) Vegetable melon is taken for cooling purposes.
 * 【有其竹笋苦】(Ũ-kâi tek-sún khóu) Some bamboo shoots are bitter.
-* 【荷蘭豆拍掉皮携伊其仁】(Hô-lan-tāu, peh-tiòu phûe, khiéh i kâi jîn) Break the pods of the peas and take the seed.
+* 【荷蘭豆拍掉皮挈伊其仁】(Hô-lan-tāu, peh-tiòu phûe, khiéh i kâi jîn) Break the pods of the peas and take the seed.
 * 【苦瓜亦是食凉】(Khóu-kue iā-sĩ chiáh-liâng) The bitter vegetable is also taken as a cooling eatables.
 * 【菜豆唐儂炒】(Tshài-tāu Tn̂g-nâng tshá) The Chinese fry long beans.
 * 【芋翕】(Ōu hip) Steam the taro.

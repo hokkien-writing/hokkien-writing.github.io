@@ -186,16 +186,16 @@ date: 2022-11-20 23:22:00
 * 【線】(Sùaⁿ) Thread.
 * 【絲線】(Si-sùaⁿ) Silk thread.
 * 【銅指】(Tâng-tsóiⁿ) A thimble.
-* 【剪刀】(Ka-to) Scissors.
+* 【鉸刀】(Ka-to) Scissors.
 * 【縫衫藥鬼】(Thīⁿ-saⁿ iéh-kúi) A sewing machine.
 * 【尺】(Chhieh) A measure.
 * 【布尺】(Pòu-chhieh) A tape-line, or cloth measure.
 * 【縫】(Thīⁿ) To sew.
 * 【䌜】(Nn̂g) To stitch.
 * 【摺痕】(Chih-tsūe) To them.
-* 【剪】(Ka) To cut with scissors.
+* 【鉸】(Ka) To cut with scissors.
 * 【做衫褲】(Tsò-saⁿ-khòu) To make clothes.
-* 【剪衫褲】(Ka-saⁿ-khòu) To cut out a dress.
+* 【鉸衫褲】(Ka-saⁿ-khòu) To cut out a dress.
 * 【裡】(Koih) Lining.
 * 【綑】(Kún) To braid.
 * 【補】(Póu) To patch.
@@ -273,7 +273,7 @@ date: 2022-11-20 23:22:00
 * 【Debt】(Chè) 債
 * 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠儂其錢
 * 【Deduct】(Tṳ̂) 除
-* 【Defray】(Tshut-só-hùi) 出使費
+* 【Defray】(Tshut-só-hùi) 出所費
 * 【Deposit, entrust】(Tah) 搭
 * 【Discount, to】(Thiu-kiám) 抽減
 * 【Dollar, silver】(Ngṳ̂n) 銀
@@ -281,7 +281,7 @@ date: 2022-11-20 23:22:00
 * 【Dun, to】(Tshui-pek) 催迫
 * 【Earnest money】(Tiāⁿ-ngṳ̂n) 定銀
 * 【Expend, to】(Sái) 使
-* 【Expenditure】(Só-hùi) 使費
+* 【Expenditure】(Só-hùi) 所費
 * 【Guarantee, to】(Pau-niáⁿ) 包領
 * 【Instalments】(Hãng, tshṳ̀) 項　次
 * 【Insure, to】(Pó-ke) 保家
@@ -357,7 +357,7 @@ date: 2022-11-20 23:22:00
 * 【Demurrage】(Thiap-kùe-hãn kâi-ngṳ̂n) 貼過限其銀
 * 【Dissolve partnership】(Thiah-húe-kì) 拆夥計
 * 【Duty, (Customs,)】(Hiàng) 餉
-* 【„ to collect】(Khieh-hiàng) 携餉
+* 【„ to collect】(Khieh-hiàng) 𢭪餉
 * 【„ to pay】(Láp-hiàng) 納餉
 * 【„ to avoid】(Tsáu-hiàng) 走餉
 * 【Employment】(Thâu-lōu, sṳ̄) 頭路　事

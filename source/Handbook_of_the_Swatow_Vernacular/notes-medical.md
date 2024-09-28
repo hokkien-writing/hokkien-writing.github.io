@@ -9,7 +9,7 @@ date: 2022-11-20 23:43:00
 ## Lesson XXIX. Notes—Medical.
 
 * 【我今日儂毋好】(Uá kiáⁿ-jít nâng m̄-móⁿ) I am unwell to-day.
-* 【汝能可去睡】(Lṳ́ nêng-kò khṳ̀-tó) You had better go and lie down.
+* 【汝能可去倒】(Lṳ́ nêng-kò khṳ̀-tó) You had better go and lie down.
 * 【汝其儂怎呢】(Lṳ́ kâi nâng tsò-nîⁿ?) What is the matter with you?
 * 【儂熱】(Nâng zuáh) I have got fever.
 * 【欲請先生嗎】(Âiⁿ-chhiáⁿ sin-seⁿ mē?) Do you wish to engage a doctor?
@@ -24,7 +24,7 @@ date: 2022-11-20 23:43:00
 * 【此樣病醫難好】(Chí-khí pēⁿ ui oh-hó) This kind of sickness is difficult to cure.
 * 【着請西國先生來醫正能好】(Tiéh-chhiáⁿ Sai-kok sin-seⁿ lâi ui chiàⁿ-õi-hó) You must get a European doctor to cure you, otherwise you will not be cured.
 * 【先生。請汝開張藥方】(Sin-seⁿ, chhiáⁿ-lṳ́ khui-tieⁿ iéh-hng) Doctor, please make out a prescription.
-* 【我來去醫館携藥】(Uá lâi-khṳ̀ ui-kuán khiéh-iéh) I will go to the hospital and get the medicine.
+* 【我來去醫館挈藥】(Uá lâi-khṳ̀ ui-kuán khiéh-iéh) I will go to the hospital and get the medicine.
 * 【用雞毛抹】(Ēng koi-môⁿ buah) Apply it with a fowl's feather.
 * 【手勿摸着】(Chhiú màiⁿ-thãng--tiéh) Don't touch it with the fingers.
 * 【汝有是乜冒病】(Lṳ́ ũ sĩ-mîh mâuⁿ-pēⁿ?) What sickness have you?

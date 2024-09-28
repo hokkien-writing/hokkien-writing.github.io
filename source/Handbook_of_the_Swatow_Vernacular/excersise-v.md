@@ -22,9 +22,9 @@ date: 2022-11-16 20:14:00
 * 【我毋知】(Uá m̄-tsai) I don't know.
 * 【我毋信汝】(Uá m̃-sìn lṳ́) I don't believe you.
 * 【汝怎呢毋信我】(Lṳ́ tsò-nîⁿ m̃-sìn uá?) Why don't you believe me?
-* 【彼個携來】(Hṳ́-kâi khiéh--lâi) Bring me that.
+* 【彼個挈來】(Hṳ́-kâi khiéh--lâi) Bring me that.
 * 【筅】(Tshóiⁿ) Brush it.
-* 【刷好携來】(Tshóiⁿ-hó khiéh--lâi) After you have brushed it, bring it to me.
+* 【刷好挈來】(Tshóiⁿ-hó khiéh--lâi) After you have brushed it, bring it to me.
 * 【此買有亞無】(Chía bói-ũ a-bô?) Is there any of this to be bought?
 * 【買無】(Bói-bô) There is none to be bought.
 * 【叫伊來】(Kiè i lâi) Call him here.
@@ -42,8 +42,8 @@ date: 2022-11-16 20:14:00
 * 【汝走就追會着】(Lṳ́ tsáu chiũ-jiōu õi-tièh) If you run, you will overtake him.
 * 【汝勿騙我】(Lṳ́ màiⁿ-phièn úa) Don't you deceive me.
 * 【汝欲選底一個】(Lṳ́ àiⁿ-suán tî-chék-kâi?) Which do you wish to choose?
-* 【此個修淸潔】(Chí--kâi muéh-chheng-khih) Clean this.
-* 【此個携去煮】(Chí--kâi khiéh-khṳ̀ tsṳ́) Take this and cook it.
+* 【此個物淸潔】(Chí--kâi muéh-chheng-khih) Clean this.
+* 【此個挈去煮】(Chí--kâi khiéh-khṳ̀ tsṳ́) Take this and cook it.
 * 【汝曉算嗎】(Lṳ́ hióu-sǹg mē?) Can you count?
 * 【我毋曉】(Uá m̄-hióu) I can't.
 * 【勿哭】(Màiⁿ-khàu) Don't cry.
@@ -59,11 +59,11 @@ date: 2022-11-16 20:14:00
 
 ### section III.
 
-* 【彼携分我】(Hiá khiéh-pun uá) Get me that.
+* 【彼挈分我】(Hiá khiéh-pun uá) Get me that.
 * 【底個】(Tî-kâi?) What is it?
 * 【是此亞毋是】(Sĩ chiá a m̄-sĩ?) Is this it?
 * 【就是】(Chiũ-sĩ) That is it.
-* 【携來】(Khiéh--lài) Bring it here.
+* 【挈來】(Khiéh--lài) Bring it here.
 * 【感謝】(Kám-siā) Thank you.
 * 【好了】(Hó--lō) That will do.
 * 【伊會傷着嗎】(I õi sieⁿ-tiéh mē?) Is he hurt?
@@ -71,7 +71,7 @@ date: 2022-11-16 20:14:00
 * 【伊會死嗎】(I õi sí mē?) Will he die?
 * 【我想伊會】(Uá siẽⁿ i õi.) I think he will.
 * 【我聽見伊哭】(Uá thiaⁿ-kìⁿ i khàu) I heard him cry.
-* 【此個携去囥】(Chí--kâi khiéh-khṳ̀ khǹg) Take this and keep it.
+* 【此個挈去囥】(Chí--kâi khiéh-khṳ̀ khǹg) Take this and keep it.
 * 【跪落去】(Kũi--lóh-khṳ̀) Kneel down.
 * 【起來】(Khí--lâi) Get up.
 * 【勿笑】(Màiⁿ-chhiè) Don't laugh.
@@ -84,7 +84,7 @@ date: 2022-11-16 20:14:00
 * 【我自己欲用】(Uá ka-kī àiⁿ-ēng) I want to use it myself.
 * 【此我毋曉怎呢作】(Chiá uá m̄-hióu tsò-nîⁿ muéh) I don't understand how to do this.
 * 【請汝佮我呾】(Chhiáⁿ lṳ́ kah uá tàⁿ) Please tell me.
-* 【來去遊玩】(Lâi-khṳ̀ thit-thô) Come let us go out to amuse ourselves.
+* 【來去佚佗】(Lâi-khṳ̀ thit-thô) Come let us go out to amuse ourselves.
 * 【咱勿由彼處過】(Nán màiⁿ tùi-hié kùe) Let us not pass by that way.
 * 【由此過】(Tùi-chié kùe) Pass by this way.
 * 【彼擇起來】(Hiá tóh--khí-lâi) Pick that up.
@@ -110,14 +110,14 @@ date: 2022-11-16 20:14:00
 * 【汝若是欲搬。請汝佮我呾】(Lṳ́ nāⁿ-sĩ àiⁿ-puaⁿ chhíaⁿ lṳ́ kah uá tàⁿ) If you are going to remove, please tell me.
 * 【伊轉來亞未】(I tńg--lâi a-būe?) Has he come home?
 * 【未】(Būe) He hasn't.
-* 【此個携去還伊】(Chí--kâi khiéh-khṳ̀ hôiⁿ i) Take this, go and return it to him.
-* 【汝有覔嗎】(Lṳ́ ũ tshūe mē?) Did you search for it?
-* 【有。我覔無】(Ũ. Uá tshūe bô) Yes. I searched, but I couldn't find it.
+* 【此個挈去還伊】(Chí--kâi khiéh-khṳ̀ hôiⁿ i) Take this, go and return it to him.
+* 【汝有覓嗎】(Lṳ́ ũ tshūe mē?) Did you search for it?
+* 【有。我覓無】(Ũ. Uá tshūe bô) Yes. I searched, but I couldn't find it.
 * 【徛起來】(Khiã--khí-lâi) Stand up.
 * 【坐】(Tsõ) Sit down.
 * 【請汝教我】(Chhiáⁿ lṳ́ kà uá) You teach me, please.
 * 【伊來巡汝】(I lâi-sûn lṳ́) He comes to visit you.
 * 【請待】(Chhiáⁿ-táⁿ) Just wait please.
 * 【好】(Hó) Very Well.
-* 【此勿。抛去】(Chiá màiⁿ, kák-tiòu) This is not wanted, throw it away.
+* 【者勿。捔掉】(Chiá màiⁿ, kák-tiòu) This is not wanted, throw it away.
 * 【我袂寫】(Uá bõi-siá) I can't write.

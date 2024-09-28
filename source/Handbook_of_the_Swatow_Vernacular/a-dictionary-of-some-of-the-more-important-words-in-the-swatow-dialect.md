@@ -73,7 +73,7 @@ date: 2022-11-20 23:55:00
 * 【Animal】(Khîm-siù) 禽獸
 * 【Animal domestic】(Cheng-seⁿ) 眾牲
 * 【Annex】(Chiap; tùe) 接　綴
-* 【Annoy】(Pa-lói; tṳ̂) 擺弄  躇
+* 【Annoy】(Pa-lói; tṳ̂) 擺弄  除
 * 【Anxiety】(Khùa-lṳ̃) 掛慮
 * 【Appearance】(Iēⁿ) 樣
 * 【Appetite】(Õi-chiáh) 會食
@@ -332,7 +332,7 @@ date: 2022-11-20 23:55:00
 * 【Buy】(Bói) 買
 * 【„ as oil, wine】(Kou-iû; kou-chiú; tò-iû; tò-chiú) 沽油　沽酒  倒油  倒酒
 * 【„ as rice】(Tiáh-bí) 䨀米
-* 【„ as cloth】(Ka-pòu) 剪布
+* 【„ as cloth】(Ka-pòu) 鉸布
 * 【„ as pork, beef】(Kuah-tṳ-bah; kuah-gû-bah) 割豬肉　割牛肉
 * 【Buzz】(Ng-ng-kiè) 嗡嗡叫
 * 【By-name, (nickname,)】(Thóu-miâⁿ) 土名
@@ -350,7 +350,7 @@ date: 2022-11-20 23:55:00
 * 【„ animal】(Khou) 呼
 * 【Camel】(Lóh-thóh) 駱駝
 * 【Camp】(Iâⁿ-pûaⁿ) 營盤
-* 【Can】(Õi; õi-tit) 會　能得
+* 【Can】(Õi; õi-tit) 會　會得
 * 【Canal】(Kau) 溝
 * 【Cancel】(Khou-tiòu) 圈掉
 * 【Candareen】(Hun) 分
@@ -634,7 +634,7 @@ date: 2022-11-20 23:55:00
 * 【Custom】(Hong-sók; lī) 風俗　例
 * 【Cymbals, large】(Khãm) 鈸
 * 【Cymbals, small】(Chhẽ) 鑔
-* 【Dangerous】(Hong-hiám; lî-hāi; lî-keng) 風險　利害　離經
+* 【Dangerous】(Hong-hiám; lî-hāi; lî-keng) 風險　厲害　離經
 * 【Daughter】(Tsáu-kiáⁿ; tsṳ-niêⁿ-kiáⁿ) 走囝　諸娘囝
 * 【Dawn】(Thiⁿ-kng; thiⁿ lâ-lân-kng) 天光　天拉零光
 * 【Dazzle】(In-n̄g; iàng-mák; chhiēⁿ-mák) 印？  映目  上目
@@ -651,7 +651,7 @@ date: 2022-11-20 23:55:00
 * 【Defeated, to be】(Thâi-su; chièn-su) 刣輸　戰輸
 * 【Defendant】(Pĩ-ko) 被告
 * 【Defile】(Hú-tiéh nah-sap) 捬着垃圾
-* 【Defray, expenses】(Tshut-só-hùi; tshut) 出使費　出
+* 【Defray, expenses】(Tshut-só-hùi; tshut) 出所費　出
 * 【Degrade】(Kàng-khip) 降級
 * 【Degree, to get the 1st literary】(Jíp-sìu-tsâi) 入秀才
 * 【„ to get the 2nd literary】(Tèng-kṳ-jîn) 中舉人
@@ -1449,7 +1449,7 @@ date: 2022-11-20 23:55:00
 * 【Remove, residence】(Puaⁿ) 搬
 * 【„ a thing】(Súa) 徙
 * 【Rend】(Lì) 裂?
-* 【Repair】(Chiáⁿ-lí; siu-síp; pa-lói-hó) 整理　收拾
+* 【Repair】(Chiáⁿ-lí; siu-síp; pa-lói-hó) 整理　收拾  擺弄好
 * 【Repeat, as lesson】(Liām) 念
 * 【Repent】(Kói-pìⁿ) 改變
 * 【Reply, written】(Hûe-phoi; hûe-sìn) 回批　回信
@@ -1487,11 +1487,11 @@ date: 2022-11-20 23:55:00
 * 【„ small】(Khoi) 溪
 * 【„ little】(Káng) 港
 * 【Road】(Lōu) 路
-* 【Rob】(Chhiéⁿ; chhiéⁿ-pak; phah-kiap) 搶　搶剝　拍刧
-* 【Robbery】(Pak-ko-kúe) 搶刧
+* 【Rob】(Chhiéⁿ; chhiéⁿ-pak; phah-kiap) 搶　搶剝　拍劫
+* 【Robbery】(Pak-ko-kúe) 搶劫
 * 【Robe】(Phâu) 袍
-* 【Rogue】(Láu-kiáⁿ) 老囝
-* 【Roll, to】(Khah) 輦
+* 【Rogue】(Láu-kiáⁿ) 漏囝
+* 【Roll, to】(Khah) 滾
 * 【„ up】(Kauh; kauh--khí) 捲
 * 【Room】(Pâng) 房
 * 【„ no】(Bô-ūi-tshṳ̀) 無位次
@@ -1568,7 +1568,7 @@ date: 2022-11-20 23:55:00
 * 【Scum】(Phuéh) 波
 * 【Seal】(Ìn) 印
 * 【„ official】(Kuaⁿ-ìn) 官印
-* 【Search】(Tshūe; siou) 覔　尋
+* 【Search】(Tshūe; siou) 覓　尋
 * 【Season】(Sî; thiⁿ-sí) 時　天時
 * 【Secret】(Àm-chẽⁿ) 暗靜
 * 【Sedan】(Kiē) 轎
@@ -1614,7 +1614,7 @@ date: 2022-11-20 23:55:00
 * 【„ blood】(Lâu-hueh) 流血
 * 【Shell, as of eggs, shell-fish】(Khak) 壳
 * 【Shelter, to take】(Siám) 避
-* 【Shepherd】(Chiéⁿ-iêⁿ--kâi-nâng) 守羊其儂
+* 【Shepherd】(Chiéⁿ-iêⁿ--kâi-nâng) 掌羊其儂
 * 【Shield】(Pâi; tin-pâi) 牌　籐牌
 * 【Shift】(Súa) 徙
 * 【Shin】(Kha-liâm) 腳廉
@@ -1639,7 +1639,7 @@ date: 2022-11-20 23:55:00
 * 【Sick, ill】(Pēⁿ) 病
 * 【„ slightly】(Nâng m̄-móⁿ) 儂毋好
 * 【„ for a long period】(Phùa-pēⁿ) 破病
-* 【Side】(Pôiⁿ) 畔
+* 【Side】(Pôiⁿ) 爿
 * 【„ of the body】(Phiaⁿ-lî) 脇下
 * 【Sieve, a】(Thai; bí-thai; bí-lô) 米篩　米籮
 * 【„ for winnowing】(Pùa-ki) 簸箕
@@ -1649,7 +1649,7 @@ date: 2022-11-20 23:55:00
 * 【Sign, a】(Hō; kì-hō) 號　記號
 * 【„ secret】(Àm-hō) 暗號
 * 【„ to】(Chhiam-miâⁿ; tsham-miâⁿ uéh-hō) 簽名　參名　劃號
-* 【Silent】(Tiām-tiām; chẽⁿ-chẽⁿ) 靜靜
+* 【Silent】(Tiām-tiām; chẽⁿ-chẽⁿ) 恬恬  靜靜
 * 【Silk-worm】(Tshôiⁿ) 蠶
 * 【Similar】(Huáng-sṳ̃; chhin-chhiẽⁿ) 仿似　親像
 * 【Sin】(Tsũe) 罪
@@ -1669,7 +1669,7 @@ date: 2022-11-20 23:55:00
 * 【Slanting】(Sia) 斜
 * 【Slap, to】(Òng) 掌
 * 【Slave】(Nôuⁿ-tshâi) 奴才
-* 【Sleep】(Út) 睡
+* 【Sleep】(Út) 夗
 * 【Sleeve, of coat】(Saⁿ-ńg) 衫袖
 * 【Slice】(Phièn; liàm; hue) 片
 * 【Slight】(Sié-khúa) 小可
@@ -1728,7 +1728,7 @@ date: 2022-11-20 23:55:00
 * 【„ to】(Hiáng) 响
 * 【Sour】(Sng) 酸
 * 【Source】(Kṳn-pńg; nguân-kṳn) 根本　原根
-* 【South】(Nâm; nâm-pôiⁿ) 南　南畔
+* 【South】(Nâm; nâm-pôiⁿ) 南　南爿
 * 【Sow, a】(Tṳ-bó) 豬母
 * 【„ to】(Iā-chéng) 播種
 * 【Spade】(Thih-chhiâm) 鐵鑽
@@ -1895,7 +1895,7 @@ date: 2022-11-20 23:55:00
 * 【Sweet-meats】(Thn̂g-liōu; tiâm-liōu; thn̂g-khà) 糖料　甜料　糖扣
 * 【Swell, to】(Chêng) 腫
 * 【Swift】(Hiòng; méⁿ) 雄　猛
-* 【Swim】(Siû) 氽
+* 【Swim】(Siû) 泅
 * 【Swing】(Sõ) 蕩
 * 【Sycee】(Uâng-pó; khiòu-thâu-si; khò-si) 王寶 翹頭絲 鋯絲
 * 【Sympathy】(Thói-thiap) 體貼
@@ -1922,7 +1922,7 @@ date: 2022-11-20 23:55:00
 * 【Tear】(Lì; thì) 烈　剃
 * 【Tears】(Mák-tsap) 目汁
 * 【„ to shed】(Lâu-mák-tsap) 流目汁
-* 【Tease】(Tṳ̂; pin-tǹg; pa-lói; tṳ̂-tñg) 除　除斷
+* 【Tease】(Tṳ̂; pin-tǹg; pa-lói; tṳ̂-tñg) 除  摒擋　擺弄  除斷
 * 【Teeth】(Khí) 齒
 * 【„ large】(Gê) 牙
 * 【„ molar】(Gê-thâu-khí) 牙頭齒
@@ -1936,7 +1936,7 @@ date: 2022-11-20 23:55:00
 * 【Tempt】(Ín; ín-iú) 引　引誘
 * 【Tent】(Pòu-phâng) 布帆
 * 【Teng, to pitch】(Tah-pòu-phâng) 搭布帆
-* 【Tepid】(Lā-lûn-sie) 半溫
+* 【Tepid】(Lā-lûn-sie) 半燒
 * 【Test】(Chhì; chhì-thóiⁿ) 試　試着
 * 【Testicles】(Tsui-hút; lān-hút[3]) 腎核
 * 【Testimony】(Chèng-kṳ̃) 證據
@@ -2025,14 +2025,14 @@ date: 2022-11-20 23:55:00
 * 【Turn, revolve】(Hui) 旋轉
 * 【„ over】(Póiⁿ; póiⁿ-lìn-tńg) 反  反輪轉
 * 【„ the head】(Ut-tńg-thâu) ?轉頭
-* 【„ round the corner of a street】(Uat) 灣
+* 【„ round the corner of a street】(Uat) 斡
 * 【„ round as a table】(Hui-lìn-tńg) 回輪轉
 * 【„ back】(Hui-tńg--lâi) 回轉來
 * 【„ upside down】(Tin-tò-táu) 顚倒換
 * 【„ by, alternately】(Sie-lûn) 相輪
-* 【„ whose?】(Lûn-tiéh-tî-tiâng) 輪着誰
+* 【„ whose?】(Lûn-tiéh-tî-tiâng) 輪着底儂
 * 【Twinkle】(Iăp-iáp-sih) 灼灼晃
-* 【Twist】(Tsũn) 纂
+* 【Twist】(Tsũn) 捘
 * 【Twist, as a rope】(Ká) 絞
 * 【Type, printing】(Jī-póiⁿ; ìn-póiⁿ) 字板　印板
 * 【Ugly】(Iá-iēⁿ) 野樣
@@ -2044,26 +2044,26 @@ date: 2022-11-20 23:55:00
 * 【Ungrateful】(M̄-tsai nâng-chhêng; hiou-chhêng tsóh-ngĩ; buâng-ṳn; bô-jîn-ngĩ) 毋知儂情　僥情絕義　忘恩　無仁義
 * 【Unhappy, of life】(Khóu-miāⁿ) 苦命
 * 【Uniform】(Kuaⁿ-hók; kuaⁿ-i) 官服　官衣
-* 【Unite, to】(Háh-bûa) 合總
+* 【Unite, to】(Háh-bûa) 合摩
 * 【Unlawful】(M̄-háh-huap) 毋合法
 * 【Unlimited】(Bô-hân) 無限
 * 【Unload, a ship】(Khí-hùe; tshut-hùe) 起貨　出貨
 * 【Unnecessary】(Mín; mín-ēng) 免　免用
 * 【Unpleasant, feeling】(Kāu-uéh) 厚劃
 * 【Unreasonable】(Bô-chhêng-lí; m̄-chiũ-lí) 無情理　毋就理
-* 【Untie】(Kói; tháu) 解
+* 【Untie】(Kói; tháu) 解  㪗
 * 【Unworthy】(M̄-kham; m̄-kham-kai) 毋堪　毋堪該
 * 【Upset】(Tò-póiⁿ; póiⁿ) 倒反　反
 * 【Upside down】(Tin-tò-thâu) 顚倒頭
 * 【Urge】(Tshui; pek; tshui-kín; tshui-piàⁿ) 推　迫　推緊　推併
 * 【Useful】(Ŭ-ēng) 有用
-* 【Usual】(Siêⁿ-siêⁿ; pâi-tńg; siam-put-sî) 常常
+* 【Usual】(Siêⁿ-siêⁿ; pâi-tńg; siam-put-sî) 常常  排轉  ?不時
 * 【Vacant】(Khang) 空
 * 【Vacation, of school】(Pàng-kè) 放假
 * 【Vaccinate】(Chèng-tsu; chèng-tāu) 種珠　種豆
-* 【Vagrant】(Ló-tōng--kâi-nâng) 浪蕩儂
+* 【Vagrant】(Ló-tōng--kâi-nâng) 浪蕩其儂
 * 【Valley】(Chhim-kheⁿ) 深坑
-* 【Valuable】(Kùi-khì; tát-chîⁿ) 貴氣　值錢
+* 【Valuable】(Kùi-khì; tát-chîⁿ) 貴氣　値錢
 * 【Vapour】(Khì) 氣
 * 【Vegetarian】(Chiáh-che) 食齋
 * 【Ventilate】(Thong-huang) 通風
@@ -2073,51 +2073,51 @@ date: 2022-11-20 23:55:00
 * 【Voice】(Siaⁿ) 聲
 * 【Volcano】(Húe-suaⁿ) 火山
 * 【Vomit】(Thòu) 吐
-* 【Vow, to】(Hẽ; hẽ-nguān) 下　下願
+* 【Vow, to】(Hẽ; hẽ-nguān) 吓　吓願
 * 【Wade, to】(Ẽ-tsúi) 下水
 * 【Wages】(Kang-chíⁿ) 工錢
 * 【Waist】(Ie) 腰
-* 【Wait】(Tán; thẽng; thāi) 停待
+* 【Wait】(Tán; thẽng; thāi) 等  停  待
 * 【Wander】(Chiu-liû) 週流
 * 【Want, lack】(Khueh; khiàm) 缺　欠
 * 【War】(Sie-thâi; kau-chièn) 相刣　交戰
-* 【Warm】(Sie) 溫
+* 【Warm】(Sie) 燒
 * 【„ of weather】(Zuáh) 熱
 * 【„ of weather, mild】(Chhiẽⁿ-sie) ?燒
 * 【Warn】(Khǹg-kòi; tàⁿ-tsai) 勸戒　呾知
-* 【Waste, to】(Tak-nn̄g) 花費
-* 【Watch, to】(Chiéⁿ) 守
+* 【Waste, to】(Tak-nn̄g) 遭塌
+* 【Watch, to】(Chiéⁿ) 掌
 * 【Water, to】(Ak; ak-tsúi) 沃　沃水
 * 【Watery】(Chhieh-chhieh) 淖淖
-* 【Wave, to, as a flag】(Ít) 飄
+* 【Wave, to, as a flag】(Ít) 逸
 * 【Weak】(Khùn; bô-lát) 困　無力
-* 【„ in power, influence】(Phúh) 薄
+* 【„ in power, influence】(Phúh) 弱
 * 【Wean】(Keh-nĩⁿ) 隔乳
 * 【Weapon】(Ke-húe) 家伙
 * 【Wear, as clothes, shoes】(Chhēng) 穿
 * 【„ as a hat】(Tî) 戴
 * 【„ as a ring】(Kùa) 掛
 * 【Weather】(Thiⁿ-sî; thîⁿ) 天時　天
-* 【Weave】(Keⁿ-pòu) 織布
+* 【Weave】(Keⁿ-pòu) 經布
 * 【Web, spider's】(Ti-tu-si) 蜘蛛絲
-* 【Wedge】(Chiⁿ) 楔
+* 【Wedge】(Chiⁿ) 錢
 * 【Weed, a】(Péh-huat kâi-tsháu) 白發其草
-* 【Weigh, to】(Téng; chhìn) 戥　稱
+* 【Weigh, to】(Téng; chhìn) 戥　秤
 * 【„ with balances】(Phêng) 秤
-* 【West】(Sai; sai-pôiⁿ) 西　西畔
+* 【West】(Sai; sai-pôiⁿ) 西　西爿
 * 【Wet】(Tâm) 㴷
 * 【„ thoroughly】(Lok-lok) 漉漉
-* 【„ with rain】(Ak-tiéh-hõu) 逢雨
+* 【„ with rain】(Ak-tiéh-hõu) 沃着雨
 * 【Whatever】(Put-lũn; m̄-kuán) 不論　毋管
-* 【Wheel】(Lín; lìn-chiⁿ) 輦　輦錢
+* 【Wheel】(Lín; lìn-chîⁿ) 轔　轔錢
 * 【Whip, a】(Bé-piⁿ) 馬鞭
 * 【„ to】(Pũaⁿ) 拂
-* 【Whisper, to】(Síh-súh; àm-chẽⁿ-tàⁿ) 暗靜呾
+* 【Whisper, to】(Síh-súh; àm-chẽⁿ-tàⁿ) 窸窣  暗靜呾
 * 【Whistle, with the mouth】(Pûn-hi-hû) 歕唏噓
 * 【„ a】(Pi) 陂
 * 【White, of an egg】(Nñg-chheng) 卵淸
 * 【Whitewash, to】(Sàu-hue-tsúi; sueh-hue-tsúi) 掃灰水　刷灰水
-* 【Wicked】(Ak; phái) 惡　歹
+* 【Wicked】(Ak; phái) 惡　痞
 * 【Wide】(Khuah) 闊
 * 【Widow】(Síu-kúa; kúa-hũ) 守寡　寡婦
 * 【Wife】(Chhi; bóu) 妻  𡚸
@@ -2134,18 +2134,18 @@ date: 2022-11-20 23:55:00
 * 【Witness, a】(Chèng; kan-chèng) 證　干証
 * 【Womb】(Tho) 胎
 * 【Wonderful】(Khî-khá) 奇巧
-* 【Work】(Kang; khang-khùe) 工　工夫
-* 【„ to】(Tsho; tsoh-khang-khùe; tsò-kang) 作　作工夫　做工
+* 【Work】(Kang; khang-khùe) 工　工課
+* 【„ to】(Tsho; tsoh-khang-khùe; tsò-kang) 作　作工課　做工
 * 【World】(Sì-kan; thiⁿ-ẽ) 世間　天下
 * 【„ all the】(Phóu-thiⁿ-ẽ; phóu-thiⁿ-kha-ẽ) 普天下　普天踋下
-* 【Worse】(Zú-m̄-móⁿ) 愈毋好
+* 【Worse】(Zú-m̄-móⁿ) 愈不可
 * 【Worship, to】(Pài) 拜
 * 【Worth】(Tát) 値
 * 【Worthy】(Kham-kai) 堪該
 * 【Wound, a】(Sieⁿ-kháu) 傷口
 * 【Wounded】(Sieⁿ--tiéh) 傷着
 * 【Wrap, to】(Pau) 包
-* 【Wrench】(Tsũn-tiòu) 撰掉
+* 【Wrench】(Tsũn-tiòu) 捘掉
 * 【Wrist, of the hand】(Chhiú-uán) 手腕
 * 【Write】(Siá; siá-jī) 寫　寫字
 * 【Wrong】(Tāⁿ; m̄-tiéh; tshò) 錯　毋着  錯
@@ -2154,11 +2154,11 @@ date: 2022-11-20 23:55:00
 * 【„ of age】(Hùe) 歲
 * 【Yeast】(Kàⁿ; kàⁿ-bó; chiú-piáⁿ) 酵　酵母　酒餅
 * 【Yellow】(N̂g) 黃
-* 【Yoke, a】(Gû-taⁿ-uan) 牛擔灣
+* 【Yoke, a】(Gû-taⁿ-uan) 牛擔彎
 * 【Yolk, of an egg】(Nñg-jîn) 卵仁
-* 【Young, of plants】(Chíⁿ) 幼
+* 【Young, of plants】(Chíⁿ) 稚
 * 【„ of man】(Hāu-seⁿ; siòu-nîⁿ) 後生 少年
-* 【Zigzag】(Uan-lâi uan-khṳ̀; in-uan khit-khek) 灣來灣去
+* 【Zigzag】(Uan-lâi uan-khṳ̀; in-uan khit-khek) 彎來彎去  迂彎屈曲
 
 ------
 

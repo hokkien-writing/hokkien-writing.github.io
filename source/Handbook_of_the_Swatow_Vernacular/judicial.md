@@ -12,7 +12,7 @@ date: 2022-11-20 23:28:00
 * 【Forgery, of another's name】(Ké-chhiú-pit) 假手筆
 * 【„ of seal】(Ké-ìn) 假印
 * 【Arson】(Pàng-húe) 放火
-* 【Robbery】(Pak-ko-kúe, chhiéⁿ-pak) 搶刧　搶剝
+* 【Robbery】(Pak-ko-kúe, chhiéⁿ-pak) 搶劫　搶剝
 <!--more-->
 * 【Suicide】(Tsṳ̃-chĩn) 自盡
 * 【„ by hanging】(Tiòu-ãm) 吊頸

@@ -74,12 +74,12 @@ date: 2022-11-17 23:28:00
 * 【今年有閏月嗎】(Ke-nîⁿ ũ zūn-guéh mē?) Is there an intercalary moon this year?
 * 【有。閏五】(Ũ, zūn-ngõu) Yes, the fifth intercalary moon.
 * 【昨夜月蝕汝有睇亞無】(Tsa-mêⁿ guéh síh lṳ́ ũ thóiⁿ a-bô?) Last night there was an eclipse of the moon, did you see it?
-* 【毋嘗。我在睡】(M̄-chêng, uá tõ út) No, I was in bed.
+* 【毋嘗。我在夗】(M̄-chêng, uá tõ út) No, I was in bed.
 * 【昨夜三更蝕】(Tsá-mêⁿ saⁿ-keⁿ síh) The eclipse took place at the third watch last night.
 * 【我若是知。我走起来睇】(Uá nāⁿ-sĩ tsai, uá tsáu-khí lâi-thóiⁿ) If I had known, I would have got up to see it.
 * 【汝昨日無佮我呾】(Lṳ́ tsa-jít bô kah uá tàⁿ) You didn't tell me yesterday.
 * 【我昨日毋記得佮汝呾】(Uá tsa-jít m̄-kì-tit kah lṳ́ tàⁿ) I forgot to tell you yesterday.
 * 【汝知日何時正蝕】(Lṳ́ tsai jít tiang-sî chiàⁿ-síh?) Do you know when there will be an eclipse of the sun?
 * 【毋知。我無歷日】(M̄-tsai, uá bô láh-jít) I don't know, I haven't got a calendar.
-* 【我昨夜終夜袂睡】(Uá tsa-mêⁿ thàng-mêⁿ bõi-út) I couldn't sleep the whole of last night.
+* 【我昨夜終夜袂夗】(Uá tsa-mêⁿ thàng-mêⁿ bõi-út) I couldn't sleep the whole of last night.
 * 【巡更其儂昨夜無掌】(Chiéⁿ-keⁿ--kâi-nâng tsa-mêⁿ bô chiéⁿ) The watchman didn't watch last night.

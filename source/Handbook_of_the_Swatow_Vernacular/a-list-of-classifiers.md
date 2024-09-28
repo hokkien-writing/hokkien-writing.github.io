@@ -43,7 +43,7 @@ date: 2022-11-20 23:39:00
 * 【頁】(Hiéh) Applied to, leaves of books.
 * 【門】(Mn̂g) Applied to, cannons.
 * 【口】(Kháu) Applied to, gardens, smokes of opium or tobacco.
-* 【零些】(Tshoh) Applied to, a quantity of things, a small crowd of men.
+* 【撮】(Tshoh) Applied to, a quantity of things, a small crowd of men.
 * 【棚】(Péⁿ) Applied to, stage-plays.
 * 【班】(Pan) Applied to, companies of actors, bands, &c.
 * 【位】(Uī) Applied to, persons of respectability.

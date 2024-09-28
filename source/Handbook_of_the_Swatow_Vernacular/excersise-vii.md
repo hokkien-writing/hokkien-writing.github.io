@@ -158,10 +158,10 @@ date: 2022-11-16 20:16:00
 * 【伊日間作。夜間亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
 * 【伊其工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
 * 【日未暗】(Jít būe-àm) It is not yet dark.
-* 【汝睡到日向晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
-* 【下日汝不可睡到向晏】(Ê-jít lṳ́ m̄-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
-* 【日暗着去睡】(Jít àm tiéh khṳ̀-út) When it is late at night, you must go to bed.
-* 【勿到半夜正去睡】(Màiⁿ-kàu puàⁿ-méⁿ chiàⁿ-khṳ̀-út) Don't let it be midnight before you go to bed.
+* 【汝夗到日向晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
+* 【下日汝不可夗到向晏】(Ê-jít lṳ́ m̄-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
+* 【日暗着去夗】(Jít àm tiéh khṳ̀-út) When it is late at night, you must go to bed.
+* 【勿到半夜正去夗】(Màiⁿ-kàu puàⁿ-méⁿ chiàⁿ-khṳ̀-út) Don't let it be midnight before you go to bed.
 * 【三更半夜勿去口】(Saⁿ-keⁿ puàⁿ-mêⁿ màiⁿ-khṳ̀-kháu) Don't go out at such a late hour at night.
 
 ### section V.
@@ -185,7 +185,7 @@ date: 2022-11-16 20:16:00
 * 【吓吓】(Ē-ē) Every occasion.
 ------
 * 【明天早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
-* 【汝不可睡到日晏正走起】(Lṳ́ m̄-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
+* 【汝不可夗到日晏正走起】(Lṳ́ m̄-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
 * 【着早者】(Tiéh tsá--chē) You must be early.
 * 【今。汝着憶得】(Taⁿ, lṳ́ tiéh it-tit) Now, you must remember.
 * 【不可毋憶得】(M̄-móⁿ m̄-it-tit) Don't forget.
@@ -198,7 +198,7 @@ date: 2022-11-16 20:16:00
 * 【明天我毋在】(Màⁿ-khí uá m̄-tõ) I shall not be at home tomorrow.
 * 【汝免用來】(Lṳ́ mín-ēng lâi) You need not come.
 * 【後日我就轉來】(Aũ--jít uá chiũ tńg--lâi) I shall be back the day after to-morrow.
-* 【我次次來到覔汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̄-tõ) On every occasion of my coming, I could not find you.
+* 【我次次來到覓汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̄-tõ) On every occasion of my coming, I could not find you.
 * 【我昨日來。昨夜亦來】(Uá tsa-jít lâi, tsa-mêⁿ iā lâi) I came yesterday, and last night as well.
 * 【伊終久是如此】(I tsong-kú sĩ chièⁿ-seⁿ) He is always like this.
 * 【伊是惰。做事隨便做】(I sĩ tuãⁿ, tsò-sṳ̄ chhìn-tshái tsò) He is idle, and does things carelessly.

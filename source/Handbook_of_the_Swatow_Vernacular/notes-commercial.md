@@ -38,6 +38,6 @@ date: 2022-11-20 23:44:00
 * 【二斤半】(Nõⁿ-kṳn-pùaⁿ) Two catties and a half.
 * 【汝枝秤減】(Lṳ́ ki chhìn siám) Your scale is not correct.
 * 【頂正。不可頂減】(Téng-chiàⁿ, m̄-móⁿ téng-siám) Weigh properly, and don't cheat in weighing.
-* 【個銀携去找錢】(Kâi-ngṳ̂n khiéh-khṳ̀ táu-chîⁿ) Take the dollar and change it into cash.
+* 【個銀挈去找錢】(Kâi-ngṳ̂n khiéh-khṳ̀ táu-chîⁿ) Take the dollar and change it into cash.
 * 【個銀毋夠重。無七二】(Kâi-ngṳ̂n m̄-kàu-tãng, bô chhit-jī) The dollar is short in weight, it's not 7 candareens and 2 mace.
 * 【鬧熱】(Lãu-jiét.) A phrase used by customers or visitor on leaving the shop, which means may your shop be crowded with customers.

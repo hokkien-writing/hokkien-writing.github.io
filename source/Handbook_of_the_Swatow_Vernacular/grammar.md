@@ -83,7 +83,7 @@ The signs of the Potential Mood are 會 õi, 袂 bõi, 會得 õi-tit, 袂得 b�
 
 Õi (can) 會 implies ability, and 袂 bõi (cannot) implies its opposite, inability.
 
-* 【伊會氽】(I õi-siû) He can swim.
+* 【伊會泅】(I õi-siû) He can swim.
 * 【伊袂走】(I bõi-tsáu) He cannot run.
 
 Õi-tit (can) 會得 implies possibility, and 袂得 bõi-tit (cannot) implies impossibility.
@@ -103,7 +103,7 @@ Hó 好 is very nearly the same as the English auxiliary verb may, and implies l
 Tiéh 着 (must, ought, or should) implies obligation.
 
 * 【汝着來】(Lṳ́ tiéh-lâi) You must, (ought to, or should) come.
-* 【喊伊着靜靜】(Hàm i tiéh tiām-tiām) Tell him he ought to be silent.
+* 【喊伊着恬恬】(Hàm i tiéh tiām-tiām) Tell him he ought to be silent.
 * 【我着嫌汝】(Uá tiéh-hiâm lṳ́) I must blame you.
 * 【汝着認汝其毋着】(Lṳ́ tiéh-jīn lṳ́ kâi m̄-tiéh) You should admit your fault.
 
