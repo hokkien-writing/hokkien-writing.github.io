@@ -553,7 +553,7 @@ date: 2022-11-20 23:55:00
 * 【„ weak】(Sin-hūn phàⁿ; sin-hūn nám) 身分冇　身分弱
 * 【Consul】(Niáⁿ-sṳ̄-hú; niáⁿ-sṳ̄-kuaⁿ) 領事府　領事官
 * 【Consult】(Tsham-siâng; kàu-niêⁿ) 參詳　告量
-* 【Contact, come into】(Tiaⁿ-tiéh; oi--tiéh) 撞着　挨着
+* 【Contact, come into】(Tiaⁿ-tiéh; oi--tiéh) 碰着　挨着
 * 【Contain】(Tshō) 藏
 * 【Contempt】(Thóiⁿ-khin) 睇輕
 * 【Contend】(Sie-cheⁿ) 相争
@@ -1619,7 +1619,7 @@ date: 2022-11-20 23:55:00
 * 【Shift】(Súa) 徙
 * 【Shin】(Kha-liâm) 腳廉
 * 【Shine】(Chiè) 照
-* 【Shiver】(Khiū; tòng) 震　凍
+* 【Shiver】(Khiū; tòng) 慄　凍
 * 【Shoot, with gun】(Phah; tūaⁿ) 拍  彈
 * 【Shop】(Phòu; tiàm) 舖　店
 * 【Shore】(Hái-kíⁿ) 海墘
@@ -1941,7 +1941,7 @@ date: 2022-11-20 23:55:00
 * 【Testicles】(Tsui-hút; lān-hút[3]) 腎核
 * 【Testimony】(Chèng-kṳ̃) 證據
 * 【Thank】(Siā; kám-siā) 謝　感謝
-* 【„ obliged】(Lâu--lṳ́; lūi--lṳ́; tūa-lâu-nâng) 勞汝
+* 【„ obliged】(Lâu--lṳ́; lūi--lṳ́; tūa-lâu-nâng) 勞汝  累汝  大勞儂
 * 【Theatre】(Hì) 戲
 * 【Therefore】(Kù-tshṳ́; só-íⁿ) 故此　所以
 * 【Thermometer】(Hân-sú-tsam) 寒暑針
@@ -1959,55 +1959,55 @@ date: 2022-11-20 23:55:00
 * 【Throat】(Aû; aû-lêng) 喉　喉嚨
 * 【Throne, imperial】(Lêng-ūi; kim-luân-tōiⁿ) 龍位　金鑾殿
 * 【„ to ascend the】(Teng-ki; teng-ūi; tsõ-ūi) 登基　登位　坐位
-* 【Throttle】(Tẽⁿ-aû) 擢喉
+* 【Throttle】(Tẽⁿ-aû) 擲喉
 * 【Through, over】(Thàng) 通
 * 【Throw, to】(Kák; sek, hám) 捔 擲 撼
 * 【„ away】(Kák-tiòu; sek-tiòu; hám-tiòu; phîn-tiòu) 捔掉 擲掉 撼掉 摒掉
 * 【Thrust】(Tshǹg) 刺
 * 【Ticket】(Tuaⁿ) 單
-* 【„ pawn】(Hui; tǹg-phiè) 揮　當票
-* 【Tickle】(Niouⁿ) 帕悛
+* 【„ pawn】(Hui; tǹg-phiè) 票　當票
+* 【Tickle】(Niouⁿ) 抓
 * 【Tie】(Pák; kat) 縛　結
 * 【„ as the hands together】(Khún) 捆
 * 【Tiffin】(Tiám-sim) 點心
 * 【Tight】(Kín) 緊
 * 【„ as rope】(Ân) 緊
 * 【Timid】(Bô-táⁿ) 無胆
-* 【Tired】(Hék) 困
+* 【Tired】(Hék) 乏
 * 【Title, official】(Kuaⁿ-ham) 官銜
 * 【Toil】(Búa; bûa-khóu) 磨　磨苦
-* 【Tolerably】(Tshó-liák; ōi--lêng-tsò-tit) 草錄　會能做得
-* 【Tone】(Tim; siaⁿ) 音聲
+* 【Tolerably】(Tshó-liák; ōi--lêng-tsò-tit) 粗略　會能做得
+* 【Tone】(Im; siaⁿ) 音  聲
 * 【Tonic】(Póu; póu-iéh) 補　補藥
 * 【Tools】(Ke-húe) 家伙
 * 【Top, a】(Hâm-lám-sút) 銜瓏術
 * 【„ to spin a】(Phah-hâm-lâm-sút) 拍銜瓏術
-* 【Torch】(Húe-nāⁿ) 火把
+* 【Torch】(Húe-nāⁿ) 火爁
 * 【Tortoise】(Tāi-pūe) 玳瑁
-* 【Total】(Kòi-kāng; lóng-tsóng) 計共　俱皆
+* 【Total】(Kòi-kāng; lóng-tsóng) 計共　攏總
 * 【Touch, with the fingers】(Thāng; thāng--tiéh; mòng) 摸　摸着
-* 【„ come into contact】(Tiaⁿ--tiêh) 顚着
+* 【„ come into contact】(Tiaⁿ--tiêh) 碰着
 * 【Tough】(Zūn) 韌
 * 【Tow, a ship】(Tũa) 拕
-* 【Towards】(Hiàng; niaⁿ) 向
+* 【Towards】(Hiàng; niáⁿ) 向  領
 * 【Town】(Pou; pou-thau) 埠　埠頭
 * 【Trace, to】(Chhim-tui tsong-chiah) 尋追踪跡
 * 【„ to, as in writing】(Piè) 裱
 * 【Track, mark】(Chiah) 跡
 * 【Train, to】(Kà) 教
-* 【Trample, on】(Táh; thiàm) 踏
+* 【Trample, on】(Táh; thiàm) 踏  蹴
 * 【Transact, business】(Lí-sṳ̄; phōiⁿ-sṳ̄) 理事　辦事
 * 【Transform】(Pìⁿ; pièn) 變
-* 【Translate】(Ék; huan-ék) 繹　翻繹
+* 【Translate】(Ék; huan-ék) 譯　翻譯
 * 【„ characters into spoken language】(Sueh) 說
 * 【Transparent】(Kng-thàng) 光通
-* 【Trap, for rats】(Ngióu-tshṳ́-tak; thih-ngiou) 鼠挾
+* 【Trap, for rats】(Ngióu-tshṳ́-tak; thih-ngiou) 老鼠觸  鐵貓
 * 【„ for tigers】(Hóuⁿ-lô) 虎牢
 * 【Travel】(Kiâⁿ) 行
-* 【Tread, on】(Táh; lūn-táh) 踏
+* 【Tread, on】(Táh; lūn-táh) 踏  蹂踏
 * 【Treasury】(Khòu-pâng; ngṳ̂n-khòu) 庫房　銀庫
 * 【Treat, to】(Thāi; khuán-thāi) 待　款待
-* 【Tremble】(Khiū; tòng) 凍
+* 【Tremble】(Khiū; tòng) 慄  凍
 * 【Tribe】(Tsók) 族
 * 【Tribute, to pay to the Emperor】(Kòng-huâng-tì) 貢皇帝
 * 【Trick, a】(Sim-sṳ̄) 心事
@@ -2015,20 +2015,20 @@ date: 2022-11-20 23:55:00
 * 【Triturate】(Ngóiⁿ; lûi) 研 擂
 * 【Troops】(Piaⁿ; kun-piaⁿ) 兵　軍兵
 * 【Trouble】(Kan-khóu) 艱苦
-* 【True】(Chin; sít; chin-sít; ũ-iáⁿ) 真　實　真是　有影
+* 【True】(Chin; sít; chin-sít; ũ-iáⁿ) 真　實　真實　有影
 * 【Trumpet】(Ti-tâ) 嘀嗒
-* 【Trust, to】(Sìn; siang-sìn;) 信　相信
+* 【Trust, to】(Sìn; siang-sìn) 信　相信
 * 【Try】(Chhì; chhì-thóiⁿ) 試　試睇
 * 【Tube】(Kóng; tâng) 管　筒
 * 【Tune】(Pán) 板
 * 【Turban】(Tháu-pòu) 頭布
-* 【Turn, revolve】(Hui) 旋轉
+* 【Turn, revolve】(Hui) 回
 * 【„ over】(Póiⁿ; póiⁿ-lìn-tńg) 反  反輪轉
-* 【„ the head】(Ut-tńg-thâu) ?轉頭
+* 【„ the head】(Ut-tńg-thâu) 斡轉頭
 * 【„ round the corner of a street】(Uat) 斡
 * 【„ round as a table】(Hui-lìn-tńg) 回輪轉
 * 【„ back】(Hui-tńg--lâi) 回轉來
-* 【„ upside down】(Tin-tò-táu) 顚倒換
+* 【„ upside down】(Tin-tò-táu) 顚倒倒
 * 【„ by, alternately】(Sie-lûn) 相輪
 * 【„ whose?】(Lûn-tiéh-tî-tiâng) 輪着底儂
 * 【Twinkle】(Iăp-iáp-sih) 灼灼晃
