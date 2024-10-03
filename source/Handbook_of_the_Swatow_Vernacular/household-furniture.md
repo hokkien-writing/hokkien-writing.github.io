@@ -161,7 +161,7 @@ date: 2022-11-20 21:59:00
 * 【挈一塊就好。芳其】(Khiéh chék-kò chĩu-hó, phang--kâi) Get one piece, a fragrant one.
 * 【水罐有水亞無】(Tsúi-kuàn ũ tsúi a-bô?) Is there any water in the jug?
 * 【水完了。我來去挈】(Tsúi lióu--lō, uá lâi khṳ̀-khiéh) The water is finished, I will go and get (some.)
-* 【挈一条淸潔其浴布來】(Khiéh chék-tióu chheng-khih kâi ék-pòu lâi) Get me a clean bath-towel.
+* 【挈一條淸潔其浴布來】(Khiéh chék-tióu chheng-khih kâi ék-pòu lâi) Get me a clean bath-towel.
 * 【我欲沐浴】(Uá àiⁿ sói-ék) I want to bathe.
 * 【有温水亞無】(Ũ sie-tsúi a-bô?) Is there hot water?
 * 【無。我來去煖】(Bô, uá lâi khṳ̀-hiâⁿ) No, I will go and boil (some.)

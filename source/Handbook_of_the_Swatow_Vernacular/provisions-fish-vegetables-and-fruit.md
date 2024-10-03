@@ -86,7 +86,7 @@ date: 2022-11-20 22:19:00
 * 【着選鮮其】(Tiéh suán chhiⁿ--kâi) You must choose fresh ones.
 * 【就是如此】(Chiũ-sĩ chièⁿ-seⁿ) That's all.
 * 【飯勿烳過糜】(Pn̄g màiⁿ-pû khah-mîⁿ) Don't boil the rice to soft.
-* 【膠離勿煮過辣】(Ka-lî màiⁿ-tsṳ́ khah-hiam) Don't make the curry too hot.
+* 【膠離勿煮過薟】(Ka-lî màiⁿ-tsṳ́ khah-hiam) Don't make the curry too hot.
 * 【食飯無鹹酸食毋落】(Chiáh-pn̄g bô kiâm-sng chiáh m̄-lóh) To take rice without relish it cannot be eaten.
 * 【伊請儂滿席在】(I chhiáⁿ-nâng phâng-phài tsãi) He invited people to lots of dishes.
 * 【伊其鹹酸㩼樣在。食毋盡】(I kâi kiâm-sng tsōi-iēⁿ tsāi, chiáh m̄-lióu) His relishes were of many kinds, we could'nt eat them all.
@@ -134,14 +134,14 @@ date: 2022-11-20 22:19:00
 * 【鯧魚上減一尾欲百五錢】(Chhieⁿ-hṳ̂ siãng-kiám chék-búe àiⁿ peh-ngõu-chîⁿ) At least one hundred and fifty cash for a flounder.
 * 【馬鮫若是一尾無三百錢免用出】(Bé-ka nãⁿ-sĩ chék-búe bô saⁿ-peh-chîⁿ, mín-ēng tshut) As for mackeral you needn't offer for it, unless you are prepared to give three hundred cash for it.
 * 【我買零些木斗佮零些蝦】(Uá bói lân-ló bák-táu, kah tshoh-hê) I bought some cuttle-fish, and some shrimps.
-* 【一条鰻。數隻蟹】(Chék tiôu mûaⁿ, kua-chiah hõi) One eel, several crabs.
+* 【一條鰻。數隻蟹】(Chék tiôu mûaⁿ, kua-chiah hõi) One eel, several crabs.
 * 【十粘粒蠔。二十粒蚶】(Tsáp-liáp ô, jī-tsáp liáp ham) Ten oysters, twenty cockles.
 * 【魚干陸両。佮鹹魚半斤】(Hṳ̂-kuaⁿ lák-niéⁿ, kah kiâm-hṳ̂ pùaⁿ-kṳn) Dried salt fish six taels, and salt fish half a catty.
 * 【蝦米一擔若干】(Hê-bí chék-tàⁿ jiéh-tsōi?) How much for a picul of dried prawns?
 * 【一擔敢是五箍亞】(Chék-tàⁿ káⁿ-sĩ ngõu-khou ã) I think five dollars a picul.
 * 【五箍會貴亞袂】(Ngõu-khou õi-kùi a-bõi?) Is it dear at five dollars (a picul)?
 * 【欲呾貴哩袂貴。欲呾平哩袂平】(Àiⁿ-tàⁿ-kùi li bõi-kùi, àiⁿ-tàⁿ-phiⁿ li bõi-phiⁿ) To say “it is dear,” it isn't dear, but to say “it is cheap,” it isn't cheap.
-* 【買零些就貴】(Bói tshàm-tshùi chiũ kùi.) To buy by retail it will be dear.
+* 【買零碎就貴】(Bói tshàm-tshùi chiũ kùi.) To buy by retail it will be dear.
 
 ### Vegetables.
 
@@ -168,7 +168,7 @@ date: 2022-11-20 22:19:00
 * 【Coriander】(Uân-sui) 莞荽
 * 【Salad】(Phang-tshài, chheⁿ-tshài) 芳菜　生菜
 * 【Ginger】(Kieⁿ) 薑
-* 【Chillies】(Hiam-chie, kim-kaⁿ-náⁿ) 辣椒　金橄欖
+* 【Chillies】(Hiam-chie, kim-kaⁿ-náⁿ) 薟椒　金橄欖
 * 【Onion, fresh】(Tshang) 葱
 * 【„ root, dried】(Tshang-thâu) 葱頭
 * 【Garlic, fresh】(Sǹg) 蒜
@@ -192,8 +192,8 @@ date: 2022-11-20 22:19:00
 * 【芋翕】(Ōu hip) Steam the taro.
 * 【伊欲翕番葛】(I àiⁿ-hip huan-kuah) He wants to steam potatoes
 * 【雞湯落些須芹菜就芳】(Koi-thng lóh tiám-kíaⁿ khṳ̂n-tshài chiũ phang) A little celery put in the soup will make it nice.
-* 【辣椒是番爿來其】(Hiam-chie sĩ huan-pôiⁿ lâi--kâi) Chillies come from foreign countries.
-* 【辣過楜椒】(Hiam-kùe hôu-chie) They are hotter than pepper
+* 【薟椒是番爿來其】(Hiam-chie sĩ huan-pôiⁿ lâi--kâi) Chillies come from foreign countries.
+* 【薟過楜椒】(Hiam-kùe hôu-chie) They are hotter than pepper
 * 【蒜食後口臭】(Sǹg chiáh-lióu tshùi tshàu) After eating garlic the mouth will be foul.
 * 【薑毋好作藥】(Kieⁿ-bó hó-tsò-iéh) Dry ginger can be used as medicine.
 

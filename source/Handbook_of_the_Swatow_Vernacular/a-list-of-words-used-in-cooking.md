@@ -8,18 +8,18 @@ date: 2022-11-20 22:11:00
 
 ## Lesson XVI. a list of words used in cooking.
 
-* 【剖】(Phoi) To cut, as the rinds of fruits, nails, pencil &c.
+* 【批】(Phoi) To cut, as the rinds of fruits, nails, pencil &c.
 * 【截】(Tsoíh) To cut into slices, as bread, beef &c.
 * 【割】(Kuah) To cut off, as a rope, a piece of meat from a large piece &c.
 * 【琢】(Tok) To chop with a knife, as to cut bones.
 * 【刣】(Thâi) To kill.
-* 【琢莝】(Tok-tshō) To mince.
+* 【琢脞】(Tok-tshō) To mince.
 * 【煲】(Pû) To boil as water, rice &c in small utensils.
 <!--more-->
 * 【煮】(Tsṳ́) To boil as rice, vegetables &c in large utensils.
 * 【煲食】(Pû-chiáh) To cook for one or two.
 * 【煮食】(Tsṳ́-chiáh) To cook for many.
-* 【焀】(Sáh) To boil in water, as eggs, fowls &c. without anything being added.
+* 【煠】(Sáh) To boil in water, as eggs, fowls &c. without anything being added.
 * 【煎】(Chien) To fry with something added, generally some sauce &c.
 * 【烙】(Luah) To fry, as eggs, fish &c.
 * 【浮】(Phû) To fry in oil, as plantain &c.
@@ -41,13 +41,13 @@ date: 2022-11-20 22:11:00
 * 【熟】(Sék) Thoroughly boiled.
 * 【生】(Chheⁿ) Not yet boiled; raw.
 * 【縻】(Mîⁿ) Tender, soft; rotten (of fruit.)
-* 【潤】(Zūn) Tough.
+* 【韌】(Zūn) Tough.
 * 【𠕆】(Tōiⁿ) Hard.
 * 【軟】(Nńg) Soft.
 * 【冇】(Phàⁿ) Porous, soft.
-* 【參】(Tsham) To mix.
-* 【擾】(chhiou) To stir.
-* 【敲】(Khau) To scrape; to scratch.
+* 【摻】(Tsham) To mix.
+* 【𢲵】(chhiou) To stir.
+* 【摳】(Khau) To scrape; to scratch.
 * 【剝皮】(Pak-phûe) To peel, as skin.
 * 【舂】(Cheng) To pound.
 * 【試】(Chhì) To taste, to try.
@@ -59,7 +59,7 @@ date: 2022-11-20 22:11:00
 * 【鹹】(Kiâm) Salt.
 * 【䭕】(Chiáⁿ) Insipid or tasteless.
 * 【苦】(Khóu) Bitter.
-* 【辣】(Hiam) Pungent.
+* 【薟】(Hiam) Pungent.
 * 【熱】(Jiét) Hot, like ginger.
 * 【芳】(Phang) Fragrant, nice, well-flavoured.
 * 【甘】(Kam) Sour and sweet, like olives.

@@ -52,12 +52,12 @@ date: 2022-11-20 22:51:00
 * 【燒】(Hiáⁿ) To burn; to boil as a large quantity of water.
 * 【燒塗炭】(Hiáⁿ-thôu-thùaⁿ) To burn coal.
 * 【燒柴】(Thâⁿ-tshâ) To burn fire wood.
-* 【藥鬼】(Iéh-kúi) Engine.
+* 【藥機】(Iéh-kúi) Engine.
 * 【輪】(Lín) A wheel.
 * 【車】(Chhia) A propeller.
 * 【紡】(Pháng) To propel.
-* 【開藥鬼】(Khui iék-kúi) To start engine.
-* 【關藥鬼】(Kueⁿ iéh-kúi) To stop engine.
+* 【開藥機】(Khui iék-kúi) To start engine.
+* 【關藥機】(Kueⁿ iéh-kúi) To stop engine.
 * 【舵】(Tũa) A rudder.
 * 【掠舵】(Liáh-tũa) To steer.
 * 【地圖】(Tī-tôu) Maps.
@@ -76,7 +76,7 @@ date: 2022-11-20 22:51:00
 * 【船主】(Tsûn-tsú) Captain.
 * 【大伙】(Tūa-húe) Chief mate.
 * 【二伙】(Jī-húe) Second mate.
-* 【管藥鬼其儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
+* 【管藥機其儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
 * 【燒火其儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
 * 【掠舵】(Liáh-tũa) Steersman.
 * 【舵舡】(Tãi-kong) Steersman.

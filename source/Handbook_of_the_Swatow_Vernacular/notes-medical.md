@@ -32,7 +32,7 @@ date: 2022-11-20 23:43:00
 * 【縻至今有若久了】(Mîⁿ-kàu-taⁿ ũ jiéh-kú--lō?) How long has it been ulcerated.
 * 【有成年】(U^ chiâⁿ-nîⁿ) About a year.
 * 【會癢亞袂】(Ōi-chiẽⁿ a-bõi?) Does it itch?
-* 【若是會癢不可搔】(Nãⁿ-sĩ õi-chiẽⁿ m̄-móⁿ pê) If it itches, you mustn't scratch it.
+* 【若是會癢不可爬】(Nãⁿ-sĩ õi-chiẽⁿ m̄-móⁿ pê) If it itches, you mustn't scratch it.
 * 【歸去。着尅苦奈】(Kui-khṳ̀, tiéh khah-khóu nãiⁿ) Let it be, you must do your best to bear it.
 * 【每明早。起來。用此藥水洗】(Chék-mêng-khí khí-lâi-kâu ēng chiá iéh-tsúi sói) When you get up in the morning, wash it with this lotion.
 * 【伊其病重】(I-kâi pēⁿ tãng) His illness is serious.

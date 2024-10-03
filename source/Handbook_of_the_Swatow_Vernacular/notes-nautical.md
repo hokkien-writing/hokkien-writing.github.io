@@ -28,7 +28,7 @@ date: 2022-11-20 23:41:00
 * 【今無變。多着在此被伊吹】(Taⁿ iou-ũ-pōu, lo-tiéh nãⁿ--chié khoih-i-tshue) Now, what help can there be we must stay here and let the wind blow.
 * 【流水哩雄。風哩不可】(Lâu-tsúi li hiông, huang li m̄-móⁿ) The tide is strong, and the wind is contrary.
 * 【此隻船好駛】(Chí-chiah-tsûn hó-sái) This boat sails well.
-* 【行甚猛】(Kiâⁿ-méⁿ-tsãi) It goes very fast.
+* 【行猛在】(Kiâⁿ-méⁿ-tsãi) It goes very fast.
 * 【火船免用駛風會行】(Húe-tsûn mín-ēng sái-huang õi-kiâⁿ) Steamers can go without setting sails.
 * 【下次船我就欲去】(Ẽ-tsūa-tsûn uá chiũ-àiⁿ-khṳ̀) I am going next trip.
 * 【直透。無往誰處】(Tít-thàu, bô-kua tî-kò) I go direct without calling any where.

@@ -18,14 +18,14 @@ date: 2022-11-20 23:44:00
 * 【順合其貨不可比阮其】(Sũn-háh kâi-hùe m̄-móⁿ ún--kâi) Sun-hah's goods cannot be compared with our goods.
 * 【阮其俱皆是正上海其】(Ún--kâi lóng-tsóng sĩ chiàⁿ Siāng-hái--kâi) Ours are all genuine Shanghai goods.
 * 【無假其】(Bô-ké--kâi) None are false.
-* 【太値錢我毋敢買】(Khah-tát-chîⁿ, uá m̄-káⁿ-bói) They are too costly, I dare not buy.
+* 【較値錢我毋敢買】(Khah-tát-chîⁿ, uá m̄-káⁿ-bói) They are too costly, I dare not buy.
 * 【底儂是財主】(Tî-tiâng sĩ tshâi-tsú?) Who is the proprietor (of the shop)?
 * 【財主在此內】(Tshâi-tsú tõ hṳ́-lãi) The proprietor is inside.
 * 【苦船到來。欲叫伊去起貨】(Húe-tsṳ̂n kâu--lâi, àiⁿ-kiè i khṳ̀ khí-hùe) The steamer has arrived, I want to ask him to go and unload his cargo.
-* 【我佮此間雜港行。交易㩼】(Uá kah chí-koiⁿ Tsáp-káng-háng kau-kuan tsōi) I have a large transaction with this German firm.
-* 【佮荷蘭西行。有交易亞無】(Kah Hô-lan-se hâng nē, ũ kau-kuan a-bô?) And with the French firms, do you have any transaction?
+* 【我佮此間雜港行。交關㩼】(Uá kah chí-koiⁿ Tsáp-káng-háng kau-kuan tsōi) I have a large transaction with this German firm.
+* 【佮荷蘭西行。有交關亞無】(Kah Hô-lan-se hâng nē, ũ kau-kuan a-bô?) And with the French firms, do you have any transaction?
 * 【有零些亞。我識寄去法國賣物】(Ũ--lân-ló ā, uá pat kià-khṳ̀ Huap-kok--kò bói-muéh) Well, a little, I have ordered something from France.
-* 【我佮大英國儂就大交易哪】(Uá kah Tãi-eng-kok-nâng chiũ tūa kau-kuan nō) Oh, I do much business with Englishmen.
+* 【我佮大英國儂就大交關哪】(Uá kah Tãi-eng-kok-nâng chiũ tūa kau-kuan nō) Oh, I do much business with Englishmen.
 * 【我尚英國人】(Uá siãng Eng-kok-nâng) I like Englishmen.
 * 【花旗行倒賬了】(Hue-kî-hâng tó-tièⁿ--lō) The American firm is bankrupt.
 * 【葵扇一枝若干錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
@@ -37,7 +37,7 @@ date: 2022-11-20 23:44:00
 * 【陸斤四】(Lák-kṳn-si) Six catties and four taels.
 * 【二斤半】(Nõⁿ-kṳn-pùaⁿ) Two catties and a half.
 * 【汝枝秤減】(Lṳ́ ki chhìn siám) Your scale is not correct.
-* 【頂正。不可頂減】(Téng-chiàⁿ, m̄-móⁿ téng-siám) Weigh properly, and don't cheat in weighing.
-* 【個銀挈去找錢】(Kâi-ngṳ̂n khiéh-khṳ̀ táu-chîⁿ) Take the dollar and change it into cash.
+* 【戥正。不可戥減】(Téng-chiàⁿ, m̄-móⁿ téng-siám) Weigh properly, and don't cheat in weighing.
+* 【個銀挈去倒錢】(Kâi-ngṳ̂n khiéh-khṳ̀ táu-chîⁿ) Take the dollar and change it into cash.
 * 【個銀毋夠重。無七二】(Kâi-ngṳ̂n m̄-kàu-tãng, bô chhit-jī) The dollar is short in weight, it's not 7 candareens and 2 mace.
 * 【鬧熱】(Lãu-jiét.) A phrase used by customers or visitor on leaving the shop, which means may your shop be crowded with customers.

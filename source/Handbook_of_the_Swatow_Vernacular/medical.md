@@ -111,7 +111,7 @@ date: 2022-11-20 23:02:00
 * 【寒藥】(Kûaⁿ-iéh) Quinine.
 * 【紅藥】(Âng-iéh) Pain-killer.
 * 【戒芬丸】(Kói-hun-îⁿ) “Stop-opium” pills.
-* 【卑蔴油】(Pi-mûaⁿ-iû) Castor oil.
+* 【卑麻油】(Pi-mûaⁿ-iû) Castor oil.
 * 【食瀉】(Chiáh-sià) To take an aperient.
 * 【瀉】(Sià) To purge.
 * 【食死儂】(Chiáh-sí-nâng) Poison.

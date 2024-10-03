@@ -12,10 +12,10 @@ date: 2022-11-20 23:22:00
 
 * 【布疋】(Pòu-phit) Piece-goods.
 * 【布路】(Pòu-lōu) Piece-goods.
-* 【𦮴】(Nîⁿ) Woollen cloth.
-* 【烏𦮴】(Ou-nîⁿ) Woollen cloth, black.
-* 【白𦮴】(Péh-nîⁿ) Flannel.
-* 【水𦮴】(Tsúi-nîⁿ) Tweeds.
+* 【呢】(Nîⁿ) Woollen cloth.
+* 【烏呢】(Ou-nîⁿ) Woollen cloth, black.
+* 【白呢】(Péh-nîⁿ) Flannel.
+* 【水呢】(Tsúi-nîⁿ) Tweeds.
 * 【絨】(Zông) Velvet.
 <!--more-->
 * 【斜文】(Siâ-bûn) Calico.
@@ -28,16 +28,16 @@ date: 2022-11-20 23:22:00
 * 【熱布】(Zuáh-pòu) Grass cloth.
 * 【樹皮】(Chhiū-phûe) Holland.
 * 【花布】(Hue-pòu) Chintz.
-* 【蔴布】(Mûaⁿ-pòu) Sack-cloth.
-* 【絲綢綾綴】(Si-tiû lîn-tn̄g) Silk-goods.
+* 【麻布】(Mûaⁿ-pòu) Sack-cloth.
+* 【絲綢綾緞】(Si-tiû lîn-tn̄g) Silk-goods.
 * 【絲】(Si) Silk.
-* 【綴】(Tn̄g) Satin.
+* 【緞】(Tn̄g) Satin.
 * 【皺紗】(JIòu-se) Crape.
 * 【羽紗】(Ú-se) Camlet.
 * 【羽毛】(Ú-môⁿ) Camlet.
 * 【羽綾】(Ú-lêng) Lasting.
-* 【柒其布】(Níⁿ--kâi-pòu) Dyed cloth.
-* 【綑条】(Kún-tiôu) Tape, for dress.
+* 【染其布】(Níⁿ--kâi-pòu) Dyed cloth.
+* 【綑條】(Kún-tiôu) Tape, for dress.
 * 【帶】(Tùa) „ tying.
 * 【一疋】(Chék-phit) A piece of cloth.
 * 【一枝】(Chék-ki) A roll of cloth.
@@ -63,8 +63,8 @@ date: 2022-11-20 23:22:00
 * 【硝】(Siou) Saltpetre.
 * 【鹽硝】(Iám-siou) Saltpetre.
 * 【硫磺】(Liû-n̂g) Sulphur, brimstone.
-* 【白𥐥】(Péh-huân) Alum.
-* 【生𥐥】(Chheⁿ-huân) „ green.
+* 【白礬】(Péh-huân) Alum.
+* 【生礬】(Chheⁿ-huân) „ green.
 * 【金沙】(Kim-sua) Gold-dust
 * 【鐵碎】(Thih-tshùi) Iron-filings.
 * 【鐵棍】(Thih-kùn) Iron-bar.
@@ -79,7 +79,7 @@ date: 2022-11-20 23:22:00
 * 【荖葉】(Láu-hiéh) „ leaves.
 * 【燕】(Ièn) Birdnests.
 * 【燕窩】(Ieǹ-o) Birdnests.
-* 【竹跑】(Tek-phâu) Bombs.
+* 【竹炮】(Tek-phàu) Bombs.
 * 【樟栳】(Chieⁿ-ló) Camphor.
 * 【樟柴】(Chieⁿ-tshâ) Camphor.
 * 【帆布】(Phâng-pòu) Canvas.
@@ -93,7 +93,7 @@ date: 2022-11-20 23:22:00
 * 【棉】(Mîⁿ) Cotton.
 * 【牛黃】(Gû-n̂g) Cow bezoar.
 * 【𦈢】(Hûi) China.
-* 【火炮】(Phòng-phiẽ) Crackers.
+* 【碰鰾】(Phòng-phiẽ) Crackers.
 * 【鹿茸】(Ték-zông) Deer horn.
 * 【色料】(Sek-liōu) Dye.
 * 【烏墨】(Ou-bák) Ebony.
@@ -101,7 +101,7 @@ date: 2022-11-20 23:22:00
 * 【毛扇】(Môⁿ-sîⁿ) Fans, feather.
 * 【鱟壳扇】(Hâu-khak-sîⁿ) „ cloth.
 * 【葵扇】(Kûe-sîⁿ) „ palm-leaf.
-* 【玩物】(Thih-thô-muéh) Fancy articles.
+* 【佚佗物】(Thih-thô-muéh) Fancy articles.
 * 【雞毛筅】(Koi-môⁿ-tshóiⁿ) Feather-duster.
 * 【魚肚】(Hṳ̂-tõu) Fishmaws.
 * 【魚膘】(Hṳ̂-phiẽ) Fishmaws.
@@ -112,13 +112,13 @@ date: 2022-11-20 23:22:00
 * 【玻璃器】(Po-lî-khì) Glass ware.
 * 【膠】(Ka) Glue.
 * 【樹泥】(Chhiū-nîⁿ) Gutta percha.
-* 【石羔】(Chiéh-ko) Gypsum.
-* 【蔴皮】(Mûaⁿ-phûe) Hemp.
+* 【石膏】(Chiéh-ko) Gypsum.
+* 【麻皮】(Mûaⁿ-phûe) Hemp.
 * 【牛皮】(Gû-phûe) Hides, buffalo.
 * 【蜜】(Bít) Honey.
 * 【牛角】(Gû-kak) Horns, buffalo.
-* 【靛】(Chheⁿ) Indigo, plants.
-* 【靛水】(Tōiⁿ) „ liquid.
+* 【靑】(Chheⁿ) Indigo, plants.
+* 【靛】(Tōiⁿ) „ liquid.
 * 【魚膠】(Hṳ̂-ka) Isinglass.
 * 【牙】(Gê) Ivory.
 * 【香】(Hieⁿ) Joss-sticks.
@@ -132,8 +132,8 @@ date: 2022-11-20 23:22:00
 * 【珠】(Tsu) Pearl.
 * 【蠔珠】(Ô-tsu) Pearl.
 * 【枋】(Pang) Planks.
-* 【鑲銀器】(Liū-ngṳ̂n-khì) Plated ware, silver.
-* 【鑲金器】(Liū-kim-khì) „ gold.
+* 【鎏銀器】(Liū-ngṳ̂n-khì) Plated ware, silver.
+* 【鎏金器】(Liū-kim-khì) „ gold.
 * 【藤】(Tîn) Rattan.
 * 【大黃】(Tūa-n̂g) Rhubarb.
 * 【火箭】(Húe-súh) Rockets.
@@ -164,14 +164,14 @@ date: 2022-11-20 23:22:00
 * 【鋸】(Kṳ̀) A saw.
 * 【抽】(Thiu) A plane.
 * 【鑿囝】(Tshák-kiáⁿ) A chisel.
-* 【鎖囝】(Tsǹg-kiáⁿ) An awl.
+* 【鑽囝】(Tsǹg-kiáⁿ) An awl.
 * 【挫】(Tshò) A file.
 * 【斧頭】(Póu-tháu) An axe.
 * 【鐵釘】(Thih-teng) A nail.
 * 【羅絲釘】(Lô-si-teng) A screw.
-* 【羅絲鑽】(Lô-si-zuán) A screw.
-* 【釘咬】(Teng-kã) Nippers.
-* 【蛺蝶】(Hiáp-tiáp) A hinge.
+* 【羅絲轉】(Lô-si-zuán) A screw.
+* 【釘鉸】(Teng-kã) Nippers.
+* 【葉鍱】(Hiáp-tiáp) A hinge.
 * 【白油】(Péh-iû) White paint.
 * 【烏油】(Ou-iû) Tar.
 * 【桐油】(Thâng-iû) China varnish.
@@ -187,7 +187,7 @@ date: 2022-11-20 23:22:00
 * 【絲線】(Si-sùaⁿ) Silk thread.
 * 【銅指】(Tâng-tsóiⁿ) A thimble.
 * 【鉸刀】(Ka-to) Scissors.
-* 【縫衫藥鬼】(Thīⁿ-saⁿ iéh-kúi) A sewing machine.
+* 【縫衫藥機】(Thīⁿ-saⁿ iéh-kúi) A sewing machine.
 * 【尺】(Chhieh) A measure.
 * 【布尺】(Pòu-chhieh) A tape-line, or cloth measure.
 * 【縫】(Thīⁿ) To sew.
@@ -196,12 +196,12 @@ date: 2022-11-20 23:22:00
 * 【鉸】(Ka) To cut with scissors.
 * 【做衫褲】(Tsò-saⁿ-khòu) To make clothes.
 * 【鉸衫褲】(Ka-saⁿ-khòu) To cut out a dress.
-* 【裡】(Koih) Lining.
-* 【綑】(Kún) To braid.
+* 【夾】(Koih) Lining.
+* 【緄】(Kún) To braid.
 * 【補】(Póu) To patch.
-* 【太緊】(Khah-kin) Too tight.
-* 【太狹】(Khah-oíh) Too narrow.
-* 【太闊】(Khah-khuah) Too loose.
+* 【較緊】(Khah-kin) Too tight.
+* 【較狹】(Khah-oíh) Too narrow.
+* 【較闊】(Khah-khuah) Too loose.
 
 ### Accounts.
 
@@ -218,7 +218,7 @@ date: 2022-11-20 23:22:00
 * 【收數】(Siu-siòu) To collect accounts.
 * 【押數】(Ap-siòu) To balance accounts between two persons.
 * 【面會】(Mīn-hũe) To meet together (so as to see if the accounts of each other correspond.)
-* 【䰗數】(Khou-siòu) Closed accounts.
+* 【箍數】(Khou-siòu) Closed accounts.
 * 【數完】(Siòu uân) Accounts paid up.
 * 【數還淸】(Siòu hôiⁿ-chheng) Accounts paid up.
 * 【計共】(Kòi-kāng) Amount.
@@ -240,8 +240,8 @@ date: 2022-11-20 23:22:00
 * 【日子】(Jít-chí) Dates.
 * 【算盤】(Sǹg-pûaⁿ) Abacus.
 * 【敲算盤】(Khà-sǹg-pûaⁿ) To reckon on the abacus.
-* 【籜算盤】(Kiah-sǹg-pûaⁿ) To reckon on the abacus.
-* 【算總】(Sǹg-bûa) To add.
+* 【揭算盤】(Kiah-sǹg-pûaⁿ) To reckon on the abacus.
+* 【算摩】(Sǹg-bûa) To add.
 * 【除】(Tṳ̂) To subtract.
 * 【乘】(Sêng) To multiply.
 * 【分】(Pun) To divide.
@@ -262,8 +262,8 @@ date: 2022-11-20 23:22:00
 * 【Capital】(Pńg-chîⁿ) 本錢
 * 【Cash】(Chîⁿ) 錢
 * 【„ ready】(Hiēn-chîⁿ) 現錢
-* 【Change, money】(Táu) 找
-* 【Cheap】(Phiⁿ) 偏
+* 【Change, money】(Táu) 倒
+* 【Cheap】(Phiⁿ) 便
 * 【Commission】(Thiu-hùn) 抽分
 * 【Compensate】(Pûe) 賠
 * 【Costly】(Tát-chiⁿ) 値錢
@@ -290,9 +290,9 @@ date: 2022-11-20 23:22:00
 * 【Interest】(Lāi-chîⁿ) 利錢
 * 【Invest, to】(Lóh-pńg) 落本
 * 【Lend, to】(Chieh) 借
-* 【Loss, in commerce】(Síh-pńg) 缺本
+* 【Loss, in commerce】(Síh-pńg) 蝕本
 * 【Money】(Chiⁿ, chiⁿ-ngṳ̂u) 錢　錢銀
-* 【„ changer】(Táu-chiⁿ-hâng, táu-toh-kūiⁿ) 找錢行　找桌櫃
+* 【„ changer】(Táu-chiⁿ-hâng, táu-toh-kūiⁿ) 倒錢行　倒桌櫃
 * 【„ lender】(Pàng-seⁿ-chè, pàng-seⁿ-siòu) 放生債　放生數
 * 【Mortgage, to】(Tǹg, tóiⁿ) 當　典
 * 【„ deed】(Tóiⁿ-khòi) 典契
@@ -326,7 +326,7 @@ date: 2022-11-20 23:22:00
 * 【Agreement, make an】(Tsò-háp-tâng, háp-ieh) 做合同　合約
 * 【Arbitrator, an】(Kong-chhin) 公親
 * 【Arbitrate, to】(Tsò-kong-chhin) 做公親
-* 【Assistant, an】(Jī-chhiú) 次手
+* 【Assistant, an】(Jī-chhiú) 二手
 * 【Auction】(Khà-lōi-long) 和黎郞
 * 【Bale, a】(Khún) 綑
 * 【Barter, to】(Hùe uāⁿ hùe) 貨換貨
@@ -334,26 +334,26 @@ date: 2022-11-20 23:22:00
 * 【Broker, a】(Phah-khang) 拍空
 * 【Bundle, a】(Pau) 包
 * 【Business】(Sṳ̄, seng-lí) 事　生理
-* 【Busy】(M̄-ôiⁿ, sṳ̄ tsōi) 毋暇　事㩼
+* 【Busy】(M̄-ôiⁿ, sṳ̄ tsōi) 毋閒　事㩼
 * 【Cargo】(Hùe) 貨
 * 【Cask, a】(Tháng) 桶
 * 【Certificate, a】(Phêng-tuaⁿ) 憑單
 * 【Charter a ship】(Pák-tsûn) 縛船
 * 【Charter bond】(Pák-tsûn kâi-jī) 縛船其字
-* 【Cheat, in commerce】(Tshuah) 棳
+* 【Cheat, in commerce】(Tshuah) 掇
 * 【Chest, a】(Sieⁿ) 箱
 * 【Chop, a】(Jī-hō) 字號
 * 【Commerce】(Seng-lí) 生理
 * 【Commissioner of Customs】(Sùe-bũ-si) 稅務司
 * 【Commodity】(Hùe) 貨
-* 【Compradore】(Kau-tshài-kuán) 高菜館
+* 【Compradore】(Kau-tshài-kuán) 高菜館?
 * 【Confiscate, to】(Tshong-kong) 充公
-* 【Consign a vessel】(Tsûn kua hâng) 船倚行
+* 【Consign a vessel】(Tsûn kua hâng) 船倚行?
 * 【Contract】(Háp-táng) 合約
 * 【Correspondence】(Phoi-sìn) 批信
 * 【Courier】(Tshoiⁿ lí-bé, tsáu-bûn-tsṳ) 千里馬　走文書
-* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交易其儂
-* 【Defraud】(Tshuah) 騙
+* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交關其儂
+* 【Defraud】(Tshuah) 掇
 * 【Demurrage】(Thiap-kùe-hãn kâi-ngṳ̂n) 貼過限其銀
 * 【Dissolve partnership】(Thiah-húe-kì) 拆夥計
 * 【Duty, (Customs,)】(Hiàng) 餉
@@ -363,10 +363,10 @@ date: 2022-11-20 23:22:00
 * 【Employment】(Thâu-lōu, sṳ̄) 頭路　事
 * 【Estate, (lands and houses,)】(Súaⁿ-ngiáp) 產業
 * 【„ (properties of all kinds,)】(Ke-húe) 家伙
-* 【Estimate, to】(Kóu-kè, pān) 估價　酌
+* 【Estimate, to】(Kóu-kè, pān) 估價　酌?
 * 【Examine, to】(Chhê-thóiⁿ) 查睇
 * 【Exhibit, to, (goods,)】(Pái) 擺
-* 【Exorbitant price】(Kùi-tsãi) 盡貴
+* 【Exorbitant price】(Kùi-tsãi) 貴在
 * 【Exports】(Tshut-kháu-hùe) 出口貨
 * 【Farm, to】(Pák) 縛
 * 【Godown, a】(Tsàn-páng) 棧房
@@ -389,7 +389,7 @@ date: 2022-11-20 23:22:00
 * 【„ price】(Háng-chhêng) 行情
 * 【Merchandise】(Hùe) 貨
 * 【Merchant, a】(Kheh-siang) 客商
-* 【Miscellaneous】(Lân-san, tshàm-tshùi) 零些　微末
+* 【Miscellaneous】(Lân-san, tshàm-tshùi) 零些　零碎
 * 【Monthly】(Guéh-guéh) 月月
 * 【News】(Sin-bũn, sié-sit) 新聞　消息
 * 【Newspaper】(Sin-bũn-tsúa) 新聞紙
@@ -402,7 +402,7 @@ date: 2022-11-20 23:22:00
 * 【Partner, a】(Húe-kì) 夥計
 * 【Passport, a】(Lōu-phiè) 路票
 * 【Postage】(Chiú-chîⁿ) 酒錢
-* 【Purchase, to】(Bói, kau-kuan) 買　交易
+* 【Purchase, to】(Bói, kau-kuan) 買　交關
 * 【„ stock in trade】(Phah-phòu) 拍舖
 * 【Register, to】(Chhiam-miâⁿ) 簽名
 * 【Retail, to】(Lân-san-bōi) 零些賣
@@ -416,16 +416,16 @@ date: 2022-11-20 23:22:00
 * 【Share, a】(Hūn) 分
 * 【Shop, a】(Phòu) 舖
 * 【„ proprietor of】(Tshâi-tsú) 財主
-* 【Shops, respectable】(Phòu-thâu) 鋪頭
+* 【Shops, respectable】(Phòu-thâu) 舖頭
 * 【Sign-board, a】(Chie-pâi) 招牌
 * 【Telegraph, line】(Tiẽn-pò-sùaⁿ) 電報線
 * 【Telegram】(Tiẽn-pò) 電報
 * 【Trade, a】(Seng-lí) 生理
-* 【„ brisk】(Seng-lí jiét) 生理鬧
+* 【„ brisk】(Seng-lí jiét) 生理熱
 * 【„ dull】(Bô-seng-lí) 無生理
 * 【Tradesman, a】(Seng-lí-nâng) 生理儂
 * 【Transaction, business】(Kau-kùa, bói-bōi) 交掛　買賣
-* 【Undersell, to】(Bōi-phiⁿ--nâng) 賣平伊儂
+* 【Undersell, to】(Bōi-phiⁿ--nâng) 賣平儂
 * 【Unprofitable】(Oh-thàn) 難趁
 * 【Wages】(Kang-chîⁿ) 工錢
 * 【Wholesale, buy】(Bói-chiēⁿ-pûaⁿ) 買上盤
