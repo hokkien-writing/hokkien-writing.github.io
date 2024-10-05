@@ -99,8 +99,8 @@ date: 2022-11-20 23:22:00
 * 【烏墨】(Ou-bák) Ebony.
 * 【象牙】(Chhiẽⁿ-gê) Elephant's teeth.
 * 【毛扇】(Môⁿ-sîⁿ) Fans, feather.
-* 【鱟壳扇】(Hâu-khak-sîⁿ) „ cloth.
-* 【葵扇】(Kûe-sîⁿ) „ palm-leaf.
+* 【鱟壳扇】(Hâu-khak-sîⁿ) Fans, cloth.
+* 【葵扇】(Kûe-sîⁿ) Fans, palm-leaf.
 * 【佚佗物】(Thih-thô-muéh) Fancy articles.
 * 【雞毛筅】(Koi-môⁿ-tshóiⁿ) Feather-duster.
 * 【魚肚】(Hṳ̂-tõu) Fishmaws.
@@ -301,7 +301,7 @@ date: 2022-11-20 23:22:00
 * 【Mortgagee】(Tǹg-tsú) 當主
 * 【Owe】(Khiàm) 欠
 * 【Payment, punctual】(Bô-thua-khiàm) 無拖欠
-* 【„ non-punctual, (at time specified)】(Kùe-hãn) 過限
+* 【Payment, non-punctual, (at time specified)】(Kùe-hãn) 過限
 * 【Premium】(Ngṳ̂n-tsúi) 銀水
 * 【Price】(Kè-chîⁿ) 價錢
 * 【„ current】(Hâng-chhêng) 行情

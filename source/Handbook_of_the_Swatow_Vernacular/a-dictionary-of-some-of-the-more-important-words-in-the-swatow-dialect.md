@@ -501,7 +501,7 @@ date: 2022-11-20 23:55:00
 * 【Colloquial】(Péh-uē; thóu-thâm) 白話　土談
 * 【Colour】(Sek; sek-tsúi) 色　色水
 * 【Comb】(Siu; tsha-siu) 梳　柴梳
-* 【„ Chinese small-tooth】(Sat-pìn) 虱箆
+* 【Comb, Chinese small-tooth】(Sat-pìn) 虱箆
 * 【Combustible】(Õi-tóh-húe) 會着火
 * 【Comet】(Sàu-soi-chheⁿ) 掃菷星
 * 【Comfort】(Uaⁿ-uè) 安慰
@@ -1005,7 +1005,7 @@ date: 2022-11-20 23:55:00
 * 【Hunt】(Phah-láh) 拍獵
 * 【Hurt】(Sieⁿ; sieⁿ-tiéh) 傷　傷着
 * 【Husk】(Khak) 壳
-* 【„ as of cocoa-nut】(Sui) 榱
+* 【Husk, as of cocoa-nut】(Sui) 榱
 * 【Hut】(Tshù-kiáⁿ) 厝囝
 * 【Idle】(Tũaⁿ) 惰
 * 【Idol】(Lãu-iâ) 老爺
