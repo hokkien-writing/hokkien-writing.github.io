@@ -88,7 +88,7 @@ date: 2022-11-15 21:43:00
 * 【Leave, (service.)】(Hiah) 歇
 * 【Lend】(Chieh) 借
 * 【Let, (a house.)】(Sùe) 稅
-* 【Lie, (to tell an untruth.)】(Hue-niouⁿ) 花話
+* 【Lie, (to tell an untruth.)】(Hue-niouⁿ) 花貓
 * 【Lie down】(Tó) 倒
 * 【Light, (lamps.)】(Tiám) 點
 * 【Live, (reside.)】(Khiā-khí, tiū) 徛起  居
