@@ -223,8 +223,8 @@ date: 2022-11-20 21:59:00
 * 【牀布佮手巾垃圾好換】(Tshn̂g-pòu kah chhiú-kṳn nah-sap hó-uāⁿ) The table-cloth and the napkins may be changed, if they are dirty.
 * 【調雞湯個匙。拭就好。不可磨】(Ié-koi-thng kâi-sî chhit chiũ-hó, m̄-móⁿ chhiù) Just wipe the soup ladle, you must not rub it.
 * 【茶鍾有幾個】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
-* 【有五個而已】(Ũ ngõu-kâi tiāⁿ-tiāⁿ) There are only five.
-* 【五個而已。加一個乞底誰敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
+* 【有五個定定】(Ũ ngõu-kâi tiāⁿ-tiāⁿ) There are only five.
+* 【五個定定。加一個乞底誰敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
 * 【我哩毋知】(Uá li m̄-tsai) I don't know.
 * 【汝怎呢好毋知。物件是汝管的】(Lṳ́ tsò-nîⁿ hó m̄-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi) How is it you don't know, the things are in your charge.
 * 【我煩惱。我哩割汝的工錢】(Uá huân-ló, uá li kuah lṳ́ kâi kang-chiⁿ) I don't care, I will cut your wages.
