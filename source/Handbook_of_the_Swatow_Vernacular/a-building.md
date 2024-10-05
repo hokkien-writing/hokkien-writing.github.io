@@ -38,9 +38,9 @@ date: 2022-11-20 21:38:00
 * 【此枝柱大枝】(Chí-ki thiõu tuā-ki) This pillar is large.
 * 【塗腳的紅磚破】(Thôu-kha kâi âng-tsng phùa) The bricks of the floor are broken.
 * 【叫司阜來補】(Kiè sai-pẽ lâi póu) Call the builder to mend them.
-* 【塗腳每個禮拜着洗一次】(Thôu-kha chék-kâi lói-pài tiéh sói chék-ē) The floor must be washed once a week.
+* 【塗腳一個禮拜着洗一次】(Thôu-kha chék-kâi lói-pài tiéh sói chék-ē) The floor must be washed once a week.
 * 【樓頂樓枋亦是此樣生】(Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ) The floor up-stairs the same.
-* 【每個禮拜着洗淸潔淸潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
+* 【個個禮拜着洗淸潔淸潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
 * 【灰埕亦着洗】(Hue-tiâⁿ iā tiéh sói) The lime floor must be washed.
 * 【此塊排明起早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
 * 【我欲作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
@@ -138,7 +138,7 @@ date: 2022-11-20 21:38:00
 * 【有的舖三四沿危】(Ũ-kâi phòu saⁿ-sì în kûiⁿ) Some shops there are three or four stories high.
 * 【汝在彼有幾間厝】(Lṳ́ tõ-hié ũ kúi-koiⁿ tshù?) How many houses have you there?
 * 【我在彼有一間】(Uá tõ-hié ũ chék-koiⁿ) I have one house there.
-* 【每個月稅一百個銀】(Chék-kâi guéh sùe chék-peh kâi ngṳ̂n) It is let at $100 a month.
+* 【一個月稅一百個銀】(Chék-kâi guéh sùe chék-peh kâi ngṳ̂n) It is let at $100 a month.
 
 ------
 

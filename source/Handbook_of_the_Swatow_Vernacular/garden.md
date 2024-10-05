@@ -56,4 +56,4 @@ date: 2022-11-20 22:01:00
 * 【茶花有開花亞未】(Tê-hue ũ khui-hue a-būe?) Have the camellias begun to blossom?
 * 【未。有蕊而已】(Būe, ũ lúi tiāⁿ-tiāⁿ) No, there are only buds.
 * 【若是開伊的花是雅在】(Nāⁿ-sĩ khui i kâi hue sĩ ngiá-tsãi) If the flowers blow they will be very pretty.
-* 【每明早欲食着摘花擺放牀頂】(Pâi-mêng-khí àiⁿ-chiáh tiéh tiah-hue pái pàng tshn̂g-téng) Every morning at breakfast you must pluck some flowers and place them on the table.
+* 【排眠起欲食着摘花擺放牀頂】(Pâi-mêng-khí àiⁿ-chiáh tiéh tiah-hue pái pàng tshn̂g-téng) Every morning at breakfast you must pluck some flowers and place them on the table.

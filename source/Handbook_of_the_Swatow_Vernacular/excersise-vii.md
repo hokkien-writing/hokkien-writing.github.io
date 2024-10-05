@@ -186,7 +186,7 @@ date: 2022-11-16 20:16:00
 ------
 * 【明眠起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
 * 【汝不可夗到日晏正走起】(Lṳ́ m̄-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
-* 【着早者】(Tiéh tsá--chē) You must be early.
+* 【着早些】(Tiéh tsá--chē) You must be early.
 * 【今。汝着憶得】(Taⁿ, lṳ́ tiéh it-tit) Now, you must remember.
 * 【不可毋憶得】(M̄-móⁿ m̄-it-tit) Don't forget.
 * 【好。我天光就欲走起】(Hó. Uá thiⁿ-kng chiũ àiⁿ tsáu-khí) Very well. As soon as day-break I will get up.

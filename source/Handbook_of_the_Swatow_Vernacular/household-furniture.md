@@ -138,12 +138,12 @@ date: 2022-11-20 21:59:00
 
 ------
 
-* 【眠牀每明早着物好】(Mīn-tshn̂g pâi-mêng-khí tiéh muéh-hó) Every morning the bed must be put right.
+* 【眠牀排眠起着物好】(Mīn-tshn̂g pâi-mêng-khí tiéh muéh-hó) Every morning the bed must be put right.
 * 【褥挈去晒】(Zók khiéh khṳ̀ phák) Take the mattress and put it in the sun.
 * 【枕頭亦着晒】(Chím-thâu iā tiéh phák) The pillows must be aired too.
 * 【蠓帳垃圾了。着乞洗衫的洗】(Máng-tiàⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
-* 【眠牀白布每個禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
-* 【枕頭囊亦着每個禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
+* 【眠牀白布一個禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
+* 【枕頭囊亦着排個禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
 * 【被不可洗較業】(Phũe m̄-móⁿ sói khah-giáp) Bed-clothes shouldn't be washed too often.
 * 【洗較業袂燒】(Sói khah-giáp bõi-sie) (If) washed too often they will not be warm.
 * 【眠牀拂蠓。了蠓帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
@@ -166,7 +166,7 @@ date: 2022-11-20 21:59:00
 * 【有温水亞無】(Ũ sie-tsúi a-bô?) Is there hot water?
 * 【無。我來去燃】(Bô, uá lâi khṳ̀-hiâⁿ) No, I will go and boil (some.)
 * 【汝的面有抹粉亞無】(Lṳ́ kâi mīn ũ buah-hún a-bô?) Do you put powder on your face?
-* 【無。我每日用花露水】(Bô, uá jít-jít ēng hue-lōu-tsúi) No, I use lavender water every day.
+* 【無。我日日用花露水】(Bô, uá jít-jít ēng hue-lōu-tsúi) No, I use lavender water every day.
 
 ### Dining Room.
 

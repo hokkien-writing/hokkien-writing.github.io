@@ -29,7 +29,7 @@ date: 2022-11-17 23:28:00
 * 【汝下個拜一來】(Lṳ́ ẽ-kâi pài-it lâi) You come on Monday next.
 * 【我此個禮拜毋閒在】(Uá chí-kâi lói-pài m̄-ôiⁿ tsãi) I am very busy this week.
 * 【我明起的事㩼在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
-* 【先生汝明起早者來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
+* 【先生汝明起早些來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
 * 【我欲讀零些。了汝好轉來】(Uá àiⁿ-ták lân-ló, lióu lṳ́ hó-tńg--khṳ̀) I will read a little, and then you can go.
 * 【拜三先生汝免用來】(Pài-saⁿ sin-seⁿ lṳ́ mín-ēng lâi) On Wednesday, teacher, you needn't come.
 * 【拜四我毋在】(Pài-sì uá m̄-tõ) I shan't be at home on Thursday.

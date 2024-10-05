@@ -1781,7 +1781,7 @@ date: 2022-11-20 23:55:00
 * 【Starch】(Chieⁿ) 樟
 * 【„ to】(Kùe-chieⁿ) 過樟
 * 【Start, on a journey】(Khí-sin; khí-kiâⁿ) 起身　起行
-* 【Startled】(Hehⁿ--chē-kiè) 驚訝
+* 【Startled】(Hehⁿ--chē-kiè) 嚇一下叫
 * 【Starve】(Gō) 餓
 * 【Statesman】(Chhîn; tāi-chhîn) 臣　大臣
 * 【Statue】(Sièⁿ) 像
@@ -1855,7 +1855,7 @@ date: 2022-11-20 23:55:00
 * 【Successive】(Sie-sùa) 相接
 * 【Suck】(Kuh) 吸
 * 【„ with the mouth, with noise】(Tsuh) 哺
-* 【Suddenly】(Huh--chē-kiè; hó-sĩ-sĩ) 忽然間　好是是
+* 【Suddenly】(Huh--chē-kiè; hó-sĩ-sĩ) 忽一下叫　好是是
 * 【Suffer】(Siũ-khóu) 受苦
 * 【Sufficient】(Kàu; là) 夠  𤰉
 * 【Suffocate】(Hip-sí) 翕死
