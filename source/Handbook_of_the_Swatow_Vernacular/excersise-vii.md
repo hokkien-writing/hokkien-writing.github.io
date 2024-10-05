@@ -35,7 +35,7 @@ date: 2022-11-16 20:16:00
 * 【天下是闊】(Thiⁿ-ẽ sĩ khuah) The world is broad.
 * 【上帝在天。儂在地】(Siãng-tì tõ thiⁿ, nâng tõ tĩ.) God is in heaven, and men are on earth.
 * 【天在上。地在下】(Thiⁿ tõ chīeⁿ, tī tò ẽ) Heaven is above, and earth is below.
-* 【山是高。海是深】(Suaⁿ sĩ tûiⁿ, hái sĩ chhim) Mountains are high, and seas are deep.
+* 【山是危。海是深】(Suaⁿ sĩ kûiⁿ, hái sĩ chhim) Mountains are high, and seas are deep.
 * 【大海的水藍】(Tūa-hái kâi tsúi nâm) The waters of the oceans are blue.
 * 【海墘有儂行】(Hái-kîⁿ ũ nâng kiáⁿ) There are people walking on the sea-side.
 * 【塗袂肥】(Thôu bōi-pûi) The soil is not fertile.
@@ -71,7 +71,7 @@ date: 2022-11-16 20:16:00
 * 【未】(Būe) Not yet.
 * 【月無日彼樣光】(Guéh bô jít hièⁿ-kng) The moon is not so bright as the sun.
 * 【月在浮】(Guéh tõ phû) The moon is rising.
-* 【款款高】(Khuaⁿ-khuaⁿ kûiⁿ) It is getting higher and higher by degrees.
+* 【款款危】(Khuaⁿ-khuaⁿ kûiⁿ) It is getting higher and higher by degrees.
 * 【星灼灼晃】(Chheⁿ iáp-iáp-sih) The stars are twinkling.
 * 【風大】(Huang tūa) The wind is blowing hard.
 * 【彼欉大樹乞風吹倒去】(Hṳ́-tsâng tū-a-chhiū khoih huang tshue tó--khṳ̀) That large tree has been blown down by the wind.

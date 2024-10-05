@@ -1905,7 +1905,7 @@ date: 2022-11-20 23:55:00
 * 【Tailor】(Tshâi-hông) 裁縫
 * 【Tale】(Kóu) 古
 * 【Talisman】(Hû) 符
-* 【Tall】(Kûiⁿ) 高
+* 【Tall】(Kûiⁿ) 危
 * 【Tally, a】(Chhiam) 籤
 * 【Tame】(Sék) 熟
 * 【Target】(Pá; chìⁿ-pá) 靶　箭靶

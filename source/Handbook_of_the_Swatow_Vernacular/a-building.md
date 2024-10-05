@@ -134,8 +134,8 @@ date: 2022-11-20 21:38:00
 * 【汕頭埠有市亞無】(Suaⁿ-thâu-pou ũ chhĩ a-bô?) Is there any market in the town of Swatow?
 * 【各個埠頭都有市】(Kâi-kâi pou-thâu tou ũ chhĩ) There is a market in every town.
 * 【香港有大行】(Hiang-káng ũ tūa-hâng) There are large hongs in Hong Kong.
-* 【在彼個舖高大】(Tõ-hié kâi phòu kûiⁿ-tūa) The shops there are high and large.
-* 【有的舖三四沿高】(Ũ-kâi phòu saⁿ-sì în kûiⁿ) Some shops there are three or four stories high.
+* 【在彼個舖危大】(Tõ-hié kâi phòu kûiⁿ-tūa) The shops there are high and large.
+* 【有的舖三四沿危】(Ũ-kâi phòu saⁿ-sì în kûiⁿ) Some shops there are three or four stories high.
 * 【汝在彼有幾間厝】(Lṳ́ tõ-hié ũ kúi-koiⁿ tshù?) How many houses have you there?
 * 【我在彼有一間】(Uá tõ-hié ũ chék-koiⁿ) I have one house there.
 * 【每個月稅一百個銀】(Chék-kâi guéh sùe chék-peh kâi ngṳ̂n) It is let at $100 a month.
