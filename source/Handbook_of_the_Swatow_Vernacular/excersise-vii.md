@@ -69,7 +69,7 @@ date: 2022-11-16 20:16:00
 ------
 * 【日出亞未】(Jít tshut a-būe?) Has the sun risen?
 * 【未】(Būe) Not yet.
-* 【月無日向光】(Guéh bô jít hièⁿ-kng) The moon is not so bright as the sun.
+* 【月無日彼樣光】(Guéh bô jít hièⁿ-kng) The moon is not so bright as the sun.
 * 【月在浮】(Guéh tõ phû) The moon is rising.
 * 【款款高】(Khuaⁿ-khuaⁿ kûiⁿ) It is getting higher and higher by degrees.
 * 【星灼灼晃】(Chheⁿ iáp-iáp-sih) The stars are twinkling.
@@ -110,17 +110,17 @@ date: 2022-11-16 20:16:00
 ------
 * 【冰霜是寒在】(Piaⁿ-sng sĩ ngân-tsãi) Ice is very cold?
 * 【雪敢是愈寒】(Soh kàⁿ-sĩ zú-ngân) Snow is perhaps colder.
-* 【咱此處罕得有雪】(Nán--chié hán--tit ũ soh) We seldom have snow at our place here.
+* 【咱此塊罕得有雪】(Nán--chié hán--tit ũ soh) We seldom have snow at our place here.
 * 【日一出濛烟就散】(Jít chék-ē tshut mông-in chiũ-sùaⁿ) When the sun rises the mist disperses.
 * 【樹無露水袂活】(Chhiū bô lōu-tsúi bõi-uáh) The trees will not grow without dew.
-* 【許久咱此處毋識有落雹】(Hoh-kú nán--chié m̄-pat ũ lóh-phák) For a long time we have not had hail here.
+* 【酷久咱此塊毋識有落雹】(Hoh-kú nán--chié m̄-pat ũ lóh-phák) For a long time we have not had hail here.
 * 【冬天磽囝儂是悽慘】(Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám) In Winter the poor are miserable.
 * 【富其儂哩穿煖】(Pù--kâi-nâng li chhēng-sie) But the rich are warmly clad.
 * 【冬天凊在】(Tang--thiⁿ chhin-tsãi) In Winter it is very cold.
 * 【夏天就熱】(Hē--thiⁿ chiũ-zuáh) But in Summer it is hot.
 * 【一年有四季】(Chék-nîⁿ ũ sì-khùi) There are four seasons in a year.
-* 【在祖家夏天無此處向熱】(Tõ Tsóu-ke Hē--thiⁿ bô chié hi èⁿ-zuáh) In England the Summer is not so hot as here.
-* 【冬天愈凊此處】(Tang--thiⁿ zú-chhìn chié) In Winter it is colder than here.
+* 【在祖家夏天無此塊彼樣熱】(Tõ Tsóu-ke Hē--thiⁿ bô chié hièⁿ-zuáh) In England the Summer is not so hot as here.
+* 【冬天愈凊此塊】(Tang--thiⁿ zú-chhìn chié) In Winter it is colder than here.
 * 【在祖家一年春天是上好】(Tõ tsóu-ke chék-nîⁿ Tshun--thiⁿ sĩ siãng-hó) In England Spring is the best of the year.
 * 【春天到來草攏總發】(Tshun--thiⁿ kàu--lâi, tsháu lóng-tsóng huat) When Spring comes, all the grass grow.
 
@@ -145,21 +145,21 @@ date: 2022-11-16 20:16:00
 * 【明早有儂來亞無】(Mêng-khí ũ nâng lâi a-bô?) Did any body come this morning?
 * 【汝知亞毋知】(Lṳ́ tsai a m̄-tsai?) Do you know or not?
 * 【我毋知】(Uá m̄-tsai.) I don't know.
-* 【中午我毋在此處食】(Jít-tàu uá m̄-tõ chié chiáh.) I am not going to take dinner here at noon.
+* 【中午我毋在此塊食】(Jít-tàu uá m̄-tõ chié chiáh.) I am not going to take dinner here at noon.
 * 【我中午欲去乞儂請】(Uá jít-tàu àiⁿ-khṳ̀ khoih-nâng-chhiáⁿ) I am invited out for noon.
-* 【汝何時正欲轉來】(Lṳ́ tiang-sî chiàⁿ-àiⁿ tńg--lâi?) When will you come back?
+* 【汝底當時正欲轉來】(Lṳ́ tiang-sî chiàⁿ-àiⁿ tńg--lâi?) When will you come back?
 * 【夜昏正轉來】(Mêⁿ-hng chiàⁿ-tńg--lâi) I shall not be back until to-night.
 * 【亞者下旰亦毋知】(Pa-lak ẽ-kùa iā m̄-tsai) Perhaps in the afternoon, but I don't know.
 * 【今夜伊毋在】(Ke-mêⁿ i m̄-tõ) He shall not be at home to-night.
-* 【夜昏囝伊欲來我此處】(Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò) He is coming to my place to-night.
+* 【夜昏囝伊欲來我塊】(Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò) He is coming to my place to-night.
 * 【我請伊】(Uá chhiáⁿ i) I have invited him.
 * 【伊作有幾㩼日工】(I tsoh ũ jiéh-tsōi jít kang?) How many days' work has he done?
 * 【伊作有一個月】(I tsoh ũ chék-kâi guéh) He has worked one month.
 * 【伊日間作。夜間亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
 * 【伊其工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
 * 【日未暗】(Jít būe-àm) It is not yet dark.
-* 【汝夗到日向晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
-* 【下日汝不可夗到向晏】(Ê-jít lṳ́ m̄-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
+* 【汝夗到日彼樣晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
+* 【下日汝不可夗到彼樣晏】(Ê-jít lṳ́ m̄-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
 * 【日暗着去夗】(Jít àm tiéh khṳ̀-út) When it is late at night, you must go to bed.
 * 【勿到半夜正去夗】(Màiⁿ-kàu puàⁿ-méⁿ chiàⁿ-khṳ̀-út) Don't let it be midnight before you go to bed.
 * 【三更半夜勿去口】(Saⁿ-keⁿ puàⁿ-mêⁿ màiⁿ-khṳ̀-kháu) Don't go out at such a late hour at night.
@@ -182,7 +182,7 @@ date: 2022-11-16 20:16:00
 * 【排年】(Pâi-niⁿ) Yearly.
 * 【終久】(Tsong-kú) Always.
 * 【次次】(Tsūa-tsūa) Every occasion.
-* 【吓吓】(Ē-ē) Every occasion.
+* 【下下】(Ē-ē) Every occasion.
 ------
 * 【明眠起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
 * 【汝不可夗到日晏正走起】(Lṳ́ m̄-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.

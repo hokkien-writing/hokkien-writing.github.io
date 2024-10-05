@@ -2073,7 +2073,7 @@ date: 2022-11-20 23:55:00
 * 【Voice】(Siaⁿ) 聲
 * 【Volcano】(Húe-suaⁿ) 火山
 * 【Vomit】(Thòu) 吐
-* 【Vow, to】(Hẽ; hẽ-nguān) 吓　吓願
+* 【Vow, to】(Hẽ; hẽ-nguān) 許　許願
 * 【Wade, to】(Ẽ-tsúi) 下水
 * 【Wages】(Kang-chíⁿ) 工錢
 * 【Waist】(Ie) 腰

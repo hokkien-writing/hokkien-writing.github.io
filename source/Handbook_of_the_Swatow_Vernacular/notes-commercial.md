@@ -11,7 +11,7 @@ date: 2022-11-20 23:44:00
 * 【燭臺一對若㩼錢】(Chek-tâi chék-tùi jiéh-tsōi chîⁿ?) How much for a pair of these candle-sticks?
 * 【兩箍半】(Nõⁿ-khou-pùaⁿ) Two dollars and a half.
 * 【汝出若㩼】(Lṳ́ tshut jiéh-tsõi?) How much do you offer.
-* 【我此刻正在彼處買一對。箍七角半】(Uá chí-tsûn chiàⁿ-tõ hièⁿ-thâu bói chék-tùi, khou chhit-kak-pùaⁿ) I have just bought a pair from there for $1-75.
+* 【我此陣正在彼塊頭買一對。箍七角半】(Uá chí-tsûn chiàⁿ-tõ hiè-thâu bói chék-tùi, khou chhit-kak-pùaⁿ) I have just bought a pair from there for $1-75.
 * 【在底一間舖買】(Tõ tî-chék-koiⁿ phòu bói?) From which shop have you just bought them?
 <!--more-->
 * 【在順合隔壁】(Tõ Sũn-háh keh-piah) Next to (chop) Sun-hah.
@@ -30,7 +30,7 @@ date: 2022-11-20 23:44:00
 * 【花旗行倒賬了】(Hue-kî-hâng tó-tièⁿ--lō) The American firm is bankrupt.
 * 【葵扇一枝若㩼錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
 * 【一枝八個錢】(Ki poih-kâi chîⁿ) Eight cash each.
-* 【此賤時無生理】(Chí-chùaⁿ-sî bô seng-lí) My trade is very dull of late.
+* 【此些時無生理】(Chí-chùaⁿ-sî bô seng-lí) My trade is very dull of late.
 * 【恁其生理酷熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
 * 【四個銀。二式四個錢】(Sì-kâi-ngṳ̂n, nõⁿ-sek sì-kâi chîⁿ) Four dollars, twenty cents and four cash.
 * 【百五個錢】(Peh-ngõu kâi chîⁿ) Hundred and fifty cash.

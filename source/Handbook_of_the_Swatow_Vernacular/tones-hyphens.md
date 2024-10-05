@@ -33,12 +33,12 @@ The fifth becomes the fourth.
 The seventh becomes the eighth.
 The eighth becomes the seventh.
 As:—
-1. 何時 Tiang-sî, when, read Tiang-sî.
+1. 底當時 Tiang-sî, when, read Tiang-sî.
 2. 底塊 Tî-kò, where, „ Tī-kò.
-3. 許處 Hṳ́-kó, there, „ Hṳ̃-kò.
-4. 做年 Tsò-nîⁿ, why, „ Tsó-nîⁿ.
+3. 彼處 Hṳ́-kó, there, „ Hṳ̃-kò.
+4. 怎呢 Tsò-nîⁿ, why, „ Tsó-nîⁿ.
 5. 上好 Siãng-hó, best, „ Siàng-hó.
-6. 上午 Chiēⁿ-kùa, forenoon, „ Chiēⁿ-kùa.
+6. 上旰 Chiēⁿ-kùa, forenoon, „ Chiēⁿ-kùa.
 7. 失落 Sit-lóh, to lose, „ Sít-lóh.
 8. 落雨 Lóh-hõu, to rain, „ Loh-hõu.
 

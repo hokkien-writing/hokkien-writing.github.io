@@ -39,13 +39,13 @@ date: 2022-11-20 21:38:00
 * 【塗腳其紅磚破】(Thôu-kha kâi âng-tsng phùa) The bricks of the floor are broken.
 * 【叫司阜來補】(Kiè sai-pẽ lâi póu) Call the builder to mend them.
 * 【塗腳每個禮拜着洗一次】(Thôu-kha chék-kâi lói-pài tiéh sói chék-ē) The floor must be washed once a week.
-* 【樓頂樓枋亦是如是】(Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ) The floor up-stairs the same.
+* 【樓頂樓枋亦是此樣生】(Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ) The floor up-stairs the same.
 * 【每個禮拜着洗淸潔淸潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
 * 【灰埕亦着洗】(Hue-tiâⁿ iā tiéh sói) The lime floor must be washed.
-* 【此處無明朝早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
+* 【此塊排明起早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
 * 【我欲作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
 * 【汝叫司阜霎時來】(Lṳ́ kiè sai-pẽ khiã-tiām lâi) You tell the carpenter to come bye-and-bye.
-* 【佮伊呾我此處欲作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
+* 【佮伊呾我此塊欲作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
 * 【司阜其內在底塊汝知嗎】(Sai-pẽ kâi lãi tõ tî-kò lṳ́ tsai mē?) Do you know where the carpenter's place is?
 * 【知亞】(Tsai--a) Oh yes, I know.
 * 【熱在。我霎時正來去】(Zuáh-tsãi, uá khiã-tiām chiàⁿ-lâi-khṳ̀) It is very warm (now), I will go bye-and-bye.
@@ -75,7 +75,7 @@ date: 2022-11-20 21:38:00
 * 【門有關亞無】(Mn̂g ũ kueⁿ a-bô?) Did you shut the door?
 * 【有。關了我鎖定】(Ũ, kueⁿ-lióu uá só--tiāⁿ) Yes, after shutting I locked it.
 * 【鎖匙在底塊】(Só-sî tõ tî-kò?) Where is the key?
-* 【鎖匙在此處】(Só-sî tõ--chié?) Here's the key.
+* 【鎖匙在此塊】(Só-sî tõ--chié?) Here's the key.
 * 【汝其房其門有鎖嗎】(Lṳ́ kâi pâng kâi mn̂g ũ só mē?) Did you lock the door of your room?
 * 【我其房怎用鎖】(Uá kâi pâng tsò-ēng só) Why? my room needn't be locked.
 * 【廳有儂客亞無】(Thiaⁿ ũ nâng-kheh a-bô?) Are there any guests in the drawing room?
@@ -87,7 +87,7 @@ date: 2022-11-20 21:38:00
 * 【洗浴房有水亞無】(Sói-ék-pâng ũ tsúi a-bô?) Is there any water in the bath-room?
 * 【無。我來去擔】(Bô, uá lâi khṳ̀ taⁿ) No, I will go and carry some.
 * 【猛猛去。我欲洗浴】(Méⁿ-méⁿ khṳ̀, uá àiⁿ sói-ék) Go quickly, I am going to bathe.
-* 【此挈去囥放底塊】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
+* 【此個挈去囥放底塊】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
 * 【窗關玻璃免用關】(Theng kueⁿ, po-lî mín-ēng kueⁿ) Shut the window, you needn't shut the glass.
 * 【若是有雨鱟伯策就着關】(Naⁿ-sĩ ũ hõu hāu-peh-chheh chiũ tiéh-kueⁿ) If there is rain, then shut the venetians.
 * 【欲落樓梯勿乒乓叫】(Àiⁿ-lóh lâu-thui màiⁿ pĩn-põng-kiè) If you are coming down the stair-case, don't make a trampling noise.

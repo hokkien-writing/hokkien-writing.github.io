@@ -13,7 +13,7 @@ date: 2022-11-16 20:14:00
 * 【伊欲認嗎】(I àiⁿ-jīn mē?) Is he going to confess?
 * 【伊毋應】(I m̃-ìn) He won't answer.
 * 【伊欲詏】(I àiⁿ-à) He wants to argue.
-* 【汝何時到】(Lṳ́ tiang-sî kàu?) When did you arrive?
+* 【汝底當時到】(Lṳ́ tiang-sî kàu?) When did you arrive?
 * 【汝問底誰】(Lṳ́ mn̄g tî-tiâng?) Who are you asking?
 * 【我問汝】(Uá mn̄g lṳ́.) I ask you.
 * 【誰儂拍汝】(Tî-tiâng phah lṳ́?) Who beat you?
@@ -59,9 +59,9 @@ date: 2022-11-16 20:14:00
 
 ### section III.
 
-* 【彼挈分我】(Hiá khiéh-pun uá) Get me that.
+* 【彼個挈分我】(Hiá khiéh-pun uá) Get me that.
 * 【底個】(Tî-kâi?) What is it?
-* 【是此亞毋是】(Sĩ chiá a m̄-sĩ?) Is this it?
+* 【是此個亞毋是】(Sĩ chiá a m̄-sĩ?) Is this it?
 * 【就是】(Chiũ-sĩ) That is it.
 * 【挈來】(Khiéh--lài) Bring it here.
 * 【感謝】(Kám-siā) Thank you.
@@ -82,12 +82,13 @@ date: 2022-11-16 20:14:00
 * 【此個借我】(Chí--kâi chieh uá) Lend me this.
 * 【袂使】(Bõi-sái) That won't do.
 * 【我自己欲用】(Uá ka-kī àiⁿ-ēng) I want to use it myself.
-* 【此我毋曉怎呢作】(Chiá uá m̄-hióu tsò-nîⁿ muéh) I don't understand how to do this.
+* 【此個我毋曉怎呢物】(Chiá uá m̄-hióu tsò-nîⁿ muéh) I don't understand how to do this.
 * 【請汝佮我呾】(Chhiáⁿ lṳ́ kah uá tàⁿ) Please tell me.
 * 【來去佚佗】(Lâi-khṳ̀ thit-thô) Come let us go out to amuse ourselves.
-* 【咱勿由彼處過】(Nán màiⁿ tùi-hié kùe) Let us not pass by that way.
+* 【咱勿對彼塊過】(Nán màiⁿ tùi-hié kùe) Let us not pass by that way.
 * 【由此過】(Tùi-chié kùe) Pass by this way.
-* 【彼擇起來】(Hiá tóh--khí-lâi) Pick that up.
+* 【彼擇起來】(
+* tóh--khí-lâi) Pick that up.
 
 ### section IV.
 
@@ -106,7 +107,7 @@ date: 2022-11-16 20:14:00
 * 【我欲搬】(Uá àiⁿ-puaⁿ) I am going to remove.
 * 【欲搬去底塊】(Àiⁿ-puaⁿ khṳ̀ tî-kò?) Where are you going to remove to?
 * 【還了未知】(Huân-lióu būe-tsai) I don't know yet.
-* 【到何時正知】(Kàu tiang-sî chiàⁿ-tsai?) When will you know?
+* 【到底當時正知】(Kàu tiang-sî chiàⁿ-tsai?) When will you know?
 * 【汝若是欲搬。請汝佮我呾】(Lṳ́ nāⁿ-sĩ àiⁿ-puaⁿ chhíaⁿ lṳ́ kah uá tàⁿ) If you are going to remove, please tell me.
 * 【伊轉來亞未】(I tńg--lâi a-būe?) Has he come home?
 * 【未】(Būe) He hasn't.
@@ -119,5 +120,5 @@ date: 2022-11-16 20:14:00
 * 【伊來巡汝】(I lâi-sûn lṳ́) He comes to visit you.
 * 【請待】(Chhiáⁿ-táⁿ) Just wait please.
 * 【好】(Hó) Very Well.
-* 【此勿。捔掉】(Chiá màiⁿ, kák-tiòu) This is not wanted, throw it away.
+* 【此個勿。捔掉】(Chiá màiⁿ, kák-tiòu) This is not wanted, throw it away.
 * 【我袂寫】(Uá bõi-siá) I can't write.

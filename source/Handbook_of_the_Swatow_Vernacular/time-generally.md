@@ -61,7 +61,7 @@ date: 2022-11-17 23:28:00
 
 ------
 
-* 【今日底時】(Kiáⁿ-jít tiang-sî?) What is to day?
+* 【今日底當時】(Kiáⁿ-jít tiang-sî?) What is to day?
 * 【今日七月初一】(Kiáⁿ-jít chhit--guéh chhiu-it) To-day is the first of the seventh moon.
 * 【十一禮拜】(Tsáp-it lói-pài) The eleventh (Chinese month) will be Sunday.
 * 【是亞毋是】(Sĩ a m̄-sĩ?) Is it or is it not?
@@ -79,7 +79,7 @@ date: 2022-11-17 23:28:00
 * 【我若是知。我走起来睇】(Uá nāⁿ-sĩ tsai, uá tsáu-khí lâi-thóiⁿ) If I had known, I would have got up to see it.
 * 【汝昨日無佮我呾】(Lṳ́ tsa-jít bô kah uá tàⁿ) You didn't tell me yesterday.
 * 【我昨日毋記得佮汝呾】(Uá tsa-jít m̄-kì-tit kah lṳ́ tàⁿ) I forgot to tell you yesterday.
-* 【汝知日何時正蝕】(Lṳ́ tsai jít tiang-sî chiàⁿ-síh?) Do you know when there will be an eclipse of the sun?
+* 【汝知日底當時正蝕】(Lṳ́ tsai jít tiang-sî chiàⁿ-síh?) Do you know when there will be an eclipse of the sun?
 * 【毋知。我無歷日】(M̄-tsai, uá bô láh-jít) I don't know, I haven't got a calendar.
 * 【我昨夜終夜袂夗】(Uá tsa-mêⁿ thàng-mêⁿ bõi-út) I couldn't sleep the whole of last night.
 * 【巡更其儂昨夜無掌】(Chiéⁿ-keⁿ--kâi-nâng tsa-mêⁿ bô chiéⁿ) The watchman didn't watch last night.

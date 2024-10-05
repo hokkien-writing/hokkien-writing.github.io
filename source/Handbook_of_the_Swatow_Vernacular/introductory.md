@@ -40,17 +40,17 @@ date: 2022-11-15 21:43:00
 * 【此塊】(Chí-kò, chié) Here.
 * 【彼塊】(Hṳ́-kò, hié) There.
 * 【底塊】(Tî-kò) Where?
-* 【何時　底時】(Tiang-sî, tî-sî) When?
-* 【此個  此】(Chí-kâi, chiá) This.
-* 【彼個  彼】(Hṳ́-kâi, hiá) That.
+* 【底當時  底時】(Tiang-sî, tî-sî) When?
+* 【此個】(Chí-kâi, chiá) This.
+* 【彼個】(Hṳ́-kâi, hiá) That.
 * 【底一個　底個】(Tî-chék-kâi, tî-kâi) Which?
 * 【底個　是乜】(Tî-kâi, sĩ-mih) What?
 * 【怎呢】(Tsò-nîⁿ) Why?
 * 【因爲】(In-ûi) Because, on account of.
 * 【底誰】(Tî-tiâng) Who?
 * 【底誰其】(Tî-tiâng-kâi) Whose?
-* 【此賤個】(Chí-chùaⁿ-kâi) These.
-* 【彼賤個】(Hṳ́-chùaⁿ-kâi) Those.
+* 【此些個】(Chí-chùaⁿ-kâi) These.
+* 【彼些個】(Hṳ́-chùaⁿ-kâi) Those.
 * 【怎呢　若】(Tsò-nîⁿ, jiéh) How?
 * 【此樣生】(Chièⁿ-seⁿ) Like this, thus.
 * 【彼樣生】(Hièⁿ-seⁿ) Like that.
@@ -82,7 +82,7 @@ date: 2022-11-15 21:43:00
 * 【我在此塊】(Uá tõ chí-kò) I am here,
 * 【汝在彼塊】(Lṳ́ tõ hṳ́-kò) You are there.
 * 【伊在底塊】(I tõ tî-kò?) Where is he?
-* 【恁何時去】(Nín tiang-sî khṳ̀?) When did you go?
+* 【恁底當時去】(Nín tiang-sî khṳ̀?) When did you go?
 * 【此個是底個】(Chí-kâi sĩ tî-kâi?) What is this?
 * 【彼個我勿】(Hṳ́-kâi uá màiⁿ) I don't want that one.
 * 【汝欲底一個】(Lṳ́ àiⁿ tî-chék-kâi?) Which do you want?
@@ -91,8 +91,8 @@ date: 2022-11-15 21:43:00
 * 【是因爲怎呢】(Sĩ in-ûi tsò-nîⁿ?) For what reason?
 * 【汝是底誰】(Lṳ́ sĩ tî-tiâng?) Who are you?
 * 【此是底誰其】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
-* 【此賤個毋是】(Chí-chùaⁿ-kâi m̄-sĩ) These are not them.
-* 【彼賤個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
+* 【此些個毋是】(Chí-chùaⁿ-kâi m̄-sĩ) These are not them.
+* 【彼些個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
 * 【汝有若㩼】(Lṳ́ ũ jiéh-tsōi?) How much have you?
 * 【汝有若㩼個】(Lṳ́ ũ jiéh-tsōi kâi?) How many have you?
 * 【是此樣生】(Sĩ chièⁿ-seⁿ) It is like this.
@@ -102,8 +102,8 @@ date: 2022-11-15 21:43:00
 
 * 【伊還了未去】(I huân-lióu būe-khṳ̀) He hasn't gone yet.
 * 【此個佮彼個】(Chí-kâi kah hṳ́-kâi) This one and that one.
-* 【此毋是】(Chía m̄-sĩ) This is not it.
-* 【彼就是】(Hiá chiũ-sĩ) That is it.
+* 【此個毋是】(Chía m̄-sĩ) This is not it.
+* 【彼個就是】(Hiá chiũ-sĩ) That is it.
 * 【汝亦有】(Lṳ́ iā ũ) You have got it too.
 * 【從底塊到底塊】(Tshông tî-kò kàu tî-kò?) From where to where?
 * 【在此塊到彼塊】(Tõ chí-kò kàu hṳ́-kò) From here to there.

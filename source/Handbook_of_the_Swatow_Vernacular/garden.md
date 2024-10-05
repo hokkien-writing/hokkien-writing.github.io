@@ -42,7 +42,7 @@ date: 2022-11-20 22:01:00
 * 【沃花其儂在底塊】(Ak-hue--kâi-nâng tõ tî-ko?) Where is the gardener?
 * 【叫伊猛猛來沃花】(Hàm i méⁿ-méⁿ lâi ak-hue) Tell him to look sharp and come and water the plants.
 * 【花攏總皺皺】(Hue lóng-tsóng jiôu-jîou) The plants are all dried up.
-* 【好㩼日無沃】(Hoh-tsōi jít bô-ak) They have not been watered for several days.
+* 【酷㩼日無沃】(Hoh-tsōi jít bô-ak) They have not been watered for several days.
 * 【有其欲死了】(Ũ-kâi àiⁿ-sí--lō) Some of them are withering.
 * 【此欉死了。㧕掉】(Chí--tsâng sí lō, liú-tiòu) This one is withered, dig it out.
 * 【在彼有刺。着去掘掉】(Tõ-hié ũ chhì, tiéh khṳ̀ kút-tiòu) There are thorns there, you must go and hoe them away.

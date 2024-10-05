@@ -54,8 +54,8 @@ Chiàⁿ 正 (just) and 識 pat (ever) can be used both to questions and answers
 
 * 【伊正來】(I chiàⁿ-lâi) He has just come.
 * 【汝此時正來】(Lṳ́ chi-tsûn chìaⁿ-lâi?) Have you just now come?
-* 【汝昔識來此處嗎】(Lṳ́ tsá pat-lâi--chié mē?) Have you ever been here before?
-* 【我昔毋識來此處】(Uá tsá m̄-pat lâi--chié) I have never been here before.
+* 【汝早識來此塊嗎】(Lṳ́ tsá pat-lâi--chié mē?) Have you ever been here before?
+* 【我早毋識來此塊】(Uá tsá m̄-pat lâi--chié) I have never been here before.
 
 Ũ (have) 有 in the Perfect Tense, generally followed by the interrogative sign 亞未 a-būe, is used for questions only, and 未 būe (not yet) is used for answers, viz.—
 
@@ -70,7 +70,7 @@ The chief signs of the Future Tense are àiⁿ, 正欲 chiàⁿ-àiⁿ, (want) �
 
 * 【伊明起欲來】(I màⁿ-khí àiⁿ-lâi) He will come to-morrow.
 * 【霎時欲落雨】(Khiã-tiām àiⁿ-lóh-hõu) It will rain bye-and-bye.
-* 【伊何時正欲來】(I tiang-sî chiàⁿ-àiⁿ lâi?) When will he come?[3]
+* 【伊底當時正欲來】(I tiang-sî chiàⁿ-àiⁿ lâi?) When will he come?[3]
 * 【伊霎時正欲來】(I khiã-tiām chiàⁿ-àiⁿ-lâi) He will come bye-and-bye.
 * 【我下個月欲轉】(Uá ẽ-kâi-guêh àiⁿ-tńg) I shall go home next month.
 * 【伊會死亞袂】(I õi sí a-bõi?) Will he die?
