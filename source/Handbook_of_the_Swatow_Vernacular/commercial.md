@@ -36,7 +36,7 @@ date: 2022-11-20 23:22:00
 * 【羽紗】(Ú-se) Camlet.
 * 【羽毛】(Ú-môⁿ) Camlet.
 * 【羽綾】(Ú-lêng) Lasting.
-* 【染其布】(Níⁿ--kâi-pòu) Dyed cloth.
+* 【染的布】(Níⁿ--kâi-pòu) Dyed cloth.
 * 【綑條】(Kún-tiôu) Tape, for dress.
 * 【帶】(Tùa) „ tying.
 * 【一疋】(Chék-phit) A piece of cloth.
@@ -271,7 +271,7 @@ date: 2022-11-20 23:22:00
 * 【Creditor】(Chè-tsú) 債主
 * 【Dear】(Kùi) 貴
 * 【Debt】(Chè) 債
-* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠儂其錢
+* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠儂的錢
 * 【Deduct】(Tṳ̂) 除
 * 【Defray】(Tshut-só-hùi) 出所費
 * 【Deposit, entrust】(Tah) 搭
@@ -339,7 +339,7 @@ date: 2022-11-20 23:22:00
 * 【Cask, a】(Tháng) 桶
 * 【Certificate, a】(Phêng-tuaⁿ) 憑單
 * 【Charter a ship】(Pák-tsûn) 縛船
-* 【Charter bond】(Pák-tsûn kâi-jī) 縛船其字
+* 【Charter bond】(Pák-tsûn kâi-jī) 縛船的字
 * 【Cheat, in commerce】(Tshuah) 掇
 * 【Chest, a】(Sieⁿ) 箱
 * 【Chop, a】(Jī-hō) 字號
@@ -352,9 +352,9 @@ date: 2022-11-20 23:22:00
 * 【Contract】(Háp-táng) 合約
 * 【Correspondence】(Phoi-sìn) 批信
 * 【Courier】(Tshoiⁿ lí-bé, tsáu-bûn-tsṳ) 千里馬　走文書
-* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交關其儂
+* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交關的儂
 * 【Defraud】(Tshuah) 掇
-* 【Demurrage】(Thiap-kùe-hãn kâi-ngṳ̂n) 貼過限其銀
+* 【Demurrage】(Thiap-kùe-hãn kâi-ngṳ̂n) 貼過限的銀
 * 【Dissolve partnership】(Thiah-húe-kì) 拆夥計
 * 【Duty, (Customs,)】(Hiàng) 餉
 * 【„ to collect】(Khieh-hiàng) 𢭪餉
@@ -408,7 +408,7 @@ date: 2022-11-20 23:22:00
 * 【Retail, to】(Lân-san-bōi) 零些賣
 * 【Rough draft】(Tshó-kó) 草稿
 * 【Salary】(Kang-tsṳ) 工資
-* 【Sale, for】(Aîⁿ-bōi--kâi) 欲賣其
+* 【Sale, for】(Aîⁿ-bōi--kâi) 欲賣的
 * 【„ no】(Bõi-siou) 袂消
 * 【Sample】(Pān-thâu, pān) 辦頭　辦
 * 【Sell, to】(Bōi) 賣

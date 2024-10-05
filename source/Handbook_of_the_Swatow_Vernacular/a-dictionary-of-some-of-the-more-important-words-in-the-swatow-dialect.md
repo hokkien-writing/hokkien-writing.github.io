@@ -27,7 +27,7 @@ date: 2022-11-20 23:55:00
 * 【Accumulate】(Chek) 積
 * 【Accustom】(Kùiⁿ-sìⁿ) 慣習
 * 【Acknowledge】(Jīn) 認
-* 【Acquaintance】(Siang-sék--kâi-nâng; phêng-iú) 相熟其儂　朋友
+* 【Acquaintance】(Siang-sék--kâi-nâng; phêng-iú) 相熟的儂　朋友
 * 【Acre】(Bóu) 畝
 * 【Act】(Tsò; kiâⁿ) 做　行
 * 【Actor, in play】(Hi-kiáⁿ; hì-kieh) 梨園
@@ -97,7 +97,7 @@ date: 2022-11-20 23:55:00
 * 【Atone】(Sók-tsũe) 贖罪
 * 【Attend, upon somebody】(Teng-tùe) 盯綴
 * 【Attend, on sick person】(Khâng-khiâ) 捧擎
-* 【Attendants】(Kṳn-sûi; teng-tùe--kâi-nâng) 跟隨　盯綴其儂
+* 【Attendants】(Kṳn-sûi; teng-tùe--kâi-nâng) 跟隨　盯綴的儂
 * 【Attentive】(Tsuan-sim; kṳn-sim) 專心　謹心
 * 【Author】(Tsò-tsṳ; tù-tsṳ) 做書  著書
 * 【Authority, discretion】(Khuân) 權
@@ -135,7 +135,7 @@ date: 2022-11-20 23:55:00
 * 【Bear, cannot】(Nãiⁿ-m̄-khṳ̀; tòng-m̄-tiôu) 耐毋去 擋毋條
 * 【Beast】(Khîm-siù) 禽獸
 * 【Beastly】(Tṳ-káu khîm-siù) 豬狗禽獸
-* 【Beau】(Hàuⁿ-héhⁿ--kâi-nâng) 好赫其儂
+* 【Beau】(Hàuⁿ-héhⁿ--kâi-nâng) 好赫的儂
 * 【Beautiful】(Ngiá; hó-thóiⁿ) 雅　好睇
 * 【Beckon】(Iáh; iáh-chhiú) 曳　曳手
 * 【Bed】(Mîn-tshn̂g) 眠牀
@@ -187,7 +187,7 @@ date: 2022-11-20 23:55:00
 * 【„ as pepper】(Soh) 束
 * 【Bitter】(Khóu) 苦
 * 【Black】(Ou) 烏
-* 【Blackguard】(Tshàu-nâng; aù-nâng; bô-hē bô-lóh--kâi-nâng) 臭儂　爛儂　無下無落其儂
+* 【Blackguard】(Tshàu-nâng; aù-nâng; bô-hē bô-lóh--kâi-nâng) 臭儂　爛儂　無下無落的儂
 * 【Blacksmith】(Phah-thih) 拍鐵
 * 【Bladder】(Jiē-pha; tsúi-pha; lān-pha[2]) 尿脬  水脬  卵脬
 * 【Blade, of a knife】(To-nék) 刀肉
@@ -336,7 +336,7 @@ date: 2022-11-20 23:55:00
 * 【„ as pork, beef】(Kuah-tṳ-bah; kuah-gû-bah) 割豬肉　割牛肉
 * 【Buzz】(Ng-ng-kiè) 嗡嗡叫
 * 【By-name, (nickname,)】(Thóu-miâⁿ) 土名
-* 【By-stander】(Khiã-tõ-kha-thāu--kâi-nâng) 徛在腳頭其儂
+* 【By-stander】(Khiã-tõ-kha-thāu--kâi-nâng) 徛在腳頭的儂
 * 【By-word】(Sók-gṳ́) 俗語
 * 【Cabin】(Bā-lî; tsûn-búe-lâu) 峇厘　船尾樓
 * 【Cable, anchor】(Tèng-soh) 椗索
@@ -397,7 +397,7 @@ date: 2022-11-20 23:55:00
 * 【Cease】(Hiah) 歇
 * 【Ceiling】(Máng-thien) 慢天？
 * 【Celebrated】(Tshut-miâⁿ) 出名
-* 【Celestial】(Thiⁿ-téng kâi-sṳ̄) 天頂其事
+* 【Celestial】(Thiⁿ-téng kâi-sṳ̄) 天頂的事
 * 【Cemetery, public】(Kong-si-suaⁿ) 公司山
 * 【Centre】(Tîn-tang) 鎭中
 * 【Ceremony】(Lói) 禮
@@ -640,7 +640,7 @@ date: 2022-11-20 23:55:00
 * 【Dazzle】(In-n̄g; iàng-mák; chhiēⁿ-mák) 印？  映目  上目
 * 【Dead】(Sí; kùe--khṳ̀; kùe-sì) 死　過去　過世
 * 【Deaf】(Hĩⁿ--lâng; hĩⁿ lâng) 耳聾
-* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè) 欠儂其錢　欠儂其債
+* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè) 欠儂的錢　欠儂的債
 * 【Decide】(Tsú-ì) 主意
 * 【„ in law】(Kat; kat-uàⁿ; kat-tít) 結　結案　結直
 * 【Decorate】(Tshái) 彩
@@ -684,7 +684,7 @@ date: 2022-11-20 23:55:00
 * 【Disagree】(M̄-háh) 毋合
 * 【„ of persons】(M̄-hûa) 毋和
 * 【Disappear】(M̄-kìⁿ; bô--khṳ̀) 毋見　無去
-* 【Disappoint, a person】(Gōu--tiéh nâng-kâi-sṳ̄) 誤着儂其事
+* 【Disappoint, a person】(Gōu--tiéh nâng-kâi-sṳ̄) 誤着儂的事
 * 【Discharge, a servant】(Sî-tiòu; sǹg-hiah) 辭掉　算歇
 * 【Discoloured】(Lóh-sek; thò-sek) 落色　退色
 * 【Discuss】(Káng-kiù; káng-lũn; piẽn-lũn) 講究　講論　辯論
@@ -1039,7 +1039,7 @@ date: 2022-11-20 23:55:00
 * 【Instruct】(Kà) 教
 * 【Instrument】(Khì-kũ) 器具
 * 【Intercourse】(Lâi-uáng) 來往
-* 【Interfere, with other's affair】(Tshap-nâng-kâi-sṳ̄) 插儂其事
+* 【Interfere, with other's affair】(Tshap-nâng-kâi-sṳ̄) 插儂的事
 * 【Interior】(Lãi; lãi-pôiⁿ) 內　內爿
 * 【Interpret】(Hûe; hûe-uē) 回　回話
 * 【Interpreter】(Hûe-uē) 回話
@@ -1211,7 +1211,7 @@ date: 2022-11-20 23:55:00
 * 【Negro】(Ou-mīn-nâng; ou-huan) 烏面儂　烏番
 * 【Neighbour】(Tshù-piⁿ) 厝邊
 * 【Nest】(Siū) 巢
-* 【Nickname】(Thóu-mîaⁿ; nâng-thóu-tsuãn kâi-miâⁿ) 土名  儂杜撰其名
+* 【Nickname】(Thóu-mîaⁿ; nâng-thóu-tsuãn kâi-miâⁿ) 土名  儂杜撰的名
 * 【Noble】(Tsun-kui) 尊貴
 * 【Nod】(Tak-thâu) 點頭
 * 【Noise】(Siaⁿ) 聲
@@ -1549,7 +1549,7 @@ date: 2022-11-20 23:55:00
 * 【Scaffold】(In-kè) 因架
 * 【Scald】(Thǹg--tiéh; nâm--tiéh) 淋着
 * 【Scales, of fish】(Hṳ̂-lân) 魚鱗
-* 【Scandal, to】(Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄) 譬相  議論儂其事
+* 【Scandal, to】(Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄) 譬相  議論儂的事
 * 【Scar】(Hûn; sieⁿ-hûn) 痕　傷痕
 * 【Scar-face】(Phùa-kìaⁿ) 破鏡
 * 【Scarce】(Chíe) 少
@@ -1614,7 +1614,7 @@ date: 2022-11-20 23:55:00
 * 【„ blood】(Lâu-hueh) 流血
 * 【Shell, as of eggs, shell-fish】(Khak) 壳
 * 【Shelter, to take】(Siám) 避
-* 【Shepherd】(Chiéⁿ-iêⁿ--kâi-nâng) 掌羊其儂
+* 【Shepherd】(Chiéⁿ-iêⁿ--kâi-nâng) 掌羊的儂
 * 【Shield】(Pâi; tin-pâi) 牌　籐牌
 * 【Shift】(Súa) 徙
 * 【Shin】(Kha-liâm) 腳廉
@@ -2061,7 +2061,7 @@ date: 2022-11-20 23:55:00
 * 【Vacant】(Khang) 空
 * 【Vacation, of school】(Pàng-kè) 放假
 * 【Vaccinate】(Chèng-tsu; chèng-tāu) 種珠　種豆
-* 【Vagrant】(Ló-tōng--kâi-nâng) 浪蕩其儂
+* 【Vagrant】(Ló-tōng--kâi-nâng) 浪蕩的儂
 * 【Valley】(Chhim-kheⁿ) 深坑
 * 【Valuable】(Kùi-khì; tát-chîⁿ) 貴氣　値錢
 * 【Vapour】(Khì) 氣
@@ -2101,7 +2101,7 @@ date: 2022-11-20 23:55:00
 * 【Weave】(Keⁿ-pòu) 經布
 * 【Web, spider's】(Ti-tu-si) 蜘蛛絲
 * 【Wedge】(Chiⁿ) 錢
-* 【Weed, a】(Péh-huat kâi-tsháu) 白發其草
+* 【Weed, a】(Péh-huat kâi-tsháu) 白發的草
 * 【Weigh, to】(Téng; chhìn) 戥　秤
 * 【„ with balances】(Phêng) 秤
 * 【West】(Sai; sai-pôiⁿ) 西　西爿

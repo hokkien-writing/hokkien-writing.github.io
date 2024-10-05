@@ -31,12 +31,12 @@ date: 2022-11-16 20:16:00
 * 【丈夫】(Ta-pou) Male.(only used of man.)
 * 【諸娘】(Tsṳ-níeⁿ) Female.(only used of man.)
 ------
-* 【世間其儂是惡】(Sì-kan kâi nâng sĩ ak) The people in the world are wicked.
+* 【世間的儂是惡】(Sì-kan kâi nâng sĩ ak) The people in the world are wicked.
 * 【天下是闊】(Thiⁿ-ẽ sĩ khuah) The world is broad.
 * 【上帝在天。儂在地】(Siãng-tì tõ thiⁿ, nâng tõ tĩ.) God is in heaven, and men are on earth.
 * 【天在上。地在下】(Thiⁿ tõ chīeⁿ, tī tò ẽ) Heaven is above, and earth is below.
 * 【山是高。海是深】(Suaⁿ sĩ tûiⁿ, hái sĩ chhim) Mountains are high, and seas are deep.
-* 【大海其水藍】(Tūa-hái kâi tsúi nâm) The waters of the oceans are blue.
+* 【大海的水藍】(Tūa-hái kâi tsúi nâm) The waters of the oceans are blue.
 * 【海墘有儂行】(Hái-kîⁿ ũ nâng kiáⁿ) There are people walking on the sea-side.
 * 【塗袂肥】(Thôu bōi-pûi) The soil is not fertile.
 * 【樹袂發】(Chhiū bõi-huat) The trees do not grow.
@@ -45,10 +45,10 @@ date: 2022-11-16 20:16:00
 * 【有石部。有沙】(Ũ chiéh-põu, ũ sua) There are stones, and there is sand.
 * 【儂在世毋久】(Nâng tõ sì m̄-kú) Man is not long in the world.
 * 【丈夫愈壯過諸娘】(Ta-pou zú-tsàng kùe tsṳ-niêⁿ) Man is stronger than woman.
-* 【有其諸娘愈賢過丈夫】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
+* 【有的諸娘愈賢過丈夫】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
 * 【在祖家有加加諸娘。賢過丈夫】(Tõ Tsóu-ke ũ ke-ke tsṳ-niêⁿ, gâu kùe ta-pou) There are many ladies in England cleverer than men.
-* 【唐儂其諸娘少少識字】(Tn̂g-nâng kâi tsṳ-niêⁿ chié-chié pat-jī) Very few Chinese ladies can read.
-* 【阮其諸娘攏總識字】(Ún--kâi tsṳ-niêⁿ lóng-tsóng pat-jī) Our ladies can all read.
+* 【唐儂的諸娘少少識字】(Tn̂g-nâng kâi tsṳ-niêⁿ chié-chié pat-jī) Very few Chinese ladies can read.
+* 【阮的諸娘攏總識字】(Ún--kâi tsṳ-niêⁿ lóng-tsóng pat-jī) Our ladies can all read.
 
 ### section II.
 
@@ -86,7 +86,7 @@ date: 2022-11-16 20:16:00
 * 【有紅有白有藍有青有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
 * 【還了有】(Huân-lióu ũ) It has some more.
 * 【是雅在】(Sĩ ngiá-tsãi) It is very beautiful.
-* 【咱所有其色是從虹塊來】(Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi) The colours which we have, come from the rainbow.
+* 【咱所有的色是從虹塊來】(Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi) The colours which we have, come from the rainbow.
 * 【流漲亞是涸】(Lâu tĩⁿ a-sĩ khó?) Is it high tide or ebb tide?
 * 【流涸】(Lâu khó) It is ebb tide.
 * 【海有湧嗎】(Hái ũ éng mē?) Are there any waves in the sea?
@@ -115,7 +115,7 @@ date: 2022-11-16 20:16:00
 * 【樹無露水袂活】(Chhiū bô lōu-tsúi bõi-uáh) The trees will not grow without dew.
 * 【酷久咱此塊毋識有落雹】(Hoh-kú nán--chié m̄-pat ũ lóh-phák) For a long time we have not had hail here.
 * 【冬天磽囝儂是悽慘】(Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám) In Winter the poor are miserable.
-* 【富其儂哩穿煖】(Pù--kâi-nâng li chhēng-sie) But the rich are warmly clad.
+* 【富的儂哩穿燒】(Pù--kâi-nâng li chhēng-sie) But the rich are warmly clad.
 * 【冬天凊在】(Tang--thiⁿ chhin-tsãi) In Winter it is very cold.
 * 【夏天就熱】(Hē--thiⁿ chiũ-zuáh) But in Summer it is hot.
 * 【一年有四季】(Chék-nîⁿ ũ sì-khùi) There are four seasons in a year.
@@ -156,7 +156,7 @@ date: 2022-11-16 20:16:00
 * 【伊作有幾㩼日工】(I tsoh ũ jiéh-tsōi jít kang?) How many days' work has he done?
 * 【伊作有一個月】(I tsoh ũ chék-kâi guéh) He has worked one month.
 * 【伊日間作。夜間亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
-* 【伊其工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
+* 【伊的工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
 * 【日未暗】(Jít būe-àm) It is not yet dark.
 * 【汝夗到日彼樣晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
 * 【下日汝不可夗到彼樣晏】(Ê-jít lṳ́ m̄-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.

@@ -12,7 +12,7 @@ date: 2022-11-20 23:49:00
 * 【有。我個個禮拜去】(Ũ, uá kâi-kâi lói-pài khṳ̀) Yes, I go every Sunday.
 * 【汝是天主教亞毋是】(Lṳ́ sĩ Thien-tsú-kà a m̄-sĩ?) Are you a Roman Catholic?
 * 【阮是耶穌教】(Ún sĩ Iâ-sou-kà) We are Protestant.
-* 【汝是傳道理其儂亞毋是】(Lṳ́ sĩ thuân-tõ-lí--kâi-nâng a m̄-sĩ?) Are you a preacher?
+* 【汝是傳道理的儂亞毋是】(Lṳ́ sĩ thuân-tõ-lí--kâi-nâng a m̄-sĩ?) Are you a preacher?
 <!--more-->
 * 【是。汝有欲聽零些嗎】(Sĩ, lṳ́ ũ àiⁿ-thiaⁿ lân-ló mē?) Yes, do you wish to hear me a little?
 * 【我有閒。我來去禮拜堂聽】(Uá ũ-ôiⁿ, uá lâi-khṳ̀ lói-pài-tn̂g thiaⁿ) If I have time, I shall go to the church and hear.

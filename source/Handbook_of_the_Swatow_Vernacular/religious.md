@@ -20,7 +20,7 @@ date: 2022-11-20 23:31:00
 * 【Pastor, Protestant】(Mók-sṳ) 牧師
 * 【„ Roman Catholic】(Sîn-hũ) 神父
 * 【Preach, to】(Thuân-tõ-lí) 傳道理
-* 【Preacher, a】(Thuân-tõ-lí--kâi-nâng) 傳道理其儂
+* 【Preacher, a】(Thuân-tõ-lí--kâi-nâng) 傳道理的儂
 * 【Christians】(Hông-kà) 奉教
 * 【„ Protestant】(Iâ-sou-kà, pài-siãng-tì-nâng) 耶穌教　拜上帝儂
 * 【„ R. Catholics】(Thien-tsú-kà) 天主教
