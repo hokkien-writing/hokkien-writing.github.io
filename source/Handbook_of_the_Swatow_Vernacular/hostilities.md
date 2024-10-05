@@ -12,7 +12,7 @@ date: 2022-11-20 23:30:00
 * 【General】(Chiàng-kun) 將軍
 * 【Admiral】(Tsúi-sṳ thî-tok) 水師提督
 * 【Officers】(Bú-kuaⁿ) 武官
-* 【Soldiers】(Piaⁿ, ióng-chiàng) 兵　勇壯
+* 【Soldiers】(Piaⁿ, ióng-chiàng) 兵　勇將
 * 【Cavalry】(Bé-piaⁿ) 馬兵
 * 【Drill, to】(Tshau-liēn) 操練
 * 【Practise, to】(Liēn) 練
@@ -38,7 +38,7 @@ date: 2022-11-20 23:30:00
 * 【Spear】(Pie) 標
 * 【Shield】(Tîn-pâi) 藤牌
 * 【Travel】(Kiâⁿ) 行
-* 【Baggage】(Pau-kó, hêng-lí) 包槁　行李
+* 【Baggage】(Pau-kó, hêng-lí) 包裹　行李
 * 【Camp】(Iâⁿ-pûaⁿ) 營盤
 * 【Encamp】(Tshàng-iâⁿ) 創營
 * 【War, a】(Sie-thâi, kau-chièn) 相刣　交戰

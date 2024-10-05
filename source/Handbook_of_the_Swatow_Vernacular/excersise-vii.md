@@ -48,7 +48,7 @@ date: 2022-11-16 20:16:00
 * 【有其諸娘愈賢過丈夫】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
 * 【在祖家有加加諸娘。賢過丈夫】(Tõ Tsóu-ke ũ ke-ke tsṳ-niêⁿ, gâu kùe ta-pou) There are many ladies in England cleverer than men.
 * 【唐儂其諸娘少少識字】(Tn̂g-nâng kâi tsṳ-niêⁿ chié-chié pat-jī) Very few Chinese ladies can read.
-* 【阮其諸娘俱皆識字】(Ún--kâi tsṳ-niêⁿ lóng-tsóng pat-jī) Our ladies can all read.
+* 【阮其諸娘攏總識字】(Ún--kâi tsṳ-niêⁿ lóng-tsóng pat-jī) Our ladies can all read.
 
 ### section II.
 
@@ -65,14 +65,14 @@ date: 2022-11-16 20:16:00
 * 【湧】(Éng) Waves.
 * 【流水】(Lâu-tsúi) Tide.
 * 【流漲】(Lâu tĩⁿ) Flood-tide.
-* 【流退】(Lâu khó) Ebb-tide.
+* 【流涸】(Lâu khó) Ebb-tide.
 ------
 * 【日出亞未】(Jít tshut a-būe?) Has the sun risen?
 * 【未】(Būe) Not yet.
 * 【月無日向光】(Guéh bô jít hièⁿ-kng) The moon is not so bright as the sun.
 * 【月在浮】(Guéh tõ phû) The moon is rising.
-* 【漸漸高】(Khuaⁿ-khuaⁿ kûiⁿ) It is getting higher and higher by degrees.
-* 【星閃閃光】(Chheⁿ iáp-iáp-sih) The stars are twinkling.
+* 【款款高】(Khuaⁿ-khuaⁿ kûiⁿ) It is getting higher and higher by degrees.
+* 【星灼灼晃】(Chheⁿ iáp-iáp-sih) The stars are twinkling.
 * 【風大】(Huang tūa) The wind is blowing hard.
 * 【彼欉大樹被風吹倒去】(Hṳ́-tsâng tū-a-chhiū khoih huang tshue tó--khṳ̀) That large tree has been blown down by the wind.
 * 【雨欲來】(Hõu àiⁿ-lâi) The rain is coming.
@@ -80,15 +80,15 @@ date: 2022-11-16 20:16:00
 * 【雷公攝目。了正响】(Lûi-kong nih-mák, lióu chiàⁿ-tân) The lightning flashes first, then the thunder roars.
 * 【雨定着是大】(Hõu tiāⁿ-tiéh sĩ tūa) The rain is sure to be a heavy one.
 * 【唐儂講究雷公毋對】(Tn̂g-nâng káng-kiù lûi-kong m̄-tùi) What the Chinese discuss about the lightning is not correct.
-* 【唐儂此事毋曉】(Tn̂g-nâng chí-kâi sū m̄-hióu) The Chinese do not understand about this matter.
+* 【唐儂此個事毋曉】(Tn̂g-nâng chí-kâi sū m̄-hióu) The Chinese do not understand about this matter.
 * 【英國儂就曉】(Eng-kok-nâng chiũ-hióu) The English understand.
 * 【虹有加加色】(Khẽng ũ ke-ke sek) The rainbow has many colours.
-* 【肩紅有白有藍有青有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
+* 【有紅有白有藍有青有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
 * 【還了有】(Huân-lióu ũ) It has some more.
 * 【是雅在】(Sĩ ngiá-tsãi) It is very beautiful.
-* 【咱所有其色是從虹處來】(Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi) The colours which we have, come from the rainbow.
-* 【流漲亞是退】(Lâu tĩⁿ a-sĩ khó?) Is it high tide or ebb tide?
-* 【流退】(Lâu khó) It is ebb tide.
+* 【咱所有其色是從虹塊來】(Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi) The colours which we have, come from the rainbow.
+* 【流漲亞是涸】(Lâu tĩⁿ a-sĩ khó?) Is it high tide or ebb tide?
+* 【流涸】(Lâu khó) It is ebb tide.
 * 【海有湧嗎】(Hái ũ éng mē?) Are there any waves in the sea?
 * 【有。湧袂大】(Ũ, éng bõi-tūa) Yes, the waves are not big.
 * 【風颱時荒險】(Huang-thai sĩ hong-hiám) The typhoon is dangerous.
@@ -122,7 +122,7 @@ date: 2022-11-16 20:16:00
 * 【在祖家夏天無此處向熱】(Tõ Tsóu-ke Hē--thiⁿ bô chié hi èⁿ-zuáh) In England the Summer is not so hot as here.
 * 【冬天愈凊此處】(Tang--thiⁿ zú-chhìn chié) In Winter it is colder than here.
 * 【在祖家一年春天是上好】(Tõ tsóu-ke chék-nîⁿ Tshun--thiⁿ sĩ siãng-hó) In England Spring is the best of the year.
-* 【春天到來草俱皆發】(Tshun--thiⁿ kàu--lâi, tsháu lóng-tsóng huat) When Spring comes, all the grass grow.
+* 【春天到來草攏總發】(Tshun--thiⁿ kàu--lâi, tsháu lóng-tsóng huat) When Spring comes, all the grass grow.
 
 ### section IV.
 
@@ -192,7 +192,7 @@ date: 2022-11-16 20:16:00
 * 【好。我天光就欲走起】(Hó. Uá thiⁿ-kng chiũ àiⁿ tsáu-khí) Very well. As soon as day-break I will get up.
 * 【今日我毋閒】(Kiáⁿ-jít uá m̄ oíⁿ) I am busy to-day.
 * 【明天正來】(Màⁿ-khí chiàⁿ-lâi) Come to-morrow.
-* 【明天隨何時】(Màⁿ-khí zuãn tiang-si) Any time to-morrow.
+* 【明天任底時】(Màⁿ-khí zuãn tiang-si) Any time to-morrow.
 * 【好了。汝好去】(Hó--lō, lṳ́ hó-khṳ̀) That will do, you may go.
 * 【我今日終日在內】(Uá kiáⁿ-jít thàng-jít tõ lāi) I am at home all to-day.
 * 【明天我毋在】(Màⁿ-khí uá m̄-tõ) I shall not be at home tomorrow.
@@ -200,11 +200,11 @@ date: 2022-11-16 20:16:00
 * 【後日我就轉來】(Aũ--jít uá chiũ tńg--lâi) I shall be back the day after to-morrow.
 * 【我次次來到覓汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̄-tõ) On every occasion of my coming, I could not find you.
 * 【我昨日來。昨夜亦來】(Uá tsa-jít lâi, tsa-mêⁿ iā lâi) I came yesterday, and last night as well.
-* 【伊終久是如此】(I tsong-kú sĩ chièⁿ-seⁿ) He is always like this.
+* 【伊終久是此樣生】(I tsong-kú sĩ chièⁿ-seⁿ) He is always like this.
 * 【伊是惰。做事隨便做】(I sĩ tuãⁿ, tsò-sṳ̄ chhìn-tshái tsò) He is idle, and does things carelessly.
-* 【汝下日不可如此】(Lṳ́ ẽ-jít m̄-móⁿ chièⁿ-seⁿ) You must not be like this for the future.
-* 【汝着如此做】(Lṳ́ tiéh chièⁿ-seⁿ muéh) You must do it like this.
-* 【着記得日日着如此】(Tiéh kì-tit, jít-jít tiéh chièⁿ-seⁿ) You must remember, and every day do like this.
+* 【汝下日不可此樣生】(Lṳ́ ẽ-jít m̄-móⁿ chièⁿ-seⁿ) You must not be like this for the future.
+* 【汝着此樣生做】(Lṳ́ tiéh chièⁿ-seⁿ muéh) You must do it like this.
+* 【着記得日日着此樣生】(Tiéh kì-tit, jít-jít tiéh chièⁿ-seⁿ) You must remember, and every day do like this.
 * 【我年年着轉去】(Uá nîⁿ-nîⁿ tiéh-tńg--khṳ̀) I must go home every year.
 * 【我明年欲轉去】(Uá mêⁿ-nîⁿ àiⁿ-tńg--khṳ̀) I shall go home next year.
 * 【一年若是無轉去就毋做得】(Chék-nîⁿ nāⁿ-sĩ bô-tńg--khṳ̀ chiũ m̄-tsò-tit) It will not do, unless I go home once a year.

@@ -17,8 +17,8 @@ date: 2022-11-20 23:47:00
 <!--more-->
 * 【現時在臺灣處有相刣】(Hīn-sî tõ Tâi-uân--kō ũ sie-thâi) At present there are battles going on in Formosa.
 * 【雞籠被荷蘭西拍去了】(Koi-lâng khoih Hô-lan-se phah--khṳ̀-lō) Keelung is taken by the French.
-* 【在許樣其炮臺俱皆被伊其戰船霧掉】(Tõ-hié kâi phâu-thâi lông-tsóng khṳt i kâi chiên-tsûn bū tiòu) All the forts there have been bombarded by their war vessels.
+* 【在許樣其炮臺攏總被伊其戰船霧掉】(Tõ-hié kâi phâu-thâi lông-tsóng khṳt i kâi chiên-tsûn bū tiòu) All the forts there have been bombarded by their war vessels.
 * 【伊其船其銃有其大枝過炮臺其】(I kâi tsûn kâi-chhèng ũ-kâi tūa-ki kùe phâu-thâi--kâi) Some of the guns of their ships are larger than those of the forts there.
 * 【伊九隻戰船就去霧福州】(I káu-chiah chièn-tsûn chiũ khṳ̀ bū Hok-chiu) They had nine vessels, and they went to bombard Foochow.
-* 【唐儂其戰船俱皆沉去】(Tn̂g-nâng kâi chièn-tsûn lóng-tsóng tîm--khṳ̀) The Chinese war vessels were all sunk.
+* 【唐儂其戰船攏總沉去】(Tn̂g-nâng kâi chièn-tsûn lóng-tsóng tîm--khṳ̀) The Chinese war vessels were all sunk.
 * 【不過一隻走去。一隻發火】(Put-kùe chék-chiah tsáu--khṳ̀, chék-chiah tóh-húe) With the exception of one vessel that escaped, and one vessel on fire.

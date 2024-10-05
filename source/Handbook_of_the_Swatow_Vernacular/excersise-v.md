@@ -12,9 +12,9 @@ date: 2022-11-16 20:14:00
 
 * 【伊欲認嗎】(I àiⁿ-jīn mē?) Is he going to confess?
 * 【伊毋應】(I m̃-ìn) He won't answer.
-* 【伊欲辦】(I àiⁿ-à) He wants to argue.
+* 【伊欲詏】(I àiⁿ-à) He wants to argue.
 * 【汝何時到】(Lṳ́ tiang-sî kàu?) When did you arrive?
-* 【汝問底儂】(Lṳ́ mn̄g tî-tiâng?) Who are you asking?
+* 【汝問底誰】(Lṳ́ mn̄g tî-tiâng?) Who are you asking?
 * 【我問汝】(Uá mn̄g lṳ́.) I ask you.
 * 【誰儂拍汝】(Tî-tiâng phah lṳ́?) Who beat you?
 <!--more-->
@@ -24,7 +24,7 @@ date: 2022-11-16 20:14:00
 * 【汝怎呢毋信我】(Lṳ́ tsò-nîⁿ m̃-sìn uá?) Why don't you believe me?
 * 【彼個挈來】(Hṳ́-kâi khiéh--lâi) Bring me that.
 * 【筅】(Tshóiⁿ) Brush it.
-* 【刷好挈來】(Tshóiⁿ-hó khiéh--lâi) After you have brushed it, bring it to me.
+* 【筅好挈來】(Tshóiⁿ-hó khiéh--lâi) After you have brushed it, bring it to me.
 * 【此買有亞無】(Chía bói-ũ a-bô?) Is there any of this to be bought?
 * 【買無】(Bói-bô) There is none to be bought.
 * 【叫伊來】(Kiè i lâi) Call him here.
@@ -119,5 +119,5 @@ date: 2022-11-16 20:14:00
 * 【伊來巡汝】(I lâi-sûn lṳ́) He comes to visit you.
 * 【請待】(Chhiáⁿ-táⁿ) Just wait please.
 * 【好】(Hó) Very Well.
-* 【者勿。捔掉】(Chiá màiⁿ, kák-tiòu) This is not wanted, throw it away.
+* 【此勿。捔掉】(Chiá màiⁿ, kák-tiòu) This is not wanted, throw it away.
 * 【我袂寫】(Uá bõi-siá) I can't write.

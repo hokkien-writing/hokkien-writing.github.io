@@ -81,7 +81,7 @@ date: 2022-11-20 21:38:00
 * 【廳有儂客亞無】(Thiaⁿ ũ nâng-kheh a-bô?) Are there any guests in the drawing room?
 * 【四指呾無】(Sì-tsóiⁿ tàⁿ-bô) The boy says "no".
 * 【我其臥房汝有掃亞未】(Uá-kâi út-pâng lṳ́ ũ sàu a-būe?) Have you swept my bed-room?
-* 【有。樓頂俱皆掃淸潔】(Ũ, lâu-téng lóng-tsóng sàu chheng-khih) Yes, I have swept the whole of up-stairs clean.
+* 【有。樓頂攏總掃淸潔】(Ũ, lâu-téng lóng-tsóng sàu chheng-khih) Yes, I have swept the whole of up-stairs clean.
 * 【有洗亞無】(Ũ sói a-bô?) Did you wash it?
 * 【無。樓頂還了是淸潔】(Bô, lâu-téng huân-lióu sĩ chheng-khih) No, up-stairs is still clean.
 * 【洗浴房有水亞無】(Sói-ék-pâng ũ tsúi a-bô?) Is there any water in the bath-room?

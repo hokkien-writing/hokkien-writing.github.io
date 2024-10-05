@@ -84,7 +84,7 @@ date: 2022-11-20 22:19:00
 * 【十陸粒烙半生熟】(Tsáp-lák liáp luah pùaⁿ-chheⁿ sék) Half-fry sixteen of them.
 * 【存十四粒做粿】(Tshûn tsáp-sì liáp tsò-kúe) The remaining fourteen make them into cakes.
 * 【着選鮮其】(Tiéh suán chhiⁿ--kâi) You must choose fresh ones.
-* 【就是如此】(Chiũ-sĩ chièⁿ-seⁿ) That's all.
+* 【就是此樣生】(Chiũ-sĩ chièⁿ-seⁿ) That's all.
 * 【飯勿烳過糜】(Pn̄g màiⁿ-pû khah-mîⁿ) Don't boil the rice to soft.
 * 【膠離勿煮過薟】(Ka-lî màiⁿ-tsṳ́ khah-hiam) Don't make the curry too hot.
 * 【食飯無鹹酸食毋落】(Chiáh-pn̄g bô kiâm-sng chiáh m̄-lóh) To take rice without relish it cannot be eaten.
@@ -105,7 +105,7 @@ date: 2022-11-20 22:19:00
 * 【Mullet】(Ngóu-hṳ̂) 𩵱魚
 * 【Red-fish】(Âng-tsô) 紅鰽
 * 【Blackfish】(Ou-hṳ̂) 烏魚
-* 【Shad】(Chhî-khak) 莿売
+* 【Shad】(Chhî-khak) 刺売
 * 【Cuttle-fish】(Bák-táu) 木斗
 * 【Shark】(Sua-hṳ̂) 沙魚
 * 【Chinese whitebait】(Kang-hṳ̂) 江魚
@@ -137,7 +137,7 @@ date: 2022-11-20 22:19:00
 * 【一條鰻。數隻蟹】(Chék tiôu mûaⁿ, kua-chiah hõi) One eel, several crabs.
 * 【十粘粒蠔。二十粒蚶】(Tsáp-liáp ô, jī-tsáp liáp ham) Ten oysters, twenty cockles.
 * 【魚干陸両。佮鹹魚半斤】(Hṳ̂-kuaⁿ lák-niéⁿ, kah kiâm-hṳ̂ pùaⁿ-kṳn) Dried salt fish six taels, and salt fish half a catty.
-* 【蝦米一擔若干】(Hê-bí chék-tàⁿ jiéh-tsōi?) How much for a picul of dried prawns?
+* 【蝦米一擔若㩼】(Hê-bí chék-tàⁿ jiéh-tsōi?) How much for a picul of dried prawns?
 * 【一擔敢是五箍亞】(Chék-tàⁿ káⁿ-sĩ ngõu-khou ã) I think five dollars a picul.
 * 【五箍會貴亞袂】(Ngõu-khou õi-kùi a-bõi?) Is it dear at five dollars (a picul)?
 * 【欲呾貴哩袂貴。欲呾平哩袂平】(Àiⁿ-tàⁿ-kùi li bõi-kùi, àiⁿ-tàⁿ-phiⁿ li bõi-phiⁿ) To say “it is dear,” it isn't dear, but to say “it is cheap,” it isn't cheap.

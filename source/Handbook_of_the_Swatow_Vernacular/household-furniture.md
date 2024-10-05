@@ -11,19 +11,19 @@ date: 2022-11-20 21:59:00
 * 【家私】(Ke-si) Furnitures.
 * 【牀】(Tshn̂g) A table.
 * 【桌】(Toh) A table.
-* 【校椅】(Kau-íⁿ) A chair.
+* 【交椅】(Kau-íⁿ) A chair.
 * 【琴】(Khîm) An organ or piano.
 * 【腳踏椅】(Kha-táh-íⁿ) A foot-stool.
 <!--more-->
 * 【尪囝】(Ang-kiáⁿ) Pictures.
 * 【燈】(Teng) A lamp.
 * 【花干】(Hue-kan) A flower vase.
-* 【奇物】(Khî-khá-muéh) Curiosities.
-* 【戲弄物】(Thit-thô-muéh) Fancy articles.
-* 【鐵鉗】(Thih-kiⁿ) Tongs.
+* 【奇巧物】(Khî-khá-muéh) Curiosities.
+* 【佚佗物】(Thit-thô-muéh) Fancy articles.
+* 【鐵鉗】(Thih-kîⁿ) Tongs.
 * 【鐵匙】(Thih-sî) A fire shovel.
 * 【氈】(Chiⁿ) A rug, a carpet.
-* 【三腳員牀】(Saⁿ-kha îⁿ-tshn̂g) A tripod round table.
+* 【三腳圓牀】(Saⁿ-kha îⁿ-tshn̂g) A tripod round table.
 * 【四方牀】(Sì-pang tshn̂g) A square table.
 * 【茶几】(Tê-kí) A small tea-table.
 * 【牀落凍石】(Tshn̂g lóh tàng-chiéh) Tables with marble-top.
@@ -42,7 +42,7 @@ date: 2022-11-20 21:59:00
 * 【白竹紙】(Péh-tek-tsúa) Chinese note paper.
 * 【西國紙】(Sai-kok-tsúa) Foreign paper.
 * 【信皮】(Siǹ-phûe) Envelopes.
-* 【批皮】(Pho-phûe) Envelopes.
+* 【批皮】(Phoi-phûe) Envelopes.
 * 【草蓆】(Tsháu-chhiéh) Mats.
 * 【拭腳其蓑】(Chhit-kha kâi sui) Door-mat.
 * 【撞枳】(Thn̄g-chí) Billiards, (to play.)
@@ -51,9 +51,9 @@ date: 2022-11-20 21:59:00
 ------
 
 * 【伊其內無乜家私】(I kâi lãi bô-mih ke-si) There is not much furniture in his house.
-* 【伊是初到其儂】(I sĩ sin-kàu--kâi-nâng) He is a new comer.
-* 【擔一張校椅來】(Taⁿ chék-chiah kau-íⁿ lâi) Get me a chair.
-* 【樓頂其氈。舖】(Lâu-téng kâi chiⁿ, tshṳ) Spread the carpet up-stairs.
+* 【伊是新到其儂】(I sĩ sin-kàu--kâi-nâng) He is a new comer.
+* 【擔一張交椅來】(Taⁿ chék-chiah kau-íⁿ lâi) Get me a chair.
+* 【樓頂其氈。舒】(Lâu-téng kâi chiⁿ, tshṳ) Spread the carpet up-stairs.
 * 【汝曉彈琴亞毋曉】(Lṳ́ hióu tūaⁿ-khîm a m̄-hióu?) Do you know how to play the piano?
 * 【我曉】(Uá hióu) I know.
 * 【此個尪囝雅在】(Chí-kâi ang-kiáⁿ ngiá-tsãi) This picture is very beautiful.
@@ -67,14 +67,14 @@ date: 2022-11-20 21:59:00
 * 【塗炭落㩼㩼】(Thôu-thùaⁿ lóh tsōi-tsōi) Put plenty of coals on.
 * 【此領氈挈去拂掉塗粉】(Chí-niáⁿ chiⁿ khiéh khṳ̀ pũaⁿ-tiòu thôu-hún) Take this rug and beat off the dust.
 * 【在此好放一張四方牀】(Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g) Here can be put a square table.
-* 【此張員牀來徙放別處】(Chí-tieⁿ îⁿ-tshn̂g lâi suá pàng pát-kò) Let us remove this round table to some other place.
+* 【此張圓牀來徙放別處】(Chí-tieⁿ îⁿ-tshn̂g lâi suá pàng pát-kò) Let us remove this round table to some other place.
 * 【欲徙放底塊】(Àiⁿ-súa pàng tî-kò?) Where shall we remove it to?
 * 【此張册架來徙放此】(Chí-tieⁿ chheh-kè lài súa pàng chié;) Let us remove the book-stand here;
-* 【員牀來放彼】(Îⁿ-tshn̂g lâi-sāi pàng-hié…) And place the round table there.
+* 【圓牀來放彼】(Îⁿ-tshn̂g lâi-sāi pàng-hié…) And place the round table there.
 * 【汝去我寫字牀挈一枝鉛筆來】(Lṳ́ khṳ̀ uá siá-jī-tshn̂g khiéh chék-ki în-pit lâi) You go to my writing desk and get me a pencil
 * 【佮挈一張紙】(Kah khiéh chék-tieⁿ tsúa) And a sheet of paper.
 * 【是可紙。白竹紙亞是西國紙】(Sĩ-mih tsúa, péh-tek-tsúa a-sĩ sai-kok-tsúa) What sort of paper, Chinese or foreign?
-* 【隨便都好】(Zuãn tou-hó) Either will do.
+* 【任都好】(Zuãn tou-hó) Either will do.
 * 【先生欲寫字汝來磨墨】(Sin-seⁿ àiⁿ siá-jī lṳ́ lâi bûa-bák) The teacher is going to write, you come and rub the ink-stick.
 * 【信皮欲嗎】(Sìn-phûe àiⁿ mē?) Do you want an envelope?
 * 【欲也。挈張來】(Àiⁿ a, khiéh tieⁿ lâi) Yes, get me one.
@@ -83,24 +83,24 @@ date: 2022-11-20 21:59:00
 * 【走馬樓其簾放落來】(Tsáu-bé-lâu kâi liâm pàng--lôh-lâi) Let go the blinds of the verandah.
 * 【汝曉撞枳嗎】(Lṳ́ hióu thn̄g-chí mē?) Can you play billiards?
 * 【曉也。汝欲佮我輸贏】(Hióu a, lṳ́ àiⁿ kah uá su-iâⁿ?) Yes, do you wish to have a match with me?
-* 【咱來撞戲耍就好】(Nán lâi thn̄g thit-thô chiũ-hó) Let us simply play (a game) for pleasure.
-* 【免用相輸。我毋上跋錢】(Mín-ēng sie-su, uá m̄-siãng puáh-chîⁿ) We needn't have a match, as I don't like to gamble.
+* 【咱來撞佚佗就好】(Nán lâi thn̄g thit-thô chiũ-hó) Let us simply play (a game) for pleasure.
+* 【免用相輸。我毋尚跋錢】(Mín-ēng sie-su, uá m̄-siãng puáh-chîⁿ) We needn't have a match, as I don't like to gamble.
 * 【跋錢是不可事】(Puáh-chîⁿ sĩ m̄-móⁿ sṳ̄) Gambling is a bad thing.
 
 ### Bed Room.
 
 * 【眠牀】(Mîn-tshn̂g) A bedstead.
-* 【抗牀】(Khàng-tshn̂g) A Chinese couch.
+* 【炕牀】(Khàng-tshn̂g) A Chinese couch.
 * 【鋪】(Phou) A bed formed of two benches with boards laid across.
 * 【褥】(Zók) Mattress.
 * 【枕頭】(Chím-thâu) A pillow.
 * 【攬其枕頭】(Nám--kâi chím-thâu) A bolster.
-* 【蚊帳】(Máng-tiàⁿ) Mosquito curtain.
+* 【蠓帳】(Máng-tiàⁿ) Mosquito curtain.
 * 【眠牀白布】(Mîn-tshn̂g péh-pòu) Bed-sheet.
 * 【枕頭囊】(Chím-thâu-lông) Pillow-case.
 * 【被】(Phũe) Bed clothes (cotton.)
 * 【袒】(Tháng) Do. (woollen.)
-* 【蚊帳鈎】(Máng-tiàⁿ-kau) A hook for mosquito net.
+* 【蠓帳鈎】(Máng-tiàⁿ-kau) A hook for mosquito net.
 * 【鏡】(Kiàⁿ) A looking glass.
 * 【梳】(Siu) A comb.
 * 【虱箆】(Sat-pìn) A Chinese small-tooth comb.
@@ -126,8 +126,8 @@ date: 2022-11-20 21:59:00
 * 【水罐】(Tsúi-kuàn) A jug.
 * 【面布】(Mīn-pòu) A towel for the face.
 * 【浴布】(Ék-pòu) A towel for bath.
-* 【番港】(Huan-káng) Soap (foreign.)
-* 【丙藥】(Piáⁿ-iéh) Soap (Chinese.)
+* 【番梘】(Huan-káng) Soap (foreign.)
+* 【餅藥】(Piáⁿ-iéh) Soap (Chinese.)
 * 【茶枳枯】(Tê-chí-khou) A kind of Chinese washing stuff.
 * 【海茸】(Hái-zông) Sponge.
 * 【粉】(Hún) Powder.
@@ -141,13 +141,13 @@ date: 2022-11-20 21:59:00
 * 【眠牀每明早着物好】(Mīn-tshn̂g pâi-mêng-khí tiéh muéh-hó) Every morning the bed must be put right.
 * 【褥挈去晒】(Zók khiéh khṳ̀ phák) Take the mattress and put it in the sun.
 * 【枕頭亦着晒】(Chím-thâu iā tiéh phák) The pillows must be aired too.
-* 【蚊帳垃圾了。着乞洗衫其洗】(Máng-tiàⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
+* 【蠓帳垃圾了。着乞洗衫其洗】(Máng-tiàⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
 * 【眠牀白布每個禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
 * 【枕頭囊亦着每個禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
 * 【被不可洗較業】(Phũe m̄-móⁿ sói khah-giáp) Bed-clothes shouldn't be washed too often.
 * 【洗較業袂燒】(Sói khah-giáp bõi-sie) (If) washed too often they will not be warm.
-* 【眠牀拂蚊。了蚊帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
-* 【伊好觀鏡】(I hàuⁿ-iám-kìaⁿ) He is fond of looking in the looking-glass.
+* 【眠牀拂蠓。了蠓帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
+* 【伊好睒鏡】(I hàuⁿ-iám-kìaⁿ) He is fond of looking in the looking-glass.
 * 【挈我其梳佮虱箆來】(Khiéh uá kâi siu kah sat-pìn lâi) Get me my comb and my small-tooth comb.
 * 【汝佮我梳。了佮我箆】(Lṳ́ kâh uá siu, lióu kah uá pìn) You comb my hair, then use the small-tooth comb.
 * 【剃刀毋利。不可剃頭】(Thì-to m̄-lāi, m̄-móⁿ thì-thâu) The razor is not sharp, I can't shave (with it.)
@@ -157,7 +157,7 @@ date: 2022-11-20 21:59:00
 * 【汝其箱有鎖定亞無】(Lṳ́ kâi sieⁿ ũ só-tiāⁿ a-bô?) Is your box locked?
 * 【無鎖。我毋知鎖定】(Bô--só, uá m̄-tsai só--tiāⁿ) No. I have forgotten to lock it.
 * 【囥放櫃底】(Khǹg-pàng kūiⁿ-tói) Keep it in the chest of drawers.
-* 【番港在洗面其牀隔底】(Huan-káng tõ sói-mīn kâi tshn̂g-keh-tói) The soap is in the drawer of the toilet table.
+* 【番梘在洗面其牀隔底】(Huan-káng tõ sói-mīn kâi tshn̂g-keh-tói) The soap is in the drawer of the toilet table.
 * 【挈一塊就好。芳其】(Khiéh chék-kò chĩu-hó, phang--kâi) Get one piece, a fragrant one.
 * 【水罐有水亞無】(Tsúi-kuàn ũ tsúi a-bô?) Is there any water in the jug?
 * 【水完了。我來去挈】(Tsúi lióu--lō, uá lâi khṳ̀-khiéh) The water is finished, I will go and get (some.)
@@ -203,7 +203,7 @@ date: 2022-11-20 21:59:00
 * 【碟囝】(Tíh-kiáⁿ) Chinese little saucer for holding sauce.
 * 【鍾】(Cheng) A bell.
 * 【玻璃樽】(Po-lî-tsun) Bottles.
-* 【酒鬼】(Chiú-kúi) A cockscrew.
+* 【酒機】(Chiú-kúi) A cockscrew.
 * 【白鐵盒】(Péh-thih-áp) A small tin box, as a tin for holding sardine.
 * 【白鐵㼦】(Péh-thih-kóng) A small tin vessel, as a tin for holding salmon.
 
@@ -215,7 +215,7 @@ date: 2022-11-20 21:59:00
 * 【豉油架放鎭中】(Sī-iû-kè pàng tìn-tang) Put the cruet-stand in the middle.
 * 【食了挈洗手杯來】(Chiáh-lióu khiéh sói-chhiú-pue lái) After dinner get the finger bowls.
 * 【盤一樣食了着換】(Pûaⁿ chék-iēⁿ chiáh-lióu tiéh-uāⁿ) The plates must be changed after every course.
-* 【刀叉亦是如此】(To-chhe iā sĩ chièⁿ-seⁿ) So also the knives and forks.
+* 【刀叉亦是此樣生】(To-chhe iā sĩ chièⁿ-seⁿ) So also the knives and forks.
 * 【挈一玻璃杯凊水與我】(Khíeh chék po-lî-pue chhìn-tsúi khoih uá) Get me a tumbler of cold water.
 * 【我欲食】(Uá àiⁿ-chiáh) I want to drink.
 * 【盤碗食了着洗】(Pûaⁿ-uáⁿ chiáh-lióu tiéh-sói) After dinner you must wash the dishes.

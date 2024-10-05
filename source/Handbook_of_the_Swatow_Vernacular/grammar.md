@@ -117,9 +117,9 @@ The Passive verb is formed by the use of the words 分 pun, 乞 khoih (to give) 
 
 * 【汝乞底誰拍】(Lṳ́ khoih tî-tiâng phah?) By whom were you beaten?
 * 【我分伊拍】(Uá pun i phah) I was beaten by him.
-* 【伊分儂殺】(I pun--nâng thâi) He was killed.
-* 【分底誰殺】(Pun tî-tiâng thâi?) Was killed by whom?
-* 【是分伊殺亞毋是】(Sĩ pun i thâi a m̄-sĩ?) Was he kileld by him or not?
+* 【伊分儂刣】(I pun--nâng thâi) He was killed.
+* 【分底誰刣】(Pun tî-tiâng thâi?) Was killed by whom?
+* 【是分伊刣亞毋是】(Sĩ pun i thâi a m̄-sĩ?) Was he kileld by him or not?
 * 【伊分雷公敲死】(I pun lûi-kong khà-sí) He was struck to death by lightning.
 * 【伊袂分儂騙】(I bõi pun--nâng phièn) He cannot be deceived by people.
 * 【伊其名聲乞儂呵咾】(I kâi miâⁿ-siaⁿ khoih--nâng o-ló) His name is praised by the people.

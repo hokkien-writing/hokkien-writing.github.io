@@ -68,7 +68,7 @@ date: 2022-11-20 23:02:00
 * 【出痘】(Tshut-tāu) Chicken-pox.
 * 【種珠】(Chèng-tsu) To vacinate.
 * 【食粥】(Chiáh-mûeⁿ) Measles.
-* 【大頸奎】(Tūn-ãm-kui) Goitre.
+* 【大頷奎】(Tūn-ãm-kui) Goitre.
 * 【瘤】(Liû) Tumour.
 * 【軟疕】(Nńg-nîⁿ) Palsy.
 * 【痒癲】(Kuàn-pien) Palsy.
@@ -81,7 +81,7 @@ date: 2022-11-20 23:02:00
 * 【近視】(Kṳ̃n-sī) Near-sighted.
 * 【近覷】(Kṳ̃n-tshṳ̀) Near-sighted.
 * 【青盲】(Chheⁿ-mêⁿ) Blind.
-* 【眼睛灰】(Mák-chiu-hue) Dimness.
+* 【目睭花】(Mák-chiu-hue) Dimness.
 * 【斜目】(Siâ-mák-chióu) Squinting.
 * 【耳聾】(Hĩⁿ--lâng) Deaf.
 * 【啞】(É) Dumb.

@@ -19,28 +19,28 @@ date: 2022-11-20 21:44:00
 * 【面】(Mīn) Face.
 <!--more-->
 * 【目】(Mák) Eyes.
-* 【目周】(Mák-chiu) Eyes.
+* 【目睭】(Mák-chiu) Eyes.
 * 【目眉】(Mák-bâi) Eye-brow.
 * 【目毛】(Mák-chhì-môⁿ) Eye-lash.
 * 【目皮】(Mák-chiu-phûe) Eye-lid.
-* 【眼睛】(Mák-jîn) Eye-ball.
+* 【目仁】(Mák-jîn) Eye-ball.
 * 【鼻】(Phīⁿ) Nose.
 * 【鼻孔】(Phīⁿ-khang) Nostril.
 * 【喙】(Tshùi) Mouth.
-* 【喙唇皮】(Tshùi-lîm-phûe) Lips.
+* 【喙臨皮】(Tshùi-lîm-phûe) Lips.
 * 【鬚】(Chhiu) Beard, moustache.
-* 【下髯】(Ẽ-hâi) Chin.
-* 【頰】(Kih-kau) Cheeks.
+* 【下頦】(Ẽ-hâi) Chin.
+* 【頰溝】(Kih-kau) Cheeks.
 * 【額門神】(Hiáh-mn̂g-sîn) Forehead.
 * 【草眼】(Tsháu-ngán) Temples.
 * 【耳】(Hĩⁿ) Ear.
-* 【頸】(Ãm) Neck.
+* 【頷】(Ãm) Neck.
 * 【身】(Sin) Body.
 * 【心肝頭】(Sim-kuaⁿ-thâu) Chest.
 * 【𩩍籬】(Phiaⁿ-lî) Sides.
 * 【肚】(Tóu) Belly.
 * 【肚臍】(Tóu-tsâi) Navel.
-* 【脇下】(Koh-lâng-ẽ) Arm-pit.
+* 【胳胴下】(Koh-lâng-ẽ) Arm-pit.
 * 【背】(Ka-chiah) Back.
 * 【肩頭】(Koiⁿ-thâu) Shoulder.
 * 【手】(Chhiú) Arms, hands.
@@ -58,7 +58,7 @@ date: 2022-11-20 21:44:00
 ### External.
 
 * 【前齒】(Tsôiⁿ-khí) Front teeth.
-* 【牙頭齒】(Gê-thâu-khi) Back teeth.
+* 【牙頭齒】(Gê-thâu-khí) Back teeth.
 * 【齒齦】(Khí-ngṳ̂n) Gum.
 * 【舌】(Chíh) Tongue.
 * 【喉嚨】(Âu-lèng) Throat.
@@ -85,18 +85,18 @@ date: 2022-11-20 21:44:00
 ------
 
 * 【此個儂壯在】(Chí-kâi nàng tsàng-tsãi) This man is very strong.
-* 【我其頭髮長了】(Uá kâi thâu-môⁿ tn̂g--lō) My hair is long.
+* 【我其頭毛長了】(Uá kâi thâu-môⁿ tn̂g--lō) My hair is long.
 * 【我欲剃頭】(Uá àiⁿ thì-thâu) I want to shave.
 * 【汝其手伸出來】(Lṳ́ kâi chhiú tshun--tshut-lâi) Stretch out your hand.
 * 【我其手指流血】(Uá kâi chhiú-tsóiⁿ lâu-hueh) My finger is bleeding.
 * 【我在批物件。割着】(Uá tō phoi muéh-kiãⁿ, kuah--tiéh) I was cutting something, and it got cut.
-* 【伊跌到腳折去】(I puáh kàu kha chíh--khṳ̀) He fell down, and broke his leg.
+* 【伊跋到腳折去】(I puáh kàu kha chíh--khṳ̀) He fell down, and broke his leg.
 * 【腳手勿㩼】(Kha-chhiú màiⁿ-tsōi) Don't be mischievous.
 * 【伊死了】(I sí--lō) He is dead.
 * 【汝在批底個】(Lṳ́ tõ phoi tî-kâi?) What are you cutting?
 * 【我在批我其指甲】(Uá tõ phoi uá kái tsńg-kah) I am cutting my nails.
 * 【此個儂肥在】(Chí-kâi nâng pûi-tsãi) This man is very fat.
-* 【伊欲流鬚】(I àiⁿ lâu-chhiu) He wants to keep his beard.
+* 【伊欲留鬚】(I àiⁿ lâu-chhiu) He wants to keep his beard.
 * 【伊其頭毛挐挐】(I kâi thâu-môⁿ zṳ̂-zṳ̂) His hair is rough.
 * 【伊無梳頭】(I bô siu-thâu) He doesn't comb his hair.
 * 【汝其儂會不可亞袂】(Lṳ́ kâi nâng õi m̄-móⁿ a-bõi?) Are you unwell?

@@ -316,7 +316,7 @@ date: 2022-11-20 23:55:00
 * 【Burst】(Piàng-tiòu) 爆掉
 * 【Bury, the dead】(Tsǹg; tshut-suaⁿ) 葬　出山
 * 【Bury, as animal】(Kám) 䃭
-* 【Bush, a cluster of shrubs】(Chhì-nàⁿ-phè) 莿藍帕
+* 【Bush, a cluster of shrubs】(Chhì-nàⁿ-phè) 刺藍帕
 * 【Bushel】(Táu) 斗
 * 【Business】(Sṳ̄; sṳ̄-bũ) 事　事務
 * 【„ mercantile】(Seng-lí) 生理
@@ -494,7 +494,7 @@ date: 2022-11-20 23:55:00
 * 【Coil, as the queue】(Phuân-piⁿ) 絆鞭
 * 【„ as a snake】(Khuang-tsò chék-khou) 圈做一箍
 * 【Cold】(Chhìn; ngân) 凊　寒
-* 【Collar】(Ãm-niáⁿ) 頸領
+* 【Collar】(Ãm-niáⁿ) 頷領
 * 【Collect】(Siu) 收
 * 【College】(Tuā-óh; tsṳ-īⁿ) 大學　書院
 * 【Collision】(Sie-tsuãng--tiéh) 相撞着
@@ -965,7 +965,7 @@ date: 2022-11-20 23:55:00
 * 【„ left】(Tò-chhiú) 倒手
 * 【Handle】(Pēⁿ) 柄
 * 【Hang】(Tiòu) 吊
-* 【„ oneself】(Tiòu-àm) 吊頸
+* 【„ oneself】(Tiòu-àm) 吊頷
 * 【Happy】(Huaⁿ-hí) 歡喜
 * 【Hard】(Tōiⁿ; ngẽ) 𠕇　硬
 * 【Hare】(Thòu) 兔
@@ -1675,7 +1675,7 @@ date: 2022-11-20 23:55:00
 * 【Slight】(Sié-khúa) 小可
 * 【Slip, to miss the foot】(Thām-phiù) 失足
 * 【„ out of the hand】(Phiù-chhiú) 失手
-* 【Slip, down】(Liù-puáh; liù--lóh-khṳ̀) 滑跌
+* 【Slip, down】(Liù-puáh; liù--lóh-khṳ̀) 溜跋  溜落去
 * 【Slippers】(Ôi-thua; ôi-liouh) 鞋拖
 * 【Slow】(Mān) 緩
 * 【Slowly】(Khuaⁿ-khuaⁿ) 款款
@@ -1813,7 +1813,7 @@ date: 2022-11-20 23:55:00
 * 【Straightforward】(Chiàⁿ-tít; tong-tít; kuaⁿ-chiàⁿ) 正直　忠直　官正
 * 【Strain, a rope】(Túi-ân) 挽緊
 * 【„ to filter】(Tè) 隔渣
-* 【Strand, of rope】(Kóu) 一扭
+* 【Strand, of rope】(Kóu) 股
 * 【Strange】(Khî; ku-kuài) 奇　古怪
 * 【Stranger】(Tshut-gūa-nâng; chheⁿ-hūn-nâng) 出外儂　生份儂
 * 【Strangle】(Liû; ká) 留　絞
@@ -2030,7 +2030,7 @@ date: 2022-11-20 23:55:00
 * 【„ back】(Hui-tńg--lâi) 回轉來
 * 【„ upside down】(Tin-tò-táu) 顚倒倒
 * 【„ by, alternately】(Sie-lûn) 相輪
-* 【„ whose?】(Lûn-tiéh-tî-tiâng) 輪着底儂
+* 【„ whose?】(Lûn-tiéh-tî-tiâng) 輪着底誰
 * 【Twinkle】(Iăp-iáp-sih) 灼灼晃
 * 【Twist】(Tsũn) 捘
 * 【Twist, as a rope】(Ká) 絞

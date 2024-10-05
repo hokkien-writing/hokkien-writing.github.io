@@ -8,18 +8,18 @@ date: 2022-11-20 23:28:00
 
 ## Lesson XXII. judicial.
 
-* 【Murder】(Thâi-nâng) 殺儂
+* 【Murder】(Thâi-nâng) 刣儂
 * 【Forgery, of another's name】(Ké-chhiú-pit) 假手筆
 * 【„ of seal】(Ké-ìn) 假印
 * 【Arson】(Pàng-húe) 放火
-* 【Robbery】(Pak-ko-kúe, chhiéⁿ-pak) 搶劫　搶剝
+* 【Robbery】(Pak-ko-kúe, chhiéⁿ-pak) 搶糕粿　搶剝
 <!--more-->
 * 【Suicide】(Tsṳ̃-chĩn) 自盡
-* 【„ by hanging】(Tiòu-ãm) 吊頸
+* 【„ by hanging】(Tiòu-ãm) 吊頷
 * 【Theft】(Tsò-tshát) 做賊
 * 【Breach of trust】(Tîm-sìn) 沉信
 * 【„ faith】(Sit-sìn) 失信
-* 【Cheating】(Láu-nâng, phièn-nâng) 拐儂　騙儂
+* 【Cheating】(Láu-nâng, phièn-nâng) 漏儂　騙儂
 * 【Causing hurt】(Sieⁿ-nâng) 傷儂
 * 【Assault】(Phah-nâng) 拍儂
 * 【Drunkenness】(Chiáh-chiú-tsùi) 食酒醉
@@ -28,7 +28,7 @@ date: 2022-11-20 23:28:00
 * 【Stab, to】(Tshǹg) 剌
 * 【Rob, to】(Tshǹg) 剌
 * 【Snatch, to】(Chhiéⁿ) 搶
-* 【Steal, to】(Thau-khiéh) 偷盜
+* 【Steal, to】(Thau-khiéh) 偷挈
 * 【Thief, a】(Tshát) 賊
 * 【Pirate, a】(Hái-tshát) 海賊
 * 【Prosecutor】(Nguân-kò) 原告
@@ -51,13 +51,13 @@ date: 2022-11-20 23:28:00
 * 【Condemn, to death】(Tiāⁿ-sí tsũe) 定死罪
 * 【Punish, to】(Huát) 罰
 * 【Fine, to】(Huát-ngṳ̂n) 罰銀
-* 【Flogging, on buttocks】(Phah kha-tshng-póiⁿ) 拍屁股板
-* 【Flog severely】(Phah thiám-thiám) 拍重重
+* 【Flogging, on buttocks】(Phah kha-tshng-póiⁿ) 拍尻川板
+* 【Flog severely】(Phah thiám-thiám) 拍忝忝
 * 【Strangle to death】(Liû-sí) 絞死
 * 【Behead, to】(Tsám-thâu) 斬頭
-* 【Imprison, to】(Kìm-kam, siu-kam) 禁獄　收監
-* 【Prison, a】(Kam) 獄
-* 【„ keeper】(Kìm-chí) 禁子
+* 【Imprison, to】(Kìm-kam, siu-kam) 禁監　收監
+* 【Prison, a】(Kam) 監
+* 【Prison keeper】(Kìm-chí) 禁子
 * 【Prisoner, a】(Huãm-jîn) 犯人
 * 【Government】(Chhiôu-thêng) 朝廷
 * 【Law】(Lút) 律
@@ -98,11 +98,11 @@ date: 2022-11-20 23:28:00
 * 【Petition, to send in】(Jíp-tiâⁿ, jíp-pín) 入呈　入禀
 * 【Your Worship】(Lãu-iâ, thài-iâ) 老爺　太爺
 * 【„ Excellency】(Tãi-jîn) 大人
-* 【Promote, to】(Kau-seng) 高陞
+* 【Promote, to】(Kau-seng) 高升
 * 【Degrade, to】(Kàng-khip) 降級
-* 【Dismiss, to】(Pã-cheh, lut-tiōu) 黜職　黜掉
+* 【Dismiss, to】(Pã-cheh, lut-tiōu) 罷職　黜掉
 * 【Appoint, to】(Siet-líp) 設立
-* 【Appointment, an】(Cheh-jĩm) 職位
+* 【Appointment, an】(Cheh-jĩm) 職任
 * 【Case, a】(Uàⁿ, uàⁿ-kiãⁿ) 案　案件
 * 【„ to have it tried】(Phah-kuaⁿ-si, sie-kõ) 拍官司　相告
 * 【„ to win】(Kõ-iâⁿ) 告贏
@@ -119,7 +119,7 @@ date: 2022-11-20 23:28:00
 * 【Unjust】(M̄-kong-tãu) 毋公道
 * 【Truth, speak the】(Sít-uē tàⁿ) 實話呾
 * 【Lie, to】(Hue-niouⁿ) 巧語
-* 【Swear, to】(Chiù-chūa) 發誓
+* 【Swear, to】(Chiù-chūa) 咒誓
 * 【Plead guilty】(Jīn-tsũe, jīn-tshò) 認罪　認錯
 * 【According to law】(Chiè-lút) 照律
 * 【Against the law】(Ngék-lút) 逆律

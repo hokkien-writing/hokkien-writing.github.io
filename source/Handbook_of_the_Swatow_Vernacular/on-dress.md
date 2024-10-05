@@ -32,7 +32,7 @@ date: 2022-11-20 22:29:00
 * 【氈帽】(Chiⁿ-bō) A felt hat.
 * 【草帽】(Tsháu-bō) A straw hat.
 * 【葵笠】(Koíh-loíh) A bamboo-leaf hat.
-* 【頸領】(Ãm-niáⁿ) A collar.
+* 【頷領】(Ãm-niáⁿ) A collar.
 * 【褲】(Khòu) Trowsers.
 * 【褲腿】(Khòu-thúi) Leggings.
 * 【褲橛】(Khòu-kuéh) Short trowsers.

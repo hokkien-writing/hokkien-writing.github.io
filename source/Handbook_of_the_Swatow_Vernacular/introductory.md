@@ -37,12 +37,12 @@ date: 2022-11-15 21:43:00
 
 ## Lesson II.
 
-* 【此處】(Chí-kò, chié) Here.
-* 【彼處】(Hṳ́-kò, hié) There.
-* 【底處】(Tî-kò) Where?
+* 【此塊】(Chí-kò, chié) Here.
+* 【彼塊】(Hṳ́-kò, hié) There.
+* 【底塊】(Tî-kò) Where?
 * 【何時　底時】(Tiang-sî, tî-sî) When?
-* 【此個】(Chí-kâi, chiá) This.
-* 【彼個】(Hṳ́-kâi, hiá) That.
+* 【此個  此】(Chí-kâi, chiá) This.
+* 【彼個  彼】(Hṳ́-kâi, hiá) That.
 * 【底一個　底個】(Tî-chék-kâi, tî-kâi) Which?
 * 【底個　是乜】(Tî-kâi, sĩ-mih) What?
 * 【怎呢】(Tsò-nîⁿ) Why?
@@ -52,8 +52,8 @@ date: 2022-11-15 21:43:00
 * 【此賤個】(Chí-chùaⁿ-kâi) These.
 * 【彼賤個】(Hṳ́-chùaⁿ-kâi) Those.
 * 【怎呢　若】(Tsò-nîⁿ, jiéh) How?
-* 【這生】(Chièⁿ-seⁿ) Like this, thus.
-* 【許生】(Hièⁿ-seⁿ) Like that.
+* 【此樣生】(Chièⁿ-seⁿ) Like this, thus.
+* 【彼樣生】(Hièⁿ-seⁿ) Like that.
 * 【了】(Lióu) Then.
 * 【就】(Chiũ) Thereupon.
 * 【還了】(Huân-lióu) Still.
@@ -71,7 +71,7 @@ date: 2022-11-15 21:43:00
 * 【約量】(Iak-liãng) About.
 * 【差不多】(Tsha-put-to) About.
 * 【或者】(Pa-lak) Perhaps.
-* 【那是】(Nān-sĩ) If.
+* 【若是】(Nāⁿ-sĩ) If.
 * 【亞是】(A-sĩ) Or.
 * 【亞無】(A-bô) Or not? Interrogative Signs.
 * 【嗎】(Mē) Or not? Interrogative Signs.
@@ -79,8 +79,8 @@ date: 2022-11-15 21:43:00
 
 ## Lesson III. Exercises.
 
-* 【我在此處】(Uá tõ chí-kò) I am here,
-* 【汝在彼處】(Lṳ́ tõ hṳ́-kò) You are there.
+* 【我在此塊】(Uá tõ chí-kò) I am here,
+* 【汝在彼塊】(Lṳ́ tõ hṳ́-kò) You are there.
 * 【伊在底塊】(I tõ tî-kò?) Where is he?
 * 【恁何時去】(Nín tiang-sî khṳ̀?) When did you go?
 * 【此個是底個】(Chí-kâi sĩ tî-kâi?) What is this?
@@ -89,14 +89,14 @@ date: 2022-11-15 21:43:00
 * 【汝欲底個】(Lṳ́ aìⁿ tî-kâi?) What do you want?
 * 【伊怎呢無來】(I tsò-nîⁿ bô-lâi?) Why did he not come?
 * 【是因爲怎呢】(Sĩ in-ûi tsò-nîⁿ?) For what reason?
-* 【汝是底儂】(Lṳ́ sĩ tî-tiâng?) Who are you?
-* 【此是底儂其】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
+* 【汝是底誰】(Lṳ́ sĩ tî-tiâng?) Who are you?
+* 【此是底誰其】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
 * 【此賤個毋是】(Chí-chùaⁿ-kâi m̄-sĩ) These are not them.
 * 【彼賤個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
-* 【汝有若干】(Lṳ́ ũ jiéh-tsōi?) How much have you?
-* 【汝有若干個】(Lṳ́ ũ jiéh-tsōi kâi?) How many have you?
-* 【是如此】(Sĩ chièⁿ-seⁿ) It is like this.
-* 【毋是如此】(M̄-sĩ hièⁿ-seⁿ) Not like that.
+* 【汝有若㩼】(Lṳ́ ũ jiéh-tsōi?) How much have you?
+* 【汝有若㩼個】(Lṳ́ ũ jiéh-tsōi kâi?) How many have you?
+* 【是此樣生】(Sĩ chièⁿ-seⁿ) It is like this.
+* 【毋是彼樣生】(M̄-sĩ hièⁿ-seⁿ) Not like that.
 
 ------
 
@@ -106,7 +106,7 @@ date: 2022-11-15 21:43:00
 * 【彼就是】(Hiá chiũ-sĩ) That is it.
 * 【汝亦有】(Lṳ́ iā ũ) You have got it too.
 * 【從底塊到底塊】(Tshông tî-kò kàu tî-kò?) From where to where?
-* 【在此處到彼處】(Tõ chí-kò kàu hṳ́-kò) From here to there.
+* 【在此塊到彼塊】(Tõ chí-kò kàu hṳ́-kò) From here to there.
 * 【或者無】(Pa-lak bô) Perhaps not.
 * 【汝有亞無】(Lṳ́ ũ a-bô?) Have you or have you not? did you or did you not?
 * 【我無】(Uá bô) I havn't; I did not.
@@ -117,5 +117,5 @@ date: 2022-11-15 21:43:00
 * 【此個是我其】(Chí-kâi sĩ uá-kâi) This is mine.
 * 【毋是汝其】(M̄-sĩ lṳ́-kâi) It isn't yours.
 * 【是伊其】(Si i-kâi) It is his.
-* 【汝其毋是如此】(Lṳ́-kâi m̄-sĩ chièⁿ-seⁿ) Yours is not like his.
-* 【伊其是如此】(I kâi sĩ chièⁿ-seⁿ) His is like this.
+* 【汝其毋是此樣生】(Lṳ́-kâi m̄-sĩ chièⁿ-seⁿ) Yours is not like his.
+* 【伊其是此樣生】(I kâi sĩ chièⁿ-seⁿ) His is like this.

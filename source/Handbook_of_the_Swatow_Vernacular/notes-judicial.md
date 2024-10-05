@@ -39,7 +39,7 @@ date: 2022-11-20 23:46:00
 * 【亦無食儂其錢】(Iā bô chiáh nâng kâi chîⁿ) Nor does he take bribes.
 * 【儂忠直】(Nâng tong-tít) He is a straight-forward man.
 * 【百姓呵咾此個官府】(Peh-sèⁿ o-ló chí-kâi kuaⁿ-hú) The people praise this mandarin.
-* 【伊欲高陞了】(I àiⁿ-kau-seng--lō) He is going to be promoted.
+* 【伊欲高升了】(I àiⁿ-kau-seng--lō) He is going to be promoted.
 * 【雖然律是嚴。還了恁着順】(Sui-jiên lút sĩ ngiâm, huân-lióu nín tiéh sũn) Though the law is strict, yet you must obey it.
 * 【犯律其儂着受罰】(Huãm-lút--kâi-nâng tiéh siũ-huát) Those who break the law should be punished.
 

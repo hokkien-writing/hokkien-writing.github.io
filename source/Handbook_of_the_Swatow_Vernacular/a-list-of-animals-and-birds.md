@@ -55,7 +55,7 @@ date: 2022-11-20 23:36:00
 * 【„ little】(Ti-tu) 蜘蛛
 * 【Fly】(Hôu-sîn) 蝴蠅
 * 【Mosquito】(Máng) 蟒
-* 【Gnat】(Bun) 蚊
+* 【Gnat】(Bun) 蠓
 * 【Worm】(Thâng) 蟲
 * 【„ in books.】(Chheh-hṳ̂) 册魚
 * 【Ant】(Hiā) 蟻

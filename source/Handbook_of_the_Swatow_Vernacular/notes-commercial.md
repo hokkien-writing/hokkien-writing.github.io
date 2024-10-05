@@ -8,18 +8,18 @@ date: 2022-11-20 23:44:00
 
 ## Lesson XXX. Notes—Commercial.
 
-* 【燭臺一對若干錢】(Chek-tâi chék-tùi jiéh-tsōi chîⁿ?) How much for a pair of these candle-sticks?
-* 【兩員半】(Nõⁿ-khou-pùaⁿ) Two dollars and a half.
+* 【燭臺一對若㩼錢】(Chek-tâi chék-tùi jiéh-tsōi chîⁿ?) How much for a pair of these candle-sticks?
+* 【兩箍半】(Nõⁿ-khou-pùaⁿ) Two dollars and a half.
 * 【汝出若㩼】(Lṳ́ tshut jiéh-tsõi?) How much do you offer.
-* 【我此刻正在彼處買一員柒角半】(Uá chí-tsûn chiàⁿ-tõ hièⁿ-thâu bói chék-tùi, khou chhit-kak-pùaⁿ) I have just bought a pair from there for $1-75.
+* 【我此刻正在彼處買一對。箍七角半】(Uá chí-tsûn chiàⁿ-tõ hièⁿ-thâu bói chék-tùi, khou chhit-kak-pùaⁿ) I have just bought a pair from there for $1-75.
 * 【在底一間舖買】(Tõ tî-chék-koiⁿ phòu bói?) From which shop have you just bought them?
 <!--more-->
 * 【在順合隔壁】(Tõ Sũn-háh keh-piah) Next to (chop) Sun-hah.
 * 【順合其貨不可比阮其】(Sũn-háh kâi-hùe m̄-móⁿ ún--kâi) Sun-hah's goods cannot be compared with our goods.
-* 【阮其俱皆是正上海其】(Ún--kâi lóng-tsóng sĩ chiàⁿ Siāng-hái--kâi) Ours are all genuine Shanghai goods.
+* 【阮其攏總是正上海其】(Ún--kâi lóng-tsóng sĩ chiàⁿ Siāng-hái--kâi) Ours are all genuine Shanghai goods.
 * 【無假其】(Bô-ké--kâi) None are false.
 * 【較値錢我毋敢買】(Khah-tát-chîⁿ, uá m̄-káⁿ-bói) They are too costly, I dare not buy.
-* 【底儂是財主】(Tî-tiâng sĩ tshâi-tsú?) Who is the proprietor (of the shop)?
+* 【底誰是財主】(Tî-tiâng sĩ tshâi-tsú?) Who is the proprietor (of the shop)?
 * 【財主在此內】(Tshâi-tsú tõ hṳ́-lãi) The proprietor is inside.
 * 【苦船到來。欲叫伊去起貨】(Húe-tsṳ̂n kâu--lâi, àiⁿ-kiè i khṳ̀ khí-hùe) The steamer has arrived, I want to ask him to go and unload his cargo.
 * 【我佮此間雜港行。交關㩼】(Uá kah chí-koiⁿ Tsáp-káng-háng kau-kuan tsōi) I have a large transaction with this German firm.
@@ -28,7 +28,7 @@ date: 2022-11-20 23:44:00
 * 【我佮大英國儂就大交關哪】(Uá kah Tãi-eng-kok-nâng chiũ tūa kau-kuan nō) Oh, I do much business with Englishmen.
 * 【我尚英國人】(Uá siãng Eng-kok-nâng) I like Englishmen.
 * 【花旗行倒賬了】(Hue-kî-hâng tó-tièⁿ--lō) The American firm is bankrupt.
-* 【葵扇一枝若干錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
+* 【葵扇一枝若㩼錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
 * 【一枝八個錢】(Ki poih-kâi chîⁿ) Eight cash each.
 * 【此近時無生理】(Chí-chùaⁿ-sî bô seng-lí) My trade is very dull of late.
 * 【恁其生理好熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.

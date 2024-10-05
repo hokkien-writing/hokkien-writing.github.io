@@ -45,6 +45,6 @@ date: 2022-11-20 23:41:00
 * 【船頭枝桅其旗。若是升半橛就欲行】(Tsûn-thâu ki-ûi kâi kî, nāⁿ-sĩ liū pùaⁿ-kuéh chiũ àiⁿ-kiâⁿ) If the flag of the foremast is hoisted half mast high, then the steamer is going to start.
 * 【個儂跋落水底。無儂去撈伊】(Kâi-nâng puáh-lóh tsúi-tói, bô-nâng khṳ̀-liôu i) A man has fallen over board, and no one has gone to pick him up.
 * 【伊無乜會泅】(I bô-mih õi-siû) He can't swim very well.
-* 【無速速去救伊。就着激死】(Bô méⁿ-méⁿ khṳ̀ kiù--i, chiũ-tiéh kek-sí) If he is not saved quickly, he will be drowned.
+* 【無猛猛去救伊。就着激死】(Bô méⁿ-méⁿ khṳ̀ kiù--i, chiũ-tiéh kek-sí) If he is not saved quickly, he will be drowned.
 * 【汝會氼嗎】(Lṳ́ õi bī mē?) Can you dive?
 * 【無羅經。駛毋知地去】(Bô lô-keⁿ, sái m̄-pat-tò-khṳ) Without a compass we don't know where to sail to.
