@@ -216,15 +216,15 @@ date: 2022-11-20 21:59:00
 * 【食了挈洗手杯來】(Chiáh-lióu khiéh sói-chhiú-pue lái) After dinner get the finger bowls.
 * 【盤一樣食了着換】(Pûaⁿ chék-iēⁿ chiáh-lióu tiéh-uāⁿ) The plates must be changed after every course.
 * 【刀叉亦是此樣生】(To-chhe iā sĩ chièⁿ-seⁿ) So also the knives and forks.
-* 【挈一玻璃杯凊水與我】(Khíeh chék po-lî-pue chhìn-tsúi khoih uá) Get me a tumbler of cold water.
+* 【挈一玻璃杯凊水乞我】(Khíeh chék po-lî-pue chhìn-tsúi khoih uá) Get me a tumbler of cold water.
 * 【我欲食】(Uá àiⁿ-chiáh) I want to drink.
 * 【盤碗食了着洗】(Pûaⁿ-uáⁿ chiáh-lióu tiéh-sói) After dinner you must wash the dishes.
 * 【洗了着拭灱】(Sói-lióu tiéh chhit-ta) After washing you must wipe them dry.
 * 【牀布佮手巾垃圾好換】(Tshn̂g-pòu kah chhiú-kṳn nah-sap hó-uāⁿ) The table-cloth and the napkins may be changed, if they are dirty.
 * 【調雞湯個匙。拭就好。不可磨】(Ié-koi-thng kâi-sî chhit chiũ-hó, m̄-móⁿ chhiù) Just wipe the soup ladle, you must not rub it.
-* 【茶鍾有几個】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
+* 【茶鍾有幾個】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
 * 【有五個而已】(Ũ ngõu-kâi tiāⁿ-tiāⁿ) There are only five.
-* 【五個而已。加一個與底誰敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
+* 【五個而已。加一個乞底誰敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
 * 【我哩毋知】(Uá li m̄-tsai) I don't know.
 * 【汝怎呢好毋知。物件是汝管其】(Lṳ́ tsò-nîⁿ hó m̄-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi) How is it you don't know, the things are in your charge.
 * 【我煩惱。我哩割汝其工錢】(Uá huân-ló, uá li kuah lṳ́ kâi kang-chiⁿ) I don't care, I will cut your wages.
@@ -235,7 +235,7 @@ date: 2022-11-20 21:59:00
 
 ### Kitchen.
 
-* 【竈】(Tsàu) A furnace.
+* 【灶】(Tsàu) A furnace.
 * 【風爐】(Huang-lôu) A stove.
 * 【鍟鍋】(Seⁿ-ue) A kettle.
 * 【銅鍋】(Tâng-ue) A Chinese brass kettle.

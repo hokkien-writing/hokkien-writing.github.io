@@ -103,7 +103,7 @@ date: 2022-11-20 21:44:00
 * 【會。我其儂熱】(Õi, uá kâi nâng zuáh) Yes, I am suffering from fever.
 * 【汝欲食零須藥嗎】(Lṳ́ àiⁿ-chiáh lân-ló iéh mē?) Do you wish to take some medicine?
 * 【欲亞。請汝挈零須分我】(Àiⁿ a, chhiáⁿ lṳ́ khiéh lân-ló pun uá) Oh yes, please get me some.
-* 【我其肚此几日澀在】(Uá kâi tóu chí-kua-jít siap-tsãi) I have been very costive during the last few days.
+* 【我其肚此幾日澀在】(Uá kâi tóu chí-kua-jít siap-tsãi) I have been very costive during the last few days.
 * 【我一身流汗】(Uá chék-sin lâu-kūaⁿ) I am in a perspiration.
 * 【儂困在】(Nâng khùn-tsãi) I am very weak.
 * 【我病有三個禮拜】(Uá pēⁿ ũ saⁿ-kâi lói-pài) I have been sick for about three weeks.

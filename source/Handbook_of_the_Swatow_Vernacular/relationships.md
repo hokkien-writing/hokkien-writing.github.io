@@ -54,27 +54,27 @@ date: 2022-11-20 23:34:00
 * 【Brother, elder】(A-hiaⁿ) 阿兄
 * 【Brother, younger】(A-tĩ) 阿弟
 * 【Elder brother's wife】(A-só) 阿嫂
-* 【Brother's son】(Tiét, tau-sun) 姪　姪孫
-* 【Brother's daughter】(Tiét-nńg, tsáu-sun) 姪女　女孫
+* 【Brother's son】(Tiét, tau-sun) 姪　兜孫
+* 【Brother's daughter】(Tiét-nńg, tsáu-sun) 姪女　走孫
 * 【Sister, elder】(A-ché) 阿姊
 * 【Sister, younger】(A-mūeⁿ) 阿妹
 * 【Sister's husband】(A-nn̂g) 阿郞
 * 【Sister's son】(Gūa-seng) 外甥
 * 【Sister's daughter】(Gūa-seng-nńg) 外甥女
 * 【Son】(Kiáⁿ) 囝
-* 【Son's wife】(Sin-pũ) 媳婦
+* 【Son's wife】(Sin-pũ) 新婦
 * 【Son's son】(Lãi-sun) 內孫
-* 【Son's daughter】(Lãi-tsáu-sun) 內女孫
+* 【Son's daughter】(Lãi-tsáu-sun) 內走孫
 * 【Son's son's son】(Cheng-sun) 曾孫
-* 【Son's son's daughter】(Cheng-tsáu-sun) 曾女孫
+* 【Son's son's daughter】(Cheng-tsáu-sun) 曾走孫
 * 【Daughter】(Tsáu-kiáⁿ) 走囝
-* 【Daughter's husband】(Kiáⁿ-sài) 女壻
+* 【Daughter's husband】(Kiáⁿ-sài) 囝婿
 * 【Daughter's son】(Gūa-sun) 外孫
-* 【Daughter's daughter】(Gūa-tsáu-sun) 外女孫
-* 【Husband】(Ang, jî-sài, chiãng-hu) 翁　兒壻　丈夫
+* 【Daughter's daughter】(Gūa-tsáu-sun) 外走孫
+* 【Husband】(Ang, jî-sài, chiãng-hu) 翁　兒婿　丈夫
 * 【Wife】(Bóu, chhi, lãu-phûa) 𡚸　妻　老婆
 * 【Husband's father-in-law】(Tiẽⁿ-nâng, ngák-pẽ) 丈儂　岳父
-* 【Husband's mother-in-law】(Tiẽⁿ-ḿ-phûa, ngák-bó) 丈母婆　岳母
+* 【Husband's mother-in-law】(Tiẽⁿ-ḿ-phûa, ngák-bó) 丈姆婆　岳母
 * 【Wife's father-in-law】(Ta-kuaⁿ) 大官
 * 【Wife's mother-in-law】(Ta-ke) 大家
 * 【Daughter-in-law's father】(Chhin-ke) 親家
@@ -86,7 +86,7 @@ date: 2022-11-20 23:34:00
 * 【Husband's elder sister】(Tūa-kou) 大姑
 * 【Husband's younger sister】(Sòi-kou) 細姑
 * 【Nephew's wife】(Sun-pũ) 孫婦
-* 【Niece's husband】(Thâng-sun-sài) 堂孫壻
+* 【Niece's husband】(Thâng-sun-sài) 堂孫婿
 * 【Parents】(Pẽ-bó) 父母
 * 【Relative, one's own】(Chhin-chhek) 親戚
 * 【Relative, by marriage】(Chhin-chiâⁿ) 親情

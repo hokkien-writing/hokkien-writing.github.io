@@ -21,7 +21,7 @@ date: 2022-11-20 22:51:00
 * 【船囝】(Tsûn-kiáⁿ) A sampan.
 * 【竹篙噠】(Tek-ko-that) A sampan.
 * 【槳】(Chiéⁿ) An oar.
-* 【櫓】(Kò) To row.
+* 【划】(Kò) To row.
 * 【桅】(Uî) A mast.
 * 【橫桅】(Hûeⁿ-ûi) A yard.
 * 【桅頂】(Uî-téng) Top of the mast.
@@ -32,28 +32,28 @@ date: 2022-11-20 22:51:00
 * 【椗】(Tèng) An anchor.
 * 【鐵鍊】(Thih-liēn) Chains.
 * 【椗索】(Tèng-soh) Cable.
-* 【下椗】(Pha-tèng) To drop anchor.
-* 【起椗】(Khiéh-tèng) To weigh anchor.
+* 【拋椗】(Pha-tèng) To drop anchor.
+* 【挈椗】(Khiéh-tèng) To weigh anchor.
 * 【椗袂食】(Tèng bõi-chiáh) Anchor does not take effect.
 * 【水鼓】(Tsúi-kóu) A buoy.
 * 【船頭】(Tsûn-thâu) Forecastle.
-* 【船中央】(Tsûn-tìn-tang) Midship.
+* 【船鎮中】(Tsûn-tìn-tang) Midship.
 * 【船尾】(Tsûn-búe) Stern.
 * 【船頂】(Tsûn-téng) Deck.
 * 【峇厘】(Bā-lî) A cabin.
 * 【玉】(Gék[1]) A ship's boat.
 * 【煙筒】(In-tâng) A funnel.
 * 【陂】(Pi) A whistle.
-* 【呠陂】(Pûn-pi) To blow a whistle.
+* 【歕陂】(Pûn-pi) To blow a whistle.
 * 【鼎】(Tiáⁿ) A boiler.
 * 【水煙】(Tsúi-in) Steam.
 * 【灶】(Tsàu) Furnace.
 * 【起火】(Khí-húe) To make a fire.
-* 【燒】(Hiáⁿ) To burn; to boil as a large quantity of water.
-* 【燒塗炭】(Hiáⁿ-thôu-thùaⁿ) To burn coal.
-* 【燒柴】(Thâⁿ-tshâ) To burn fire wood.
+* 【燃】(Hiáⁿ) To burn; to boil as a large quantity of water.
+* 【燃塗炭】(Hiáⁿ-thôu-thùaⁿ) To burn coal.
+* 【燃柴】(Hiáⁿ-tshâ) To burn fire wood.
 * 【藥機】(Iéh-kúi) Engine.
-* 【輪】(Lín) A wheel.
+* 【轔】(Lín) A wheel.
 * 【車】(Chhia) A propeller.
 * 【紡】(Pháng) To propel.
 * 【開藥機】(Khui iék-kúi) To start engine.
@@ -77,7 +77,7 @@ date: 2022-11-20 22:51:00
 * 【大伙】(Tūa-húe) Chief mate.
 * 【二伙】(Jī-húe) Second mate.
 * 【管藥機其儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
-* 【燒火其儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
+* 【燃火其儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
 * 【掠舵】(Liáh-tũa) Steersman.
 * 【舵舡】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.
@@ -86,9 +86,9 @@ date: 2022-11-20 22:51:00
 * 【船欲行】(Tsûn àiⁿ-kiàⁿ) Ships leaving.
 * 【船行了】(Tsûn kiàⁿ--lō) Ships have gone.
 * 【船袂行】(Tsûn bõi-kiâⁿ) Ships can't go.
-* 【船敲風】(Tsûn khau-huang) Ships tacking.
-* 【船擱着】(Ksûn khūa--tiéh) Ships run aground.
-* 【船破】(Tsûn puáh-tiòu) Ship-wreck.
+* 【船摳風】(Tsûn khau-huang) Ships tacking.
+* 【船艐着】(Ksûn khūa--tiéh) Ships run aground.
+* 【船破掉】(Tsûn puáh-tiòu) Ship-wreck.
 * 【船相撞着】(Tsûn sie-tsuãng-tiéh) Ships come into collision with each other.
 * 【沈】(Tim) To sink.
 * 【浮】(Phû) To float.

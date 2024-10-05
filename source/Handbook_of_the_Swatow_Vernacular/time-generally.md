@@ -24,18 +24,18 @@ date: 2022-11-17 23:28:00
 
 ------
 
-* 【今日拜几】(Kiáⁿ-jít pài-kúi?) What day of the week is to-day?
+* 【今日拜幾】(Kiáⁿ-jít pài-kúi?) What day of the week is to-day?
 * 【今日拜一】(Kiáⁿ-jít pài-it) To-day is Monday.
 * 【汝下個拜一來】(Lṳ́ ẽ-kâi pài-it lâi) You come on Monday next.
 * 【我此個禮拜毋閒在】(Uá chí-kâi lói-pài m̄-ôiⁿ tsãi) I am very busy this week.
-* 【我明天其事㩼在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
-* 【先生汝明天早者來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
+* 【我明起其事㩼在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
+* 【先生汝明起早者來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
 * 【我欲讀零些。了汝好轉來】(Uá àiⁿ-ták lân-ló, lióu lṳ́ hó-tńg--khṳ̀) I will read a little, and then you can go.
 * 【拜三先生汝免用來】(Pài-saⁿ sin-seⁿ lṳ́ mín-ēng lâi) On Wednesday, teacher, you needn't come.
 * 【拜四我毋在】(Pài-sì uá m̄-tõ) I shan't be at home on Thursday.
 * 【拜五我亞者轉來】(Pài-ngõu uá pa-lak tńg--lâi) Probably, I shall be back on Friday.
 * 【無定着。拜六亦毋知】(Bô tiāⁿ-tiéh, pài-lák iā m̄-tsai) I am not sure, I might come back on Saturday.
-* 【汝拜六下午來】(Lṳ́ pài-lák ẽ-kùa lâi) You come on Saturday afternoon.
+* 【汝拜六下旰來】(Lṳ́ pài-lák ẽ-kùa lâi) You come on Saturday afternoon.
 * 【禮拜日我欲去禮拜】(Lói-pài-jít uá àiⁿ-khṳ̀ lói-pài) On Sunday I go to worship.
 * 【加毋久就正月】(Ke m̄-kú chiũ chiaⁿ--guéh) Before long it will be the New Year.
 * 【二月還了是凊】(Jī--guéh huân-lióu sĩ chhìn) The second moon is still cold.
@@ -61,7 +61,7 @@ date: 2022-11-17 23:28:00
 
 ------
 
-* 【今日何時】(Kiáⁿ-jít tiang-sî?) What is to day?
+* 【今日底時】(Kiáⁿ-jít tiang-sî?) What is to day?
 * 【今日七月初一】(Kiáⁿ-jít chhit--guéh chhiu-it) To-day is the first of the seventh moon.
 * 【十一禮拜】(Tsáp-it lói-pài) The eleventh (Chinese month) will be Sunday.
 * 【是亞毋是】(Sĩ a m̄-sĩ?) Is it or is it not?

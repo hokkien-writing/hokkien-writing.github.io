@@ -74,7 +74,7 @@ date: 2022-11-16 20:16:00
 * 【款款高】(Khuaⁿ-khuaⁿ kûiⁿ) It is getting higher and higher by degrees.
 * 【星灼灼晃】(Chheⁿ iáp-iáp-sih) The stars are twinkling.
 * 【風大】(Huang tūa) The wind is blowing hard.
-* 【彼欉大樹被風吹倒去】(Hṳ́-tsâng tū-a-chhiū khoih huang tshue tó--khṳ̀) That large tree has been blown down by the wind.
+* 【彼欉大樹乞風吹倒去】(Hṳ́-tsâng tū-a-chhiū khoih huang tshue tó--khṳ̀) That large tree has been blown down by the wind.
 * 【雨欲來】(Hõu àiⁿ-lâi) The rain is coming.
 * 【雷公响】(Lûi-kong tán) The thunder roars.
 * 【雷公攝目。了正响】(Lûi-kong nih-mák, lióu chiàⁿ-tân) The lightning flashes first, then the thunder roars.
@@ -130,7 +130,7 @@ date: 2022-11-16 20:16:00
 * 【中午】(Jít-tàu) Noon.
 * 【夜昏】(Mêⁿ-hng) Evening.
 * 【上午】(Chiēⁿ-kùa) Forenoon.
-* 【下午】(Ẽ-kùa) Afternoon.
+* 【下旰】(Ẽ-kùa) Afternoon.
 * 【夜昏囝】(Mêⁿ-hng-kiáⁿ) To-night (early.)
 * 【今夜】(Ke-mêⁿ) To-night (rather late.)
 * 【日】(Jít) Sun or day.
@@ -149,7 +149,7 @@ date: 2022-11-16 20:16:00
 * 【我中午欲去乞儂請】(Uá jít-tàu àiⁿ-khṳ̀ khoih-nâng-chhiáⁿ) I am invited out for noon.
 * 【汝何時正欲轉來】(Lṳ́ tiang-sî chiàⁿ-àiⁿ tńg--lâi?) When will you come back?
 * 【夜昏正轉來】(Mêⁿ-hng chiàⁿ-tńg--lâi) I shall not be back until to-night.
-* 【亞者下午亦毋知】(Pa-lak ẽ-kùa iā m̄-tsai) Perhaps in the afternoon, but I don't know.
+* 【亞者下旰亦毋知】(Pa-lak ẽ-kùa iā m̄-tsai) Perhaps in the afternoon, but I don't know.
 * 【今夜伊毋在】(Ke-mêⁿ i m̄-tõ) He shall not be at home to-night.
 * 【夜昏囝伊欲來我此處】(Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò) He is coming to my place to-night.
 * 【我請伊】(Uá chhiáⁿ i) I have invited him.
@@ -170,7 +170,7 @@ date: 2022-11-16 20:16:00
 * 【早早】(Tsá-tsá) Very early.
 * 【天光】(Thiⁿ-kng) Day-break, dawn.
 * 【今日】(Kiáⁿ-jít) To-day.
-* 【明天】(Màⁿ-khí) To-morrow.
+* 【明起】(Màⁿ-khí) To-morrow.
 * 【後日】(Aũ--jít) Day after to-morrow.
 * 【大後日】(Tūa--aũ-jít) A day later than above.
 * 【昨日】(Tsa-jít) Yesterday.
@@ -184,18 +184,18 @@ date: 2022-11-16 20:16:00
 * 【次次】(Tsūa-tsūa) Every occasion.
 * 【吓吓】(Ē-ē) Every occasion.
 ------
-* 【明天早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
+* 【明眠起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
 * 【汝不可夗到日晏正走起】(Lṳ́ m̄-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
 * 【着早者】(Tiéh tsá--chē) You must be early.
 * 【今。汝着憶得】(Taⁿ, lṳ́ tiéh it-tit) Now, you must remember.
 * 【不可毋憶得】(M̄-móⁿ m̄-it-tit) Don't forget.
 * 【好。我天光就欲走起】(Hó. Uá thiⁿ-kng chiũ àiⁿ tsáu-khí) Very well. As soon as day-break I will get up.
 * 【今日我毋閒】(Kiáⁿ-jít uá m̄ oíⁿ) I am busy to-day.
-* 【明天正來】(Màⁿ-khí chiàⁿ-lâi) Come to-morrow.
-* 【明天任底時】(Màⁿ-khí zuãn tiang-si) Any time to-morrow.
+* 【明起正來】(Màⁿ-khí chiàⁿ-lâi) Come to-morrow.
+* 【明起任底時】(Màⁿ-khí zuãn tiang-si) Any time to-morrow.
 * 【好了。汝好去】(Hó--lō, lṳ́ hó-khṳ̀) That will do, you may go.
 * 【我今日終日在內】(Uá kiáⁿ-jít thàng-jít tõ lāi) I am at home all to-day.
-* 【明天我毋在】(Màⁿ-khí uá m̄-tõ) I shall not be at home tomorrow.
+* 【明起我毋在】(Màⁿ-khí uá m̄-tõ) I shall not be at home tomorrow.
 * 【汝免用來】(Lṳ́ mín-ēng lâi) You need not come.
 * 【後日我就轉來】(Aũ--jít uá chiũ tńg--lâi) I shall be back the day after to-morrow.
 * 【我次次來到覓汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̄-tõ) On every occasion of my coming, I could not find you.

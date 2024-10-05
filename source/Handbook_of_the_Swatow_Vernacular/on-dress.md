@@ -18,7 +18,7 @@ date: 2022-11-20 22:29:00
 * 【答背】(Tah-pùe) A waistcoat.
 * 【袷囝】(Kah-kiáⁿ) A waistcoat.
 * 【身底衫】(Sin-tói-saⁿ) A shirt or singlet.
-* 【衫袖】(Saⁿ-ńg) Sleeves.
+* 【衫䘼】(Saⁿ-ńg) Sleeves.
 * 【衫袋】(Saⁿ-tō) Pockets.
 * 【手布】(Chhiú-pòu) Handkerchiefs.
 * 【手綢】(Chhiú-tiû) Handkerchiefs.
@@ -42,7 +42,7 @@ date: 2022-11-20 22:29:00
 * 【荷包】(Hô-pau) A purse worn on the waist.
 * 【襪】(Buéh) Stockings.
 * 【烏布鞋】(Ou-pòu-ôi) Shoes, black-cloth.
-* 【綴鞋】(Tn̄g-ôi) „ satin.
+* 【緞鞋】(Tn̄g-ôi) „ satin.
 * 【花鞋】(Hue-ôi) „ embroidered.
 * 【柴鞋】(Tshâ-ôi) „ wooden soled.
 * 【草鞋】(Tsháu-ôi) Straw sandals.
@@ -68,7 +68,7 @@ date: 2022-11-20 22:29:00
 * 【珠】(Tsu) Beads.
 * 【領】(Niáⁿ) A (c.)[1] of a coat &c.
 * 【條】(Tiôu) A (c.) of trowsers, belt, collar, handkerchief &c.
-* 【船】(Liáp) A (c.) of a button, (coat or official &c.)
+* 【粒】(Liáp) A (c.) of a button, (coat or official &c.)
 
 ------
 

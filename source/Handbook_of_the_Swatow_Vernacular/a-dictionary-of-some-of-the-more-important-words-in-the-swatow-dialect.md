@@ -1670,7 +1670,7 @@ date: 2022-11-20 23:55:00
 * 【Slap, to】(Òng) 掌
 * 【Slave】(Nôuⁿ-tshâi) 奴才
 * 【Sleep】(Út) 夗
-* 【Sleeve, of coat】(Saⁿ-ńg) 衫袖
+* 【Sleeve, of coat】(Saⁿ-ńg) 衫䘼
 * 【Slice】(Phièn; liàm; hue) 片
 * 【Slight】(Sié-khúa) 小可
 * 【Slip, to miss the foot】(Thām-phiù) 失足

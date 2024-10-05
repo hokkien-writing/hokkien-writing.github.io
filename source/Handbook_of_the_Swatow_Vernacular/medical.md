@@ -12,14 +12,14 @@ date: 2022-11-20 23:02:00
 * 【醫】(Ui) To cure.
 * 【病】(Pēⁿ) To be ill; sickness.
 * 【儂毋好】(Nâng m̄-móⁿ) Unwell.
-* 【抱病】(Phùa-pēⁿ) To be very ill for a long period.
+* 【破病】(Phùa-pēⁿ) To be very ill for a long period.
 * 【着力】(Tíh-lát) To be very ill, almost dying.
 <!--more-->
 * 【醫袂好】(Ui bõi-hó) Incurable.
 * 【醫難好】(Ui oh-hó) Difficult to cure.
 * 【難醫】(Oh-ui) Difficult to cure.
 * 【畧好】(Ióu-hó) Better.
-* 【差】(Tsuáh) Better.
+* 【絀】(Tsuáh) Better.
 * 【全愈】(Tshuân-zú) Quite recovered.
 * 【斷氣】(Tñg-khùi) To expire.
 * 【頭壳痛】(Thâu-khak thiàⁿ) Headache.
@@ -30,9 +30,9 @@ date: 2022-11-20 23:02:00
 * 【發燒畏凊】(Huat-sie ùi-chhìn) Fever and ague.
 * 【肚痛】(Tóu-thiàⁿ) Stomachache.
 * 【抽痛】(Thiu-thiàⁿ) Cramp.
-* 【嘔】(Thôu) To vomit.
-* 【瀉屎】(Làu-sái) Diarrhoea.
-* 【肚瀉】(Tóu làu) Diarrhoea.
+* 【吐】(Thôu) To vomit.
+* 【漏屎】(Làu-sái) Diarrhoea.
+* 【肚漏】(Tóu làu) Diarrhoea.
 * 【放血】(Pàng-àng) Dysentery.
 * 【滯氣】(Thì-khì) Dysentery.
 * 【痢疾】(Lĩ-chit) Dysentery.
@@ -71,11 +71,11 @@ date: 2022-11-20 23:02:00
 * 【大頷奎】(Tūn-ãm-kui) Goitre.
 * 【瘤】(Liû) Tumour.
 * 【軟疕】(Nńg-nîⁿ) Palsy.
-* 【痒癲】(Kuàn-pien) Palsy.
-* 【顚】(Sióu) Mad.
+* 【癱瘓】(Kuàn-pien) Palsy.
+* 【癲】(Sióu) Mad.
 * 【心神毋定】(Sim-sîn m̄-tiāⁿ) Insane.
 * 【愩】(Kòng) Crazy.
-* 【輩】(Bùi, Pùi) Prickly heat.
+* 【痱】(Bùi, Pùi) Prickly heat.
 * 【癬】(Sién) Ringworm.
 * 【目痛】(Mák--thiàⁿ) Sore-eyes.
 * 【近視】(Kṳ̃n-sī) Near-sighted.
@@ -88,7 +88,7 @@ date: 2022-11-20 23:02:00
 * 【缺喙】(Khih-tshùi) Hare-lip.
 * 【腰龜】(Ie-ku) Humpback.
 * 【拐腳】(Kuái-kha) Lame.
-* 【枋腳䥥】(Páng-kha-liâm) Ulcerated leg.
+* 【綁腳䥥】(Páng-kha-liâm) Ulcerated leg.
 * 【縻腳】(Miⁿ-kha) Ulcerated leg.
 * 【生物】(Seⁿ-muéh) To have a disease.
 * 【生㿗】(Seⁿ-thûe) To have a boil.
@@ -110,7 +110,7 @@ date: 2022-11-20 23:02:00
 * 【藥末】(Iéh-buáh)  Powder, for taking, applying.
 * 【寒藥】(Kûaⁿ-iéh) Quinine.
 * 【紅藥】(Âng-iéh) Pain-killer.
-* 【戒芬丸】(Kói-hun-îⁿ) “Stop-opium” pills.
+* 【戒薰丸】(Kói-hun-îⁿ) “Stop-opium” pills.
 * 【卑麻油】(Pi-mûaⁿ-iû) Castor oil.
 * 【食瀉】(Chiáh-sià) To take an aperient.
 * 【瀉】(Sià) To purge.

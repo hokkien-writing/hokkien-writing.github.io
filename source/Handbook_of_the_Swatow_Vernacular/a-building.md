@@ -136,7 +136,7 @@ date: 2022-11-20 21:38:00
 * 【香港有大行】(Hiang-káng ũ tūa-hâng) There are large hongs in Hong Kong.
 * 【在彼個舖高大】(Tõ-hié kâi phòu kûiⁿ-tūa) The shops there are high and large.
 * 【有其舖三四沿高】(Ũ-kâi phòu saⁿ-sì în kûiⁿ) Some shops there are three or four stories high.
-* 【汝在彼有几間厝】(Lṳ́ tõ-hié ũ kúi-koiⁿ tshù?) How many houses have you there?
+* 【汝在彼有幾間厝】(Lṳ́ tõ-hié ũ kúi-koiⁿ tshù?) How many houses have you there?
 * 【我在彼有一間】(Uá tõ-hié ũ chék-koiⁿ) I have one house there.
 * 【每個月稅一百個銀】(Chék-kâi guéh sùe chék-peh kâi ngṳ̂n) It is let at $100 a month.
 

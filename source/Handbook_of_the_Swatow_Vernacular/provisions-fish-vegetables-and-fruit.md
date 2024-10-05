@@ -34,14 +34,14 @@ date: 2022-11-20 22:19:00
 * 【Rice, (raw)】(Bí) 米
 * 【„ (boiled)】(Pñg) 飯
 * 【Congee】(Mûeⁿ) 粥
-* 【Rice water】(Ám) 黯
+* 【Rice water】(Ám) 飲
 * 【Relish】(Kiâm-sng) 鹹酸
-* 【Curry】(Ka-lî) 膠離
-* 【„ stuff】(Ka-lî-buáh) 膠離末
+* 【Curry】(Ka-lî) 咖喱
+* 【„ stuff】(Ka-lî-buáh) 咖喱末
 * 【Mustard】(Kài-luáh) 芥辣
 * 【Sauce】(Sī-iû) 豉油
 * 【Vinegar】(Tshòu) 醋
-* 【Pepper】(Hôu-chie) 糊椒
+* 【Pepper】(Hôu-chie) 胡椒
 * 【Pickles】(Sng-tshài) 酸菜
 * 【Jam】(Tiâm-ko) 甜糕
 * 【Sugar】(Thn̂g) 糖
@@ -52,7 +52,7 @@ date: 2022-11-20 22:19:00
 * 【Barley】(Béh) 麥
 * 【Indian corn】(Iùⁿ-bí) 苡米
 * 【Arrow-root】(Ngóu-hún) 藕粉
-* 【Flour】(Mīⁿ) 麫
+* 【Flour】(Mīⁿ) 麫  麵
 * 【Sago】(Siâ-gō-hún) 斜莪粉
 * 【„ in pills】(Siâ-gō-îⁿ) 斜莪圓
 * 【Vermicelli】(Mīⁿ-sùaⁿ) 麫線 麵線
@@ -60,7 +60,7 @@ date: 2022-11-20 22:19:00
 
 ------
 
-* 【咱明天欲出門。食有到亞無】(Nán màⁿ-khí àiⁿ tshut-mǹg, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
+* 【咱明起欲出門。食有夠亞無】(Nán màⁿ-khí àiⁿ tshut-mǹg, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
 * 【着預夠】(Tiéh ṳ̃-kàu) You must prepare enough.
 * 【勿毋夠。了在路就無食】(Màiⁿ-m̄-kàu, lióu tõ lōu chiũ bô-chiáh) For if there is not enough, then we shall get no food on the way.
 * 【今咱有底個】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
@@ -68,8 +68,8 @@ date: 2022-11-20 22:19:00
 * 【若是毋夠一路好買】(Nāⁿ-sĩ m̄-kàu chék-lōu hó-bói) If we haven't got enough, we can buy on the way.
 * 【叫伙頭來】(Kiè húe-thâu lâi) Call the cook here.
 * 【明夜昏我欲請儂】(Màⁿ-mêⁿ-hng uá àiⁿ-chhiáⁿ-nâng) To-morrow night I wish to invite a few persons.
-* 【有欲請几㩼儂】(Ũ àiⁿ-chhiáⁿ jiéh-tsōi nâng?) How many people do you wish to invite?
-* 【大約畧捌儂】(Iak-bó-liãng poih-nâng) Probably eight persons.
+* 【有欲請幾㩼儂】(Ũ àiⁿ-chhiáⁿ jiéh-tsōi nâng?) How many people do you wish to invite?
+* 【約母量八儂】(Iak-bó-liãng poih-nâng) Probably eight persons.
 * 【買一隻雞做湯】(Bói chék-chiah koi tsò-thng) Buy a fowl and make soup.
 * 【一隻鴨𤇢。一隻鵝浮】(Chék-chiah ah pek, chek-chiah gô phû) Roast one duck and fry one goose.
 * 【割四斤牛肉。三斤羊肉。二斤豬朥】(Kuah sì-kṳn gû-bah, saⁿ kṳn iêⁿ-bah, nõⁿ-kṳn tṳ-lâ) Buy (lit. cut) four catties of beef, three catties of mutton, two catties of lard.
@@ -79,23 +79,23 @@ date: 2022-11-20 22:19:00
 * 【有加零些】(Ũ ke lân-ló) I have a few more.
 * 【𤰉亞毋𤰉】(Lã a m̄-lã?) Have you enough?
 * 【我想𤰉亞】(Uá siẽⁿ lã--a) I think there are enough.
-* 【好也。若是𤰉就免用買】(Hó--nōⁿ, nāⁿ-sĩ lã chiũ mín-ēng bói) All right, if you have enough you needn't buy any.
+* 【好哪。若是𤰉就免用買】(Hó--nōⁿ, nāⁿ-sĩ lã chiũ mín-ēng bói) All right, if you have enough you needn't buy any.
 * 【雞卵買三十粒】(Koi-nñg bói saⁿ-tsáp liáp) Buy thirty fowl's eggs.
-* 【十陸粒烙半生熟】(Tsáp-lák liáp luah pùaⁿ-chheⁿ sék) Half-fry sixteen of them.
-* 【存十四粒做粿】(Tshûn tsáp-sì liáp tsò-kúe) The remaining fourteen make them into cakes.
+* 【十六粒烙半生熟】(Tsáp-lák liáp luah pùaⁿ-chheⁿ sék) Half-fry sixteen of them.
+* 【賰十四粒做粿】(Tshûn tsáp-sì liáp tsò-kúe) The remaining fourteen make them into cakes.
 * 【着選鮮其】(Tiéh suán chhiⁿ--kâi) You must choose fresh ones.
 * 【就是此樣生】(Chiũ-sĩ chièⁿ-seⁿ) That's all.
-* 【飯勿烳過糜】(Pn̄g màiⁿ-pû khah-mîⁿ) Don't boil the rice to soft.
-* 【膠離勿煮過薟】(Ka-lî màiⁿ-tsṳ́ khah-hiam) Don't make the curry too hot.
+* 【飯勿烳較糜】(Pn̄g màiⁿ-pû khah-mîⁿ) Don't boil the rice to soft.
+* 【咖喱勿煮過薟】(Ka-lî màiⁿ-tsṳ́ khah-hiam) Don't make the curry too hot.
 * 【食飯無鹹酸食毋落】(Chiáh-pn̄g bô kiâm-sng chiáh m̄-lóh) To take rice without relish it cannot be eaten.
-* 【伊請儂滿席在】(I chhiáⁿ-nâng phâng-phài tsãi) He invited people to lots of dishes.
-* 【伊其鹹酸㩼樣在。食毋盡】(I kâi kiâm-sng tsōi-iēⁿ tsāi, chiáh m̄-lióu) His relishes were of many kinds, we could'nt eat them all.
+* 【伊請儂滂沛在】(I chhiáⁿ-nâng phâng-phài tsãi) He invited people to lots of dishes.
+* 【伊其鹹酸㩼樣在。食毋了】(I kâi kiâm-sng tsōi-iēⁿ tsāi, chiáh m̄-lióu) His relishes were of many kinds, we could'nt eat them all.
 * 【儂儂食到飽】(Nâng-nâng chiáh-kàu-pá) Every body ate until they had enough.
 * 【伊其伙頭會在】(I kâi húe-thâu õi-tsãi) His cook is very clever.
-* 【每樣伊煮來好在】(Iēⁿ-Iēⁿ i tsṳ́-lâi hó-tsãi) Every thing he made was very nice indeed.
-* 【起初就食雞囝湯。佮麪包焙其】(Thâu-tshái chiũ chiáh koi-kiáⁿ-thng, kah mīⁿ-pau pūe--kâi) First of all, we had chicken soup and toasted bread.
-* 【後羊肉烙。佮荷蘭薯】(Lióu iêⁿ-bah luah, kah hô-lan-tsṳ̂) Then mutton-chop and potatoes.
-* 【後火雞浮。煴芥辣又還了㩼㩼樣】(Lióu húe-koi phû, ùn kài-luáh, lióu huân-lióu tsōi-tsōi iēⁿ) Then turkey fried in oil, and eaten with mustard, and many other kinds.
+* 【樣樣伊煮來好在】(Iēⁿ-Iēⁿ i tsṳ́-lâi hó-tsãi) Every thing he made was very nice indeed.
+* 【頭彩就食雞囝湯。佮麪包焙其】(Thâu-tshái chiũ chiáh koi-kiáⁿ-thng, kah mīⁿ-pau pūe--kâi) First of all, we had chicken soup and toasted bread.
+* 【了羊肉烙。佮荷蘭薯】(Lióu iêⁿ-bah luah, kah hô-lan-tsṳ̂) Then mutton-chop and potatoes.
+* 【了火雞浮。煴芥辣。了還了㩼㩼樣】(Lióu húe-koi phû, ùn kài-luáh, lióu huân-lióu tsōi-tsōi iēⁿ) Then turkey fried in oil, and eaten with mustard, and many other kinds.
 
 ### Fish.
 
@@ -106,8 +106,8 @@ date: 2022-11-20 22:19:00
 * 【Red-fish】(Âng-tsô) 紅鰽
 * 【Blackfish】(Ou-hṳ̂) 烏魚
 * 【Shad】(Chhî-khak) 刺売
-* 【Cuttle-fish】(Bák-táu) 木斗
-* 【Shark】(Sua-hṳ̂) 沙魚
+* 【Cuttle-fish】(Bák-táu) 墨斗
+* 【Shark】(Sua-hṳ̂) 鯊魚
 * 【Chinese whitebait】(Kang-hṳ̂) 江魚
 * 【Little fish】(Hṳ̂-káiⁿ) 魚囝
 * 【Eel】(Mûaⁿ) 鰻
@@ -121,22 +121,22 @@ date: 2022-11-20 22:19:00
 * 【Dried salt fish】(Hṳ̂-kuaⁿ, hṳ̂-póu) 魚干　魚脯
 * 【Salt fish】(Kiâm-hṳ̂) 鹹魚
 * 【Dried prawns】(Hê-bí) 蝦米
-* 【Dried cuttle-fish】(Jiû-hṳ̂) 魷魚
-* 【Fish-roe】(Hṳ̂-chí, hṳ̂-tshun) 魚只　魚蛋
+* 【Dried cuttle-fish】(Jiû-hṳ̂) 魷魚  鰇魚
+* 【Fish-roe】(Hṳ̂-chí, hṳ̂-tshun) 魚子　魚春
 * 【Preserved fish】(Hṳ̂-kôi) 魚鮭
 * 【Classifier of fish】(Búe) 尾
 
 ------
 
-* 【巿今早無魚】(Chhĩ mêng-khí bô-hṳ̂) There are no fish this morning in the market.
+* 【巿眠起無魚】(Chhĩ mêng-khí bô-hṳ̂) There are no fish this morning in the market.
 * 【有一尾我出一百錢賣魚其儂還了毋好賣我】(Ũ chék-búe uá tshut chék-peh-chî, bōi-hṳ̂--kâi-nâng huân-lióu m̃-hàuⁿ bōi uá) There is one, which I offered a hundred cash for yet the fisherman wouldn't sell it to me.
 * 【一尾紅鰽欲二百錢】(Chék-búe âng-tsô àiⁿ nõⁿ-peh-chîⁿ) Two hundred cash for a red-fish.
 * 【鯧魚上減一尾欲百五錢】(Chhieⁿ-hṳ̂ siãng-kiám chék-búe àiⁿ peh-ngõu-chîⁿ) At least one hundred and fifty cash for a flounder.
 * 【馬鮫若是一尾無三百錢免用出】(Bé-ka nãⁿ-sĩ chék-búe bô saⁿ-peh-chîⁿ, mín-ēng tshut) As for mackeral you needn't offer for it, unless you are prepared to give three hundred cash for it.
-* 【我買零些木斗佮零些蝦】(Uá bói lân-ló bák-táu, kah tshoh-hê) I bought some cuttle-fish, and some shrimps.
-* 【一條鰻。數隻蟹】(Chék tiôu mûaⁿ, kua-chiah hõi) One eel, several crabs.
-* 【十粘粒蠔。二十粒蚶】(Tsáp-liáp ô, jī-tsáp liáp ham) Ten oysters, twenty cockles.
-* 【魚干陸両。佮鹹魚半斤】(Hṳ̂-kuaⁿ lák-niéⁿ, kah kiâm-hṳ̂ pùaⁿ-kṳn) Dried salt fish six taels, and salt fish half a catty.
+* 【我買零些墨斗佮零些蝦】(Uá bói lân-ló bák-táu, kah tshoh-hê) I bought some cuttle-fish, and some shrimps.
+* 【一條鰻。寡隻蟹】(Chék tiôu mûaⁿ, kuá-chiah hõi) One eel, several crabs.
+* 【十粒蠔。二十粒蚶】(Tsáp-liáp ô, jī-tsáp liáp ham) Ten oysters, twenty cockles.
+* 【魚干六両。佮鹹魚半斤】(Hṳ̂-kuaⁿ lák-niéⁿ, kah kiâm-hṳ̂ pùaⁿ-kṳn) Dried salt fish six taels, and salt fish half a catty.
 * 【蝦米一擔若㩼】(Hê-bí chék-tàⁿ jiéh-tsōi?) How much for a picul of dried prawns?
 * 【一擔敢是五箍亞】(Chék-tàⁿ káⁿ-sĩ ngõu-khou ã) I think five dollars a picul.
 * 【五箍會貴亞袂】(Ngõu-khou õi-kùi a-bõi?) Is it dear at five dollars (a picul)?
@@ -183,7 +183,7 @@ date: 2022-11-20 22:19:00
 * 【菜頭煮魚甜】(Tshài-thâu tsṳ́-hṳ̂ tiâm) Turnip boiled with fish is good.
 * 【西國儂好食高麗菜】(Sai-kok-nâng hàuⁿ-chiáh ko-lẽ-tshài) Europeans are fond of eating foreign cabbage.
 * 【磽囝儂食粥配鹹菜】(Khiou-kiáⁿ-nâng chiáh mûeⁿ phùe kiâm-tshài) Poor people take congee with salted vegetable.
-* 【簥好煮膠離】(Kiê hó-tsṳ́ ka-lî) Brinjal can be curried.
+* 【簥好煮咖喱】(Kiê hó-tsṳ́ ka-lî) Brinjal can be curried.
 * 【冬瓜食凉】(Tang-kue chiáh-liâng) Vegetable melon is taken for cooling purposes.
 * 【有其竹笋苦】(Ũ-kâi tek-sún khóu) Some bamboo shoots are bitter.
 * 【荷蘭豆拍掉皮挈伊其仁】(Hô-lan-tāu, peh-tiòu phûe, khiéh i kâi jîn) Break the pods of the peas and take the seed.
@@ -212,7 +212,7 @@ date: 2022-11-20 22:19:00
 * 【„ Shantung】(Suaⁿ-tang-lâi) 山東梨
 * 【Mango】(Suāiⁿ) 榱
 * 【Persimmon】(Sãi) 杮
-* 【Guava】(Pát-kiáⁿ) 拔囝
+* 【Guava】(Pát-kiáⁿ) 菝囝
 * 【Water-melon】(Si-kue) 西瓜
 * 【Jack-fruit】(Māng-ka) 綱膠
 * 【Custard apple】(Lîm-khîm) 林擒
@@ -227,19 +227,19 @@ date: 2022-11-20 22:19:00
 * 【Grapes】(Phû-thô) 萄葡
 * 【Fig】(Bô-hue-kúe) 無花果
 * 【Mangoostine】(Māng-hek) 綱黑
-* 【Name of a kind of fruit】(Chîⁿ-tshang) 荸薺
+* 【Name of a kind of fruit】(Chîⁿ-tshang) 薺葱
 * 【Olives】(Kaⁿ-náⁿ) 橄欖
 * 【Dragon's eye】(Nék-óiⁿ) 龍眼
-* 【Lichees】(Nôiⁿ-kúe) 茘枝
+* 【Lichees】(Nôiⁿ-kúe) 茘果
 * 【Lily-fruits】(Nóiⁿ-kak) 菱角
-* 【Chestnuts】(Kãu-lák) 粟
-* 【Ground-nuts】(Tī-tāu) 花生
+* 【Chestnuts】(Kãu-lák) 侯粟
+* 【Ground-nuts】(Tī-tāu) 地豆
 * 【Sugarcane, large kind】(Láh-chià) 蠟蔗
 * 【Sugarcane, small kind like bamboo】(Tek-chià) 竹蔗
 * 【Small yellow plums】(Bûe) 梅
 * 【Dates】(Tsó) 棗
 * 【Dried persimmon】(Sāi-piáⁿ) 杮餅
-* 【Melon cut into small pieces and dried with sugar】(Kue-chheh) 瓜碧
+* 【Melon cut into small pieces and dried with sugar】(Kue-chheh) 瓜冊
 * 【Dried dragon's eye】(Nék-óiⁿ-kuaⁿ) 龍眼干
 * 【Lotus nuts】(Nôiⁿ-chí) 蓮子
 
@@ -253,4 +253,4 @@ date: 2022-11-20 22:19:00
 * 【汝豈識食榴蓮嗎】(Lṳ́ khah-pat chiáh liû-liân mē?) Have you ever eaten durians?
 * 【是芳在亞】(Sĩ phang tsãi a.) It is very fragrant indeed.
 * 【葡萄好作酒】(Phû-thô hó-tsò-chiú) Grapes can be made into wine.
-* 【汝上食果子嗎】(Lú siãng-chiáh kúe-chí mē?) Are you fond of eating fruit?
+* 【汝尚食果子嗎】(Lú siãng-chiáh kúe-chí mē?) Are you fond of eating fruit?

@@ -35,13 +35,13 @@ date: 2022-11-20 23:31:00
 * 【Buddha】(Hút, hút-tsóu) 佛　佛祖
 * 【Buddhist priest】(Hûe-sièⁿ) 和尙
 * 【Tauist „】(Sai-kong) 司公
-* 【Priestess】(Nîⁿ-kou-phûa) 妮姑婆
+* 【Priestess】(Nîⁿ-kou-phûa) 尼姑婆
 * 【Sorcerer, a】(Tâng-sin, tâng-ki) 童身　童乩
 * 【Sorceress, a】(Lóh-sîn-phûa) 落神婆
 * 【Fortune teller, a】(Khuàⁿ-miãⁿ sin-seⁿ, pok-khùe sin-seⁿ) 看命先生　卜卦先生
 * 【Geomancer, a】(Thóiⁿ-huang-tsúi sin-seⁿ) 睇風水先生
 * 【Temple, a】(Lãu-iâ-keng) 老爺宮
-* 【Monastery, a】(Am) 𤲅
+* 【Monastery, a】(Am) 庵
 * 【Ancestral hall】(Sṳ̂-tn̂g) 祠堂
 * 【„ tablet】(Ke-sín) 家神
 * 【Shrine】(Sîn-kham) 神龕
