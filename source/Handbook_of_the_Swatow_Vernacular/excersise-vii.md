@@ -203,7 +203,7 @@ date: 2022-11-16 20:16:00
 * 【伊終久是此樣生】(I tsong-kú sĩ chièⁿ-seⁿ) He is always like this.
 * 【伊是惰。做事隨便做】(I sĩ tuãⁿ, tsò-sṳ̄ chhìn-tshái tsò) He is idle, and does things carelessly.
 * 【汝下日不可此樣生】(Lṳ́ ẽ-jít m̄-móⁿ chièⁿ-seⁿ) You must not be like this for the future.
-* 【汝着此樣生做】(Lṳ́ tiéh chièⁿ-seⁿ muéh) You must do it like this.
+* 【汝着此樣生物】(Lṳ́ tiéh chièⁿ-seⁿ muéh) You must do it like this.
 * 【着記得日日着此樣生】(Tiéh kì-tit, jít-jít tiéh chièⁿ-seⁿ) You must remember, and every day do like this.
 * 【我年年着轉去】(Uá nîⁿ-nîⁿ tiéh-tńg--khṳ̀) I must go home every year.
 * 【我明年欲轉去】(Uá mêⁿ-nîⁿ àiⁿ-tńg--khṳ̀) I shall go home next year.
