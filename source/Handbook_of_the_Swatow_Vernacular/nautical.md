@@ -43,8 +43,8 @@ date: 2022-11-20 22:51:00
 * 【峇厘】(Bā-lî) A cabin.
 * 【玉】(Gék[1]) A ship's boat.
 * 【煙筒】(In-tâng) A funnel.
-* 【陂】(Pi) A whistle.
-* 【歕陂】(Pûn-pi) To blow a whistle.
+* 【嗶】(Pi) A whistle.
+* 【歕嗶】(Pûn-pi) To blow a whistle.
 * 【鼎】(Tiáⁿ) A boiler.
 * 【水煙】(Tsúi-in) Steam.
 * 【灶】(Tsàu) Furnace.
@@ -81,7 +81,7 @@ date: 2022-11-20 22:51:00
 * 【掠舵】(Liáh-tũa) Steersman.
 * 【舵舡】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.
-* 【行船儂】(Kiâⁿ-tsûn-náng) A sea-faring man.
+* 【行船儂】(Kiâⁿ-tsûn-nâng) A sea-faring man.
 * 【帶水】(Tshūa-tsúi) A pilot.
 * 【船欲行】(Tsûn àiⁿ-kiàⁿ) Ships leaving.
 * 【船行了】(Tsûn kiàⁿ--lō) Ships have gone.
@@ -116,7 +116,7 @@ date: 2022-11-20 22:51:00
 * 【逆風】(Ngék-huang) Contrary wind.
 * 【逆流】(Ngék-lâu) Contrary tide.
 * 【天時好】(Thiⁿ-sî hó) Fine settled weather.
-* 【天時毋好】(Thiⁿ-sî m̄-móⁿ) Bad weather.
+* 【天時毋好】(Thiⁿ-sî m̃-móⁿ) Bad weather.
 * 【天時烏暗】(Thiⁿ-sî ou-àm) Weather black and dark.
 * 【東】(Tang) East.
 * 【西】(Sai) West.

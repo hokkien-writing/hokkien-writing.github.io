@@ -16,7 +16,7 @@ date: 2022-11-20 23:46:00
 * 【伊在審一條刣儂案】(I tõ sím chék-tiôu thâi-nâng uàⁿ) He is trying a murder case.
 * 【老爹呾欲去睇屍】(Lãu-tia tàⁿ-àiⁿ-khṳ̀ thóiⁿ si) The mandarin says he is going to see the corpse.
 * 【被告的儂有認嗎】(Pĩ-kò--kâi-nâng khah-ũ jīn-mē?) Does the person accused admit it?
-* 【無。伊呾毋是伊刣】(Bô, i tàⁿ m̄-sĩ i thâi) No, he said the man was not killed by him.
+* 【無。伊呾毋是伊刣】(Bô, i tàⁿ m̃-sĩ i thâi) No, he said the man was not killed by him.
 * 【伊佮老爹呾。老爺亞。我無罪】(I kah lãu-tia tàⁿ, lãu-iâ--a, uá bô-tsũe) He said to the mandarin, "Your Worship, I am innocent."
 * 【我是乞儂枉屈】(Uá sĩ khoih--nâng uáng-khut) "I am falsely accused by the people.
 * 【儂欲害我】(Nâng-àiⁿ-hāi úa) "People wish to do me harm.
@@ -25,15 +25,15 @@ date: 2022-11-20 23:46:00
 * 【伊呾甚㩼話】(I tàⁿ hiàⁿ-chiàⁿ-tsōi ūe) He made a long statement.
 * 【老爹聽了就點頭】(Lãu-tia thiaⁿ-lióu chiũ tak-thâu) The mandarin after hearing him, nodded his head.
 * 【伊的案欲延到明起】(I kâi uàⁿ àiⁿ-àn-kàu màⁿ-khí) His case will be postponed till to-morrow.
-* 【不可做賊】(M̄-móⁿ tsǒ-tshát) Don't be a thief.
-* 【不可盜取儂的物】(M̄-móⁿ thau-khiéh nâng kâi muéh) Mustn't steal other peoples things.
+* 【不可做賊】(M̃-móⁿ tsǒ-tshát) Don't be a thief.
+* 【不可盜取儂的物】(M̃-móⁿ thau-khiéh nâng kâi muéh) Mustn't steal other peoples things.
 * 【此個賊是離經】(Chí-kâi tshát sĩ lî-keng) This thief is dangerous.
 * 【昨夜伊剌死儂】(Tsa-mêⁿ i tshǹg-sí nâng) Last night he stabbed a man to deat.h
 * 【伊乞我掠着】(I khoih uá liáh--tiéh) He was caught by me.
 * 【我就掠伊去衙門處】(Uá chiũ liáh i khṳ̀ gê-mn̂g--kō) And I took him to the yamên.
 * 【交伊分差役的手】(Kau i pun chhe-hiáh kái chhiú) And handed him over to the police.
 * 【着拍伊到爛爛】(Tiéh-phah i kàu lok-lok) Must beat him very severely;
-* 【下日伊正毋敢】(Ẽ-jít i chiàⁿ-m̄-káⁿ) So that he may not dare to do it again.
+* 【下日伊正毋敢】(Ẽ-jít i chiàⁿ-m̃-káⁿ) So that he may not dare to do it again.
 * 【此個官府公道】(Chí-kâi kuaⁿ-hú kong-tãu) This mandarin is just.
 * 【無枉屈儂】(Bô-uáng-khut nâng) He does not deal with people unjustly.
 * 【亦無食儂的錢】(Iā bô chiáh nâng kâi chîⁿ) Nor does he take bribes.
@@ -53,6 +53,6 @@ date: 2022-11-20 23:46:00
 * 【粒頂就脫掉放在牀頂】(Liáp-téng chiũ thut-tiòu pàng tõ tshn̂g-téng) And he took off his hat to which the button was attached and put it on the table.
 * 【秀才在跪隨時就起來】(Siù-tsâi tõ-kũi sûi-sî chiû khí--lâi) The graduate who was kneeling down at once got up.
 * 【老爺問伊呾。汝怎呢起來呢】(Lãu-tia mn̄g i tàⁿ, "lṳ́ tsò-nîⁿ khí--lâi nē?") The mandarin asked him and said, "Why do you get up"?
-* 【秀才就呾。曰。我是跪皇帝。非是跪汝】(Siù-tsâi chiũ tàⁿ-tàⁿ, "uá sĩ kũi Huâng-tì, m̄-sĩ kũi-lṳ́") The graduate said, "I kneel down to the Emperor, not to you."
+* 【秀才就呾。曰。我是跪皇帝。非是跪汝】(Siù-tsâi chiũ tàⁿ-tàⁿ, "uá sĩ kũi Huâng-tì, m̃-sĩ kũi-lṳ́") The graduate said, "I kneel down to the Emperor, not to you."
 * 【秀才就出去】(Siû-tsâi chiũ tshut--khṳ̀) And the graduate walked out.
 * 【明起伊的案再審】(Màⁿ-khí i kâi uàⁿ tsài-sím) The next day his case was tried again.

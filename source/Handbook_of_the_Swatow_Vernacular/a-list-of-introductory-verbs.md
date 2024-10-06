@@ -51,7 +51,7 @@ date: 2022-11-15 21:43:00
 * 【Delay】(Êng-ti, thû) 延遲  躇
 * 【Descend】(Lóh) 落
 * 【Die】(Sí) 死
-* 【Dismiss, (from service.)】(Si-tiòu, sǹg-hiah) 辭掉　算歇
+* 【Dismiss, (from service.)】(Sî-tiòu, sǹg-hiah) 辭掉　算歇
 * 【Do】(Tsò, muéh) 做　物
 * 【Dream】(Māng-kìⁿ) 夢見
 * 【Dry, (in the sun.)】(Phák) 曝
@@ -92,7 +92,7 @@ date: 2022-11-15 21:43:00
 * 【Lie down】(Tó) 倒
 * 【Light, (lamps.)】(Tiám) 點
 * 【Live, (reside.)】(Khiā-khí, tiū) 徛起  居
-* 【Lose】(M̄-kìⁿ, sit-lóh) 毋見　失落
+* 【Lose】(M̃-kìⁿ, sit-lóh) 毋見　失落
 * 【Love】(Sieh) 惜
 * 【Make】(Tsò, muéh) 做　物
 * 【Meet, (a person.)】(Ngõ) 遇
@@ -132,7 +132,7 @@ date: 2022-11-15 21:43:00
 * 【Smell】(Phīⁿ) 鼻
 * 【Speak】(Tàⁿ) 呾
 * 【Spend】(Só-hùi, sái) 所費　使
-* 【Spoil】(Muèh-tiòu) 物掉
+* 【Spoil】(Muéh-tiòu) 物掉
 * 【Stand】(Khiã) 徛
 * 【Stop, (silence.)】(Tiām-tiām) 恬恬
 * 【Stop, (discontinue.)】(Hiah) 歇

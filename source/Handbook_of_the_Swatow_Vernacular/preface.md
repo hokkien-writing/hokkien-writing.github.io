@@ -78,7 +78,7 @@ s—as in song, never as in choose, lose.
 z—always as ds or dz; never as in zeal, zone.
 
 k, p, and t,—as final consonants are pronounced without the slightest emission of vocal breath as there usually is in pronouncing English.
-m and ng—will be found written without any vowel (e. g. n̂g, m̄, ḿ); often also preceded by a consonant (e. g. sng, hñg, kng) “The nature of these syllables without a distinct vowel becomes at once unmistakable in singing, as at such a word all clear vocal sound at once ceases, and nothing is heard but a dull nasal murmur.
+m and ng—will be found written without any vowel (e. g. n̂g, m̃, ḿ); often also preceded by a consonant (e. g. sng, hñg, kng) “The nature of these syllables without a distinct vowel becomes at once unmistakable in singing, as at such a word all clear vocal sound at once ceases, and nothing is heard but a dull nasal murmur.
 “The Aspirated Consonants are a very remarkable feature in all the languages of China, and require very special attention. They are kh, ph, th, chh, and tsh. The sounds are the same as those indicated by the same notation in the languages of India, being formed by a real distinct aspiration pronounced after the respective consonants………………The sounds are almost the same as those often used by Irishmen when pronouncing with a strong brogue such words as come, pig, &c.; they are also often heard in the mouths of the Scottish Highlanders.
 
 “kh—may be thus described:—Pronounce……………look here! rapidly and clearly, cut off loo- and -re, and you have the Chinese “khi.”

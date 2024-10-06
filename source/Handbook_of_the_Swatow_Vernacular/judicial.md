@@ -12,12 +12,12 @@ date: 2022-11-20 23:28:00
 * 【Forgery, of another's name】(Ké-chhiú-pit) 假手筆
 * 【„ of seal】(Ké-ìn) 假印
 * 【Arson】(Pàng-húe) 放火
-* 【Robbery】(Pak-ko-kúe, chhiéⁿ-pak) 搶糕粿　搶剝
+* 【Robbery】(Pak-ko-kúe, chhiéⁿ-pak) 剝糕粿　搶剝
 <!--more-->
 * 【Suicide】(Tsṳ̃-chĩn) 自盡
 * 【„ by hanging】(Tiòu-ãm) 吊頷
 * 【Theft】(Tsò-tshát) 做賊
-* 【Breach of trust】(Tîm-sìn) 沉信
+* 【Breach of trust】(Tîm-sìn) 沈信
 * 【„ faith】(Sit-sìn) 失信
 * 【Cheating】(Láu-nâng, phièn-nâng) 漏儂　騙儂
 * 【Causing hurt】(Sieⁿ-nâng) 傷儂
@@ -104,8 +104,8 @@ date: 2022-11-20 23:28:00
 * 【Appoint, to】(Siet-líp) 設立
 * 【Appointment, an】(Cheh-jĩm) 職任
 * 【Case, a】(Uàⁿ, uàⁿ-kiãⁿ) 案　案件
-* 【„ to have it tried】(Phah-kuaⁿ-si, sie-kõ) 拍官司　相告
-* 【„ to win】(Kõ-iâⁿ) 告贏
+* 【„ to have it tried】(Phah-kuaⁿ-si, sie-kò) 拍官司　相告
+* 【„ to win】(Kò-iâⁿ) 告贏
 * 【Case, to lose】(Kò-su) 告輸
 * 【Discharge, (a case)】(Pàng) 放
 * 【Bribe, to】(Sái-ēng) 使用
@@ -116,7 +116,7 @@ date: 2022-11-20 23:28:00
 * 【Good-hearted】(Hó-sim) 好心
 * 【Revenge, to】(Pò-chhiû) 報仇
 * 【Just】(Kong-tãu) 公道
-* 【Unjust】(M̄-kong-tãu) 毋公道
+* 【Unjust】(M̃-kong-tãu) 毋公道
 * 【Truth, speak the】(Sít-uē tàⁿ) 實話呾
 * 【Lie, to】(Hue-niouⁿ) 花貓
 * 【Swear, to】(Chiù-chūa) 咒誓

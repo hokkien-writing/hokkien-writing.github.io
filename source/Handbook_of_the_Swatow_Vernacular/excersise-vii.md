@@ -29,7 +29,7 @@ date: 2022-11-16 20:16:00
 * 【沙】(Sua) Sand.
 * 【儂】(Nâng) Mankind.
 * 【丈夫】(Ta-pou) Male.(only used of man.)
-* 【諸娘】(Tsṳ-níeⁿ) Female.(only used of man.)
+* 【諸娘】(Tsṳ-niêⁿ) Female.(only used of man.)
 ------
 * 【世間的儂是惡】(Sì-kan kâi nâng sĩ ak) The people in the world are wicked.
 * 【天下是闊】(Thiⁿ-ẽ sĩ khuah) The world is broad.
@@ -43,7 +43,7 @@ date: 2022-11-16 20:16:00
 * 【葉在脫。樹欲死】(Hiéh tõ lut, chhiū àiⁿ-sí) The leaves are falling, and the trees are withering.
 * 【在海墘有大石】(Tõ hái-kîⁿ ũ tūa-chiéh) There are rocks on the sea-side;
 * 【有石部。有沙】(Ũ chiéh-põu, ũ sua) There are stones, and there is sand.
-* 【儂在世毋久】(Nâng tõ sì m̄-kú) Man is not long in the world.
+* 【儂在世毋久】(Nâng tõ sì m̃-kú) Man is not long in the world.
 * 【丈夫愈壯過諸娘】(Ta-pou zú-tsàng kùe tsṳ-niêⁿ) Man is stronger than woman.
 * 【有的諸娘愈賢過丈夫】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
 * 【在祖家有加加諸娘。賢過丈夫】(Tõ Tsóu-ke ũ ke-ke tsṳ-niêⁿ, gâu kùe ta-pou) There are many ladies in England cleverer than men.
@@ -79,11 +79,11 @@ date: 2022-11-16 20:16:00
 * 【雷公响】(Lûi-kong tán) The thunder roars.
 * 【雷公攝目。了正响】(Lûi-kong nih-mák, lióu chiàⁿ-tân) The lightning flashes first, then the thunder roars.
 * 【雨定着是大】(Hõu tiāⁿ-tiéh sĩ tūa) The rain is sure to be a heavy one.
-* 【唐儂講究雷公毋對】(Tn̂g-nâng káng-kiù lûi-kong m̄-tùi) What the Chinese discuss about the lightning is not correct.
-* 【唐儂此個事毋曉】(Tn̂g-nâng chí-kâi sū m̄-hióu) The Chinese do not understand about this matter.
+* 【唐儂講究雷公毋對】(Tn̂g-nâng káng-kiù lûi-kong m̃-tùi) What the Chinese discuss about the lightning is not correct.
+* 【唐儂此個事毋曉】(Tn̂g-nâng chí-kâi sū m̃-hióu) The Chinese do not understand about this matter.
 * 【英國儂就曉】(Eng-kok-nâng chiũ-hióu) The English understand.
 * 【虹有加加色】(Khẽng ũ ke-ke sek) The rainbow has many colours.
-* 【有紅有白有藍有青有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
+* 【有紅有白有藍有靑有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
 * 【還了有】(Huân-lióu ũ) It has some more.
 * 【是雅在】(Sĩ ngiá-tsãi) It is very beautiful.
 * 【咱所有的色是從虹塊來】(Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi) The colours which we have, come from the rainbow.
@@ -113,7 +113,7 @@ date: 2022-11-16 20:16:00
 * 【咱此塊罕得有雪】(Nán--chié hán--tit ũ soh) We seldom have snow at our place here.
 * 【日一出濛烟就散】(Jít chék-ē tshut mông-in chiũ-sùaⁿ) When the sun rises the mist disperses.
 * 【樹無露水袂活】(Chhiū bô lōu-tsúi bõi-uáh) The trees will not grow without dew.
-* 【酷久咱此塊毋識有落雹】(Hoh-kú nán--chié m̄-pat ũ lóh-phák) For a long time we have not had hail here.
+* 【酷久咱此塊毋識有落雹】(Hoh-kú nán--chié m̃-pat ũ lóh-phák) For a long time we have not had hail here.
 * 【冬天磽囝儂是悽慘】(Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám) In Winter the poor are miserable.
 * 【富的儂哩穿燒】(Pù--kâi-nâng li chhēng-sie) But the rich are warmly clad.
 * 【冬天凊在】(Tang--thiⁿ chhin-tsãi) In Winter it is very cold.
@@ -126,7 +126,7 @@ date: 2022-11-16 20:16:00
 
 ### section IV.
 
-* 【明早】(Mêng-khí) Morning.
+* 【瞑起】(Mêng-khí) Morning.
 * 【中午】(Jít-tàu) Noon.
 * 【夜昏】(Mêⁿ-hng) Evening.
 * 【上午】(Chiēⁿ-kùa) Forenoon.
@@ -142,15 +142,15 @@ date: 2022-11-16 20:16:00
 * 【半夜】(Puàⁿ-mêⁿ) Midnight
 * 【三更半夜】(Saⁿ-keⁿ puàⁿ-mêⁿ) Third watch or midnight, (meaning a very late hour at night.)
 ------
-* 【明早有儂來亞無】(Mêng-khí ũ nâng lâi a-bô?) Did any body come this morning?
-* 【汝知亞毋知】(Lṳ́ tsai a m̄-tsai?) Do you know or not?
-* 【我毋知】(Uá m̄-tsai.) I don't know.
-* 【中午我毋在此塊食】(Jít-tàu uá m̄-tõ chié chiáh.) I am not going to take dinner here at noon.
+* 【瞑起有儂來亞無】(Mêng-khí ũ nâng lâi a-bô?) Did any body come this morning?
+* 【汝知亞毋知】(Lṳ́ tsai a m̃-tsai?) Do you know or not?
+* 【我毋知】(Uá m̃-tsai.) I don't know.
+* 【中午我毋在此塊食】(Jít-tàu uá m̃-tõ chié chiáh.) I am not going to take dinner here at noon.
 * 【我中午欲去乞儂請】(Uá jít-tàu àiⁿ-khṳ̀ khoih-nâng-chhiáⁿ) I am invited out for noon.
 * 【汝底當時正欲轉來】(Lṳ́ tiang-sî chiàⁿ-àiⁿ tńg--lâi?) When will you come back?
 * 【夜昏正轉來】(Mêⁿ-hng chiàⁿ-tńg--lâi) I shall not be back until to-night.
-* 【亞者下旰亦毋知】(Pa-lak ẽ-kùa iā m̄-tsai) Perhaps in the afternoon, but I don't know.
-* 【今夜伊毋在】(Ke-mêⁿ i m̄-tõ) He shall not be at home to-night.
+* 【亞者下旰亦毋知】(Pa-lak ẽ-kùa iā m̃-tsai) Perhaps in the afternoon, but I don't know.
+* 【今夜伊毋在】(Ke-mêⁿ i m̃-tõ) He shall not be at home to-night.
 * 【夜昏囝伊欲來我塊】(Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò) He is coming to my place to-night.
 * 【我請伊】(Uá chhiáⁿ i) I have invited him.
 * 【伊作有幾㩼日工】(I tsoh ũ jiéh-tsōi jít kang?) How many days' work has he done?
@@ -159,7 +159,7 @@ date: 2022-11-16 20:16:00
 * 【伊的工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
 * 【日未暗】(Jít būe-àm) It is not yet dark.
 * 【汝夗到日彼樣晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
-* 【下日汝不可夗到彼樣晏】(Ê-jít lṳ́ m̄-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
+* 【下日汝不可夗到彼樣晏】(Ê-jít lṳ́ m̃-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
 * 【日暗着去夗】(Jít àm tiéh khṳ̀-út) When it is late at night, you must go to bed.
 * 【勿到半夜正去夗】(Màiⁿ-kàu puàⁿ-méⁿ chiàⁿ-khṳ̀-út) Don't let it be midnight before you go to bed.
 * 【三更半夜勿去口】(Saⁿ-keⁿ puàⁿ-mêⁿ màiⁿ-khṳ̀-kháu) Don't go out at such a late hour at night.
@@ -169,7 +169,7 @@ date: 2022-11-16 20:16:00
 * 【早】(Tsá) Early.
 * 【早早】(Tsá-tsá) Very early.
 * 【天光】(Thiⁿ-kng) Day-break, dawn.
-* 【今日】(Kiáⁿ-jít) To-day.
+* 【今旦日】(Kiáⁿ-jít) To-day.
 * 【明起】(Màⁿ-khí) To-morrow.
 * 【後日】(Aũ--jít) Day after to-morrow.
 * 【大後日】(Tūa--aũ-jít) A day later than above.
@@ -184,27 +184,27 @@ date: 2022-11-16 20:16:00
 * 【次次】(Tsūa-tsūa) Every occasion.
 * 【下下】(Ē-ē) Every occasion.
 ------
-* 【明眠起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
-* 【汝不可夗到日晏正走起】(Lṳ́ m̄-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
+* 【明瞑起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
+* 【汝不可夗到日晏正走起】(Lṳ́ m̃-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
 * 【着早些】(Tiéh tsá--chē) You must be early.
 * 【今。汝着憶得】(Taⁿ, lṳ́ tiéh it-tit) Now, you must remember.
-* 【不可毋憶得】(M̄-móⁿ m̄-it-tit) Don't forget.
+* 【不可毋憶得】(M̃-móⁿ m̃-it-tit) Don't forget.
 * 【好。我天光就欲走起】(Hó. Uá thiⁿ-kng chiũ àiⁿ tsáu-khí) Very well. As soon as day-break I will get up.
-* 【今日我毋閒】(Kiáⁿ-jít uá m̄ oíⁿ) I am busy to-day.
+* 【今旦日我毋閒】(Kiáⁿ-jít uá m̃ oíⁿ) I am busy to-day.
 * 【明起正來】(Màⁿ-khí chiàⁿ-lâi) Come to-morrow.
 * 【明起任底時】(Màⁿ-khí zuãn tiang-si) Any time to-morrow.
 * 【好了。汝好去】(Hó--lō, lṳ́ hó-khṳ̀) That will do, you may go.
-* 【我今日終日在內】(Uá kiáⁿ-jít thàng-jít tõ lāi) I am at home all to-day.
-* 【明起我毋在】(Màⁿ-khí uá m̄-tõ) I shall not be at home tomorrow.
+* 【我今旦日終日在內】(Uá kiáⁿ-jít thàng-jít tõ lāi) I am at home all to-day.
+* 【明起我毋在】(Màⁿ-khí uá m̃-tõ) I shall not be at home tomorrow.
 * 【汝免用來】(Lṳ́ mín-ēng lâi) You need not come.
 * 【後日我就轉來】(Aũ--jít uá chiũ tńg--lâi) I shall be back the day after to-morrow.
-* 【我次次來到覓汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̄-tõ) On every occasion of my coming, I could not find you.
+* 【我次次來到覓汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̃-tõ) On every occasion of my coming, I could not find you.
 * 【我昨日來。昨夜亦來】(Uá tsa-jít lâi, tsa-mêⁿ iā lâi) I came yesterday, and last night as well.
 * 【伊終久是此樣生】(I tsong-kú sĩ chièⁿ-seⁿ) He is always like this.
 * 【伊是惰。做事隨便做】(I sĩ tuãⁿ, tsò-sṳ̄ chhìn-tshái tsò) He is idle, and does things carelessly.
-* 【汝下日不可此樣生】(Lṳ́ ẽ-jít m̄-móⁿ chièⁿ-seⁿ) You must not be like this for the future.
+* 【汝下日不可此樣生】(Lṳ́ ẽ-jít m̃-móⁿ chièⁿ-seⁿ) You must not be like this for the future.
 * 【汝着此樣生物】(Lṳ́ tiéh chièⁿ-seⁿ muéh) You must do it like this.
 * 【着記得日日着此樣生】(Tiéh kì-tit, jít-jít tiéh chièⁿ-seⁿ) You must remember, and every day do like this.
 * 【我年年着轉去】(Uá nîⁿ-nîⁿ tiéh-tńg--khṳ̀) I must go home every year.
 * 【我明年欲轉去】(Uá mêⁿ-nîⁿ àiⁿ-tńg--khṳ̀) I shall go home next year.
-* 【一年若是無轉去就毋做得】(Chék-nîⁿ nāⁿ-sĩ bô-tńg--khṳ̀ chiũ m̄-tsò-tit) It will not do, unless I go home once a year.
+* 【一年若是無轉去就毋做得】(Chék-nîⁿ nāⁿ-sĩ bô-tńg--khṳ̀ chiũ m̃-tsò-tit) It will not do, unless I go home once a year.

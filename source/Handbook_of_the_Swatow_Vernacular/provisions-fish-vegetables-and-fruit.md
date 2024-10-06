@@ -62,10 +62,10 @@ date: 2022-11-20 22:19:00
 
 * 【咱明起欲出門。食有夠亞無】(Nán màⁿ-khí àiⁿ tshut-mǹg, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
 * 【着預夠】(Tiéh ṳ̃-kàu) You must prepare enough.
-* 【勿毋夠。了在路就無食】(Màiⁿ-m̄-kàu, lióu tõ lōu chiũ bô-chiáh) For if there is not enough, then we shall get no food on the way.
+* 【勿毋夠。了在路就無食】(Màiⁿ-m̃-kàu, lióu tõ lōu chiũ bô-chiáh) For if there is not enough, then we shall get no food on the way.
 * 【今咱有底個】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
 * 【麫包有三個。牛乳油有一盒】(Mīⁿ-pau ũ saⁿ-kâi, gû-nĩⁿ iû ũ chék-áp) We have three loaves of bread, and one tin of butter.
-* 【若是毋夠一路好買】(Nāⁿ-sĩ m̄-kàu chék-lōu hó-bói) If we haven't got enough, we can buy on the way.
+* 【若是毋夠一路好買】(Nāⁿ-sĩ m̃-kàu chék-lōu hó-bói) If we haven't got enough, we can buy on the way.
 * 【叫伙頭來】(Kiè húe-thâu lâi) Call the cook here.
 * 【明夜昏我欲請儂】(Màⁿ-mêⁿ-hng uá àiⁿ-chhiáⁿ-nâng) To-morrow night I wish to invite a few persons.
 * 【有欲請幾㩼儂】(Ũ àiⁿ-chhiáⁿ jiéh-tsōi nâng?) How many people do you wish to invite?
@@ -77,7 +77,7 @@ date: 2022-11-20 22:19:00
 * 【挈一腿】(Khiéh chék-thúi) Get one ham.
 * 【荷蘭薯還了有亞無】(Hô-lan-tsṳ̂ huân-lióu ũ a-bô?) Have you any more potatoes?
 * 【有加零些】(Ũ ke lân-ló) I have a few more.
-* 【𤰉亞毋𤰉】(Lã a m̄-lã?) Have you enough?
+* 【𤰉亞毋𤰉】(Lã a m̃-lã?) Have you enough?
 * 【我想𤰉亞】(Uá siẽⁿ lã--a) I think there are enough.
 * 【好哪。若是𤰉就免用買】(Hó--nōⁿ, nāⁿ-sĩ lã chiũ mín-ēng bói) All right, if you have enough you needn't buy any.
 * 【雞卵買三十粒】(Koi-nñg bói saⁿ-tsáp liáp) Buy thirty fowl's eggs.
@@ -87,9 +87,9 @@ date: 2022-11-20 22:19:00
 * 【就是此樣生】(Chiũ-sĩ chièⁿ-seⁿ) That's all.
 * 【飯勿烳較糜】(Pn̄g màiⁿ-pû khah-mîⁿ) Don't boil the rice to soft.
 * 【咖喱勿煮過薟】(Ka-lî màiⁿ-tsṳ́ khah-hiam) Don't make the curry too hot.
-* 【食飯無鹹酸食毋落】(Chiáh-pn̄g bô kiâm-sng chiáh m̄-lóh) To take rice without relish it cannot be eaten.
+* 【食飯無鹹酸食毋落】(Chiáh-pn̄g bô kiâm-sng chiáh m̃-lóh) To take rice without relish it cannot be eaten.
 * 【伊請儂滂沛在】(I chhiáⁿ-nâng phâng-phài tsãi) He invited people to lots of dishes.
-* 【伊的鹹酸㩼樣在。食毋了】(I kâi kiâm-sng tsōi-iēⁿ tsāi, chiáh m̄-lióu) His relishes were of many kinds, we could'nt eat them all.
+* 【伊的鹹酸㩼樣在。食毋了】(I kâi kiâm-sng tsōi-iēⁿ tsāi, chiáh m̃-lióu) His relishes were of many kinds, we could'nt eat them all.
 * 【儂儂食到飽】(Nâng-nâng chiáh-kàu-pá) Every body ate until they had enough.
 * 【伊的伙頭會在】(I kâi húe-thâu õi-tsãi) His cook is very clever.
 * 【樣樣伊煮來好在】(Iēⁿ-Iēⁿ i tsṳ́-lâi hó-tsãi) Every thing he made was very nice indeed.
@@ -128,7 +128,7 @@ date: 2022-11-20 22:19:00
 
 ------
 
-* 【巿眠起無魚】(Chhĩ mêng-khí bô-hṳ̂) There are no fish this morning in the market.
+* 【巿瞑起無魚】(Chhĩ mêng-khí bô-hṳ̂) There are no fish this morning in the market.
 * 【有一尾我出一百錢賣魚的儂還了毋好賣我】(Ũ chék-búe uá tshut chék-peh-chî, bōi-hṳ̂--kâi-nâng huân-lióu m̃-hàuⁿ bōi uá) There is one, which I offered a hundred cash for yet the fisherman wouldn't sell it to me.
 * 【一尾紅鰽欲二百錢】(Chék-búe âng-tsô àiⁿ nõⁿ-peh-chîⁿ) Two hundred cash for a red-fish.
 * 【鯧魚上減一尾欲百五錢】(Chhieⁿ-hṳ̂ siãng-kiám chék-búe àiⁿ peh-ngõu-chîⁿ) At least one hundred and fifty cash for a flounder.

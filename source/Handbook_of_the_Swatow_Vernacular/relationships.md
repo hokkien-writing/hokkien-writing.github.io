@@ -44,13 +44,13 @@ date: 2022-11-20 23:34:00
 * 【Paternal aunt, younger】(Sòi-kou) 細姑
 * 【Paternal aunt's husband】(Kou-tiẽⁿ, a-tiẽⁿ) 姑丈　阿丈
 * 【Paternal aunt's sons】(Pié-hiaⁿ-tĩ) 表兄弟
-* 【Paternal aunt's daughters】(Pié-ché-mūeⁿ) 表姊妹
+* 【Paternal aunt's daughters】(Pié-ché-mūeⁿ) 表姐妹
 * 【Maternal aunt】(A-î) 阿姨
 * 【Maternal aunt, elder】(Tūa-î) 大姨
 * 【Maternal aunt, younger】(Sòi-î) 細姨
 * 【Maternal aunt's husband】(Î-tiẽⁿ, a-tiẽⁿ) 姨丈　阿丈
 * 【Maternal aunt's sons】(Pié-hiaⁿ-tĩ) 表兄弟
-* 【Maternal aunt's daughters】(Pié-ché-mūeⁿ) 表姊妹
+* 【Maternal aunt's daughters】(Pié-ché-mūeⁿ) 表姐妹
 * 【Brother, elder】(A-hiaⁿ) 阿兄
 * 【Brother, younger】(A-tĩ) 阿弟
 * 【Elder brother's wife】(A-só) 阿嫂
@@ -78,9 +78,9 @@ date: 2022-11-20 23:34:00
 * 【Wife's father-in-law】(Ta-kuaⁿ) 大官
 * 【Wife's mother-in-law】(Ta-ke) 大家
 * 【Daughter-in-law's father】(Chhin-ke) 親家
-* 【Daughter-in-law's mother】(Chhéⁿ-ḿ) 親姆
+* 【Daughter-in-law's mother】(Chheⁿ-ḿ) 親姆
 * 【Wife's brothers】(Chhi-kũ, a-kũ) 妻舅　阿舅
-* 【Wife's sisters】(A-i) 阿姨
+* 【Wife's sisters】(A-î) 阿姨
 * 【Husband's elder brother】(A-peh) 阿伯
 * 【Husband's younger brother】(A-chek) 阿叔
 * 【Husband's elder sister】(Tūa-kou) 大姑

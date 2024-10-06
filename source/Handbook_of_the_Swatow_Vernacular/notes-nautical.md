@@ -15,7 +15,7 @@ date: 2022-11-20 23:41:00
 * 【汝寧可搭火船】(Lṳ́ nêng-kò tah húe-tsûn) You had better go by steamer.
 <!--more-->
 * 【搭彼隻藍煙筒】(Tah hṳ́-chiah nâm-in-tâng) Go by the blue funnel (steamer.)
-* 【明眠起入來】(Màⁿ-mêng-khí jíp--lâi) She comes in to-morrow morning.
+* 【明瞑起入來】(Màⁿ-mêng-khí jíp--lâi) She comes in to-morrow morning.
 * 【舵舡好行了】(Tãi-kong hó-kiâⁿ--lō) Steersman, you had better start now.
 * 【天時好了】(Thiⁿ-sî hó--lō) The weather is fine.
 * 【我起來睇】(Uá khí--kâi thóiⁿ) Let me come up and see.
@@ -26,7 +26,7 @@ date: 2022-11-20 23:41:00
 * 【來抛加一個椗】(Lâi-pha ke--kâi tèng) Let us let go another anchor.
 * 【此個天時怎好行】(Chiá--thiⁿ-sî tsò-hó-kiâⁿ) Oh, we can't go on, in this weather.
 * 【今無變。多着在此乞伊吹】(Taⁿ iou-ũ-pōu, lo-tiéh nãⁿ--chié khoih-i-tshue) Now, what help can there be we must stay here and let the wind blow.
-* 【流水哩雄。風哩不好】(Lâu-tsúi li hiông, huang li m̄-móⁿ) The tide is strong, and the wind is contrary.
+* 【流水哩雄。風哩不好】(Lâu-tsúi li hiông, huang li m̃-móⁿ) The tide is strong, and the wind is contrary.
 * 【此隻船好駛】(Chí-chiah-tsûn hó-sái) This boat sails well.
 * 【行猛在】(Kiâⁿ-méⁿ-tsãi) It goes very fast.
 * 【火船免用駛風會行】(Húe-tsûn mín-ēng sái-huang õi-kiâⁿ) Steamers can go without setting sails.
@@ -39,7 +39,7 @@ date: 2022-11-20 23:41:00
 * 【火長在底塊】(Húe-tiéⁿ tõ-tî-kò?) Where's the captain?
 * 【火長起去】(Húe-tiéⁿ khí-khṳ̀) The captain has gone on shore.
 * 【伊霋時就落來】(I khiã-tiām chiũ lóh--lâi) He will come on board by and bye.
-* 【火船有歕陂亞未】(Húe-tsûn ũ pûn-pi a-būe?) Has the steamer sounder her whistle?
+* 【火船有歕嗶亞未】(Húe-tsûn ũ pûn-pi a-būe?) Has the steamer sounder her whistle?
 * 【歕三下了】(Pûn saⁿ-ē--lō) She has whistled three times.
 * 【加一下就欲行】(Ke chék-ē chiũ àiⁿ-kiâⁿ) Once more (the next time) she will start.
 * 【船頭枝桅的旗。若是升半橛就欲行】(Tsûn-thâu ki-ûi kâi kî, nāⁿ-sĩ liū pùaⁿ-kuéh chiũ àiⁿ-kiâⁿ) If the flag of the foremast is hoisted half mast high, then the steamer is going to start.
@@ -47,4 +47,4 @@ date: 2022-11-20 23:41:00
 * 【伊無乜會泅】(I bô-mih õi-siû) He can't swim very well.
 * 【無猛猛去救伊。就着激死】(Bô méⁿ-méⁿ khṳ̀ kiù--i, chiũ-tiéh kek-sí) If he is not saved quickly, he will be drowned.
 * 【汝會氼嗎】(Lṳ́ õi bī mē?) Can you dive?
-* 【無羅經。駛毋識地去】(Bô lô-keⁿ, sái m̄-pat-tò-khṳ) Without a compass we don't know where to sail to.
+* 【無羅經。駛毋識地去】(Bô lô-keⁿ, sái m̃-pat-tò-khṳ) Without a compass we don't know where to sail to.

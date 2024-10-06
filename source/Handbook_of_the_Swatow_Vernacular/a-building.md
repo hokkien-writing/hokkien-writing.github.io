@@ -42,7 +42,7 @@ date: 2022-11-20 21:38:00
 * 【樓頂樓枋亦是此樣生】(Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ) The floor up-stairs the same.
 * 【個個禮拜着洗淸潔淸潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
 * 【灰埕亦着洗】(Hue-tiâⁿ iā tiéh sói) The lime floor must be washed.
-* 【此塊排明起早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
+* 【此塊排瞑起早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
 * 【我欲作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
 * 【汝叫司阜霎時來】(Lṳ́ kiè sai-pẽ khiã-tiām lâi) You tell the carpenter to come bye-and-bye.
 * 【佮伊呾我此塊欲作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
@@ -53,7 +53,7 @@ date: 2022-11-20 21:38:00
 ### section II.
 
 * 【門】(Mn̂g) A door.
-* 【枋】(Pâng) A room.
+* 【房】(Pâng) A room.
 * 【廳】(Thiaⁿ) A drawing room, a hall.
 * 【睇書房】(Thóiⁿ-tsṳ-pâng) A reading room.
 * 【食房】(Chiáh-pâng) A dining room.
@@ -115,12 +115,12 @@ date: 2022-11-20 21:38:00
 * 【此張信挈去餉關】(Chí-tieⁿ sìn khiéh khṳ̀ hiàng-kuan) Take this letter to the custom-house.
 * 【此三張挈去信關】(Chí saⁿ-tieⁿ khiéh khṳ̀ sìn-kuan) These three, take them to the post-office.
 * 【信關在底塊】(Sìn-kuan tõ tî-kò?) Where is the post-office?
-* 【汝毋識挈信去信關】(Lṳ́ m̄-pat khiéh sìn khṳ̀ sin-kuan?) Have you never taken letters to the post-office?
-* 【毋識】(M̄-pat) I never have.
+* 【汝毋識挈信去信關】(Lṳ́ m̃-pat khiéh sìn khṳ̀ sin-kuan?) Have you never taken letters to the post-office?
+* 【毋識】(M̃-pat) I never have.
 * 【信關在角石】(Sìn-kuan tõ Kak-chiéh) The post-office is at Kak-chieh.
 * 【汝知炮臺在底塊】(Lṳ́ tsai phàu-thâi tõ tî-kò?) You know where the fort is?
-* 【毋知。我早毋識來此汕頭】(M̄ tsai, uá tsá m̄-pat lâi chí Suaⁿ-thâu) I don't know, I have never been at Swatow before.
-* 【我此個地方毋熟】(Uá chí-kâi tī-hng m̄-sék) I am not familiar with this place.
+* 【毋知。我早毋識來此汕頭】(M̃ tsai, uá tsá m̃-pat lâi chí Suaⁿ-thâu) I don't know, I have never been at Swatow before.
+* 【我此個地方毋熟】(Uá chí-kâi tī-hng m̃-sék) I am not familiar with this place.
 * 【汝貴處】(Lṳ́ tî-kò húe?) Where do you belong to?
 * 【我菴埠處】(Uá Am-pou húe) I belong to Am-pou.
 * 【汝嘗識去府城嗎】(Lṳ́ khah-pat khṳ̀ Hú-siâⁿ mē?) Have you ever been to Ch'ao-chow-fu?

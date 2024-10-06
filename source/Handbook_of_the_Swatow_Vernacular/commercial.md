@@ -23,7 +23,7 @@ date: 2022-11-20 23:22:00
 * 【番布】(Huan-pòu) Gray shirting.
 * 【白布】(Péh-pòu) White cloth.
 * 【烏布】(Ou-pòu) Black cloth.
-* 【青布】(Chhíⁿ-pòu) Blue cloth.
+* 【靑布】(Chhíⁿ-pòu) Blue cloth.
 * 【膠𤿤】(Ka-pùa) Cotton cloth.
 * 【熱布】(Zuáh-pòu) Grass cloth.
 * 【樹皮】(Chhiū-phûe) Holland.
@@ -101,7 +101,7 @@ date: 2022-11-20 23:22:00
 * 【毛扇】(Môⁿ-sîⁿ) Fans, feather.
 * 【鱟壳扇】(Hâu-khak-sîⁿ) Fans, cloth.
 * 【葵扇】(Kûe-sîⁿ) Fans, palm-leaf.
-* 【佚佗物】(Thih-thô-muéh) Fancy articles.
+* 【佚佗物】(Thit-thô-muéh) Fancy articles.
 * 【雞毛筅】(Koi-môⁿ-tshóiⁿ) Feather-duster.
 * 【魚肚】(Hṳ̂-tõu) Fishmaws.
 * 【魚膘】(Hṳ̂-phiẽ) Fishmaws.
@@ -157,7 +157,7 @@ date: 2022-11-20 23:22:00
 * 【白蜡】(Péh-láh) „ insect, white.
 * 【羊毛】(Iêⁿ-môⁿ) Wool.
 * 【冇柴】(Phàⁿ-tshâ) Wood, light.
-* 【𠕇柴】(Tōiⁿ-tshâ) „ hard.
+* 【𠕆柴】(Tōiⁿ-tshâ) „ hard.
 
 ### Carpentry.
 
@@ -222,7 +222,7 @@ date: 2022-11-20 23:22:00
 * 【數完】(Siòu uân) Accounts paid up.
 * 【數還淸】(Siòu hôiⁿ-chheng) Accounts paid up.
 * 【計共】(Kòi-kāng) Amount.
-* 【來銀】(Lái-ngṳ̂n) Received to account.
+* 【來銀】(Lâi-ngṳ̂n) Received to account.
 * 【抵除後結欠】(Tí-tṳ̂-aũ kat-khiàm) Balance due.
 * 【記數】(Kì-siòu) To enter in account.
 * 【上數】(Chiẽⁿ-siòu) To enter in account.
@@ -266,7 +266,7 @@ date: 2022-11-20 23:22:00
 * 【Cheap】(Phiⁿ) 便
 * 【Commission】(Thiu-hùn) 抽分
 * 【Compensate】(Pûe) 賠
-* 【Costly】(Tát-chiⁿ) 値錢
+* 【Costly】(Tát-chîⁿ) 値錢
 * 【Credit, give】(Chhia) 賒
 * 【Creditor】(Chè-tsú) 債主
 * 【Dear】(Kùi) 貴
@@ -305,7 +305,7 @@ date: 2022-11-20 23:22:00
 * 【Premium】(Ngṳ̂n-tsúi) 銀水
 * 【Price】(Kè-chîⁿ) 價錢
 * 【„ current】(Hâng-chhêng) 行情
-* 【„ fair】(Phèng-kè) 平價
+* 【„ fair】(Phêng-kè) 平價
 * 【„ fall in】(Lóh-kè) 落價
 * 【„ rise in】(Hó-kè, khí-kè) 好價　起價
 * 【Prime cost】(Nguân-kè) 原價
@@ -334,7 +334,7 @@ date: 2022-11-20 23:22:00
 * 【Broker, a】(Phah-khang) 拍空
 * 【Bundle, a】(Pau) 包
 * 【Business】(Sṳ̄, seng-lí) 事　生理
-* 【Busy】(M̄-ôiⁿ, sṳ̄ tsōi) 毋閒　事㩼
+* 【Busy】(M̃-ôiⁿ, sṳ̄ tsōi) 毋閒　事㩼
 * 【Cargo】(Hùe) 貨
 * 【Cask, a】(Tháng) 桶
 * 【Certificate, a】(Phêng-tuaⁿ) 憑單
@@ -374,7 +374,7 @@ date: 2022-11-20 23:22:00
 * 【Hong, a】(Hâng) 行
 * 【House rent】(Tshu-sùe) 厝稅
 * 【Imports】(Jíp-kháu-hùe) 入口貨
-* 【Intercourse】(Lái-uáng) 來往
+* 【Intercourse】(Lâi-uáng) 來往
 * 【Invoice of goods】(Hùe-tuaⁿ) 貨單
 * 【Jetty, a】(Bé-thâu) 馬頭
 * 【Landlord】(Tshù-tsú) 厝主
@@ -386,7 +386,7 @@ date: 2022-11-20 23:22:00
 * 【Manager】(Ke-tiéⁿ) 家長
 * 【Manifest, ship's】(Pò-hiàng-tuaⁿ) 報餉單
 * 【Market, (street,)】(Koi-chhĩ) 街市
-* 【„ price】(Háng-chhêng) 行情
+* 【„ price】(Hâng-chhêng) 行情
 * 【Merchandise】(Hùe) 貨
 * 【Merchant, a】(Kheh-siang) 客商
 * 【Miscellaneous】(Lân-san, tshàm-tshùi) 零些　零碎

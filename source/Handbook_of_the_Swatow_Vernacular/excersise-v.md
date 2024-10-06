@@ -19,7 +19,7 @@ date: 2022-11-16 20:14:00
 * 【誰儂拍汝】(Tî-tiâng phah lṳ́?) Who beat you?
 <!--more-->
 * 【汝知嗎】(Lṳ́ tsai mē?) Do you know?
-* 【我毋知】(Uá m̄-tsai) I don't know.
+* 【我毋知】(Uá m̃-tsai) I don't know.
 * 【我毋信汝】(Uá m̃-sìn lṳ́) I don't believe you.
 * 【汝怎呢毋信我】(Lṳ́ tsò-nîⁿ m̃-sìn uá?) Why don't you believe me?
 * 【彼個挈來】(Hṳ́-kâi khiéh--lâi) Bring me that.
@@ -38,35 +38,35 @@ date: 2022-11-16 20:14:00
 
 * 【此個我勿。我欲換】(Chí--kâi uá màiⁿ, uá aìⁿ-ūaⁿ) I don't want a change.
 * 【汝去追伊】(Lṳ́ khṳ̀-jiōu i) You go and chase him.
-* 【追毋着】(Jiōu m̄-tièh) Can't overtake him.
+* 【追毋着】(Jiōu m̃-tièh) Can't overtake him.
 * 【汝走就追會着】(Lṳ́ tsáu chiũ-jiōu õi-tièh) If you run, you will overtake him.
 * 【汝勿騙我】(Lṳ́ màiⁿ-phièn úa) Don't you deceive me.
 * 【汝欲選底一個】(Lṳ́ àiⁿ-suán tî-chék-kâi?) Which do you wish to choose?
 * 【此個物淸潔】(Chí--kâi muéh-chheng-khih) Clean this.
 * 【此個挈去煮】(Chí--kâi khiéh-khṳ̀ tsṳ́) Take this and cook it.
 * 【汝曉算嗎】(Lṳ́ hióu-sǹg mē?) Can you count?
-* 【我毋曉】(Uá m̄-hióu) I can't.
+* 【我毋曉】(Uá m̃-hióu) I can't.
 * 【勿哭】(Màiⁿ-khàu) Don't cry.
 * 【伊敢去嗎】(I káⁿ-khṳ́ mē?) Does he dare to go?
-* 【伊毋敢】(I m̄-káⁿ) He dare not.
+* 【伊毋敢】(I m̃-káⁿ) He dare not.
 * 【伊袂食】(I bõi-chiáh) He can't eat.
 * 【怎呢袂食】(Tsò-nîⁿ bõi-chiáh) Why can't he eat?
-* 【我毋知】(Uá m̄-tsai) I don't know.
+* 【我毋知】(Uá m̃-tsai) I don't know.
 * 【入來】(Jíp--lái) Come in.
 * 【出去】(Tshut--khṳ̀) Go out.
 * 【汝聽我會見嗎】(Lṳ́ thiaⁿ uá õi-kìⁿ mē?) Can you hear me?
-* 【我聽毋見】(Uá thiaⁿ m̄-kìⁿ) I can't hear you.
+* 【我聽毋見】(Uá thiaⁿ m̃-kìⁿ) I can't hear you.
 
 ### section III.
 
 * 【彼個挈分我】(Hiá khiéh-pun uá) Get me that.
-* 【底個】(Tî-kâi?) What is it?
-* 【是此個亞毋是】(Sĩ chiá a m̄-sĩ?) Is this it?
+* 【底個】(Tî-kâi) What is it?
+* 【是此個亞毋是】(Sĩ chiá a m̃-sĩ?) Is this it?
 * 【就是】(Chiũ-sĩ) That is it.
 * 【挈來】(Khiéh--lài) Bring it here.
 * 【感謝】(Kám-siā) Thank you.
 * 【好了】(Hó--lō) That will do.
-* 【伊會傷着嗎】(I õi sieⁿ-tiéh mē?) Is he hurt?
+* 【伊會傷着嗎】(I õi sieⁿ--tiéh mē?) Is he hurt?
 * 【袂】(Bõi) No.
 * 【伊會死嗎】(I õi sí mē?) Will he die?
 * 【我想伊會】(Uá siẽⁿ i õi.) I think he will.
@@ -75,14 +75,14 @@ date: 2022-11-16 20:14:00
 * 【跪落去】(Kũi--lóh-khṳ̀) Kneel down.
 * 【起來】(Khí--lâi) Get up.
 * 【勿笑】(Màiⁿ-chhiè) Don't laugh.
-* 【我毋識伊】(Uá m̄-pat i) I don't know him.
+* 【我毋識伊】(Uá m̃-pat i) I don't know him.
 * 【我只伊在底塊徛起】(Uá tsai i tõ tî-kò khiã-khí) I know where he lives.
 * 【伊毋作。欲歇】(I m̃-tsoh, àiⁿ-hiah) He doesn't want to work, (but) wants to leave.
 * 【汝去佮伊呾勿歇】(Lṳ́ khṳ̀ kah i tàⁿ, màiⁿ-hiah) You go and tell him not to leave.
 * 【此個借我】(Chí--kâi chieh uá) Lend me this.
 * 【袂使】(Bõi-sái) That won't do.
 * 【我自己欲用】(Uá ka-kī àiⁿ-ēng) I want to use it myself.
-* 【此個我毋曉怎呢物】(Chiá uá m̄-hióu tsò-nîⁿ muéh) I don't understand how to do this.
+* 【此個我毋曉怎呢物】(Chiá uá m̃-hióu tsò-nîⁿ muéh) I don't understand how to do this.
 * 【請汝佮我呾】(Chhiáⁿ lṳ́ kah uá tàⁿ) Please tell me.
 * 【來去佚佗】(Lâi-khṳ̀ thit-thô) Come let us go out to amuse ourselves.
 * 【咱勿對彼塊過】(Nán màiⁿ tùi-hié kùe) Let us not pass by that way.
@@ -99,7 +99,7 @@ date: 2022-11-16 20:14:00
 * 【勿佮伊相罵】(Màiⁿ kah i sie-mēⁿ) Don't quarrel with him.
 * 【去哪】(Khṳ̀--nō) Go away.
 * 【汝曉讀嗎】(Lṳ́ hióu-thák mē?) Can you read?
-* 【毋曉】(M̄-hióu) I can't.
+* 【毋曉】(M̃-hióu) I can't.
 * 【放伊去】(Pàng i khṳ̀) Let him go.
 * 【伊毋好去】(I m̃-hàuⁿ khṳ̀) He refuses to go.
 * 【我記得汝】(Uá kì-tit lṳ́) I remember you.

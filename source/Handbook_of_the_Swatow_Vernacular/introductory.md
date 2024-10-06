@@ -18,7 +18,7 @@ date: 2022-11-15 21:43:00
 * 【無】(Bô) No, none.
 * 【是】(Sĩ) Yes, is.
 <!--more-->
-* 【毋是】(M̄-sĩ) Not, no.
+* 【毋是】(M̃-sĩ) Not, no.
 * 【欲】(Àiⁿ) Want, wish.
 * 【勿】(Màiⁿ) Don't want, don't.
 * 【來】(Lâi) Come.
@@ -32,7 +32,7 @@ date: 2022-11-15 21:43:00
 * 【伊欲去】(I àiⁿ-khṳ̀) He wants to go.
 * 【咱來去】(Nán lâi-khṳ̀) Let us go.
 * 【我毋去】(Uá m̃-khṳ̀) I am not going.
-* 【毋是汝】(M̄-sĩ lṳ́) Not you.
+* 【毋是汝】(M̃-sĩ lṳ́) Not you.
 * 【是伊】(Sĩ i) It is he.
 
 ## Lesson II.
@@ -67,7 +67,7 @@ date: 2022-11-15 21:43:00
 * 【亦】(Iā) Also.
 * 【從　在】(Tshông, tõ) From.
 * 【到】(Kàu) To.
-* 【豈】(Khah) Too.
+* 【較】(Khah) Too.
 * 【約量】(Iak-liãng) About.
 * 【差不多】(Tsha-put-to) About.
 * 【或者】(Pa-lak) Perhaps.
@@ -91,18 +91,18 @@ date: 2022-11-15 21:43:00
 * 【是因爲怎呢】(Sĩ in-ûi tsò-nîⁿ?) For what reason?
 * 【汝是底誰】(Lṳ́ sĩ tî-tiâng?) Who are you?
 * 【此是底誰的】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
-* 【此些個毋是】(Chí-chùaⁿ-kâi m̄-sĩ) These are not them.
+* 【此些個毋是】(Chí-chùaⁿ-kâi m̃-sĩ) These are not them.
 * 【彼些個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
 * 【汝有若㩼】(Lṳ́ ũ jiéh-tsōi?) How much have you?
 * 【汝有若㩼個】(Lṳ́ ũ jiéh-tsōi kâi?) How many have you?
 * 【是此樣生】(Sĩ chièⁿ-seⁿ) It is like this.
-* 【毋是彼樣生】(M̄-sĩ hièⁿ-seⁿ) Not like that.
+* 【毋是彼樣生】(M̃-sĩ hièⁿ-seⁿ) Not like that.
 
 ------
 
 * 【伊還了未去】(I huân-lióu būe-khṳ̀) He hasn't gone yet.
 * 【此個佮彼個】(Chí-kâi kah hṳ́-kâi) This one and that one.
-* 【此個毋是】(Chía m̄-sĩ) This is not it.
+* 【此個毋是】(Chía m̃-sĩ) This is not it.
 * 【彼個就是】(Hiá chiũ-sĩ) That is it.
 * 【汝亦有】(Lṳ́ iā ũ) You have got it too.
 * 【從底塊到底塊】(Tshông tî-kò kàu tî-kò?) From where to where?
@@ -115,7 +115,7 @@ date: 2022-11-15 21:43:00
 * 【怎呢無呢】(Tsò-nîⁿ bô--nē?) Why not?
 * 【因爲我毋去】(In-ûi uá m̃-khṳ̀) Because I don't want to go.
 * 【此個是我的】(Chí-kâi sĩ uá-kâi) This is mine.
-* 【毋是汝的】(M̄-sĩ lṳ́-kâi) It isn't yours.
+* 【毋是汝的】(M̃-sĩ lṳ́-kâi) It isn't yours.
 * 【是伊的】(Si i-kâi) It is his.
-* 【汝的毋是此樣生】(Lṳ́-kâi m̄-sĩ chièⁿ-seⁿ) Yours is not like his.
+* 【汝的毋是此樣生】(Lṳ́-kâi m̃-sĩ chièⁿ-seⁿ) Yours is not like his.
 * 【伊的是此樣生】(I kâi sĩ chièⁿ-seⁿ) His is like this.

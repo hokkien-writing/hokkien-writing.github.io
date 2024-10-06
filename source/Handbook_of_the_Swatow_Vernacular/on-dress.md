@@ -52,8 +52,8 @@ date: 2022-11-20 22:29:00
 * 【金器】(Kim-khùi) Jewellery.
 * 【時鏢】(Sî-pie) A watch.
 * 【鍊】(Liēn) A chain.
-* 【戒指】(Chhiú-chí) A ring.
-* 【手環】(Chhiue-huân) A bracelet.
+* 【手指】(Chhiú-chí) A ring.
+* 【手環】(Chhiú-huân) A bracelet.
 * 【耳鈎】(Hĩⁿ-kau) An ear-ring.
 * 【頂】(Téng) An official button.
 * 【綉花】(Siù-hue) Embroidery.
@@ -62,7 +62,7 @@ date: 2022-11-20 22:29:00
 * 【穿衫褲】(Chhēng-saⁿ-khòu) To dress.
 * 【褪衫褲】(Thǹg-saⁿ-khòu) To undress.
 * 【換衫褲】(Uāⁿ-saⁿ-khòu) To change clothes.
-* 【打扮】(Tá-pān) To dress prettily.
+* 【打扮】(Tá-pàn) To dress prettily.
 * 【排場】(Phâi-chhiâng) Gorgeous, well dressed.
 * 【君子】(Kun-tsṳ́) Gentlemanly.
 * 【珠】(Tsu) Beads.

@@ -11,7 +11,7 @@ date: 2022-11-20 23:02:00
 * 【先生】(Sin-seⁿ) A doctor.
 * 【醫】(Ui) To cure.
 * 【病】(Pēⁿ) To be ill; sickness.
-* 【儂毋好】(Nâng m̄-móⁿ) Unwell.
+* 【儂毋好】(Nâng m̃-móⁿ) Unwell.
 * 【破病】(Phùa-pēⁿ) To be very ill for a long period.
 * 【着力】(Tíh-lát) To be very ill, almost dying.
 <!--more-->
@@ -57,7 +57,7 @@ date: 2022-11-20 23:02:00
 * 【泡】(Phã) A blister.
 * 【起泡】(Phok-phã) To rise in blister.
 * 【腫】(Chéng) Swelling.
-* 【毋知儂】(M̄-tsai-nâng) Fainting.
+* 【毋知儂】(M̃-tsai-nâng) Fainting.
 * 【眩】(Hîn) Giddy.
 * 【眩船】(Hîn-tsûn) Sea-sick.
 * 【齒痛】(Khí-thiàⁿ) Toothache.
@@ -73,14 +73,14 @@ date: 2022-11-20 23:02:00
 * 【軟疕】(Nńg-nîⁿ) Palsy.
 * 【癱瘓】(Kuàn-pien) Palsy.
 * 【癲】(Sióu) Mad.
-* 【心神毋定】(Sim-sîn m̄-tiāⁿ) Insane.
+* 【心神毋定】(Sim-sîn m̃-tiāⁿ) Insane.
 * 【愩】(Kòng) Crazy.
 * 【痱】(Bùi, Pùi) Prickly heat.
 * 【癬】(Sién) Ringworm.
 * 【目痛】(Mák--thiàⁿ) Sore-eyes.
 * 【近視】(Kṳ̃n-sī) Near-sighted.
 * 【近覷】(Kṳ̃n-tshṳ̀) Near-sighted.
-* 【青盲】(Chheⁿ-mêⁿ) Blind.
+* 【靑盲】(Chheⁿ-mêⁿ) Blind.
 * 【目睭花】(Mák-chiu-hue) Dimness.
 * 【斜目】(Siâ-mák-chióu) Squinting.
 * 【耳聾】(Hĩⁿ--lâng) Deaf.
@@ -89,7 +89,7 @@ date: 2022-11-20 23:02:00
 * 【腰龜】(Ie-ku) Humpback.
 * 【拐腳】(Kuái-kha) Lame.
 * 【綁腳䥥】(Páng-kha-liâm) Ulcerated leg.
-* 【縻腳】(Miⁿ-kha) Ulcerated leg.
+* 【縻腳】(Mîⁿ-kha) Ulcerated leg.
 * 【生物】(Seⁿ-muéh) To have a disease.
 * 【生㿗】(Seⁿ-thûe) To have a boil.
 * 【濃】(Lâng) Matter.

@@ -99,7 +99,7 @@ date: 2022-11-20 21:44:00
 * 【伊欲留鬚】(I àiⁿ lâu-chhiu) He wants to keep his beard.
 * 【伊的頭毛挐挐】(I kâi thâu-môⁿ zṳ̂-zṳ̂) His hair is rough.
 * 【伊無梳頭】(I bô siu-thâu) He doesn't comb his hair.
-* 【汝的儂會不可亞袂】(Lṳ́ kâi nâng õi m̄-móⁿ a-bõi?) Are you unwell?
+* 【汝的儂會不可亞袂】(Lṳ́ kâi nâng õi m̃-móⁿ a-bõi?) Are you unwell?
 * 【會。我的儂熱】(Õi, uá kâi nâng zuáh) Yes, I am suffering from fever.
 * 【汝欲食零須藥嗎】(Lṳ́ àiⁿ-chiáh lân-ló iéh mē?) Do you wish to take some medicine?
 * 【欲亞。請汝挈零須分我】(Àiⁿ a, chhiáⁿ lṳ́ khiéh lân-ló pun uá) Oh yes, please get me some.

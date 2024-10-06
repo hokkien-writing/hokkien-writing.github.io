@@ -101,7 +101,7 @@ date: 2022-11-16 20:15:00
 * 【Right】(Tiéh) 着
 * 【Ripe】(Sék) 熟
 * 【Round】(Îⁿ) 圓
-* 【Rude, (clownish.)】(Bô-kui-kú) 無規矩
+* 【Rude, (clownish.)】(Bô-kui-kṳ́) 無規矩
 * 【Rude, (to a superior.)】(Huàng-sṳ̀) 放肆
 * 【Same】(Pêⁿ-iēⁿ, sie-tâng) 平樣　相同
 * 【Shallow】(Chhién) 淺
@@ -127,12 +127,12 @@ date: 2022-11-16 20:15:00
 * 【Tired】(Hék) 乏
 * 【True】(Chin, sít, chin-sít) 真　實　真實
 * 【Ugly】(Iá-iēⁿ) 野樣
-* 【Unripe】(Chheⁿ) 青
+* 【Unripe】(Chheⁿ) 靑
 * 【Warm】(Zuáh) 熱
 * 【Weak】(Khùn) 困
 * 【Wet】(Tâm) 㴷
 * 【Wet, (thoroughly.)】(Lok) 漉
 * 【White】(Péh) 白
 * 【Wicked】(Ak, phái) 惡　痞
-* 【Wrong】(M̄-tiéh, tshò) 毋着　錯
+* 【Wrong】(M̃-tiéh, tshò) 毋着　錯
 * 【Yellow】(N̂g) 黃

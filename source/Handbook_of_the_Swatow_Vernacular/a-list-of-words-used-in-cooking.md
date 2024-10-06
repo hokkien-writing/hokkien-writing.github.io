@@ -33,7 +33,7 @@ date: 2022-11-20 22:11:00
 * 【焙】(Pūe) To toast, as bread &c.
 * 【烘】(Hang) To warm over the fire.
 * 【冲】(Tshong) To infuse, as tea &c.
-* 【着火燒】(Téh-húe-sie) To get burnt by being over roasted or burnt for want of water.
+* 【着火燒】(Tiéh-húe-sie) To get burnt by being over roasted or burnt for want of water.
 * 【燒】(Sie) To burn.
 * 【燒】(sie) Hot.
 * 【凝】(Ngân) Cold.

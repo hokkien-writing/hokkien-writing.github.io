@@ -8,7 +8,7 @@ date: 2022-11-20 23:43:00
 
 ## Lesson XXIX. Notes—Medical.
 
-* 【我今日儂毋好】(Uá kiáⁿ-jít nâng m̄-móⁿ) I am unwell to-day.
+* 【我今旦日儂毋好】(Uá kiáⁿ-jít nâng m̃-móⁿ) I am unwell to-day.
 * 【汝寧可去倒】(Lṳ́ nêng-kò khṳ̀-tó) You had better go and lie down.
 * 【汝的儂怎呢】(Lṳ́ kâi nâng tsò-nîⁿ?) What is the matter with you?
 * 【儂熱】(Nâng zuáh) I have got fever.
@@ -32,9 +32,9 @@ date: 2022-11-20 23:43:00
 * 【縻到今有若久了】(Mîⁿ-kàu-taⁿ ũ jiéh-kú--lō?) How long has it been ulcerated.
 * 【有成年】(U^ chiâⁿ-nîⁿ) About a year.
 * 【會癢亞袂】(Ōi-chiẽⁿ a-bõi?) Does it itch?
-* 【若是會癢不可爬】(Nãⁿ-sĩ õi-chiẽⁿ m̄-móⁿ pê) If it itches, you mustn't scratch it.
+* 【若是會癢不可爬】(Nãⁿ-sĩ õi-chiẽⁿ m̃-móⁿ pê) If it itches, you mustn't scratch it.
 * 【歸去。着刻苦耐】(Kui-khṳ̀, tiéh khah-khóu nãiⁿ) Let it be, you must do your best to bear it.
-* 【一眠起。起來。用此藥水洗】(Chék-mêng-khí khí-lâi-kâu ēng chiá iéh-tsúi sói) When you get up in the morning, wash it with this lotion.
+* 【一瞑起。起來。用此藥水洗】(Chék-mêng-khí khí-lâi-kâu ēng chiá iéh-tsúi sói) When you get up in the morning, wash it with this lotion.
 * 【伊的病重】(I-kâi pēⁿ tãng) His illness is serious.
 * 【着力在。欲死】(Tih-lát-tsãi, àiⁿ-sí) Very serious, almost dying.
 * 【無救了】(Bô-kiù--lō) There is no hope, (lit. there is no salvation.)

@@ -23,8 +23,8 @@ date: 2022-11-20 23:39:00
 * 【張】(Tieⁿ) Applied to, sheets of paper, letters
 * 【包】(Pau) Applied to, things in bundles and bales.
 * 【把】(Pé) Applied to, bundles of wood, vegetables, flowers, &c.
-* 【欉】(Châng) Applied to, trees, plants, vegetables.
-* 【節】(Chat) Applied to, spaces between the joints on the finger, or on bamboo, sugarcane, &c.
+* 【欉】(Tsâng) Applied to, trees, plants, vegetables.
+* 【節】(Tsat) Applied to, spaces between the joints on the finger, or on bamboo, sugarcane, &c.
 * 【隻】(Chiah) Applied to, ships, quadrupeds, birds, fowls, &c.
 * 【載】(Chāi) Applied to, cargoes, boat loads, &c.
 * 【塊】(Kò) Applied to, lands, gardens, boards &c., and slices or pieces of things.
@@ -37,7 +37,7 @@ date: 2022-11-20 23:39:00
 * 【點】(Tiám) Applied to, spots of dirt, drops of rain, &c.
 * 【蕊】(Lúi) Applied to, flowers.
 * 【列】(Léh) Applied to, files of soldiers, rows of houses, &c.
-* 【串】(Kuãⁿ) Applied to, strings of cash or beads, &c.
+* 【貫】(Kuãⁿ) Applied to, strings of cash or beads, &c.
 * 【副】(Hù) Applied to, things in sets and suits.
 * 【本】(Pńg) Applied to, books.
 * 【頁】(Hiéh) Applied to, leaves of books.
