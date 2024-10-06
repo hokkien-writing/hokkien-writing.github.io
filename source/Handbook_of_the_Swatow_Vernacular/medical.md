@@ -30,7 +30,7 @@ date: 2022-11-20 23:02:00
 * 【發燒畏凊】(Huat-sie ùi-chhìn) Fever and ague.
 * 【肚痛】(Tóu-thiàⁿ) Stomachache.
 * 【抽痛】(Thiu-thiàⁿ) Cramp.
-* 【吐】(Thôu) To vomit.
+* 【吐】(Thòu) To vomit.
 * 【漏屎】(Làu-sái) Diarrhoea.
 * 【肚漏】(Tóu làu) Diarrhoea.
 * 【放血】(Pàng-àng) Dysentery.

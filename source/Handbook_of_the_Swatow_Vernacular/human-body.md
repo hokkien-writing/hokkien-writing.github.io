@@ -41,7 +41,7 @@ date: 2022-11-20 21:44:00
 * 【肚】(Tóu) Belly.
 * 【肚臍】(Tóu-tsâi) Navel.
 * 【胳胴下】(Koh-lâng-ẽ) Arm-pit.
-* 【背】(Ka-chiah) Back.
+* 【尻脊】(Ka-chiah) Back.
 * 【肩頭】(Koiⁿ-thâu) Shoulder.
 * 【手】(Chhiú) Arms, hands.
 * 【手肘】(Chhiú-thñg) Elbow.
@@ -50,7 +50,7 @@ date: 2022-11-20 21:44:00
 * 【指甲】(Tsńg-kah) Nail.
 * 【腳】(Kha) Legs, feet.
 * 【腳腿】(Kha-thúi) Thigh.
-* 【膝】(Kha-thâu-u) Knees.
+* 【腳頭趺】(Kha-thâu-u) Knees.
 * 【腳目】(Kha-mák) Ankles.
 * 【腳趾】(Kha-tsóiⁿ) Toes.
 * 【皮】(Phûe) Skin.

@@ -62,7 +62,7 @@ date: 2022-11-20 23:28:00
 * 【Government】(Chhiôu-thêng) 朝廷
 * 【Law】(Lút) 律
 * 【Emperor】(Huâng-tì) 皇帝
-* 【Empress】(Uâng-hõu) 皇后
+* 【Empress】(Uâng-hõu) 王后
 * 【Prince】(Thài-tsṳ́) 太子
 * 【Princess】(Kong-tsú) 公主
 * 【King】(Uâng) 王

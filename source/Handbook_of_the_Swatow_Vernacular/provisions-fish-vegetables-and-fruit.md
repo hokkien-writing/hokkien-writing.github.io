@@ -163,7 +163,7 @@ date: 2022-11-20 22:19:00
 * 【Name of vegetable】(Kak-kue) 角瓜
 * 【Yam】(Tūa-tsṳ̂) 大薯
 * 【Taro】(Ōu) 芋
-* 【Mint】(Pô-hô) 薄荷
+* 【Mint】(Pô-hò) 薄荷
 * 【Celery】(Khṳ̂n-tshài) 芹菜
 * 【Coriander】(Uân-sui) 莞荽
 * 【Salad】(Phang-tshài, chheⁿ-tshài) 芳菜　生菜

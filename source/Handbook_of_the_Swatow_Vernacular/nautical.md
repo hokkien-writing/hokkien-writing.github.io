@@ -49,11 +49,11 @@ date: 2022-11-20 22:51:00
 * 【水煙】(Tsúi-in) Steam.
 * 【灶】(Tsàu) Furnace.
 * 【起火】(Khí-húe) To make a fire.
-* 【燃】(Hiáⁿ) To burn; to boil as a large quantity of water.
-* 【燃塗炭】(Hiáⁿ-thôu-thùaⁿ) To burn coal.
-* 【燃柴】(Hiáⁿ-tshâ) To burn fire wood.
+* 【燃】(Hiâⁿ) To burn; to boil as a large quantity of water.
+* 【燃塗炭】(Hiâⁿ-thôu-thùaⁿ) To burn coal.
+* 【燃柴】(Hiâⁿ-tshâ) To burn fire wood.
 * 【藥機】(Iéh-kúi) Engine.
-* 【轔】(Lín) A wheel.
+* 【輦】(Lín) A wheel.
 * 【車】(Chhia) A propeller.
 * 【紡】(Pháng) To propel.
 * 【開藥機】(Khui iék-kúi) To start engine.
@@ -90,19 +90,19 @@ date: 2022-11-20 22:51:00
 * 【船艐着】(Ksûn khūa--tiéh) Ships run aground.
 * 【船破掉】(Tsûn puáh-tiòu) Ship-wreck.
 * 【船相撞着】(Tsûn sie-tsuãng-tiéh) Ships come into collision with each other.
-* 【沈】(Tim) To sink.
+* 【沈】(Tîm) To sink.
 * 【浮】(Phû) To float.
 * 【客】(Kheh) Passengers.
 * 【艙】(Tshng) A hold.
-* 【貨】(Hûe) Cargo.
+* 【貨】(hùe) Cargo.
 * 【下貨】(Hẽ-hùe) To ship cargo.
 * 【起貨】(Khí-hùe) To discharge cargo.
 * 【載貨】(Tsài-hùe) To convey cargo.
-* 【到載】(Kàu-tsāi) (A ship) fully laden.
-* 【一載】(Chék-tsāi) A load.
+* 【到儎】(Kàu-tsāi) (A ship) fully laden.
+* 【一儎】(Chék-tsāi) A load.
 * 【徛船邊】(Uá-tsûn-piⁿ) Go alongside the ship.
 * 【直透】(Tít-thàu) To go direct without calling at any port.
-* 【跨】(Kua) To call at a port.
+* 【跨?】(Kua) To call at a port.
 * 【落船】(Lóh-tsûn) To go on board.
 * 【起】(Khí) To go on shore.
 * 【船租】(Tsûn-tsou) Passage money or freight.
@@ -120,7 +120,7 @@ date: 2022-11-20 22:51:00
 * 【天時烏暗】(Thiⁿ-sî ou-àm) Weather black and dark.
 * 【東】(Tang) East.
 * 【西】(Sai) West.
-* 【南】(Nám) South.
+* 【南】(Nâm) South.
 * 【北】(Pak) North.
 
 ------

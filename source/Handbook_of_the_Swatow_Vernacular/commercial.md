@@ -165,7 +165,7 @@ date: 2022-11-20 23:22:00
 * 【抽】(Thiu) A plane.
 * 【鑿囝】(Tshák-kiáⁿ) A chisel.
 * 【鑽囝】(Tsǹg-kiáⁿ) An awl.
-* 【挫】(Tshò) A file.
+* 【銼】(Tshò) A file.
 * 【斧頭】(Póu-tháu) An axe.
 * 【鐵釘】(Thih-teng) A nail.
 * 【羅絲釘】(Lô-si-teng) A screw.
@@ -253,7 +253,7 @@ date: 2022-11-20 23:22:00
 ### Monetary.
 
 * 【Advantageous】(Hó-thàn) 好趁
-* 【Agree, on a price】(Sṳ-niéⁿ-sêng) 思量成
+* 【Agree, on a price】(Sṳ-niêⁿ-sêng) 思量成
 * 【Bank, a】(Ngṳ̂n-hâng) 銀行
 * 【Banknote, a】(Tsúa-jī) 紙字
 * 【Bankrupt】(Tó-tièⁿ) 倒賬
@@ -330,7 +330,7 @@ date: 2022-11-20 23:22:00
 * 【Auction】(Khà-lōi-long) 和黎郞
 * 【Bale, a】(Khún) 綑
 * 【Barter, to】(Hùe uāⁿ hùe) 貨換貨
-* 【Bill of lading】(Nám-tsāi-jī) 攬載字
+* 【Bill of lading】(Nám-tsāi-jī) 攬儎字
 * 【Broker, a】(Phah-khang) 拍空
 * 【Bundle, a】(Pau) 包
 * 【Business】(Sṳ̄, seng-lí) 事　生理
@@ -443,10 +443,10 @@ date: 2022-11-20 23:22:00
 * 【尺】(Chhieh) A foot. (Twelve English inches.)
 * 【丈】(Tñg) Ten feet.
 * 【步】(Pōu) A pace.
-* 【跨】(Huáh) A pace.
+* 【伐】(Huáh) A pace.
 * 【碼】(Bā, Bé) A yard.
 * 【尋】(Siâm) A fathom.
-* 【量】(Nièⁿ) To measure.
+* 【量】(Niêⁿ) To measure.
 * 【四方】(Sì-pang) A square.
 * 【三角】(Saⁿ-kak) A triangle.
 * 【斗】(Táu) A bushel (rice.)

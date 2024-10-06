@@ -10,7 +10,7 @@ date: 2022-11-20 23:39:00
 
 * 【個】(Kâi) Applied to, men and things generally.
 * 【粒】(Liáp) Applied to, fruit, spherical things, as balls, pills, &c.
-* 【條】(Tiòu) Applied to, rivers, roads, collars, ropes, laws, hair, snakes, lizards, &c. and things in stripes.
+* 【條】(Tiôu) Applied to, rivers, roads, collars, ropes, laws, hair, snakes, lizards, &c. and things in stripes.
 * 【枝】(Ki) Applied to, masts, sticks, knives, spoons, pencils, pillars, branches of trees or plants, &c.
 * 【雙】(Sang) Applied to, things that go in pairs, as shoes, stockings, gloves, chop-sticks, &c.
 * 【對】(Tùi) Applied to, things that go in pairs, as scrolls, candle-sticks, horses, &c.
@@ -26,7 +26,7 @@ date: 2022-11-20 23:39:00
 * 【欉】(Tsâng) Applied to, trees, plants, vegetables.
 * 【節】(Tsat) Applied to, spaces between the joints on the finger, or on bamboo, sugarcane, &c.
 * 【隻】(Chiah) Applied to, ships, quadrupeds, birds, fowls, &c.
-* 【載】(Chāi) Applied to, cargoes, boat loads, &c.
+* 【儎】(Tsāi) Applied to, cargoes, boat loads, &c.
 * 【塊】(Kò) Applied to, lands, gardens, boards &c., and slices or pieces of things.
 * 【箍】(Khou) Applied to, dollars, bundles of firewood.
 * 【畝】(Bóu) Applied to, fields.
@@ -36,7 +36,7 @@ date: 2022-11-20 23:39:00
 * 【尾】(Búe) Applied to, fish.
 * 【點】(Tiám) Applied to, spots of dirt, drops of rain, &c.
 * 【蕊】(Lúi) Applied to, flowers.
-* 【列】(Léh) Applied to, files of soldiers, rows of houses, &c.
+* 【列】(Liét) Applied to, files of soldiers, rows of houses, &c.
 * 【貫】(Kuãⁿ) Applied to, strings of cash or beads, &c.
 * 【副】(Hù) Applied to, things in sets and suits.
 * 【本】(Pńg) Applied to, books.
@@ -44,6 +44,6 @@ date: 2022-11-20 23:39:00
 * 【門】(Mn̂g) Applied to, cannons.
 * 【口】(Kháu) Applied to, gardens, smokes of opium or tobacco.
 * 【撮】(Tshoh) Applied to, a quantity of things, a small crowd of men.
-* 【棚】(Péⁿ) Applied to, stage-plays.
+* 【棚】(Pêⁿ) Applied to, stage-plays.
 * 【班】(Pan) Applied to, companies of actors, bands, &c.
 * 【位】(Uī) Applied to, persons of respectability.

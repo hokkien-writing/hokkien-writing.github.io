@@ -444,7 +444,7 @@ date: 2022-11-20 23:55:00
 * 【Choke】(Kéⁿ--tiéh; kéⁿ-tiéh-aû) 逆着　逆着喉
 * 【Choose】(Suán; tóh) 選　擇
 * 【Chop, house mark】(Jī-hō) 字號
-* 【„ to】(Tok) 琢
+* 【„ to】(Tok) 斫
 * 【Chopsticks】(Tṳ̄) 箸
 * 【Chord, musical instrument】(Hîⁿ-sùaⁿ) 弦線
 * 【Chunam】(Hue) 灰
@@ -1584,7 +1584,7 @@ date: 2022-11-20 23:55:00
 * 【Separate, to】(Pun-khui) 分開
 * 【Serious, as matter】(Tūa-sṳ̄) 大事
 * 【„ as sickness】(Tāng-pēⁿ) 重病
-* 【Servant】(A-nouⁿ) 奴僕
+* 【Servant】(A-nouⁿ) 阿奴
 * 【„ domestic】(Ke-nouⁿ) 家奴
 * 【Set, a】(Chék-hù) 一付
 * 【Settle, an affair】(Tít; chheng-tshó) 直　淸楚
@@ -1744,7 +1744,7 @@ date: 2022-11-20 23:55:00
 * 【Spend】(Sái; só-hùi) 使　所費
 * 【Spices】(Hieⁿ-liōu) 香料
 * 【Spill】(Phah-tó; tò-tiòu) 拍倒　傾掉
-* 【Spin】(Hui) 旋轉
+* 【Spin】(Hui) 回？
 * 【Spine】(Ie-chiah-kut; ie-lêng-kut) 背骨
 * 【Spirit】(Sîn) 神
 * 【Spit】(Phùi-nũaⁿ; phùi) 噴涏　噴
@@ -2059,7 +2059,7 @@ date: 2022-11-20 23:55:00
 * 【Useful】(Ŭ-ēng) 有用
 * 【Usual】(Siêⁿ-siêⁿ; pâi-tńg; siam-put-sî) 常常  排轉  ?不時
 * 【Vacant】(Khang) 空
-* 【Vacation, of school】(Pàng-kè) 放假
+* 【Vacation, of school】(Pàng-ké) 放假
 * 【Vaccinate】(Chèng-tsu; chèng-tāu) 種珠　種豆
 * 【Vagrant】(Ló-tōng--kâi-nâng) 浪蕩的儂
 * 【Valley】(Chhim-kheⁿ) 深坑
@@ -2109,7 +2109,7 @@ date: 2022-11-20 23:55:00
 * 【„ thoroughly】(Lok-lok) 漉漉
 * 【„ with rain】(Ak-tiéh-hõu) 沃着雨
 * 【Whatever】(Put-lũn; m̃-kuán) 不論　毋管
-* 【Wheel】(Lín; lìn-chîⁿ) 轔　轔錢
+* 【Wheel】(Lín; lìn-chîⁿ) 輦　輾錢
 * 【Whip, a】(Bé-piⁿ) 馬鞭
 * 【„ to】(Pũaⁿ) 拂
 * 【Whisper, to】(Síh-súh; àm-chẽⁿ-tàⁿ) 窸窣  暗靜呾
@@ -2157,7 +2157,7 @@ date: 2022-11-20 23:55:00
 * 【Yoke, a】(Gû-taⁿ-uan) 牛擔彎
 * 【Yolk, of an egg】(Nñg-jîn) 卵仁
 * 【Young, of plants】(Chíⁿ) 稚
-* 【„ of man】(Hāu-seⁿ; siòu-nîⁿ) 後生 少年
+* 【„ of man】(Hãu-seⁿ; siòu-nîⁿ) 後生 少年
 * 【Zigzag】(Uan-lâi uan-khṳ̀; in-uan khit-khek) 彎來彎去  迂彎屈曲
 
 ------

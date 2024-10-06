@@ -59,11 +59,11 @@ date: 2022-11-20 22:29:00
 * 【綉花】(Siù-hue) Embroidery.
 * 【扇】(Sìⁿ) A fan.
 * 【雨傘】(Hõu-sùaⁿ) An umbrella.
-* 【穿衫褲】(Chhēng-saⁿ-khòu) To dress.
-* 【褪衫褲】(Thǹg-saⁿ-khòu) To undress.
-* 【換衫褲】(Uāⁿ-saⁿ-khòu) To change clothes.
+* 【穿衫褲】(Chhēng saⁿ-khòu) To dress.
+* 【褪衫褲】(Thǹg saⁿ-khòu) To undress.
+* 【換衫褲】(Uāⁿ saⁿ-khòu) To change clothes.
 * 【打扮】(Tá-pàn) To dress prettily.
-* 【排場】(Phâi-chhiâng) Gorgeous, well dressed.
+* 【排場】(Pâi-chhiâng) Gorgeous, well dressed.
 * 【君子】(Kun-tsṳ́) Gentlemanly.
 * 【珠】(Tsu) Beads.
 * 【領】(Niáⁿ) A (c.)[1] of a coat &c.

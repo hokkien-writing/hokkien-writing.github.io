@@ -11,9 +11,9 @@ date: 2022-11-20 22:11:00
 * 【批】(Phoi) To cut, as the rinds of fruits, nails, pencil &c.
 * 【截】(Tsoíh) To cut into slices, as bread, beef &c.
 * 【割】(Kuah) To cut off, as a rope, a piece of meat from a large piece &c.
-* 【琢】(Tok) To chop with a knife, as to cut bones.
+* 【斫】(Tok) To chop with a knife, as to cut bones.
 * 【刣】(Thâi) To kill.
-* 【琢脞】(Tok-tshō) To mince.
+* 【斫脞】(Tok-tshō) To mince.
 * 【煲】(Pû) To boil as water, rice &c in small utensils.
 <!--more-->
 * 【煮】(Tsṳ́) To boil as rice, vegetables &c in large utensils.

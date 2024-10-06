@@ -59,7 +59,7 @@ date: 2022-11-20 23:31:00
 * 【The five kinds of offerings】(Ngóu-seⁿ) 伍牲
 * 【Festival day】(Tsò-tsoih) 做節
 * 【Theatre, a】(Hì) 戲
-* 【Procession of a god】(Iâⁿ-lâu-iâ) 迎老爺
+* 【Procession of a god】(Iâⁿ-Lãu-iâ) 迎老爺
 * 【Merciful】(Tshṳ̂) 慈
 * 【Pardon, to】(Sià-tsũe) 赦罪
 * 【Save, to】(Kiù) 救

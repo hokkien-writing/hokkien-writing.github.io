@@ -99,7 +99,7 @@ date: 2022-11-20 21:59:00
 * 【眠牀白布】(Mîn-tshn̂g péh-pòu) Bed-sheet.
 * 【枕頭囊】(Chím-thâu-lông) Pillow-case.
 * 【被】(Phũe) Bed clothes (cotton.)
-* 【袒】(Tháng) Do. (woollen.)
+* 【袒】(Thán) Do. (woollen.)
 * 【蠓帳鈎】(Máng-tiàⁿ-kau) A hook for mosquito net.
 * 【鏡】(Kiàⁿ) A looking glass.
 * 【梳】(Siu) A comb.
@@ -251,7 +251,7 @@ date: 2022-11-20 21:59:00
 * 【鑤】(Pàu) A small jar.
 * 【水缸】(Tsúi-kng) A water jar.
 * 【鉢】(Puah) A pot.
-* 【桶】(Thãng) A tub, a bucket.
+* 【桶】(Tháng) A tub, a bucket.
 * 【沐浴桶】(Sói-ék-tháng) A bath-tub.
 * 【腳桶】(Kha-tháng) A bath-tub.
 * 【竹椅】(Tek-íⁿ) A bamboo seat.
@@ -281,7 +281,7 @@ date: 2022-11-20 21:59:00
 * 【鼎裂。不可用】(Tiáⁿ líh, m̃-móⁿ ēng) The pan is cracked and cannot be used.
 * 【着另外買一個新的】(Tiéh lêng-ngūa bói chék-kâi sin--kâi) You must buy a new one.
 * 【若是好補。免用買新的】(Nāⁿ-sĩ hó-póu mín-ēng bói sin--kâi) If it can be mended you needn't buy a new one.
-* 【欲琢物着在砧頂】(Àiⁿ tok-muéh tiéh nāⁿ tiam-téng) If you want to cut things you must cut them on the chopping block.
+* 【欲斫物着在砧頂】(Àiⁿ tok-muéh tiéh nāⁿ tiam-téng) If you want to cut things you must cut them on the chopping block.
 * 【我毋曉執箸】(Uá m̃-hióu khiâ-tṳ̄) I don't know how to use chop-sticks.
 * 【阮執刀叉】(Ún khiâ to-chhe) We use knives and forks.
 * 【甕底貯底個】(Àng-tói tshō tî-kâi?) What does the jar contain?
@@ -290,7 +290,7 @@ date: 2022-11-20 21:59:00
 * 【腳桶貯水】(Kha-tháng tshō-tsúi) Put water in the bath-tub.
 * 【水缸個水傾掉】(Tsúi-kng kâi tsúi tò-tiòu;) Pour the water out of the jar;
 * 【另外貯淸潔的】(Lêng-ngūa tshō chheng-khih--kâi) And put clean water in it.
-* 【方刀琢着鐵釘缺去】(Pang-to tok--tiéh thih-teng khih-khṳ̀) The chopper struck against a nail and is blunt.
+* 【方刀斫着鐵釘缺去】(Pang-to tok--tiéh thih-teng khih-khṳ̀) The chopper struck against a nail and is blunt.
 * 【另外磨會利】(Lêng-ngūa bûa õi-lāi) Whet it, and it will be sharp again.
 * 【磨刀石底塊】(Bûa-to chiéh tî-kò?) Where is the whet-stone?
 * 【挈來磨】(Khiéh lâi bûa) Bring it here to sharpen.
