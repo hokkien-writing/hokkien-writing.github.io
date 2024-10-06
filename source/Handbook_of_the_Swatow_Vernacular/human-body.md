@@ -76,7 +76,7 @@ date: 2022-11-20 21:44:00
 * 【肉】(Nék) Flesh.
 * 【血】(Hueh) Blood.
 * 【力】(Lát) Strength.
-* 【脉】(Méhⁿ) Pulse.
+* 【脈】(Méhⁿ) Pulse.
 * 【氣】(Khì) Natural heat of the body.
 * 【汗】(Kūaⁿ) Perspiration.
 * 【尿】(Jiē) Urine.

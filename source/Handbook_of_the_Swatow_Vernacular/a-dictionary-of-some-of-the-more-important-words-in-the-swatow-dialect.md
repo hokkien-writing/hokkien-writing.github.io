@@ -87,7 +87,7 @@ date: 2022-11-20 23:55:00
 * 【Arm to carry with the】(Phõ) 抱
 * 【Arrange】(Pâi-pí; sṳ̃-lí; muéh-hó) 排列　事理　物好
 * 【Arrest】(Liáh) 掠
-* 【Artery】(Hueh-méhⁿ) 血脉
+* 【Artery】(Hueh-méhⁿ) 血脈
 * 【Artist】(Ūe-sièⁿ; ūe-ang-kiáⁿ) 畫像　畫尪囝
 * 【Associate】(Kau-tshap) 交插
 * 【Astray】(Kiâⁿ-tāⁿ-lōu) 行差路
@@ -205,7 +205,7 @@ date: 2022-11-20 23:55:00
 * 【Block, large lump of wood】(Tshâ-thâu) 柴頭
 * 【Blockade】(Kìm-kháu; Kìm-káng) 禁口　禁港
 * 【Blockhead】(Tshâ-thâu; ngûi-phûe) 柴頭　危皮
-* 【Blood-vessel】(Hueh-méhⁿ) 血脉
+* 【Blood-vessel】(Hueh-méhⁿ) 血脈
 * 【Blossom】(Khui-hue) 開花
 * 【Blow, to strike a】(Cheng; tshùaⁿ) 撞　拍
 * 【„ wind with the mouth】(Pûn-huang) 歕風
@@ -230,7 +230,7 @@ date: 2022-11-20 23:55:00
 * 【Bolter】(Bí-thai; bí-lô) 米篩　米籮
 * 【Book】(Tsṳ-chheh) 書册
 * 【Book cover】(Chheh-phûe) 册皮
-* 【Bookcase】(Chheh-tû; tsṳ-tû) 册橱　書橱
+* 【Bookcase】(Chheh-tû; tsṳ-tû) 册櫥　書櫥
 * 【Boots】(Hia) 靴
 * 【Booth】(Tsháu-lióu) 草寮
 * 【Bore】(Tsǹg) 鑽
@@ -597,7 +597,7 @@ date: 2022-11-20 23:55:00
 * 【Covenant】(Ieh) 約
 * 【„ to make】(Líp-ieh; hûa-ieh) 立約　和約
 * 【„ to break】(Sit-ieh; buâng-ieh) 失約　忘約
-* 【Cover, a lid】(Khàm; khòiⁿ) 冚　盖
+* 【Cover, a lid】(Khàm; khòiⁿ) 冚　蓋
 * 【„ with cloth】(Chia) 遮
 * 【Covet】(Tham) 貪
 * 【Covetous】(Tham-sim) 貪心
@@ -1776,7 +1776,7 @@ date: 2022-11-20 23:55:00
 * 【Stage, for plays】(Hì-pêⁿ) 戲棚
 * 【Stain】(Hú--tiéh) 捬着
 * 【Stale】(Aù) 杇
-* 【Stamp, to】(Khap; khap-ìn) 盖　盖印
+* 【Stamp, to】(Khap; khap-ìn) 蓋　蓋印
 * 【„ with the foot】(Thiàm-kha) 擋腳
 * 【Starch】(Chieⁿ) 樟
 * 【„ to】(Kùe-chieⁿ) 過樟

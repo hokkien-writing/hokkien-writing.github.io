@@ -234,7 +234,7 @@ date: 2022-11-20 23:22:00
 * 【簽名】(Chhiam-miâⁿ) To sign.
 * 【印】(Ìn) A seal.
 * 【印色】(Ìn-sek) Cotton waste soaked with red colour to stamp with.
-* 【盖印】(Khap-ìn) To seal.
+* 【蓋印】(Khap-ìn) To seal.
 * 【抄】(Tshau) To copy.
 * 【對】(Tùi) To make reference, tas to a book or bill.
 * 【日子】(Jít-chí) Dates.

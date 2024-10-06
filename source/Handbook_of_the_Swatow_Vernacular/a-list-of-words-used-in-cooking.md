@@ -40,7 +40,7 @@ date: 2022-11-20 22:11:00
 * 【滾】(Kún) Boiling.
 * 【熟】(Sék) Thoroughly boiled.
 * 【生】(Chheⁿ) Not yet boiled; raw.
-* 【縻】(Mîⁿ) Tender, soft; rotten (of fruit.)
+* 【糜】(Mîⁿ) Tender, soft; rotten (of fruit.)
 * 【韌】(Zūn) Tough.
 * 【𠕆】(Tōiⁿ) Hard.
 * 【軟】(Nńg) Soft.

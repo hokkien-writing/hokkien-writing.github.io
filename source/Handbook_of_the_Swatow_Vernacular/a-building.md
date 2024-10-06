@@ -13,7 +13,7 @@ date: 2022-11-20 21:38:00
 * 【厝】(Tshù) A house.
 * 【地腳】(Tī-kha) Foundation.
 * 【灰】(Hue) Lime.
-* 【墻】(Chhiêⁿ) Wall.
+* 【牆】(Chhiêⁿ) Wall.
 * 【厝頂】(Tshù-téng) Roof.
 * 【厝瓦】(Tshù-hiã) Tiles (roof.)
 * 【棟樑　樑】(Tòng-êⁿ, êⁿ) A beam.
@@ -31,7 +31,7 @@ date: 2022-11-20 21:38:00
 * 【欲建厝着有地腳】(Àiⁿ khí-tshù tiéh ũ tī-kha) To build a house, there must be a foundation.
 * 【地腳深。厝就堅】(Tī-kha chhim, tshù chiũ khiàng) If the foundation is deep, then the house will be strong.
 * 【無地腳厝袂徛】(Bô tī-kha tshù bõi-khiã) Without a foundation, the house will not stand.
-* 【灰切要着夠。無。墻袂𠕆】(Hue chhiet-iòu tiéh kàu, bô, chhiêⁿ bõi-tōiⁿ) It is important to have sufficient lime, otherwise, the walls will not be hard.
+* 【灰切要着夠。無。牆袂𠕆】(Hue chhiet-iòu tiéh kàu, bô, chhiêⁿ bõi-tōiⁿ) It is important to have sufficient lime, otherwise, the walls will not be hard.
 * 【我的厝頂的厝瓦有零塊破】(Uá kâi tshù-téng kâi tshù-hiã ũ lân-kò phùa) Some of the tiles on my roof are broken.
 * 【厝漏】(Tshù lāu) The house leaks.
 * 【我欲叫司阜來修拾】(Uá àiⁿ-kiè sai-pẽ lâi siu-síp) I want to get a bulder to repair it.

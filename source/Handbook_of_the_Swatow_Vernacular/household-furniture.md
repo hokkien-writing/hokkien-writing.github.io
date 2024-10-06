@@ -28,7 +28,7 @@ date: 2022-11-20 21:59:00
 * 【茶几】(Tê-kí) A small tea-table.
 * 【牀落凍石】(Tshn̂g lóh tàng-chiéh) Tables with marble-top.
 * 【册架】(Chheh-kè) A book-stand.
-* 【册橱】(Chheh-tû) A book-case.
+* 【册櫥】(Chheh-tû) A book-case.
 * 【寫字牀刻的】(Siá-jī-tshn̂g khek--kâi) A carved writing desk.
 * 【牀櫃】(Tshn̂g-kūiⁿ) A Chinese writing desk.
 * 【鉛筆】(În-pit) Pencil (lead.)
@@ -111,7 +111,7 @@ date: 2022-11-20 21:59:00
 * 【衫吊】(Saⁿ-tiòu) A clothes-horse.
 * 【帽吊】(Bō-tiòu) A hat-stand.
 * 【箱】(Sieⁿ) A box.
-* 【橱】(Tû) A wardrobe, a press.
+* 【櫥】(Tû) A wardrobe, a press.
 * 【櫃】(Kūiⁿ) A chest of drawers.
 * 【隔】(Keh) A drawer, or a shelf, as of a book-stand.
 * 【時鐘】(Sî-cheng) A clock.
@@ -198,7 +198,7 @@ date: 2022-11-20 21:59:00
 * 【羔丕磨】(Ko-pî-bō) A coffee mill.
 * 【桶盤】(Tháng-pûaⁿ) A tray.
 * 【筒架】(Tãng-kè) A cup-board.
-* 【食橱】(Chiáh-tû) A cup-board.
+* 【食櫥】(Chiáh-tû) A cup-board.
 * 【鹽碟】(Iâm-tíh) Salt cellar.
 * 【碟囝】(Tíh-kiáⁿ) Chinese little saucer for holding sauce.
 * 【鍾】(Cheng) A bell.
@@ -242,7 +242,7 @@ date: 2022-11-20 21:59:00
 * 【鍋囝】(Ue-kiáⁿ) A Chinese earthen kettle.
 * 【燉鉢】(Tũn-puah) A Chinese earthen cooking vessel.
 * 【鼎】(Tiáⁿ) A pan.
-* 【盖】(Khòiⁿ) A lid, a cover.
+* 【蓋】(Khòiⁿ) A lid, a cover.
 * 【蓋】(Khàm) A lid, a cover.
 * 【砧】(Tiam) A chopping block.
 * 【方刀】(Pang-to) A chopper.

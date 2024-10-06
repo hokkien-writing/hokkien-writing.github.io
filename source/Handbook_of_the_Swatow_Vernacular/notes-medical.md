@@ -14,7 +14,7 @@ date: 2022-11-20 23:43:00
 * 【儂熱】(Nâng zuáh) I have got fever.
 * 【欲請先生嗎】(Âiⁿ-chhiáⁿ sin-seⁿ mē?) Do you wish to engage a doctor?
 <!--more-->
-* 【汝的脉猛】(Lṳ́ kâi méhⁿ méⁿ) Your pulse is fast.
+* 【汝的脈猛】(Lṳ́ kâi méhⁿ méⁿ) Your pulse is fast.
 * 【我零些寒藥分汝食】(Uá lân-ló kûaⁿ-iéh pun lṳ́ chiáh) I will give you some quinine to take.
 * 【怎呢食】(Tsò-nîⁿ-chiáh?) How am I to take it?
 * 【配點囝凊水】(Thōu tiám-kiáⁿ chhìn-tsúi) Take it with a little cold water.
@@ -28,8 +28,8 @@ date: 2022-11-20 23:43:00
 * 【用雞毛抹】(Ēng koi-môⁿ buah) Apply it with a fowl's feather.
 * 【手勿摸着】(Chhiú màiⁿ-thãng--tiéh) Don't touch it with the fingers.
 * 【汝有是乜毛病】(Lṳ́ ũ sĩ-mîh mâuⁿ-pēⁿ?) What sickness have you?
-* 【縻腳】(Mîⁿ-kha) A bad leg.
-* 【縻到今有若久了】(Mîⁿ-kàu-taⁿ ũ jiéh-kú--lō?) How long has it been ulcerated.
+* 【糜腳】(Mîⁿ-kha) A bad leg.
+* 【糜到今有若久了】(Mîⁿ-kàu-taⁿ ũ jiéh-kú--lō?) How long has it been ulcerated.
 * 【有成年】(U^ chiâⁿ-nîⁿ) About a year.
 * 【會癢亞袂】(Ōi-chiẽⁿ a-bõi?) Does it itch?
 * 【若是會癢不可爬】(Nãⁿ-sĩ õi-chiẽⁿ m̃-móⁿ pê) If it itches, you mustn't scratch it.

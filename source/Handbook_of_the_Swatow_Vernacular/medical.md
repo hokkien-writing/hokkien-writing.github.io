@@ -89,7 +89,7 @@ date: 2022-11-20 23:02:00
 * 【腰龜】(Ie-ku) Humpback.
 * 【拐腳】(Kuái-kha) Lame.
 * 【綁腳䥥】(Páng-kha-liâm) Ulcerated leg.
-* 【縻腳】(Mîⁿ-kha) Ulcerated leg.
+* 【糜腳】(Mîⁿ-kha) Ulcerated leg.
 * 【生物】(Seⁿ-muéh) To have a disease.
 * 【生㿗】(Seⁿ-thûe) To have a boil.
 * 【濃】(Lâng) Matter.
