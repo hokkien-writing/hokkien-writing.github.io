@@ -107,7 +107,7 @@ date: 2022-11-20 23:55:00
 * 【Backbone】(Ie-kut; ie-chiah-kut) 腰骨　腰脊骨
 * 【Bad】(Ak; phái; m̃-móⁿ) 惡　痞  不好
 * 【Bag】(Tō; pòu-tō) 袋　布袋
-* 【Baggage】(Hêng-lí; pan-kó) 行李　包槁
+* 【Baggage】(Hêng-lí; pan-kó) 行李　包裹
 * 【Bail】(Tam-sêng) 擔承
 * 【Bait】(Jī; hṳ̂-jī) 餌　魚餌
 * 【Bald】(Tshàu-thâu) 臭頭
@@ -637,7 +637,7 @@ date: 2022-11-20 23:55:00
 * 【Dangerous】(Hong-hiám; lĩ-hāi; lî-keng) 風險　厲害　離經
 * 【Daughter】(Tsáu-kiáⁿ; tsṳ-niêⁿ-kiáⁿ) 走囝　諸娘囝
 * 【Dawn】(Thiⁿ-kng; thiⁿ lâ-lân-kng) 天光　天拉零光
-* 【Dazzle】(In-n̄g; iàng-mák; chhiēⁿ-mák) 印？  映目  上目
+* 【Dazzle】(In-n̄g; iàng-mák; chhiēⁿ-mák) 印？  映目  上目?
 * 【Dead】(Sí; kùe--khṳ̀; kùe-sì) 死　過去　過世
 * 【Deaf】(Hĩⁿ--lâng; hĩⁿ lâng) 耳聾
 * 【Debt, in】(Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè) 欠儂的錢　欠儂的債
@@ -952,7 +952,7 @@ date: 2022-11-20 23:55:00
 * 【Guess】(Ieh) 約
 * 【Guest】(Nâng-kheh) 儂客
 * 【Guitar】(Pî-pê) 琵琶
-* 【Gums, of teeth】(Khí-ngṳ̂n) 齒銀
+* 【Gums, of teeth】(Khí-ngṳ̂n) 齒齦
 * 【Gun】(Chhèng) 銃
 * 【Gun-powder】(Húe-iéh; chhèng-iéh) 火藥　銃藥
 * 【Gutter, on roof】(Lāu-bó-tsô) 流水槽
@@ -1211,7 +1211,7 @@ date: 2022-11-20 23:55:00
 * 【Negro】(Ou-mīn-nâng; ou-huan) 烏面儂　烏番
 * 【Neighbour】(Tshù-piⁿ) 厝邊
 * 【Nest】(Siū) 巢
-* 【Nickname】(Thóu-mîaⁿ; nâng-thóu-tsuãn kâi-miâⁿ) 土名  儂杜撰的名
+* 【Nickname】(Thóu-mîaⁿ; nâng-thóu-tsuãn kâi-miâⁿ) 土名  儂土撰的名
 * 【Noble】(Tsun-kui) 尊貴
 * 【Nod】(Tak-thâu) 點頭
 * 【Noise】(Siaⁿ) 聲

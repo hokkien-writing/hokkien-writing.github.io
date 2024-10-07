@@ -127,7 +127,7 @@ date: 2022-11-16 20:16:00
 ### section IV.
 
 * 【瞑起】(Mêng-khí) Morning.
-* 【中午】(Jít-tàu) Noon.
+* 【日晝】(Jít-tàu) Noon.
 * 【夜昏】(Mêⁿ-hng) Evening.
 * 【上午】(Chiēⁿ-kùa) Forenoon.
 * 【下旰】(Ẽ-kùa) Afternoon.
@@ -145,8 +145,8 @@ date: 2022-11-16 20:16:00
 * 【瞑起有儂來亞無】(Mêng-khí ũ nâng lâi a-bô?) Did any body come this morning?
 * 【汝知亞毋知】(Lṳ́ tsai a m̃-tsai?) Do you know or not?
 * 【我毋知】(Uá m̃-tsai.) I don't know.
-* 【中午我毋在此塊食】(Jít-tàu uá m̃-tõ chié chiáh.) I am not going to take dinner here at noon.
-* 【我中午欲去乞儂請】(Uá jít-tàu àiⁿ-khṳ̀ khoih-nâng-chhiáⁿ) I am invited out for noon.
+* 【日晝我毋在此塊食】(Jít-tàu uá m̃-tõ chié chiáh.) I am not going to take dinner here at noon.
+* 【我日晝欲去乞儂請】(Uá jít-tàu àiⁿ-khṳ̀ khoih-nâng-chhiáⁿ) I am invited out for noon.
 * 【汝底當時正欲轉來】(Lṳ́ tiang-sî chiàⁿ-àiⁿ tńg--lâi?) When will you come back?
 * 【夜昏正轉來】(Mêⁿ-hng chiàⁿ-tńg--lâi) I shall not be back until to-night.
 * 【亞者下旰亦毋知】(Pa-lak ẽ-kùa iā m̃-tsai) Perhaps in the afternoon, but I don't know.

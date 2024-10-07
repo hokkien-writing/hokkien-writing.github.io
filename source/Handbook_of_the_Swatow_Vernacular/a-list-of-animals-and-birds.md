@@ -39,7 +39,7 @@ date: 2022-11-20 23:36:00
 * 【Bee】(Phang) 蜂
 * 【Buffalo】(Tsúi-gû) 水牛
 * 【Cow】(Gû) 牛
-* 【Sheep】(Mîⁿ-iêⁿ) 麋羊
+* 【Sheep】(Mîⁿ-iêⁿ) 棉羊
 * 【Goat】(Suaⁿ-iêⁿ) 山羊
 * 【Horse】(Bé) 馬
 * 【Pig】(Tṳ) 豬
