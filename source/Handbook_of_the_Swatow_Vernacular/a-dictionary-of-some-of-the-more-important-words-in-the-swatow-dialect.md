@@ -434,7 +434,7 @@ date: 2022-11-20 23:55:00
 * 【Child】(A-nôuⁿ; kiáⁿ) 阿孥　囝
 * 【Childish, manner】(Nouⁿ-kiáⁿ-khuán) 孥囝款
 * 【Childless】(Bô-kiáⁿ bô-ji) 無囝無兒
-* 【Chimney】(In-tâng; húe-hun-tâng) 薰筒　火薰筒
+* 【Chimney】(In-tâng; húe-hun-tâng) 煙筒　火薰筒
 * 【Chin】(Ẽ-hâi) 下頦
 * 【China, country】(Tn̂g-suaⁿ; Tong-kok) 唐山　中國
 * 【„ ware】(Hûi) 𦈢
@@ -1315,7 +1315,7 @@ date: 2022-11-20 23:55:00
 * 【Pincers, for drawing hair】(Ah-nih; nih-kiáⁿ) 鴨攝　攝囝
 * 【Pinch】(Liàm) 捻
 * 【Pipe】(Tâng) 筒
-* 【„ for smoking】(Hun-táng) 薰筒
+* 【„ for smoking】(Hun-tâng) 薰筒
 * 【Pit】(Kheⁿ; khut) 坑　窟
 * 【Pith】(Sim) 心
 * 【Pity】(Khó-sieh; khó-thiàⁿ) 可惜　可痛
