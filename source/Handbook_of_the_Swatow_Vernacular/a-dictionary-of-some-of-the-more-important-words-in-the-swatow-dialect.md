@@ -1307,7 +1307,7 @@ date: 2022-11-20 23:55:00
 * 【Persuade】(Koh-lô) 告勞？
 * 【Petticoat】(Kûn) 裙
 * 【Photograph】(Sióu-iáⁿ) 小影
-* 【„ to take】(Hoh-sióu-iáⁿ; hò-sióu-iáⁿ) 龕小影　耗小影?
+* 【„ to take】(Hoh-sióu-iáⁿ; hò-sióu-iáⁿ) 翕小影　耗小影?
 * 【Physician】(Ui-seng; sin-seⁿ) 醫生　先生
 * 【Pick, up】(Tóh) 擇
 * 【Pierce】(Tshǹg) 刺
