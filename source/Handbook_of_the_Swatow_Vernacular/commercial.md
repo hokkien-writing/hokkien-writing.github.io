@@ -18,7 +18,7 @@ date: 2022-11-20 23:22:00
 * 【水呢】(Tsúi-nîⁿ) Tweeds.
 * 【絨】(Zông) Velvet.
 <!--more-->
-* 【斜文】(Siâ-bûn) Calico.
+* 【斜紋】(Siâ-bûn) Calico.
 * 【朱布】(Tsu-pòu) Gray shirting.
 * 【番布】(Huan-pòu) Gray shirting.
 * 【白布】(Péh-pòu) White cloth.
@@ -96,10 +96,10 @@ date: 2022-11-20 23:22:00
 * 【碰鰾】(Phòng-phiẽ) Crackers.
 * 【鹿茸】(Ték-zông) Deer horn.
 * 【色料】(Sek-liōu) Dye.
-* 【烏墨】(Ou-bák) Ebony.
+* 【烏木】(Ou-bák) Ebony.
 * 【象牙】(Chhiẽⁿ-gê) Elephant's teeth.
 * 【毛扇】(Môⁿ-sîⁿ) Fans, feather.
-* 【鱟壳扇】(Hâu-khak-sîⁿ) Fans, cloth.
+* 【鱟殼扇】(Hâu-khak-sîⁿ) Fans, cloth.
 * 【葵扇】(Kûe-sîⁿ) Fans, palm-leaf.
 * 【佚佗物】(Thit-thô-muéh) Fancy articles.
 * 【雞毛筅】(Koi-môⁿ-tshóiⁿ) Feather-duster.
@@ -126,7 +126,7 @@ date: 2022-11-20 23:22:00
 * 【燈籠】(Teng-nâng) Lantern, paper.
 * 【皮】(Phûe) Leather.
 * 【甘草】(Kam-tsháu) Liquorice.
-* 【蠔壳鏡】(Ô-khak-kiàⁿ) Mother-of-pearl.
+* 【蠔殼鏡】(Ô-khak-kiàⁿ) Mother-of-pearl.
 * 【豆油】(Tāu-iû) Oil, pea.
 * 【油紙】(Iû-tsúa) Oil-paper.
 * 【珠】(Tsu) Pearl.

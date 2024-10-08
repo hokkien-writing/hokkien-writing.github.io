@@ -57,7 +57,7 @@ date: 2022-11-20 23:36:00
 * 【Mosquito】(Máng) 蟒
 * 【Gnat】(Bun) 蠓
 * 【Worm】(Thâng) 蟲
-* 【„ in books.】(Chheh-hṳ̂) 册魚
+* 【„ in books.】(Chheh-hṳ̂) 冊魚
 * 【Ant】(Hiā) 蟻
 * 【Flea】(Ka-tsáu) 虼蚤
 * 【Louse】(Sat) 虱

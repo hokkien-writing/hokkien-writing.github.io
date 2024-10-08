@@ -52,7 +52,7 @@ date: 2022-11-20 22:11:00
 * 【舂】(Cheng) To pound.
 * 【試】(Chhì) To taste, to try.
 * 【氣味】(Khì-bī) Palate or taste.
-* 【味道】(Bī-sōu) Palate or taste.
+* 【味素】(Bī-sōu) Palate or taste.
 * 【臭臊】(Tshàu-tsho) Fish smell.
 * 【甜】(Tiâm) Sweet.
 * 【酸】(Sng) Sour.

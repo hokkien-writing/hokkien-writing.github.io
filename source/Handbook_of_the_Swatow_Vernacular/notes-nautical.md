@@ -15,8 +15,8 @@ date: 2022-11-20 23:41:00
 * 【汝寧可搭火船】(Lṳ́ nêng-kò tah húe-tsûn) You had better go by steamer.
 <!--more-->
 * 【搭彼隻藍煙筒】(Tah hṳ́-chiah nâm-in-tâng) Go by the blue funnel (steamer.)
-* 【明瞑起入來】(Màⁿ-mêng-khí jíp--lâi) She comes in to-morrow morning.
-* 【舵舡好行了】(Tãi-kong hó-kiâⁿ--lō) Steersman, you had better start now.
+* 【明旦瞑起入來】(Màⁿ-mêng-khí jíp--lâi) She comes in to-morrow morning.
+* 【舵工好行了】(Tãi-kong hó-kiâⁿ--lō) Steersman, you had better start now.
 * 【天時好了】(Thiⁿ-sî hó--lō) The weather is fine.
 * 【我起來睇】(Uá khí--kâi thóiⁿ) Let me come up and see.
 * 【哇。雨還了未晴】(Uã! hōu huân-lióu būe-chêⁿ) Oh! the rain hasn't stopped yet.

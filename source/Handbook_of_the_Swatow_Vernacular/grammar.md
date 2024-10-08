@@ -68,7 +68,7 @@ Chiàⁿ 正 (just) and 識 pat (ever) can be used both to questions and answers
 
 The chief signs of the Future Tense are àiⁿ, 正欲 chiàⁿ-àiⁿ, (want) 會 õi (can) and 袂 bõi (cannot.) viz.—
 
-* 【伊明起欲來】(I màⁿ-khí àiⁿ-lâi) He will come to-morrow.
+* 【伊明旦起欲來】(I màⁿ-khí àiⁿ-lâi) He will come to-morrow.
 * 【霎時欲落雨】(Khiã-tiām àiⁿ-lóh-hõu) It will rain bye-and-bye.
 * 【伊底當時正欲來】(I tiang-sî chiàⁿ-àiⁿ lâi?) When will he come?[3]
 * 【伊霎時正欲來】(I khiã-tiām chiàⁿ-àiⁿ-lâi) He will come bye-and-bye.

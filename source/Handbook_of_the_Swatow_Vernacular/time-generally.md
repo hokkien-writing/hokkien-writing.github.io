@@ -28,8 +28,8 @@ date: 2022-11-17 23:28:00
 * 【今旦日拜一】(Kiáⁿ-jít pài-it) To-day is Monday.
 * 【汝下個拜一來】(Lṳ́ ẽ-kâi pài-it lâi) You come on Monday next.
 * 【我此個禮拜毋閒在】(Uá chí-kâi lói-pài m̃-ôiⁿ tsãi) I am very busy this week.
-* 【我明起的事㩼在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
-* 【先生汝明起早些來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
+* 【我明旦起的事㩼在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
+* 【先生汝明旦起早些來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
 * 【我欲讀零些。了汝好轉來】(Uá àiⁿ-ták lân-ló, lióu lṳ́ hó-tńg--khṳ̀) I will read a little, and then you can go.
 * 【拜三先生汝免用來】(Pài-saⁿ sin-seⁿ lṳ́ mín-ēng lâi) On Wednesday, teacher, you needn't come.
 * 【拜四我毋在】(Pài-sì uá m̃-tõ) I shan't be at home on Thursday.
@@ -81,5 +81,5 @@ date: 2022-11-17 23:28:00
 * 【我昨日毋記得佮汝呾】(Uá tsa-jít m̃-kì-tit kah lṳ́ tàⁿ) I forgot to tell you yesterday.
 * 【汝知日底當時正蝕】(Lṳ́ tsai jít tiang-sî chiàⁿ-síh?) Do you know when there will be an eclipse of the sun?
 * 【毋知。我無歷日】(M̃-tsai, uá bô láh-jít) I don't know, I haven't got a calendar.
-* 【我昨夜終夜袂夗】(Uá tsa-mêⁿ thàng-mêⁿ bõi-út) I couldn't sleep the whole of last night.
+* 【我昨夜通夜袂夗】(Uá tsa-mêⁿ thàng-mêⁿ bõi-út) I couldn't sleep the whole of last night.
 * 【巡更的儂昨夜無掌】(Chiéⁿ-keⁿ--kâi-nâng tsa-mêⁿ bô chiéⁿ) The watchman didn't watch last night.

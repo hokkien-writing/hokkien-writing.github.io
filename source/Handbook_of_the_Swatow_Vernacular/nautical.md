@@ -11,7 +11,7 @@ date: 2022-11-20 22:51:00
 * 【船】(Tsûn) A boat.
 * 【火船】(Húe-tsûn) A steamer.
 * 【火船囝】(Húe-tsûn-kiáⁿ) A steam-launch.
-* 【明車火船】(Iâng-chhia húe-tsûn) A paddle steamer.
+* 【陽車火船】(Iâng-chhia húe-tsûn) A paddle steamer.
 * 【戰船】(Chièn-tsûn) A war vessel.
 * 【夾板】(Kap-pán) A sailing vessel.
 <!--more-->
@@ -69,7 +69,7 @@ date: 2022-11-20 22:51:00
 * 【升旗】(Seng-kî) To hoist a flag.
 * 【旗杆】(Kî-kuaⁿ) A flag-staff.
 * 【開帆】(Khui-phâng) To unfurl sail.
-* 【收帆】(Siu-phâng) o furl sail.
+* 【收帆】(Siu-phâng) To furl sail.
 * 【使】(Sái) To sail.
 * 【過帆】(Kùe-phâng) To gybe.
 * 【伙長】(Húe-tiéⁿ) Captain.
@@ -79,7 +79,7 @@ date: 2022-11-20 22:51:00
 * 【管藥機的儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
 * 【燃火的儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
 * 【掠舵】(Liáh-tũa) Steersman.
-* 【舵舡】(Tãi-kong) Steersman.
+* 【舵工】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.
 * 【行船儂】(Kiâⁿ-tsûn-nâng) A sea-faring man.
 * 【帶水】(Tshūa-tsúi) A pilot.
@@ -98,9 +98,9 @@ date: 2022-11-20 22:51:00
 * 【下貨】(Hẽ-hùe) To ship cargo.
 * 【起貨】(Khí-hùe) To discharge cargo.
 * 【載貨】(Tsài-hùe) To convey cargo.
-* 【到儎】(Kàu-tsāi) (A ship) fully laden.
+* 【夠載】(Kàu-tsāi) (A ship) fully laden.
 * 【一儎】(Chék-tsāi) A load.
-* 【徛船邊】(Uá-tsûn-piⁿ) Go alongside the ship.
+* 【倚船邊】(Uá-tsûn-piⁿ) Go alongside the ship.
 * 【直透】(Tít-thàu) To go direct without calling at any port.
 * 【跨?】(Kua) To call at a port.
 * 【落船】(Lóh-tsûn) To go on board.

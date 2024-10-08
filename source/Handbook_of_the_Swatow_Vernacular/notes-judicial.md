@@ -24,7 +24,7 @@ date: 2022-11-20 23:46:00
 * 【老爹叫伊訴】(Lãu-tia kiè i sù) The mandarin asked him to make his statement.
 * 【伊呾甚㩼話】(I tàⁿ hiàⁿ-chiàⁿ-tsōi ūe) He made a long statement.
 * 【老爹聽了就點頭】(Lãu-tia thiaⁿ-lióu chiũ tak-thâu) The mandarin after hearing him, nodded his head.
-* 【伊的案欲延到明起】(I kâi uàⁿ àiⁿ-àn-kàu màⁿ-khí) His case will be postponed till to-morrow.
+* 【伊的案欲延到明旦起】(I kâi uàⁿ àiⁿ-àn-kàu màⁿ-khí) His case will be postponed till to-morrow.
 * 【不可做賊】(M̃-móⁿ tsǒ-tshát) Don't be a thief.
 * 【不可盜取儂的物】(M̃-móⁿ thau-khiéh nâng kâi muéh) Mustn't steal other peoples things.
 * 【此個賊是離經】(Chí-kâi tshát sĩ lî-keng) This thief is dangerous.
@@ -55,4 +55,4 @@ date: 2022-11-20 23:46:00
 * 【老爺問伊呾。汝怎呢起來呢】(Lãu-tia mn̄g i tàⁿ, "lṳ́ tsò-nîⁿ khí--lâi nē?") The mandarin asked him and said, "Why do you get up"?
 * 【秀才就呾。曰。我是跪皇帝。非是跪汝】(Siù-tsâi chiũ tàⁿ-tàⁿ, "uá sĩ kũi Huâng-tì, m̃-sĩ kũi-lṳ́") The graduate said, "I kneel down to the Emperor, not to you."
 * 【秀才就出去】(Siû-tsâi chiũ tshut--khṳ̀) And the graduate walked out.
-* 【明起伊的案再審】(Màⁿ-khí i kâi uàⁿ tsài-sím) The next day his case was tried again.
+* 【明旦起伊的案再審】(Màⁿ-khí i kâi uàⁿ tsài-sím) The next day his case was tried again.

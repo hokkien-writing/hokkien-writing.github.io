@@ -21,7 +21,7 @@ date: 2022-11-20 23:49:00
 * 【來去佚佗】(Lâi-khṳ̀ thit-thô) Let us go for amusement.
 * 【我欲去拜老爺】(Uá àiⁿ-khṳ̀ pài-lãu-iâ) I am going to worship the idol.
 * 【欲去拜媽祖】(Aìⁿ-khṳ̀-pài Máⁿ-tsóu) I wish to worship the Goddess of sailors.
-* 【明起欲迎老爺】(Màⁿ-khí àiⁿ iâⁿ-lãu-iâ) There will be a procession to-morrow.
+* 【明旦起欲迎老爺】(Màⁿ-khí àiⁿ iâⁿ-lãu-iâ) There will be a procession to-morrow.
 * 【時節着拜阿公】(Sî-tsoih tiéh pài-a-kong) We must worship our ancestors on festival days.
 * 【淸明着去掛紙】(Chheng-mêng tiéh-khṳ̀ kùe-tsúa) On the festival of tombs, we must go to worship the graves.
 * 【囝兒着行孝父母】(Kiáⁿ-jî tiéh kiâⁿ-hàu pẽ-bó) Children must show filial piety towards their parents.

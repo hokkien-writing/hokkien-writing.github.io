@@ -60,7 +60,7 @@ date: 2022-11-15 21:43:00
 * 【在】(Tõ) At, in, on, in the act of.
 * 【照】(Chiè) According to.
 * 【返轉】(Huán-tńg) On the contrary, on the other hand.
-* 【顛倒】(Tin-tò) On the contrary, on the other hand.
+* 【顚倒】(Tin-tò) On the contrary, on the other hand.
 * 【共】(Kāng) And.
 * 【佮】(Kah) And.
 * 【是】(Sĩ) But.

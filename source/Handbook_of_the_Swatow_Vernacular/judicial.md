@@ -119,7 +119,7 @@ date: 2022-11-20 23:28:00
 * 【Unjust】(M̃-kong-tãu) 毋公道
 * 【Truth, speak the】(Sít-uē tàⁿ) 實話呾
 * 【Lie, to】(Hue-niouⁿ) 花貓
-* 【Swear, to】(Chiù-chūa) 咒誓
+* 【Swear, to】(Chiù-tshūa) 咒誓
 * 【Plead guilty】(Jīn-tsũe, jīn-tshò) 認罪　認錯
 * 【According to law】(Chiè-lút) 照律
 * 【Against the law】(Ngék-lút) 逆律

@@ -24,7 +24,7 @@ date: 2022-11-20 22:29:00
 * 【手綢】(Chhiú-tiû) Handkerchiefs.
 * 【手套】(Chhiú-lap) Gloves.
 * 【鈕】(Liú) Buttons.
-* 【鈕鈸】(Liú-phāng) Button holes.
+* 【鈕縫】(Liú-phāng) Button holes.
 * 【棕蓑】(Tsang-sui) A rain coat, made of husk.
 * 【帽】(Bō) A hat.
 * 【帽囝】(Bō-kiáⁿ) A cap.
@@ -56,7 +56,7 @@ date: 2022-11-20 22:29:00
 * 【手環】(Chhiú-huân) A bracelet.
 * 【耳鈎】(Hĩⁿ-kau) An ear-ring.
 * 【頂】(Téng) An official button.
-* 【綉花】(Siù-hue) Embroidery.
+* 【繡花】(Siù-hue) Embroidery.
 * 【扇】(Sìⁿ) A fan.
 * 【雨傘】(Hõu-sùaⁿ) An umbrella.
 * 【穿衫褲】(Chhēng saⁿ-khòu) To dress.

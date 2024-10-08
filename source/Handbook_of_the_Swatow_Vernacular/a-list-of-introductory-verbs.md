@@ -91,7 +91,7 @@ date: 2022-11-15 21:43:00
 * 【Lie, (to tell an untruth.)】(Hue-niouⁿ) 花貓
 * 【Lie down】(Tó) 倒
 * 【Light, (lamps.)】(Tiám) 點
-* 【Live, (reside.)】(Khiā-khí, tiū) 徛起  居
+* 【Live, (reside.)】(Khiã-khí, tiū) 徛起  居
 * 【Lose】(M̃-kìⁿ, sit-lóh) 毋見　失落
 * 【Love】(Sieh) 惜
 * 【Make】(Tsò, muéh) 做　物

@@ -11,7 +11,7 @@ date: 2022-11-20 22:19:00
 ### Provisions.
 
 * 【Food】(Chiáh, bí-niêⁿ) 食　米糧
-* 【Bread】(Mīⁿ-pau) 麫包 麵包
+* 【Bread】(Mīⁿ-pau) 麫包  麵包
 * 【Butter】(Gû-nĩⁿ-iû) 牛乳油
 * 【Soup, Gravy】(Thng) 湯
 * 【Fowl】(Koi) 雞
@@ -55,12 +55,12 @@ date: 2022-11-20 22:19:00
 * 【Flour】(Mīⁿ) 麫  麵
 * 【Sago】(Siâ-gō-hún) 斜莪粉
 * 【„ in pills】(Siâ-gō-îⁿ) 斜莪圓
-* 【Vermicelli】(Mīⁿ-sùaⁿ) 麫線 麵線
+* 【Vermicelli】(Mīⁿ-sùaⁿ) 麫線  麵線
 * 【Salt】(Iâm) 鹽
 
 ------
 
-* 【咱明起欲出門。食有夠亞無】(Nán màⁿ-khí àiⁿ tshut-mǹg, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
+* 【咱明旦起欲出門。食有夠亞無】(Nán màⁿ-khí àiⁿ tshut-mǹg, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
 * 【着預夠】(Tiéh ṳ̃-kàu) You must prepare enough.
 * 【勿毋夠。了在路就無食】(Màiⁿ-m̃-kàu, lióu tõ lōu chiũ bô-chiáh) For if there is not enough, then we shall get no food on the way.
 * 【今咱有底個】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
@@ -105,7 +105,7 @@ date: 2022-11-20 22:19:00
 * 【Mullet】(Ngóu-hṳ̂) 𩵱魚
 * 【Red-fish】(Âng-tsô) 紅鰽
 * 【Blackfish】(Ou-hṳ̂) 烏魚
-* 【Shad】(Chhî-khak) 刺売
+* 【Shad】(Chhî-khak) 刺殼
 * 【Cuttle-fish】(Bák-táu) 墨斗
 * 【Shark】(Sua-hṳ̂) 鯊魚
 * 【Chinese whitebait】(Kang-hṳ̂) 江魚
@@ -169,8 +169,8 @@ date: 2022-11-20 22:19:00
 * 【Salad】(Phang-tshài, chheⁿ-tshài) 芳菜　生菜
 * 【Ginger】(Kieⁿ) 薑
 * 【Chillies】(Hiam-chie, kim-kaⁿ-náⁿ) 薟椒　金橄欖
-* 【Onion, fresh】(Tshang) 葱
-* 【„ root, dried】(Tshang-thâu) 葱頭
+* 【Onion, fresh】(Tshang) 蔥
+* 【„ root, dried】(Tshang-thâu) 蔥頭
 * 【Garlic, fresh】(Sǹg) 蒜
 * 【„ root, dried】(Sǹg-thâu) 蒜頭
 * 【Cloves】(Teng-hieⁿ) 丁香
@@ -216,7 +216,7 @@ date: 2022-11-20 22:19:00
 * 【Water-melon】(Si-kue) 西瓜
 * 【Jack-fruit】(Māng-ka) 綱膠
 * 【Custard apple】(Lîm-khîm) 林擒
-* 【Pomegranate】(Siéh-liû) 柘榴
+* 【Pomegranate】(Siéh-liû) 石榴
 * 【Durian】(Liû-liân) 榴蓮
 * 【Nutmeg】(Lãu-hàu) 栳㭳
 * 【Arbutus】(Iêⁿ-bûe) 楊梅
@@ -227,12 +227,12 @@ date: 2022-11-20 22:19:00
 * 【Grapes】(Phû-thô) 萄葡
 * 【Fig】(Bô-hue-kúe) 無花果
 * 【Mangoostine】(Māng-hek) 綱黑
-* 【Name of a kind of fruit】(Chîⁿ-tshang) 薺葱
+* 【Name of a kind of fruit】(Chîⁿ-tshang) 薺蔥
 * 【Olives】(Kaⁿ-náⁿ) 橄欖
 * 【Dragon's eye】(Nék-óiⁿ) 龍眼
-* 【Lichees】(Nôiⁿ-kúe) 茘果
-* 【Lily-fruits】(Nóiⁿ-kak) 菱角
-* 【Chestnuts】(Kãu-lák) 侯粟
+* 【Lichees】(Nôiⁿ-kúe) 荔果
+* 【Lily-fruits】(Nôiⁿ-kak) 蓮角
+* 【Chestnuts】(Kãu-lák) 侯栗
 * 【Ground-nuts】(Tī-tāu) 地豆
 * 【Sugarcane, large kind】(Láh-chià) 蠟蔗
 * 【Sugarcane, small kind like bamboo】(Tek-chià) 竹蔗

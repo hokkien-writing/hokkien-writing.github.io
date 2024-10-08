@@ -125,7 +125,7 @@ date: 2022-11-16 20:15:00
 * 【Thin, (not stout.)】(Sán) 㾪
 * 【Tight】(Kín) 緊
 * 【Tired】(Hék) 乏
-* 【True】(Chin, sít, chin-sít) 真　實　真實
+* 【True】(Chin, sít, chin-sít) 眞　實　眞實
 * 【Ugly】(Iá-iēⁿ) 野樣
 * 【Unripe】(Chheⁿ) 靑
 * 【Warm】(Zuáh) 熱

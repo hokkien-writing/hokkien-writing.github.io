@@ -27,8 +27,8 @@ date: 2022-11-20 21:59:00
 * 【四方牀】(Sì-pang tshn̂g) A square table.
 * 【茶几】(Tê-kí) A small tea-table.
 * 【牀落凍石】(Tshn̂g lóh tàng-chiéh) Tables with marble-top.
-* 【册架】(Chheh-kè) A book-stand.
-* 【册櫥】(Chheh-tû) A book-case.
+* 【冊架】(Chheh-kè) A book-stand.
+* 【冊櫥】(Chheh-tû) A book-case.
 * 【寫字牀刻的】(Siá-jī-tshn̂g khek--kâi) A carved writing desk.
 * 【牀櫃】(Tshn̂g-kūiⁿ) A Chinese writing desk.
 * 【鉛筆】(În-pit) Pencil (lead.)
@@ -69,7 +69,7 @@ date: 2022-11-20 21:59:00
 * 【在此好放一張四方牀】(Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g) Here can be put a square table.
 * 【此張圓牀來徙放別處】(Chí-tieⁿ îⁿ-tshn̂g lâi suá pàng pát-kò) Let us remove this round table to some other place.
 * 【欲徙放底塊】(Àiⁿ-súa pàng tî-kò?) Where shall we remove it to?
-* 【此張册架來徙放此】(Chí-tieⁿ chheh-kè lài súa pàng chié;) Let us remove the book-stand here;
+* 【此張冊架來徙放此塊】(Chí-tieⁿ chheh-kè lài súa pàng chié;) Let us remove the book-stand here;
 * 【圓牀來放彼】(Îⁿ-tshn̂g lâi-sāi pàng-hié…) And place the round table there.
 * 【汝去我寫字牀挈一枝鉛筆來】(Lṳ́ khṳ̀ uá siá-jī-tshn̂g khiéh chék-ki în-pit lâi) You go to my writing desk and get me a pencil
 * 【佮挈一張紙】(Kah khiéh chék-tieⁿ tsúa) And a sheet of paper.
@@ -189,7 +189,7 @@ date: 2022-11-20 21:59:00
 * 【碗】(Uáⁿ) Bowls.
 * 【碗公】(Uáⁿ-kong) Large bowls.
 * 【盤囝】(Pûaⁿ-kiáⁿ) Dessert plates, saucers.
-* 【茶鍾】(Tẽ-cheng) Tea-cups.
+* 【茶盅】(Tẽ-cheng) Tea-cups.
 * 【茶匙】(Tê-sî) Tea spoons.
 * 【茶罐】(Tê-kuàn) A tea-pot.
 * 【糖罐】(Thn̂g-kuàn) A sugar basin.
@@ -222,7 +222,7 @@ date: 2022-11-20 21:59:00
 * 【洗了着拭灱】(Sói-lióu tiéh chhit-ta) After washing you must wipe them dry.
 * 【牀布佮手巾垃圾好換】(Tshn̂g-pòu kah chhiú-kṳn nah-sap hó-uāⁿ) The table-cloth and the napkins may be changed, if they are dirty.
 * 【調雞湯個匙。拭就好。不可磨】(Ié-koi-thng kâi-sî chhit chiũ-hó, m̃-móⁿ chhiù) Just wipe the soup ladle, you must not rub it.
-* 【茶鍾有幾個】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
+* 【茶盅有幾個】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
 * 【有五個定定】(Ũ ngõu-kâi tiāⁿ-tiāⁿ) There are only five.
 * 【五個定定。加一個乞底誰敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
 * 【我哩毋知】(Uá li m̃-tsai) I don't know.
@@ -252,7 +252,7 @@ date: 2022-11-20 21:59:00
 * 【水缸】(Tsúi-kng) A water jar.
 * 【鉢】(Puah) A pot.
 * 【桶】(Tháng) A tub, a bucket.
-* 【沐浴桶】(Sói-ék-tháng) A bath-tub.
+* 【洗浴桶】(Sói-ék-tháng) A bath-tub.
 * 【腳桶】(Kha-tháng) A bath-tub.
 * 【竹椅】(Tek-íⁿ) A bamboo seat.
 * 【椅頭】(Íⁿ-thâu) A high stool.
@@ -271,7 +271,7 @@ date: 2022-11-20 21:59:00
 * 【火炭】(Húe-thùaⁿ) Charcoal.
 * 【火柴】(Húe-tshâ) Fire-wood.
 * 【火灰】(Húe-hu) Ashes.
-* 【掃箒】(Sàu-siú) A broom.
+* 【掃帚】(Sàu-siú) A broom.
 * 【糞斗】(Pùn-táu) A shovel.
 
 ------
@@ -288,7 +288,7 @@ date: 2022-11-20 21:59:00
 * 【貯水】(Tshō tsúi) It contains water.
 * 【虧一桶水來】(Kũaⁿ chék-tháng tsúi lâi) Get me a bucket of water.
 * 【腳桶貯水】(Kha-tháng tshō-tsúi) Put water in the bath-tub.
-* 【水缸個水傾掉】(Tsúi-kng kâi tsúi tò-tiòu;) Pour the water out of the jar;
+* 【水缸個水倒掉】(Tsúi-kng kâi tsúi tò-tiòu;) Pour the water out of the jar;
 * 【另外貯淸潔的】(Lêng-ngūa tshō chheng-khih--kâi) And put clean water in it.
 * 【方刀斫着鐵釘缺去】(Pang-to tok--tiéh thih-teng khih-khṳ̀) The chopper struck against a nail and is blunt.
 * 【另外磨會利】(Lêng-ngūa bûa õi-lāi) Whet it, and it will be sharp again.

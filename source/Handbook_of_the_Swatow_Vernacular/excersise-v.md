@@ -95,7 +95,7 @@ date: 2022-11-16 20:14:00
 * 【此個送汝】(Chí--kâi sàng lṳ́) This is presented to you.
 * 【請汝收】(Chhiáⁿ lṳ́ siu) Please accept it.
 * 【感謝】(Kám-siā) Thank you.
-* 【放此】(Pàng--chié) Put it here.
+* 【放此塊】(Pàng--chié) Put it here.
 * 【勿佮伊相罵】(Màiⁿ kah i sie-mēⁿ) Don't quarrel with him.
 * 【去哪】(Khṳ̀--nō) Go away.
 * 【汝曉讀嗎】(Lṳ́ hióu-thák mē?) Can you read?

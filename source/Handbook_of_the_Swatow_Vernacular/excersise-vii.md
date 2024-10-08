@@ -170,7 +170,7 @@ date: 2022-11-16 20:16:00
 * 【早早】(Tsá-tsá) Very early.
 * 【天光】(Thiⁿ-kng) Day-break, dawn.
 * 【今旦日】(Kiáⁿ-jít) To-day.
-* 【明起】(Màⁿ-khí) To-morrow.
+* 【明旦起】(Màⁿ-khí) To-morrow.
 * 【後日】(Aũ--jít) Day after to-morrow.
 * 【大後日】(Tūa--aũ-jít) A day later than above.
 * 【昨日】(Tsa-jít) Yesterday.
@@ -184,18 +184,18 @@ date: 2022-11-16 20:16:00
 * 【次次】(Tsūa-tsūa) Every occasion.
 * 【下下】(Ē-ē) Every occasion.
 ------
-* 【明瞑起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
+* 【明旦瞑起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
 * 【汝不可夗到日晏正走起】(Lṳ́ m̃-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
 * 【着早些】(Tiéh tsá--chē) You must be early.
 * 【今。汝着憶得】(Taⁿ, lṳ́ tiéh it-tit) Now, you must remember.
 * 【不可毋憶得】(M̃-móⁿ m̃-it-tit) Don't forget.
 * 【好。我天光就欲走起】(Hó. Uá thiⁿ-kng chiũ àiⁿ tsáu-khí) Very well. As soon as day-break I will get up.
 * 【今旦日我毋閒】(Kiáⁿ-jít uá m̃ oíⁿ) I am busy to-day.
-* 【明起正來】(Màⁿ-khí chiàⁿ-lâi) Come to-morrow.
-* 【明起任底時】(Màⁿ-khí zuãn tiang-si) Any time to-morrow.
+* 【明旦起正來】(Màⁿ-khí chiàⁿ-lâi) Come to-morrow.
+* 【明旦起任底時】(Màⁿ-khí zuãn tiang-si) Any time to-morrow.
 * 【好了。汝好去】(Hó--lō, lṳ́ hó-khṳ̀) That will do, you may go.
-* 【我今旦日終日在內】(Uá kiáⁿ-jít thàng-jít tõ lāi) I am at home all to-day.
-* 【明起我毋在】(Màⁿ-khí uá m̃-tõ) I shall not be at home tomorrow.
+* 【我今旦日通日在內】(Uá kiáⁿ-jít thàng-jít tõ lāi) I am at home all to-day.
+* 【明旦起我毋在】(Màⁿ-khí uá m̃-tõ) I shall not be at home tomorrow.
 * 【汝免用來】(Lṳ́ mín-ēng lâi) You need not come.
 * 【後日我就轉來】(Aũ--jít uá chiũ tńg--lâi) I shall be back the day after to-morrow.
 * 【我次次來到覓汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̃-tõ) On every occasion of my coming, I could not find you.

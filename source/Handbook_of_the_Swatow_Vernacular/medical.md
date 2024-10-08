@@ -18,12 +18,12 @@ date: 2022-11-20 23:02:00
 * 【醫袂好】(Ui bõi-hó) Incurable.
 * 【醫難好】(Ui oh-hó) Difficult to cure.
 * 【難醫】(Oh-ui) Difficult to cure.
-* 【畧好】(Ióu-hó) Better.
+* 【稍好】(Ióu-hó) Better.
 * 【絀】(Tsuáh) Better.
 * 【全愈】(Tshuân-zú) Quite recovered.
 * 【斷氣】(Tñg-khùi) To expire.
-* 【頭壳痛】(Thâu-khak thiàⁿ) Headache.
-* 【頭壳眩】(Thâu-khak hîn) Headache.
+* 【頭殼痛】(Thâu-khak thiàⁿ) Headache.
+* 【頭殼眩】(Thâu-khak hîn) Headache.
 * 【儂熱】(Nâng zuáh) Fever.
 * 【發燒】(Huat-sie) Fever.
 * 【畏凊】(Uì-chhìn) Ague.
@@ -70,7 +70,7 @@ date: 2022-11-20 23:02:00
 * 【食粥】(Chiáh-mûeⁿ) Measles.
 * 【大頷奎】(Tūn-ãm-kui) Goitre.
 * 【瘤】(Liû) Tumour.
-* 【軟疕】(Nńg-nîⁿ) Palsy.
+* 【軟疕？】(Nńg-nîⁿ) Palsy.
 * 【癱瘓】(Kuàn-pien) Palsy.
 * 【癲】(Sióu) Mad.
 * 【心神毋定】(Sim-sîn m̃-tiāⁿ) Insane.
@@ -82,13 +82,13 @@ date: 2022-11-20 23:02:00
 * 【近覷】(Kṳ̃n-tshṳ̀) Near-sighted.
 * 【靑盲】(Chheⁿ-mêⁿ) Blind.
 * 【目睭花】(Mák-chiu-hue) Dimness.
-* 【斜目】(Siâ-mák-chióu) Squinting.
+* 【斜目鳥】(Siâ-mák-chióu) Squinting.
 * 【耳聾】(Hĩⁿ--lâng) Deaf.
 * 【啞】(É) Dumb.
 * 【缺喙】(Khih-tshùi) Hare-lip.
 * 【腰龜】(Ie-ku) Humpback.
 * 【拐腳】(Kuái-kha) Lame.
-* 【綁腳䥥】(Páng-kha-liâm) Ulcerated leg.
+* 【綁腳臁】(Páng-kha-liâm) Ulcerated leg.
 * 【糜腳】(Mîⁿ-kha) Ulcerated leg.
 * 【生物】(Seⁿ-muéh) To have a disease.
 * 【生㿗】(Seⁿ-thûe) To have a boil.

@@ -25,7 +25,7 @@ date: 2022-11-20 21:44:00
 * 【目皮】(Mák-chiu-phûe) Eye-lid.
 * 【目仁】(Mák-jîn) Eye-ball.
 * 【鼻】(Phīⁿ) Nose.
-* 【鼻孔】(Phīⁿ-khang) Nostril.
+* 【鼻空】(Phīⁿ-khang) Nostril.
 * 【喙】(Tshùi) Mouth.
 * 【喙臨皮】(Tshùi-lîm-phûe) Lips.
 * 【鬚】(Chhiu) Beard, moustache.
