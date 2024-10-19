@@ -42,7 +42,7 @@ date: 2022-11-16 20:14:00
 * 【汝走就追會着】(Lṳ́ tsáu chiũ-jiōu õi-tièh) If you run, you will overtake him.
 * 【汝勿騙我】(Lṳ́ màiⁿ-phièn úa) Don't you deceive me.
 * 【汝欲選底一個】(Lṳ́ àiⁿ-suán tî-chék-kâi?) Which do you wish to choose?
-* 【此個物淸潔】(Chí--kâi muéh-chheng-khih) Clean this.
+* 【此個物清潔】(Chí--kâi muéh-chheng-khih) Clean this.
 * 【此個挈去煮】(Chí--kâi khiéh-khṳ̀ tsṳ́) Take this and cook it.
 * 【汝曉算嗎】(Lṳ́ hióu-sǹg mē?) Can you count?
 * 【我毋曉】(Uá m̃-hióu) I can't.
@@ -85,7 +85,7 @@ date: 2022-11-16 20:14:00
 * 【此個我毋曉怎呢物】(Chiá uá m̃-hióu tsò-nîⁿ muéh) I don't understand how to do this.
 * 【請汝佮我呾】(Chhiáⁿ lṳ́ kah uá tàⁿ) Please tell me.
 * 【來去佚佗】(Lâi-khṳ̀ thit-thô) Come let us go out to amuse ourselves.
-* 【咱勿對彼塊過】(Nán màiⁿ tùi-hié kùe) Let us not pass by that way.
+* 【俺勿對彼塊過】(Nán màiⁿ tùi-hié kùe) Let us not pass by that way.
 * 【由此過】(Tùi-chié kùe) Pass by this way.
 * 【彼擇起來】(
 * tóh--khí-lâi) Pick that up.

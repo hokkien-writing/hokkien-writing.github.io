@@ -12,7 +12,7 @@ date: 2022-11-20 23:49:00
 * 【有。我個個禮拜去】(Ũ, uá kâi-kâi lói-pài khṳ̀) Yes, I go every Sunday.
 * 【汝是天主教亞毋是】(Lṳ́ sĩ Thien-tsú-kà a m̃-sĩ?) Are you a Roman Catholic?
 * 【阮是耶穌教】(Ún sĩ Iâ-sou-kà) We are Protestant.
-* 【汝是傳道理的儂亞毋是】(Lṳ́ sĩ thuân-tõ-lí--kâi-nâng a m̃-sĩ?) Are you a preacher?
+* 【汝是傳道理嘅儂亞毋是】(Lṳ́ sĩ thuân-tõ-lí--kâi-nâng a m̃-sĩ?) Are you a preacher?
 <!--more-->
 * 【是。汝有欲聽零些嗎】(Sĩ, lṳ́ ũ àiⁿ-thiaⁿ lân-ló mē?) Yes, do you wish to hear me a little?
 * 【我有閒。我來去禮拜堂聽】(Uá ũ-ôiⁿ, uá lâi-khṳ̀ lói-pài-tn̂g thiaⁿ) If I have time, I shall go to the church and hear.
@@ -23,7 +23,7 @@ date: 2022-11-20 23:49:00
 * 【欲去拜媽祖】(Aìⁿ-khṳ̀-pài Máⁿ-tsóu) I wish to worship the Goddess of sailors.
 * 【明旦起欲迎老爺】(Màⁿ-khí àiⁿ iâⁿ-lãu-iâ) There will be a procession to-morrow.
 * 【時節着拜阿公】(Sî-tsoih tiéh pài-a-kong) We must worship our ancestors on festival days.
-* 【淸明着去掛紙】(Chheng-mêng tiéh-khṳ̀ kùe-tsúa) On the festival of tombs, we must go to worship the graves.
+* 【清明着去掛紙】(Chheng-mêng tiéh-khṳ̀ kùe-tsúa) On the festival of tombs, we must go to worship the graves.
 * 【囝兒着行孝父母】(Kiáⁿ-jî tiéh kiâⁿ-hàu pẽ-bó) Children must show filial piety towards their parents.
 * 【請和尚來讀經】(Chhiáⁿ hûe-sièⁿ lâi thák-keng) Engage a Buddhist priest to come and recite prayers.
 * 【用伍牲來奉】(Ēng ngóu-seⁿ lâi-hõng) Make an offering of five kinds.

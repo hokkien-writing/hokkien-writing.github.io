@@ -41,7 +41,7 @@ date: 2022-11-15 21:43:00
 * 【Chase】(Jiōu) 追
 * 【Cheat】(Phièn) 騙
 * 【Choose】(Suán, tóh) 選　擇
-* 【Clean】(Muéh-chheng-khih) 物淸潔
+* 【Clean】(Muéh-chheng-khih) 物清潔
 * 【Cook】(Tsṳ́, pû) 煮　烳
 * 【Correct】(Kói) 改
 * 【Count】(Sǹg) 算

@@ -11,7 +11,7 @@ date: 2022-11-20 23:02:00
 * 【先生】(Sin-seⁿ) A doctor.
 * 【醫】(Ui) To cure.
 * 【病】(Pēⁿ) To be ill; sickness.
-* 【儂毋好】(Nâng m̃-móⁿ) Unwell.
+* 【儂毋孬】(Nâng m̃-móⁿ) Unwell.
 * 【破病】(Phùa-pēⁿ) To be very ill for a long period.
 * 【着力】(Tíh-lát) To be very ill, almost dying.
 <!--more-->
@@ -80,16 +80,16 @@ date: 2022-11-20 23:02:00
 * 【目痛】(Mák--thiàⁿ) Sore-eyes.
 * 【近視】(Kṳ̃n-sī) Near-sighted.
 * 【近覷】(Kṳ̃n-tshṳ̀) Near-sighted.
-* 【靑盲】(Chheⁿ-mêⁿ) Blind.
+* 【青盲】(Chheⁿ-mêⁿ) Blind.
 * 【目睭花】(Mák-chiu-hue) Dimness.
 * 【斜目鳥】(Siâ-mák-chióu) Squinting.
 * 【耳聾】(Hĩⁿ--lâng) Deaf.
 * 【啞】(É) Dumb.
 * 【缺喙】(Khih-tshùi) Hare-lip.
 * 【腰龜】(Ie-ku) Humpback.
-* 【拐腳】(Kuái-kha) Lame.
-* 【綁腳臁】(Páng-kha-liâm) Ulcerated leg.
-* 【糜腳】(Mîⁿ-kha) Ulcerated leg.
+* 【拐骹】(Kuái-kha) Lame.
+* 【綁骹臁】(Páng-kha-liâm) Ulcerated leg.
+* 【糜骹】(Mîⁿ-kha) Ulcerated leg.
 * 【生物】(Seⁿ-muéh) To have a disease.
 * 【生㿗】(Seⁿ-thûe) To have a boil.
 * 【濃】(Lâng) Matter.

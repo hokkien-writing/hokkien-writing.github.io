@@ -14,13 +14,13 @@ date: 2022-11-16 20:15:00
 * 【All】(Lóng-tsóng) 攏總
 * 【Ashamed】(Sióu-lí) 少禮
 * 【Back】(Aũ) 後
-* 【Bad】(M̃-móⁿ) 不好
+* 【Bad】(M̃-móⁿ) 毋孬
 * 【Best】(Siãng-hó) 上好
 * 【Better】(Zú-hó, kèng-hó) 愈好　更好
 <!--more-->
 * 【Black】(Ou) 烏
 * 【Blue】(Nâm, lâm) 藍
-* 【Blue, (sky colour.)】(Chheⁿ) 靑
+* 【Blue, (sky colour.)】(Chheⁿ) 青
 * 【Brave】(Káⁿ) 敢
 * 【Bright】(Kng) 光
 * 【Broad】(Khuah) 闊
@@ -28,7 +28,7 @@ date: 2022-11-16 20:15:00
 * 【Careful】(Tsṳ́-sòi, sòi-jī) 仔細　細字
 * 【Careless】(Chhìn-tshái, bô-tsṳ́-sòi) 凊彩　無仔細
 * 【Cheap】(Phiⁿ) 便
-* 【Clear, (of water.)】(Chheng) 淸
+* 【Clear, (of water.)】(Chheng) 清
 * 【Clear, (of affairs.)】(Mêng, mêng-péh) 明　明白
 * 【Clever】(Gâu, khiàng) 賢　勥
 * 【Close, (not airy.)】(Hip) 翕
@@ -63,7 +63,7 @@ date: 2022-11-16 20:15:00
 * 【Funny】(Tshù-bī) 趣味
 * 【Glad】(Huaⁿ-hí) 歡喜
 * 【Good】(Hó) 好
-* 【Green】(Chheⁿ) 靑
+* 【Green】(Chheⁿ) 青
 * 【Green, (cloth.)】(Lék) 緑
 * 【Happy】(Khùaⁿ-uáh, sóng-khuài) 快活　爽快
 * 【Hard】(Tōiⁿ) 𠕆
@@ -125,9 +125,9 @@ date: 2022-11-16 20:15:00
 * 【Thin, (not stout.)】(Sán) 㾪
 * 【Tight】(Kín) 緊
 * 【Tired】(Hék) 乏
-* 【True】(Chin, sít, chin-sít) 眞　實　眞實
+* 【True】(Chin, sít, chin-sít) 真　實　真實
 * 【Ugly】(Iá-iēⁿ) 野樣
-* 【Unripe】(Chheⁿ) 靑
+* 【Unripe】(Chheⁿ) 青
 * 【Warm】(Zuáh) 熱
 * 【Weak】(Khùn) 困
 * 【Wet】(Tâm) 㴷

@@ -39,21 +39,21 @@ date: 2022-11-20 22:01:00
 
 ------
 
-* 【沃花的儂在底塊】(Ak-hue--kâi-nâng tõ tî-ko?) Where is the gardener?
+* 【沃花嘅儂在底塊】(Ak-hue--kâi-nâng tõ tî-ko?) Where is the gardener?
 * 【叫伊猛猛來沃花】(Hàm i méⁿ-méⁿ lâi ak-hue) Tell him to look sharp and come and water the plants.
 * 【花攏總皺皺】(Hue lóng-tsóng jiôu-jîou) The plants are all dried up.
 * 【酷㩼日無沃】(Hoh-tsōi jít bô-ak) They have not been watered for several days.
-* 【有的欲死了】(Ũ-kâi àiⁿ-sí--lō) Some of them are withering.
+* 【有嘅欲死了】(Ũ-kâi àiⁿ-sí--lō) Some of them are withering.
 * 【此欉死了。㧕掉】(Chí--tsâng sí lō, liú-tiòu) This one is withered, dig it out.
 * 【在彼有刺。着去掘掉】(Tõ-hié ũ chhì, tiéh khṳ̀ kút-tiòu) There are thorns there, you must go and hoe them away.
 * 【掘了挈糞箕抔掉】(Kút-lióu khiéh pùn-ki put-tiòu) After hoing them get baskets and remove them.
-* 【此欉花底誰種的】(Chí-tsâng hue tî-tiâng chèng--kâi?) Who has planted this plant here?
-* 【是我種的】(Sĩ uá chèng--kâi.) I planted it.
-* 【彼欉是白發的】(Hṳ́--tsâng sĩ péh-huat--kâi) That one is a weed.
-* 【白發的勿。挽掉】(Péh-huat--kâi màiⁿ, mán-tiòu) I don't want any weeds, pull it up.
+* 【此欉花底誰種嘅】(Chí-tsâng hue tî-tiâng chèng--kâi?) Who has planted this plant here?
+* 【是我種嘅】(Sĩ uá chèng--kâi.) I planted it.
+* 【彼欉是白發嘅】(Hṳ́--tsâng sĩ péh-huat--kâi) That one is a weed.
+* 【白發嘅勿。挽掉】(Péh-huat--kâi màiⁿ, mán-tiòu) I don't want any weeds, pull it up.
 * 【草埔攏總是樹葉】(Tsháu-pou lóng-tsóng sĩ chhiū-hiéh) Leaves are all over the lawn.
-* 【挈糞耙去耙淸潔】(Khiéh pùn-pê khṳ̀ pê chheng-khih) Get the garden-rake and rake it clean.
+* 【挈糞耙去耙清潔】(Khiéh pùn-pê khṳ̀ pê chheng-khih) Get the garden-rake and rake it clean.
 * 【茶花有開花亞未】(Tê-hue ũ khui-hue a-būe?) Have the camellias begun to blossom?
 * 【未。有蕊定定】(Būe, ũ lúi tiāⁿ-tiāⁿ) No, there are only buds.
-* 【若是開伊的花是雅在】(Nāⁿ-sĩ khui i kâi hue sĩ ngiá-tsãi) If the flowers blow they will be very pretty.
+* 【若是開伊嘅花是雅在】(Nāⁿ-sĩ khui i kâi hue sĩ ngiá-tsãi) If the flowers blow they will be very pretty.
 * 【排瞑起欲食着摘花擺放牀頂】(Pâi-mêng-khí àiⁿ-chiáh tiéh tiah-hue pái pàng tshn̂g-téng) Every morning at breakfast you must pluck some flowers and place them on the table.

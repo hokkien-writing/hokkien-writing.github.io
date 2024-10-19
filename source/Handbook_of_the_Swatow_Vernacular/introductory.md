@@ -10,7 +10,7 @@ date: 2022-11-15 21:43:00
 
 * 【我】(Uá) I.
 * 【阮】(Ún) We (not including the person addressed.)
-* 【咱】(Nán) We (including the person addressed.)
+* 【俺】(Nán) We (including the person addressed.)
 * 【汝】(Lṳ́) You (singular.)
 * 【恁】(Nín) You (plural.)
 * 【伊】(I) He, she, it, him, her.
@@ -30,7 +30,7 @@ date: 2022-11-15 21:43:00
 * 【恁來】(Nín lâi) You (plural) come.
 * 【伊毋來】(I m̃-lâi) He won't come.
 * 【伊欲去】(I àiⁿ-khṳ̀) He wants to go.
-* 【咱來去】(Nán lâi-khṳ̀) Let us go.
+* 【俺來去】(Nán lâi-khṳ̀) Let us go.
 * 【我毋去】(Uá m̃-khṳ̀) I am not going.
 * 【毋是汝】(M̃-sĩ lṳ́) Not you.
 * 【是伊】(Sĩ i) It is he.
@@ -48,7 +48,7 @@ date: 2022-11-15 21:43:00
 * 【怎呢】(Tsò-nîⁿ) Why?
 * 【因爲】(In-ûi) Because, on account of.
 * 【底誰】(Tî-tiâng) Who?
-* 【底誰的】(Tî-tiâng-kâi) Whose?
+* 【底誰嘅】(Tî-tiâng-kâi) Whose?
 * 【此些個】(Chí-chùaⁿ-kâi) These.
 * 【彼些個】(Hṳ́-chùaⁿ-kâi) Those.
 * 【怎呢　若】(Tsò-nîⁿ, jiéh) How?
@@ -90,7 +90,7 @@ date: 2022-11-15 21:43:00
 * 【伊怎呢無來】(I tsò-nîⁿ bô-lâi?) Why did he not come?
 * 【是因爲怎呢】(Sĩ in-ûi tsò-nîⁿ?) For what reason?
 * 【汝是底誰】(Lṳ́ sĩ tî-tiâng?) Who are you?
-* 【此是底誰的】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
+* 【此是底誰嘅】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
 * 【此些個毋是】(Chí-chùaⁿ-kâi m̃-sĩ) These are not them.
 * 【彼些個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
 * 【汝有若㩼】(Lṳ́ ũ jiéh-tsōi?) How much have you?
@@ -114,8 +114,8 @@ date: 2022-11-15 21:43:00
 * 【無】(Bô) No.
 * 【怎呢無呢】(Tsò-nîⁿ bô--nē?) Why not?
 * 【因爲我毋去】(In-ûi uá m̃-khṳ̀) Because I don't want to go.
-* 【此個是我的】(Chí-kâi sĩ uá-kâi) This is mine.
-* 【毋是汝的】(M̃-sĩ lṳ́-kâi) It isn't yours.
-* 【是伊的】(Si i-kâi) It is his.
-* 【汝的毋是此樣生】(Lṳ́-kâi m̃-sĩ chièⁿ-seⁿ) Yours is not like his.
-* 【伊的是此樣生】(I kâi sĩ chièⁿ-seⁿ) His is like this.
+* 【此個是我嘅】(Chí-kâi sĩ uá-kâi) This is mine.
+* 【毋是汝嘅】(M̃-sĩ lṳ́-kâi) It isn't yours.
+* 【是伊嘅】(Si i-kâi) It is his.
+* 【汝嘅毋是此樣生】(Lṳ́-kâi m̃-sĩ chièⁿ-seⁿ) Yours is not like his.
+* 【伊嘅是此樣生】(I kâi sĩ chièⁿ-seⁿ) His is like this.

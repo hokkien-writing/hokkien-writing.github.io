@@ -31,12 +31,12 @@ date: 2022-11-16 20:16:00
 * 【丈夫】(Ta-pou) Male.(only used of man.)
 * 【諸娘】(Tsṳ-niêⁿ) Female.(only used of man.)
 ------
-* 【世間的儂是惡】(Sì-kan kâi nâng sĩ ak) The people in the world are wicked.
+* 【世間嘅儂是惡】(Sì-kan kâi nâng sĩ ak) The people in the world are wicked.
 * 【天下是闊】(Thiⁿ-ẽ sĩ khuah) The world is broad.
 * 【上帝在天。儂在地】(Siãng-tì tõ thiⁿ, nâng tõ tĩ.) God is in heaven, and men are on earth.
 * 【天在上。地在下】(Thiⁿ tõ chīeⁿ, tī tò ẽ) Heaven is above, and earth is below.
 * 【山是危。海是深】(Suaⁿ sĩ kûiⁿ, hái sĩ chhim) Mountains are high, and seas are deep.
-* 【大海的水藍】(Tūa-hái kâi tsúi nâm) The waters of the oceans are blue.
+* 【大海嘅水藍】(Tūa-hái kâi tsúi nâm) The waters of the oceans are blue.
 * 【海墘有儂行】(Hái-kîⁿ ũ nâng kiáⁿ) There are people walking on the sea-side.
 * 【塗袂肥】(Thôu bōi-pûi) The soil is not fertile.
 * 【樹袂發】(Chhiū bõi-huat) The trees do not grow.
@@ -45,10 +45,10 @@ date: 2022-11-16 20:16:00
 * 【有石部。有沙】(Ũ chiéh-põu, ũ sua) There are stones, and there is sand.
 * 【儂在世毋久】(Nâng tõ sì m̃-kú) Man is not long in the world.
 * 【丈夫愈壯過諸娘】(Ta-pou zú-tsàng kùe tsṳ-niêⁿ) Man is stronger than woman.
-* 【有的諸娘愈賢過丈夫】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
+* 【有嘅諸娘愈賢過丈夫】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
 * 【在祖家有加加諸娘。賢過丈夫】(Tõ Tsóu-ke ũ ke-ke tsṳ-niêⁿ, gâu kùe ta-pou) There are many ladies in England cleverer than men.
-* 【唐儂的諸娘少少識字】(Tn̂g-nâng kâi tsṳ-niêⁿ chié-chié pat-jī) Very few Chinese ladies can read.
-* 【阮的諸娘攏總識字】(Ún--kâi tsṳ-niêⁿ lóng-tsóng pat-jī) Our ladies can all read.
+* 【唐儂嘅諸娘少少識字】(Tn̂g-nâng kâi tsṳ-niêⁿ chié-chié pat-jī) Very few Chinese ladies can read.
+* 【阮嘅諸娘攏總識字】(Ún--kâi tsṳ-niêⁿ lóng-tsóng pat-jī) Our ladies can all read.
 
 ### section II.
 
@@ -83,10 +83,10 @@ date: 2022-11-16 20:16:00
 * 【唐儂此個事毋曉】(Tn̂g-nâng chí-kâi sū m̃-hióu) The Chinese do not understand about this matter.
 * 【英國儂就曉】(Eng-kok-nâng chiũ-hióu) The English understand.
 * 【虹有加加色】(Khẽng ũ ke-ke sek) The rainbow has many colours.
-* 【有紅有白有藍有靑有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
+* 【有紅有白有藍有青有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
 * 【還了有】(Huân-lióu ũ) It has some more.
 * 【是雅在】(Sĩ ngiá-tsãi) It is very beautiful.
-* 【咱所有的色是從虹塊來】(Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi) The colours which we have, come from the rainbow.
+* 【俺所有嘅色是從虹塊來】(Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi) The colours which we have, come from the rainbow.
 * 【流漲亞是涸】(Lâu tĩⁿ a-sĩ khó?) Is it high tide or ebb tide?
 * 【流涸】(Lâu khó) It is ebb tide.
 * 【海有湧嗎】(Hái ũ éng mē?) Are there any waves in the sea?
@@ -110,12 +110,12 @@ date: 2022-11-16 20:16:00
 ------
 * 【冰霜是寒在】(Piaⁿ-sng sĩ ngân-tsãi) Ice is very cold?
 * 【雪敢是愈寒】(Soh kàⁿ-sĩ zú-ngân) Snow is perhaps colder.
-* 【咱此塊罕得有雪】(Nán--chié hán--tit ũ soh) We seldom have snow at our place here.
+* 【俺此塊罕得有雪】(Nán--chié hán--tit ũ soh) We seldom have snow at our place here.
 * 【日一出濛烟就散】(Jít chék-ē tshut mông-in chiũ-sùaⁿ) When the sun rises the mist disperses.
 * 【樹無露水袂活】(Chhiū bô lōu-tsúi bõi-uáh) The trees will not grow without dew.
-* 【酷久咱此塊毋識有落雹】(Hoh-kú nán--chié m̃-pat ũ lóh-phák) For a long time we have not had hail here.
+* 【酷久俺此塊毋識有落雹】(Hoh-kú nán--chié m̃-pat ũ lóh-phák) For a long time we have not had hail here.
 * 【冬天磽囝儂是悽慘】(Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám) In Winter the poor are miserable.
-* 【富的儂哩穿燒】(Pù--kâi-nâng li chhēng-sie) But the rich are warmly clad.
+* 【富嘅儂哩穿燒】(Pù--kâi-nâng li chhēng-sie) But the rich are warmly clad.
 * 【冬天凊在】(Tang--thiⁿ chhin-tsãi) In Winter it is very cold.
 * 【夏天就熱】(Hē--thiⁿ chiũ-zuáh) But in Summer it is hot.
 * 【一年有四季】(Chék-nîⁿ ũ sì-khùi) There are four seasons in a year.
@@ -156,10 +156,10 @@ date: 2022-11-16 20:16:00
 * 【伊作有幾㩼日工】(I tsoh ũ jiéh-tsōi jít kang?) How many days' work has he done?
 * 【伊作有一個月】(I tsoh ũ chék-kâi guéh) He has worked one month.
 * 【伊日間作。夜間亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
-* 【伊的工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
+* 【伊嘅工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
 * 【日未暗】(Jít būe-àm) It is not yet dark.
 * 【汝夗到日彼樣晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
-* 【下日汝不可夗到彼樣晏】(Ê-jít lṳ́ m̃-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
+* 【下日汝毋孬夗到彼樣晏】(Ê-jít lṳ́ m̃-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
 * 【日暗着去夗】(Jít àm tiéh khṳ̀-út) When it is late at night, you must go to bed.
 * 【勿到半夜正去夗】(Màiⁿ-kàu puàⁿ-méⁿ chiàⁿ-khṳ̀-út) Don't let it be midnight before you go to bed.
 * 【三更半夜勿去口】(Saⁿ-keⁿ puàⁿ-mêⁿ màiⁿ-khṳ̀-kháu) Don't go out at such a late hour at night.
@@ -185,10 +185,10 @@ date: 2022-11-16 20:16:00
 * 【下下】(Ē-ē) Every occasion.
 ------
 * 【明旦瞑起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
-* 【汝不可夗到日晏正走起】(Lṳ́ m̃-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
+* 【汝毋孬夗到日晏正走起】(Lṳ́ m̃-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
 * 【着早些】(Tiéh tsá--chē) You must be early.
 * 【今。汝着憶得】(Taⁿ, lṳ́ tiéh it-tit) Now, you must remember.
-* 【不可毋憶得】(M̃-móⁿ m̃-it-tit) Don't forget.
+* 【毋孬毋憶得】(M̃-móⁿ m̃-it-tit) Don't forget.
 * 【好。我天光就欲走起】(Hó. Uá thiⁿ-kng chiũ àiⁿ tsáu-khí) Very well. As soon as day-break I will get up.
 * 【今旦日我毋閒】(Kiáⁿ-jít uá m̃ oíⁿ) I am busy to-day.
 * 【明旦起正來】(Màⁿ-khí chiàⁿ-lâi) Come to-morrow.
@@ -202,7 +202,7 @@ date: 2022-11-16 20:16:00
 * 【我昨日來。昨夜亦來】(Uá tsa-jít lâi, tsa-mêⁿ iā lâi) I came yesterday, and last night as well.
 * 【伊終久是此樣生】(I tsong-kú sĩ chièⁿ-seⁿ) He is always like this.
 * 【伊是惰。做事隨便做】(I sĩ tuãⁿ, tsò-sṳ̄ chhìn-tshái tsò) He is idle, and does things carelessly.
-* 【汝下日不可此樣生】(Lṳ́ ẽ-jít m̃-móⁿ chièⁿ-seⁿ) You must not be like this for the future.
+* 【汝下日毋孬此樣生】(Lṳ́ ẽ-jít m̃-móⁿ chièⁿ-seⁿ) You must not be like this for the future.
 * 【汝着此樣生物】(Lṳ́ tiéh chièⁿ-seⁿ muéh) You must do it like this.
 * 【着記得日日着此樣生】(Tiéh kì-tit, jít-jít tiéh chièⁿ-seⁿ) You must remember, and every day do like this.
 * 【我年年着轉去】(Uá nîⁿ-nîⁿ tiéh-tńg--khṳ̀) I must go home every year.

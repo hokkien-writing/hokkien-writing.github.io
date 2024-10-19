@@ -27,7 +27,7 @@ date: 2022-11-20 23:55:00
 * 【Accumulate】(Chek) 積
 * 【Accustom】(Kùiⁿ-sìⁿ) 慣習
 * 【Acknowledge】(Jīn) 認
-* 【Acquaintance】(Siang-sék--kâi-nâng; phêng-iú) 相熟的儂　朋友
+* 【Acquaintance】(Siang-sék--kâi-nâng; phêng-iú) 相熟嘅儂　朋友
 * 【Acre】(Bóu) 畝
 * 【Act】(Tsò; kiâⁿ) 做　行
 * 【Actor, in play】(Hi-kiáⁿ; hì-kieh) 梨園
@@ -97,7 +97,7 @@ date: 2022-11-20 23:55:00
 * 【Atone】(Sók-tsũe) 贖罪
 * 【Attend, upon somebody】(Teng-tùe) 盯綴
 * 【Attend, on sick person】(Khâng-khiâ) 捧擎
-* 【Attendants】(Kṳn-sûi; teng-tùe--kâi-nâng) 跟隨　盯綴的儂
+* 【Attendants】(Kṳn-sûi; teng-tùe--kâi-nâng) 跟隨　盯綴嘅儂
 * 【Attentive】(Tsuan-sim; kṳn-sim) 專心　謹心
 * 【Author】(Tsò-tsṳ; tù-tsṳ) 做書  著書
 * 【Authority, discretion】(Khuân) 權
@@ -105,7 +105,7 @@ date: 2022-11-20 23:55:00
 * 【Awhile】(Khùn-kiáⁿ) 頃囝
 * 【Bachelor】(Bô-bóu) 無𡚸
 * 【Backbone】(Ie-kut; ie-chiah-kut) 腰骨　腰脊骨
-* 【Bad】(Ak; phái; m̃-móⁿ) 惡　痞  不好
+* 【Bad】(Ak; phái; m̃-móⁿ) 惡　痞  毋孬
 * 【Bag】(Tō; pòu-tō) 袋　布袋
 * 【Baggage】(Hêng-lí; pan-kó) 行李　包裹
 * 【Bail】(Tam-sêng) 擔承
@@ -123,7 +123,7 @@ date: 2022-11-20 23:55:00
 * 【Barbarian】(Huan-nâng; huan[1]) 番儂　番
 * 【Barber】(Thì-thâu; thì-thâu-kiáⁿ) 剃頭　剃頭囝
 * 【Bare, body】(Thǹg-theh-theh) 褪赤赤
-* 【Bare, foot】(Thǹg-chiah-kha) 褪赤腳
+* 【Bare, foot】(Thǹg-chiah-kha) 褪赤骹
 * 【Bark】(Chhiū-phûe) 樹皮
 * 【Bark as dogs】(Pūi) 吠
 * 【Barn】(Chhek-tshng) 粟倉
@@ -135,7 +135,7 @@ date: 2022-11-20 23:55:00
 * 【Bear, cannot】(Nãiⁿ-m̃-khṳ̀; tòng-m̃-tiôu) 耐毋去 擋毋條
 * 【Beast】(Khîm-siù) 禽獸
 * 【Beastly】(Tṳ-káu khîm-siù) 豬狗禽獸
-* 【Beau】(Hàuⁿ-héhⁿ--kâi-nâng) 好赫的儂
+* 【Beau】(Hàuⁿ-héhⁿ--kâi-nâng) 好赫嘅儂
 * 【Beautiful】(Ngiá; hó-thóiⁿ) 雅　好睇
 * 【Beckon】(Iáh; iáh-chhiú) 曳　曳手
 * 【Bed】(Mîn-tshn̂g) 眠牀
@@ -178,7 +178,7 @@ date: 2022-11-20 23:55:00
 * 【Beyond, to go】(Kùe) 過
 * 【Bind】(Pák; khún; hâ) 綁　綑　縖
 * 【„ book】(Kap-tsṳ-chheh) 夾書冊
-* 【„ feet】(Tîⁿ-kha) 纏腳
+* 【„ feet】(Tîⁿ-kha) 纏骹
 * 【Birthday】(Seⁿ-jít) 生日
 * 【Bistre】(Tṳ-kuaⁿ-sek) 豬肝色
 * 【Bit, of anything】(Chék-tiám; tiám-kiáⁿ) 一點　點囝
@@ -187,7 +187,7 @@ date: 2022-11-20 23:55:00
 * 【„ as pepper】(Soh) 束
 * 【Bitter】(Khóu) 苦
 * 【Black】(Ou) 烏
-* 【Blackguard】(Tshàu-nâng; aù-nâng; bô-hē bô-lóh--kâi-nâng) 臭儂　爛儂　無下無落的儂
+* 【Blackguard】(Tshàu-nâng; aù-nâng; bô-hē bô-lóh--kâi-nâng) 臭儂　爛儂　無下無落嘅儂
 * 【Blacksmith】(Phah-thih) 拍鐵
 * 【Bladder】(Jiē-pha; tsúi-pha; lãn-pha[2]) 尿脬  水脬  卵脬
 * 【Blade, of a knife】(To-nék) 刀肉
@@ -200,7 +200,7 @@ date: 2022-11-20 23:55:00
 * 【Bleed】(Lâu-hueh) 流血
 * 【Bless】(Sṳ̀-hok) 賜福
 * 【Blessing】(Hok-khì) 福氣
-* 【Blind】(Chheⁿ-mêⁿ) 靑盲
+* 【Blind】(Chheⁿ-mêⁿ) 青盲
 * 【Blindfold】(Aⁿ-mák tsáu-tīam) 掩目走坫
 * 【Block, large lump of wood】(Tshâ-thâu) 柴頭
 * 【Blockade】(Kìm-kháu; Kìm-káng) 禁口　禁港
@@ -213,7 +213,7 @@ date: 2022-11-20 23:55:00
 * 【„ out, as lamp】(Pûn-kùe) 歕過
 * 【Bludgeon】(Tshâ-thûi) 柴槌
 * 【Blue】(Nâm; lâm) 藍
-* 【„ as sky】(Chheⁿ) 靑
+* 【„ as sky】(Chheⁿ) 青
 * 【Blunder】(Tshò; m̃-tiéh) 錯　毋着
 * 【Blunt, of knife】(Tun) 鈍
 * 【„ of point】(Lu; bõi-chiam) 夵　毋尖
@@ -336,7 +336,7 @@ date: 2022-11-20 23:55:00
 * 【„ as pork, beef】(Kuah-tṳ-bah; kuah-gû-bah) 割豬肉　割牛肉
 * 【Buzz】(Ng-ng-kiè) 嗡嗡叫
 * 【By-name, (nickname,)】(Thóu-miâⁿ) 土名
-* 【By-stander】(Khiã-tõ-kha-thāu--kâi-nâng) 徛在腳頭的儂
+* 【By-stander】(Khiã-tõ-kha-thāu--kâi-nâng) 徛在骹頭嘅儂
 * 【By-word】(Sók-gṳ́) 俗語
 * 【Cabin】(Bā-lî; tsûn-búe-lâu) 峇厘　船尾樓
 * 【Cable, anchor】(Tèng-soh) 椗索
@@ -397,7 +397,7 @@ date: 2022-11-20 23:55:00
 * 【Cease】(Hiah) 歇
 * 【Ceiling】(Máng-thien) 慢天？
 * 【Celebrated】(Tshut-miâⁿ) 出名
-* 【Celestial】(Thiⁿ-téng kâi-sṳ̄) 天頂的事
+* 【Celestial】(Thiⁿ-téng kâi-sṳ̄) 天頂嘅事
 * 【Cemetery, public】(Kong-si-suaⁿ) 公司山
 * 【Centre】(Tìn-tang) 鎭中
 * 【Ceremony】(Lói) 禮
@@ -461,9 +461,9 @@ date: 2022-11-20 23:55:00
 * 【Class, as in school】(Pan) 班
 * 【Classics, the five Chinese】(Ngóu-kiaⁿ) 五經
 * 【Claw】(Jióu) 抓
-* 【Clean】(Chheng-khih) 淸潔
-* 【„ as servants being】(Chheng-khih-sièⁿ) 淸潔相
-* 【Clear, as water】(Chheng) 淸
+* 【Clean】(Chheng-khih) 清潔
+* 【„ as servants being】(Chheng-khih-sièⁿ) 清潔相
+* 【Clear, as water】(Chheng) 清
 * 【„ as affairs】(Mêng; mêng-péh) 明　明白
 * 【Clerk】(Tshâi-hù) 財副
 * 【Clever】(Gâu; khiàng; õi; miâⁿ-ke) 賢　勥  會　名家
@@ -531,7 +531,7 @@ date: 2022-11-20 23:55:00
 * 【Concern, to】(Ũ-kan-siáp) 有干涉
 * 【„ does not】(Bô-kan-siáp) 無干涉
 * 【Conciliate】(Hûa; kiâⁿ-hûa) 和　行和
-* 【Concubine】(Jī-nâng; tsáu-kúi; chhiah-kha) 二儂　走鬼　赤腳
+* 【Concubine】(Jī-nâng; tsáu-kúi; chhiah-kha) 二儂　走鬼　赤骹
 * 【Condemn】(Tiāⁿ-tsũe) 定罪
 * 【Conduct】(Kiâⁿ-ûi) 行爲
 * 【Confess】(Jīn) 認
@@ -572,7 +572,7 @@ date: 2022-11-20 23:55:00
 * 【Cook, a】(Húe-thâu; hiâⁿ-húe-sít) 火頭　燃火食
 * 【Cool】(Liâng) 凉
 * 【„ to】(Lā-liâng; lā-chhìn) 拉凉　拉凊
-* 【Coolie】(Taⁿ-tàⁿ; ngẽ-kioh) 擔擔  硬腳
+* 【Coolie】(Taⁿ-tàⁿ; ngẽ-kioh) 擔擔  硬骹
 * 【Cooper】(Khou-tháng) 箍桶
 * 【Copper】(Tàng) 銅
 * 【Coppersmith】(Phah-tâng sai-pẽ) 拍銅司阜
@@ -585,11 +585,11 @@ date: 2022-11-20 23:55:00
 * 【„ to】(Kói) 改
 * 【Correspond】(Siang-tâng; pêⁿ-iēⁿ) 相同　平樣
 * 【Cost, price】(Kè-chîⁿ) 價錢
-* 【Costly】(Tát-chîⁿ) 値錢
+* 【Costly】(Tát-chîⁿ) 值錢
 * 【Count】(Sǹg; siòu) 算　數
 * 【Counter】(Phòu-kūiⁿ) 舖櫃
 * 【Counterfeit, dollar】(Tâng-ngṳ̂n) 銅銀
-* 【„ cash】(M̃-móⁿ-chîⁿ) 不好錢
+* 【„ cash】(M̃-móⁿ-chîⁿ) 毋孬錢
 * 【Country】(Kok; tī-hng) 國　地方
 * 【Couple】(Chék-tùi) 一對
 * 【Course, of】(Thien-seⁿ; tsṳ̃-jiên) 天生　自然
@@ -615,7 +615,7 @@ date: 2022-11-20 23:55:00
 * 【„ through a gap】(Bùn; nǹg) 鑽
 * 【Crime】(Tsũe) 罪
 * 【Crimson】(Tūa-âng) 大紅
-* 【Cripple】(Kuái-kha) 拐腳
+* 【Cripple】(Kuái-kha) 拐骹
 * 【Crockery】(Hûi) 𦈢
 * 【Crocodile】(Bā-kiáⁿ; ngák-hû) 峇囝　鱷魚
 * 【Crooked】(Uan) 冤
@@ -640,7 +640,7 @@ date: 2022-11-20 23:55:00
 * 【Dazzle】(In-n̄g; iàng-mák; chhiēⁿ-mák) 印？  映目  上目?
 * 【Dead】(Sí; kùe--khṳ̀; kùe-sì) 死　過去　過世
 * 【Deaf】(Hĩⁿ--lâng; hĩⁿ lâng) 耳聾
-* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè) 欠儂的錢　欠儂的債
+* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè) 欠儂嘅錢　欠儂嘅債
 * 【Decide】(Tsú-ì) 主意
 * 【„ in law】(Kat; kat-uàⁿ; kat-tít) 結　結案　結直
 * 【Decorate】(Tshái) 彩
@@ -684,7 +684,7 @@ date: 2022-11-20 23:55:00
 * 【Disagree】(M̃-háh) 毋合
 * 【„ of persons】(M̃-hûa) 毋和
 * 【Disappear】(M̃-kìⁿ; bô--khṳ̀) 毋見　無去
-* 【Disappoint, a person】(Gōu--tiéh nâng-kâi-sṳ̄) 誤着儂的事
+* 【Disappoint, a person】(Gōu--tiéh nâng-kâi-sṳ̄) 誤着儂嘅事
 * 【Discharge, a servant】(Sî-tiòu; sǹg-hiah) 辭掉　算歇
 * 【Discoloured】(Lóh-sek; thò-sek) 落色　退色
 * 【Discuss】(Káng-kiù; káng-lũn; piẽn-lũn) 講究　講論　辯論
@@ -803,7 +803,7 @@ date: 2022-11-20 23:55:00
 * 【Estate, land】(Tī; tshân-tī) 地　田地
 * 【„ general】(Ke-ngiáp; ke-sṳ̄; ke-tsṳ) 家業　家事　家資
 * 【Esteem, a person】(Kèng-tõng; thóiⁿ-tõng) 敬重　睇重
-* 【Estimate, price or value】(Kóu; kóu-kè; kóu-tát; pān) 估　估價　估値　辦
+* 【Estimate, price or value】(Kóu; kóu-kè; kóu-tát; pān) 估　估價　估值　辦
 * 【Everlasting】(Buān-sì) 萬世
 * 【Evidence, in court】(Kháu-keng) 口供
 * 【Evil】(Ak) 惡
@@ -820,7 +820,7 @@ date: 2022-11-20 23:55:00
 * 【Expect】(Mōⁿ) 望
 * 【Expend】(Sái) 使
 * 【Expenditure】(Só-hùi) 所費
-* 【Expensive】(Kùi; tát-chîⁿ) 貴　値錢
+* 【Expensive】(Kùi; tát-chîⁿ) 貴　值錢
 * 【„ living】(Só-hùi-tūa) 所費大
 * 【Experience】(Sék) 熱
 * 【Expire】(Tñg-khùi; kùe--khṳ̀) 斷氣　過去
@@ -897,7 +897,7 @@ date: 2022-11-20 23:55:00
 * 【Formerly】(Tsá tiang-sî; hṳ́-tiang-sî) 早底當時  彼底當時
 * 【Fortunate】(Tsãu-hùe; tshâi-khì) 造化　財氣
 * 【Fortune】(Miāⁿ; ūn; tshâi-khì) 命　運　財氣
-* 【Foundation】(Tī-kha) 地腳
+* 【Foundation】(Tī-kha) 地骹
 * 【Fountain】(Tsûaⁿ; tsúi-tsûaⁿ) 泉　水泉
 * 【Freight】(Tsûn-tsou) 船租
 * 【Fresh】(Chhiⁿ) 鮮
@@ -939,7 +939,7 @@ date: 2022-11-20 23:55:00
 * 【Gray, as hair】(Tshang-péh) 蒼白
 * 【Graze, as cattle】(Khòi-tsháu; chiáh-tsháu) 喫草　食草
 * 【Greedy】(Tham-sim; tham-chiáh) 貪心　貪食
-* 【Green】(Chheⁿ; lék) 靑　綠
+* 【Green】(Chheⁿ; lék) 青　綠
 * 【Greet】(Sie-chieh-mn̄g) 相借問
 * 【Grief】(Huân-ló) 煩惱
 * 【Grind, as flour】(Oi) 挨
@@ -978,7 +978,7 @@ date: 2022-11-20 23:55:00
 * 【„ to】(Tun) 堆
 * 【Hear】(Thiaⁿ; thiaⁿ-kìⁿ) 聽　聽見
 * 【Heart】(Sim; sim-kuaⁿ) 心　心肝
-* 【Heel】(Kha-aũ-teⁿ) 腳後跟
+* 【Heel】(Kha-aũ-teⁿ) 骹後跟
 * 【Heir】(Aũ-ĩ) 後裔
 * 【Help】(Sie-hũ; siang-pang) 相輔　相幫
 * 【Hiccough】(Phah-oh) 拍呃
@@ -1039,7 +1039,7 @@ date: 2022-11-20 23:55:00
 * 【Instruct】(Kà) 教
 * 【Instrument】(Khì-kũ) 器具
 * 【Intercourse】(Lâi-uáng) 來往
-* 【Interfere, with other's affair】(Tshap-nâng-kâi-sṳ̄) 插儂的事
+* 【Interfere, with other's affair】(Tshap-nâng-kâi-sṳ̄) 插儂嘅事
 * 【Interior】(Lãi; lãi-pôiⁿ) 內　內爿
 * 【Interpret】(Hûe; hûe-uē) 回　回話
 * 【Interpreter】(Hûe-uē) 回話
@@ -1146,7 +1146,7 @@ date: 2022-11-20 23:55:00
 * 【Lurk】(Tiàm; bih) 坫  覕
 * 【Maggot】(Thâng) 蟲
 * 【Magnifying glass】(Hién-mûiⁿ-kiàⁿ) 顯微鏡
-* 【Maid, servant】(Tsáu-kúi; chhiah-kha) 走鬼　赤腳
+* 【Maid, servant】(Tsáu-kúi; chhiah-kha) 走鬼　赤骹
 * 【Manage】(Lí; phōiⁿ; liōu-lí) 理　辨　料理
 * 【Manner】(Khuán) 款
 * 【Manure】(Pûi; pùn) 肥　糞
@@ -1164,7 +1164,7 @@ date: 2022-11-20 23:55:00
 * 【Mend】(Póu; chiáⁿ-lí) 補　整理
 * 【Mercy, to have】(Khó-liên) 可憐
 * 【Merely】(Put-kùe) 不過
-* 【„ not】(M̃-khéng; m̃-chheng; put-chí) 毋肯　毋淸　不止
+* 【„ not】(M̃-khéng; m̃-chheng; put-chí) 毋肯　毋清　不止
 * 【Message】(Uē) 話
 * 【Method】(Huap) 法
 * 【Microscope】(Hién-mûiⁿ-kiàⁿ) 顯微鏡
@@ -1211,7 +1211,7 @@ date: 2022-11-20 23:55:00
 * 【Negro】(Ou-mīn-nâng; ou-huan) 烏面儂　烏番
 * 【Neighbour】(Tshù-piⁿ) 厝邊
 * 【Nest】(Siū) 岫
-* 【Nickname】(Thóu-mîaⁿ; nâng-thóu-tsuãn kâi-miâⁿ) 土名  儂土撰的名
+* 【Nickname】(Thóu-mîaⁿ; nâng-thóu-tsuãn kâi-miâⁿ) 土名  儂土撰嘅名
 * 【Noble】(Tsun-kui) 尊貴
 * 【Nod】(Tak-thâu) 點頭
 * 【Noise】(Siaⁿ) 聲
@@ -1259,8 +1259,8 @@ date: 2022-11-20 23:55:00
 * 【Pair, a】(Chék-tùi; chék-sang) 一對　一雙
 * 【Pair, to】(Phùe; phit-phùe) 配　匹配
 * 【Palace】(Uâng-keng) 王宮
-* 【Pale, sickly】(N̂g-sng; chheⁿ-chheⁿ) 黃酸　靑靑
-* 【„ in fright】(Ou-ou; chheⁿ-chheⁿ) 烏烏　靑靑
+* 【Pale, sickly】(N̂g-sng; chheⁿ-chheⁿ) 黃酸　青青
+* 【„ in fright】(Ou-ou; chheⁿ-chheⁿ) 烏烏　青青
 * 【Palm, of hand】(Chhiú-tói) 手底
 * 【Panic】(Kiaⁿ-kàu-kông--khṳ̀) 驚到戇去
 * 【Paramour】(Kan-hu; lãu-iãng) 姦夫　老延?
@@ -1400,7 +1400,7 @@ date: 2022-11-20 23:55:00
 * 【Punkah】(Huang-sĩⁿ) 風扇
 * 【„ to pull】(Túi-huang) 拖風
 * 【Pupil, scholar】(Tĩ-tsṳ́; hák-seng) 弟子　學生
-* 【Pure】(Chheng-khih) 淸潔
+* 【Pure】(Chheng-khih) 清潔
 * 【Purposely】(Tiõu-tsuan) 刁鑽
 * 【Push】(Léng) 推
 * 【Puzzled】(Kông) 戇
@@ -1417,8 +1417,8 @@ date: 2022-11-20 23:55:00
 * 【Rank】(Cheh-hâm) 職銜
 * 【Rare】(Hán-tit ũ; chié-ũ) 罕得有　少有
 * 【Rascal】(Aù-nâng; tshàu-nâng) 臭儂
-* 【Real】(Chin) 眞
-* 【Really】(Chin-sít) 眞實
+* 【Real】(Chin) 真
+* 【Really】(Chin-sít) 真實
 * 【Reap】(Siu-tang) 收冬
 * 【Rear, as fowls】(Chhī) 飼
 * 【Reason】(Uân-kù) 緣故
@@ -1539,7 +1539,7 @@ date: 2022-11-20 23:55:00
 * 【Satisfied】(Kùe-ì; kam-nguãn) 過意　甘愿
 * 【Saunter】(Ôiⁿ-iû) 閒遊
 * 【Sausage】(Kuàn-chhiâng; kuàn-tn̂g) 貫脹
-* 【Savage】(Huan; chheⁿ-huan; suaⁿ-nâng) 番　靑番　山儂
+* 【Savage】(Huan; chheⁿ-huan; suaⁿ-nâng) 番　青番　山儂
 * 【Save】(Kiù) 救
 * 【Saving】(Khiãm; khieh-síp) 儉
 * 【Saw, to】(Kṳ̀) 鋸
@@ -1549,7 +1549,7 @@ date: 2022-11-20 23:55:00
 * 【Scaffold】(In-kè) 鷹架
 * 【Scald】(Thǹg--tiéh; nâm--tiéh) 淋着
 * 【Scales, of fish】(Hṳ̂-lân) 魚鱗
-* 【Scandal, to】(Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄) 譬相  議論儂的事
+* 【Scandal, to】(Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄) 譬相  議論儂嘅事
 * 【Scar】(Hûn; sieⁿ-hûn) 痕　傷痕
 * 【Scar-face】(Phùa-kìaⁿ) 破鏡
 * 【Scarce】(Chíe) 少
@@ -1587,7 +1587,7 @@ date: 2022-11-20 23:55:00
 * 【Servant】(A-nouⁿ) 阿奴
 * 【„ domestic】(Ke-nouⁿ) 家奴
 * 【Set, a】(Chék-hù) 一副
-* 【Settle, an affair】(Tít; chheng-tshó) 直　淸楚
+* 【Settle, an affair】(Tít; chheng-tshó) 直　清楚
 * 【Several】(Kua-kâi) 寡個
 * 【Severe】(Ngiâm; tãng) 嚴　重
 * 【„, wound】(Tãng-sieⁿ) 重傷
@@ -1614,10 +1614,10 @@ date: 2022-11-20 23:55:00
 * 【„ blood】(Lâu-hueh) 流血
 * 【Shell, as of eggs, shell-fish】(Khak) 殼
 * 【Shelter, to take】(Siám) 避
-* 【Shepherd】(Chiéⁿ-iêⁿ--kâi-nâng) 掌羊的儂
+* 【Shepherd】(Chiéⁿ-iêⁿ--kâi-nâng) 掌羊嘅儂
 * 【Shield】(Pâi; tin-pâi) 牌　籐牌
 * 【Shift】(Súa) 徙
-* 【Shin】(Kha-liâm) 腳臁
+* 【Shin】(Kha-liâm) 骹臁
 * 【Shine】(Chiè) 照
 * 【Shiver】(Khiū; tòng) 慄　凍
 * 【Shoot, with gun】(Phah; tūaⁿ) 拍  彈
@@ -1637,7 +1637,7 @@ date: 2022-11-20 23:55:00
 * 【Shuttle】(So-kiáⁿ) 梭囝
 * 【Shy】(Ùi-sióu-lí; m̃-káⁿ-kìⁿ-nâng) 畏少禮   毋敢見儂
 * 【Sick, ill】(Pēⁿ) 病
-* 【„ slightly】(Nâng m̃-móⁿ) 儂毋好
+* 【„ slightly】(Nâng m̃-móⁿ) 儂毋孬
 * 【„ for a long period】(Phùa-pēⁿ) 破病
 * 【Side】(Pôiⁿ) 爿
 * 【„ of the body】(Phiaⁿ-lî) 𩩍籬
@@ -1664,7 +1664,7 @@ date: 2022-11-20 23:55:00
 * 【Sketch, to】(Ūe) 畫
 * 【Skin】(Phûe) 皮
 * 【Skull】(Thâu-khak-uáⁿ) 頭殼碗
-* 【Sky】(Chheⁿ-thiⁿ; puàⁿ-thiⁿ) 靑天　半天
+* 【Sky】(Chheⁿ-thiⁿ; puàⁿ-thiⁿ) 青天　半天
 * 【Slack】(Lēng; sang) 鬆
 * 【Slanting】(Sia) 斜
 * 【Slap, to】(Òng) 掌
@@ -1710,7 +1710,7 @@ date: 2022-11-20 23:55:00
 * 【Soil】(Thôu) 塗
 * 【Solder, to】(Ún) 鑲
 * 【Soldier】(Piaⁿ; ióng-chiàng; láu-chiàng) 兵　勇將　老將
-* 【Sole, of foot】(Kha-tói) 腳底
+* 【Sole, of foot】(Kha-tói) 骹底
 * 【„ of shoe】(Ôi-tói) 鞋底
 * 【Solstice, Summer】(Hē-chì) 夏至
 * 【„ Winter】(Tang-chì) 冬至
@@ -1777,7 +1777,7 @@ date: 2022-11-20 23:55:00
 * 【Stain】(Hú--tiéh) 捬着
 * 【Stale】(Aù) 杇
 * 【Stamp, to】(Khap; khap-ìn) 蓋　蓋印
-* 【„ with the foot】(Thiàm-kha) 蹴腳
+* 【„ with the foot】(Thiàm-kha) 蹴骹
 * 【Starch】(Chieⁿ) 漿
 * 【„ to】(Kùe-chieⁿ) 過漿
 * 【Start, on a journey】(Khí-sin; khí-kiâⁿ) 起身　起行
@@ -1798,7 +1798,7 @@ date: 2022-11-20 23:55:00
 * 【Stink】(Tshàu) 臭
 * 【Stir】(Chhiou; lā; ká) 𢲵　攪　攪
 * 【Stirrup】(Bé-táh-tèng) 馬踏䟓
-* 【Stocks】(Tshâ-gô; kha-khàu) 柴鵝　腳拷
+* 【Stocks】(Tshâ-gô; kha-khàu) 柴鵝　骹拷
 * 【Stomach】(Tóu) 肚
 * 【Stoop, down】(Phak-ku; phak--lóh-khṳ) 屈身
 * 【Store, up】(Tun) 堆
@@ -1947,7 +1947,7 @@ date: 2022-11-20 23:55:00
 * 【Thermometer】(Hân-sú-tsam) 寒暑針
 * 【Thick】(Kāu) 厚
 * 【„ as paste, congee】(Kṳ́t) 結
-* 【Thigh】(Thúi; kha-thúi) 腿　腳腿
+* 【Thigh】(Thúi; kha-thúi) 腿　骹腿
 * 【Thin】(Póh) 薄
 * 【„ as paste, congee】(Kà; chhieh) 稀
 * 【Thing】(Muéh; muéh-kiâⁿ) 物　物件
@@ -2015,7 +2015,7 @@ date: 2022-11-20 23:55:00
 * 【Triturate】(Ngóiⁿ; lûi) 研 擂
 * 【Troops】(Piaⁿ; kun-piaⁿ) 兵　軍兵
 * 【Trouble】(Kan-khóu) 艱苦
-* 【True】(Chin; sít; chin-sít; ũ-iáⁿ) 眞　實　眞實　有影
+* 【True】(Chin; sít; chin-sít; ũ-iáⁿ) 真　實　真實　有影
 * 【Trumpet】(Ti-tâ) 嘀嗒
 * 【Trust, to】(Sìn; siang-sìn) 信　相信
 * 【Try】(Chhì; chhì-thóiⁿ) 試　試睇
@@ -2061,9 +2061,9 @@ date: 2022-11-20 23:55:00
 * 【Vacant】(Khang) 空
 * 【Vacation, of school】(Pàng-ké) 放假
 * 【Vaccinate】(Chèng-tsu; chèng-tāu) 種珠　種豆
-* 【Vagrant】(Ló-tōng--kâi-nâng) 浪蕩的儂
+* 【Vagrant】(Ló-tōng--kâi-nâng) 浪蕩嘅儂
 * 【Valley】(Chhim-kheⁿ) 深坑
-* 【Valuable】(Kùi-khì; tát-chîⁿ) 貴氣　値錢
+* 【Valuable】(Kùi-khì; tát-chîⁿ) 貴氣　值錢
 * 【Vapour】(Khì) 氣
 * 【Vegetarian】(Chiáh-che) 食齋
 * 【Ventilate】(Thong-huang) 通風
@@ -2101,7 +2101,7 @@ date: 2022-11-20 23:55:00
 * 【Weave】(Keⁿ-pòu) 經布
 * 【Web, spider's】(Ti-tu-si) 蜘蛛絲
 * 【Wedge】(Chiⁿ) 錢
-* 【Weed, a】(Péh-huat kâi-tsháu) 白發的草
+* 【Weed, a】(Péh-huat kâi-tsháu) 白發嘅草
 * 【Weigh, to】(Téng; chhìn) 戥　秤
 * 【„ with balances】(Phêng) 秤
 * 【West】(Sai; sai-pôiⁿ) 西　西爿
@@ -2115,7 +2115,7 @@ date: 2022-11-20 23:55:00
 * 【Whisper, to】(Síh-súh; àm-chẽⁿ-tàⁿ) 窸窣  暗靜呾
 * 【Whistle, with the mouth】(Pûn-hi-hû) 歕唏噓
 * 【„ a】(Pi) 嗶
-* 【White, of an egg】(Nñg-chheng) 卵淸
+* 【White, of an egg】(Nñg-chheng) 卵清
 * 【Whitewash, to】(Sàu-hue-tsúi; sueh-hue-tsúi) 掃灰水　刷灰水
 * 【Wicked】(Ak; phái) 惡　痞
 * 【Wide】(Khuah) 闊
@@ -2138,9 +2138,9 @@ date: 2022-11-20 23:55:00
 * 【„ to】(Tsho; tsoh-khang-khùe; tsò-kang) 作　作工課　做工
 * 【World】(Sì-kan; thiⁿ-ẽ) 世間　天下
 * 【„ all the】(Phóu-thiⁿ-ẽ; phóu-thiⁿ-kha-ẽ) 普天下　普天踋下
-* 【Worse】(Zú-m̃-móⁿ) 愈不可
+* 【Worse】(Zú-m̃-móⁿ) 愈毋孬
 * 【Worship, to】(Pài) 拜
-* 【Worth】(Tát) 値
+* 【Worth】(Tát) 值
 * 【Worthy】(Kham-kai) 堪該
 * 【Wound, a】(Sieⁿ-kháu) 傷口
 * 【Wounded】(Sieⁿ--tiéh) 傷着

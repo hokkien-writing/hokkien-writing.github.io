@@ -23,7 +23,7 @@ date: 2022-11-20 23:22:00
 * 【番布】(Huan-pòu) Gray shirting.
 * 【白布】(Péh-pòu) White cloth.
 * 【烏布】(Ou-pòu) Black cloth.
-* 【靑布】(Chhíⁿ-pòu) Blue cloth.
+* 【青布】(Chhíⁿ-pòu) Blue cloth.
 * 【膠𤿤】(Ka-pùa) Cotton cloth.
 * 【熱布】(Zuáh-pòu) Grass cloth.
 * 【樹皮】(Chhiū-phûe) Holland.
@@ -36,7 +36,7 @@ date: 2022-11-20 23:22:00
 * 【羽紗】(Ú-se) Camlet.
 * 【羽毛】(Ú-môⁿ) Camlet.
 * 【羽綾】(Ú-lêng) Lasting.
-* 【染的布】(Níⁿ--kâi-pòu) Dyed cloth.
+* 【染嘅布】(Níⁿ--kâi-pòu) Dyed cloth.
 * 【綑條】(Kún-tiôu) Tape, for dress.
 * 【帶】(Tùa) „ tying.
 * 【一疋】(Chék-phit) A piece of cloth.
@@ -117,7 +117,7 @@ date: 2022-11-20 23:22:00
 * 【牛皮】(Gû-phûe) Hides, buffalo.
 * 【蜜】(Bít) Honey.
 * 【牛角】(Gû-kak) Horns, buffalo.
-* 【靑】(Chheⁿ) Indigo, plants.
+* 【青】(Chheⁿ) Indigo, plants.
 * 【靛】(Tōiⁿ) „ liquid.
 * 【魚膠】(Hṳ̂-ka) Isinglass.
 * 【牙】(Gê) Ivory.
@@ -209,7 +209,7 @@ date: 2022-11-20 23:22:00
 * 【數目】(Siòu-bák) An account.
 * 【數簿】(Siòu-phõu) An account book.
 * 【日逐】(Jít-tók) A rough-day book.
-* 【日淸】(Jít-chheng) A day-book.
+* 【日清】(Jít-chheng) A day-book.
 * 【總簿】(Tsóng-phõu) A ledger.
 * 【來往】(Lâi-uáng) A ledger.
 * 【歸原】(Kui-nguân) A stock ledger.
@@ -220,7 +220,7 @@ date: 2022-11-20 23:22:00
 * 【面會】(Mīn-hũe) To meet together (so as to see if the accounts of each other correspond.)
 * 【箍數】(Khou-siòu) Closed accounts.
 * 【數完】(Siòu uân) Accounts paid up.
-* 【數還淸】(Siòu hôiⁿ-chheng) Accounts paid up.
+* 【數還清】(Siòu hôiⁿ-chheng) Accounts paid up.
 * 【計共】(Kòi-kāng) Amount.
 * 【來銀】(Lâi-ngṳ̂n) Received to account.
 * 【抵除後結欠】(Tí-tṳ̂-aũ kat-khiàm) Balance due.
@@ -266,12 +266,12 @@ date: 2022-11-20 23:22:00
 * 【Cheap】(Phiⁿ) 便
 * 【Commission】(Thiu-hùn) 抽分
 * 【Compensate】(Pûe) 賠
-* 【Costly】(Tát-chîⁿ) 値錢
+* 【Costly】(Tát-chîⁿ) 值錢
 * 【Credit, give】(Chhia) 賒
 * 【Creditor】(Chè-tsú) 債主
 * 【Dear】(Kùi) 貴
 * 【Debt】(Chè) 債
-* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠儂的錢
+* 【Debt, in】(Khiàm-nâng-kâi-chîⁿ) 欠儂嘅錢
 * 【Deduct】(Tṳ̂) 除
 * 【Defray】(Tshut-só-hùi) 出所費
 * 【Deposit, entrust】(Tah) 搭
@@ -316,8 +316,8 @@ date: 2022-11-20 23:22:00
 * 【Security, to stand】(Pó-niáⁿ, tam-sêng) 保領　擔承
 * 【Treasury】(Khòu-pâng) 庫房
 * 【Usury】(Tãng-lāi, guéh-kiáⁿ) 重利　月囝
-* 【Valuable】(Kùi-khì, tát-chîⁿ) 貴氣　値錢
-* 【Worth, to be】(Tát) 値
+* 【Valuable】(Kùi-khì, tát-chîⁿ) 貴氣　值錢
+* 【Worth, to be】(Tát) 值
 
 ### A List of words used in Commerce.
 
@@ -339,7 +339,7 @@ date: 2022-11-20 23:22:00
 * 【Cask, a】(Tháng) 桶
 * 【Certificate, a】(Phêng-tuaⁿ) 憑單
 * 【Charter a ship】(Pák-tsûn) 縛船
-* 【Charter bond】(Pák-tsûn kâi-jī) 縛船的字
+* 【Charter bond】(Pák-tsûn kâi-jī) 縛船嘅字
 * 【Cheat, in commerce】(Tshuah) 掇
 * 【Chest, a】(Sieⁿ) 箱
 * 【Chop, a】(Jī-hō) 字號
@@ -352,9 +352,9 @@ date: 2022-11-20 23:22:00
 * 【Contract】(Háp-táng) 合約
 * 【Correspondence】(Phoi-sìn) 批信
 * 【Courier】(Tshoiⁿ lí-bé, tsáu-bûn-tsṳ) 千里馬　走文書
-* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交關的儂
+* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交關嘅儂
 * 【Defraud】(Tshuah) 掇
-* 【Demurrage】(Thiap-kùe-hãn kâi-ngṳ̂n) 貼過限的銀
+* 【Demurrage】(Thiap-kùe-hãn kâi-ngṳ̂n) 貼過限嘅銀
 * 【Dissolve partnership】(Thiah-húe-kì) 拆夥計
 * 【Duty, (Customs,)】(Hiàng) 餉
 * 【„ to collect】(Khieh-hiàng) 𢭪餉
@@ -408,7 +408,7 @@ date: 2022-11-20 23:22:00
 * 【Retail, to】(Lân-san-bōi) 零些賣
 * 【Rough draft】(Tshó-kó) 草稿
 * 【Salary】(Kang-tsṳ) 工資
-* 【Sale, for】(Aîⁿ-bōi--kâi) 欲賣的
+* 【Sale, for】(Aîⁿ-bōi--kâi) 欲賣嘅
 * 【„ no】(Bõi-siou) 袂消
 * 【Sample】(Pān-thâu, pān) 辦頭　辦
 * 【Sell, to】(Bōi) 賣

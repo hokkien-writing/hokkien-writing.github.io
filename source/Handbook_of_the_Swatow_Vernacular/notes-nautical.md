@@ -26,7 +26,7 @@ date: 2022-11-20 23:41:00
 * 【來抛加一個椗】(Lâi-pha ke--kâi tèng) Let us let go another anchor.
 * 【此個天時怎好行】(Chiá--thiⁿ-sî tsò-hó-kiâⁿ) Oh, we can't go on, in this weather.
 * 【今無變。多着在此乞伊吹】(Taⁿ iou-ũ-pōu, lo-tiéh nãⁿ--chié khoih-i-tshue) Now, what help can there be we must stay here and let the wind blow.
-* 【流水哩雄。風哩不好】(Lâu-tsúi li hiông, huang li m̃-móⁿ) The tide is strong, and the wind is contrary.
+* 【流水哩雄。風哩毋孬】(Lâu-tsúi li hiông, huang li m̃-móⁿ) The tide is strong, and the wind is contrary.
 * 【此隻船好駛】(Chí-chiah-tsûn hó-sái) This boat sails well.
 * 【行猛在】(Kiâⁿ-méⁿ-tsãi) It goes very fast.
 * 【火船免用駛風會行】(Húe-tsûn mín-ēng sái-huang õi-kiâⁿ) Steamers can go without setting sails.
@@ -42,7 +42,7 @@ date: 2022-11-20 23:41:00
 * 【火船有歕嗶亞未】(Húe-tsûn ũ pûn-pi a-būe?) Has the steamer sounder her whistle?
 * 【歕三下了】(Pûn saⁿ-ē--lō) She has whistled three times.
 * 【加一下就欲行】(Ke chék-ē chiũ àiⁿ-kiâⁿ) Once more (the next time) she will start.
-* 【船頭枝桅的旗。若是升半橛就欲行】(Tsûn-thâu ki-ûi kâi kî, nāⁿ-sĩ liū pùaⁿ-kuéh chiũ àiⁿ-kiâⁿ) If the flag of the foremast is hoisted half mast high, then the steamer is going to start.
+* 【船頭枝桅嘅旗。若是升半橛就欲行】(Tsûn-thâu ki-ûi kâi kî, nāⁿ-sĩ liū pùaⁿ-kuéh chiũ àiⁿ-kiâⁿ) If the flag of the foremast is hoisted half mast high, then the steamer is going to start.
 * 【個儂跋落水底。無儂去撈伊】(Kâi-nâng puáh-lóh tsúi-tói, bô-nâng khṳ̀-liôu i) A man has fallen over board, and no one has gone to pick him up.
 * 【伊無乜會泅】(I bô-mih õi-siû) He can't swim very well.
 * 【無猛猛去救伊。就着激死】(Bô méⁿ-méⁿ khṳ̀ kiù--i, chiũ-tiéh kek-sí) If he is not saved quickly, he will be drowned.

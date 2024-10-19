@@ -76,8 +76,8 @@ date: 2022-11-20 22:51:00
 * 【船主】(Tsûn-tsú) Captain.
 * 【大伙】(Tūa-húe) Chief mate.
 * 【二伙】(Jī-húe) Second mate.
-* 【管藥機的儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
-* 【燃火的儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
+* 【管藥機嘅儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
+* 【燃火嘅儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
 * 【掠舵】(Liáh-tũa) Steersman.
 * 【舵工】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.
@@ -116,7 +116,7 @@ date: 2022-11-20 22:51:00
 * 【逆風】(Ngék-huang) Contrary wind.
 * 【逆流】(Ngék-lâu) Contrary tide.
 * 【天時好】(Thiⁿ-sî hó) Fine settled weather.
-* 【天時毋好】(Thiⁿ-sî m̃-móⁿ) Bad weather.
+* 【天時毋孬】(Thiⁿ-sî m̃-móⁿ) Bad weather.
 * 【天時烏暗】(Thiⁿ-sî ou-àm) Weather black and dark.
 * 【東】(Tang) East.
 * 【西】(Sai) West.

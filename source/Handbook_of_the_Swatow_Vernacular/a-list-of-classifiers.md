@@ -17,7 +17,7 @@ date: 2022-11-20 23:39:00
 * 【頂】(Téng) Applied to, hats, caps, sedan chairs, &c.
 <!--more-->
 * 【領】(Niáⁿ) Applied to, coats, bed clothes, nets, mats, &c.
-* 【腳】(Kha) Applied to, boxes, coffins, bangles, rings, &c.
+* 【骹】(Kha) Applied to, boxes, coffins, bangles, rings, &c.
 * 【間】(Koiⁿ) Applied to, houses, shops, rooms.
 * 【座】(Tsō) Applied to, large dwelling houses, ancestral halls.
 * 【張】(Tieⁿ) Applied to, sheets of paper, letters

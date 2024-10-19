@@ -12,7 +12,7 @@ Substantives and Adjectives are not declined: the same word expresses both the s
 
 | Singular               | Plural                              |
 | ---------------------- | ----------------------------------- |
-| 【我】 (Uá) I.           | 【阮。咱】(Ún or nán) we.                |
+| 【我】 (Uá) I.           | 【阮。俺】(Ún or nán) we.                |
 | 【汝】(Lṳ́) thou or you. | 【恁】(Nín) ye or you.                 |
 | 【伊】(I) he, she, it.   | 【因。伊儂】 (In or i--nâng) they, them. |
 
@@ -27,7 +27,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 * 【汝去】(Lṳ́ khṳ̀) You go.
 * 【伊欲】(I àiⁿ) He wants.
 * 【阮勿】(Ún màiⁿ) We don't want.
-* 【恁是我的朋友】(Nín sĩ uá kâi phêng-iú) You are my friends.
+* 【恁是我嘅朋友】(Nín sĩ uá kâi phêng-iú) You are my friends.
 * 【因。伊儂是外儂】(In or i--nâng sĩ gūa-nâng) They are outsiders.
 
 #### past tense.
@@ -79,7 +79,7 @@ The chief signs of the Future Tense are àiⁿ, 正欲 chiàⁿ-àiⁿ, (want) �
 
 ### potential mood.
 
-The signs of the Potential Mood are 會 õi, 袂 bõi, 會得 õi-tit, 袂得 bõi-tit, 好 hó, 着 tiéh, and 不可 m̃-móⁿ.
+The signs of the Potential Mood are 會 õi, 袂 bõi, 會得 õi-tit, 袂得 bõi-tit, 好 hó, 着 tiéh, and 毋孬 m̃-móⁿ.
 
 Õi (can) 會 implies ability, and 袂 bõi (cannot) implies its opposite, inability.
 
@@ -105,13 +105,13 @@ Tiéh 着 (must, ought, or should) implies obligation.
 * 【汝着來】(Lṳ́ tiéh-lâi) You must, (ought to, or should) come.
 * 【喊伊着恬恬】(Hàm i tiéh tiām-tiām) Tell him he ought to be silent.
 * 【我着嫌汝】(Uá tiéh-hiâm lṳ́) I must blame you.
-* 【汝着認汝的毋着】(Lṳ́ tiéh-jīn lṳ́ kâi m̃-tiéh) You should admit your fault.
+* 【汝着認汝嘅毋着】(Lṳ́ tiéh-jīn lṳ́ kâi m̃-tiéh) You should admit your fault.
 
-M̃-móⁿ (don't) 不可 implies the opposite of 着 tiéh, viz. must not, ought not, and should not.
+M̃-móⁿ (don't) 毋孬 implies the opposite of 着 tiéh, viz. must not, ought not, and should not.
 
-* 【汝不可去】(Luú m̃-móⁿ khṳ̀) You must not go.
-* 【恁不可分伊去】(Nín m̃-móⁿ pun i khṳ̀) You ought not to let him go.
-* 【恁不可詏】(Nín m̃-móⁿ à) You should not argue.
+* 【汝毋孬去】(Luú m̃-móⁿ khṳ̀) You must not go.
+* 【恁毋孬分伊去】(Nín m̃-móⁿ pun i khṳ̀) You ought not to let him go.
+* 【恁毋孬詏】(Nín m̃-móⁿ à) You should not argue.
 
 The Passive verb is formed by the use of the words 分 pun, 乞 khoih (to give) and 分儂 pun--nâng (give people.)
 
@@ -122,7 +122,7 @@ The Passive verb is formed by the use of the words 分 pun, 乞 khoih (to give) 
 * 【是分伊刣亞毋是】(Sĩ pun i thâi a m̃-sĩ?) Was he kileld by him or not?
 * 【伊分雷公敲死】(I pun lûi-kong khà-sí) He was struck to death by lightning.
 * 【伊袂分儂騙】(I bõi pun--nâng phièn) He cannot be deceived by people.
-* 【伊的名聲乞儂呵咾】(I kâi miâⁿ-siaⁿ khoih--nâng o-ló) His name is praised by the people.
+* 【伊嘅名聲乞儂呵咾】(I kâi miâⁿ-siaⁿ khoih--nâng o-ló) His name is praised by the people.
 
 The Progressive Form is formed by the use of the word 在 tõ (in the act of) and 欲 àiⁿ (want.)
 
@@ -142,11 +142,11 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 * 【此個稍大】(Chí--kâi ióu-tūa) This is a little larger.
 * 【伊有愈㩼我】(I ũ zú-tsōi uá) He has more than I.
 * 【此個敬長過彼個】(Chí--kâi kèng-tn̂g kùe hṳ́-kâi) This is longer than that.
-* 【汝的好。我的愈敬好】(Lṳ́--kâi hó, uá--kâi zú-kèng hó) Yours is good, (but) mine better.
+* 【汝嘅好。我嘅愈敬好】(Lṳ́--kâi hó, uá--kâi zú-kèng hó) Yours is good, (but) mine better.
 * 【伊會走猛過我】(I õi-tsáu méⁿ-kùe uá) He can run faster than I.
 * 【伊行猛過伊走】(Lṳ́ kiâⁿ méⁿ-kùe i tsáu) You walk faster than he runs.
 * 【潮州府會贏過汕頭亞袂】(Tiê-chiu-hú õi iâⁿ-kùe Suaⁿ-thâu a-bõi?) Is Ch'ao-chow-fu better than Swatow?
-* 【汝寫的字贏我的】(Lṳ́ siá kâi jī iâⁿ uá kâi) Your writing is better than mine.
+* 【汝寫嘅字贏我嘅】(Lṳ́ siá kâi jī iâⁿ uá kâi) Your writing is better than mine.
 * 【伊作事贏汝】(I tsò-sṳ̄ iâⁿ lṳ́) He does things better than you.
 * 【汝無用。輸伊】(Lṳ́ bô-ēng su i) You are no use, and are surpassed by him.
 * 【汝會走贏伊嗎】(Lṳ́ õi tsáu-iâⁿ i mē?) Can you over take him in running?
@@ -156,9 +156,9 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 
 The words employed in the superlative degrree are 上 siãng and 上頂 siãng-téng (supreme); the latter generally refers to the qualities of goods, viz.—
 
-* 【有上大的嗎】(Ũ siãng-tūa--kâi mē?) Have you the largest one?
-* 【此個就是上大的】(Chí--kâi chiũ-sĩ siãng-tūa kâi) This is the largest one.
-* 【我欲上頂好的】(Uá àiⁿ siãng-téng-hó--kâi) I want the best (quality.)
+* 【有上大嘅嗎】(Ũ siãng-tūa--kâi mē?) Have you the largest one?
+* 【此個就是上大嘅】(Chí--kâi chiũ-sĩ siãng-tūa kâi) This is the largest one.
+* 【我欲上頂好嘅】(Uá àiⁿ siãng-téng-hó--kâi) I want the best (quality.)
 
 ------
 

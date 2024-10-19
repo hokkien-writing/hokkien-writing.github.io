@@ -8,13 +8,13 @@ date: 2022-11-20 23:43:00
 
 ## Lesson XXIX. Notes—Medical.
 
-* 【我今旦日儂毋好】(Uá kiáⁿ-jít nâng m̃-móⁿ) I am unwell to-day.
+* 【我今旦日儂毋孬】(Uá kiáⁿ-jít nâng m̃-móⁿ) I am unwell to-day.
 * 【汝寧可去倒】(Lṳ́ nêng-kò khṳ̀-tó) You had better go and lie down.
-* 【汝的儂怎呢】(Lṳ́ kâi nâng tsò-nîⁿ?) What is the matter with you?
+* 【汝嘅儂怎呢】(Lṳ́ kâi nâng tsò-nîⁿ?) What is the matter with you?
 * 【儂熱】(Nâng zuáh) I have got fever.
 * 【欲請先生嗎】(Âiⁿ-chhiáⁿ sin-seⁿ mē?) Do you wish to engage a doctor?
 <!--more-->
-* 【汝的脈猛】(Lṳ́ kâi méhⁿ méⁿ) Your pulse is fast.
+* 【汝嘅脈猛】(Lṳ́ kâi méhⁿ méⁿ) Your pulse is fast.
 * 【我零些寒藥分汝食】(Uá lân-ló kûaⁿ-iéh pun lṳ́ chiáh) I will give you some quinine to take.
 * 【怎呢食】(Tsò-nîⁿ-chiáh?) How am I to take it?
 * 【配點囝凊水】(Thōu tiám-kiáⁿ chhìn-tsúi) Take it with a little cold water.
@@ -28,14 +28,14 @@ date: 2022-11-20 23:43:00
 * 【用雞毛抹】(Ēng koi-môⁿ buah) Apply it with a fowl's feather.
 * 【手勿摸着】(Chhiú màiⁿ-thãng--tiéh) Don't touch it with the fingers.
 * 【汝有是乜毛病】(Lṳ́ ũ sĩ-mîh mâuⁿ-pēⁿ?) What sickness have you?
-* 【糜腳】(Mîⁿ-kha) A bad leg.
+* 【糜骹】(Mîⁿ-kha) A bad leg.
 * 【糜到今有若久了】(Mîⁿ-kàu-taⁿ ũ jiéh-kú--lō?) How long has it been ulcerated.
 * 【有成年】(U^ chiâⁿ-nîⁿ) About a year.
 * 【會癢亞袂】(Ōi-chiẽⁿ a-bõi?) Does it itch?
-* 【若是會癢不可爬】(Nãⁿ-sĩ õi-chiẽⁿ m̃-móⁿ pê) If it itches, you mustn't scratch it.
+* 【若是會癢毋孬爬】(Nãⁿ-sĩ õi-chiẽⁿ m̃-móⁿ pê) If it itches, you mustn't scratch it.
 * 【歸去。着刻苦耐】(Kui-khṳ̀, tiéh khat-khóu nãiⁿ) Let it be, you must do your best to bear it.
 * 【一瞑起。起來。用此藥水洗】(Chék-mêng-khí khí-lâi-kâu ēng chiá iéh-tsúi sói) When you get up in the morning, wash it with this lotion.
-* 【伊的病重】(I-kâi pēⁿ tãng) His illness is serious.
+* 【伊嘅病重】(I-kâi pēⁿ tãng) His illness is serious.
 * 【着力在。欲死】(Tih-lát-tsãi, àiⁿ-sí) Very serious, almost dying.
 * 【無救了】(Bô-kiù--lō) There is no hope, (lit. there is no salvation.)
 * 【勿亂食】(Màiⁿ-thèng-chiáh) Don't be eating what you shouldn't eat.
