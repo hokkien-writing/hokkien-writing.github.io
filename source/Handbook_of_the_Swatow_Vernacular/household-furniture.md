@@ -9,7 +9,7 @@ date: 2022-11-20 21:59:00
 ## Lesson XIV. household furniture &c.
 
 * 【家私】(Ke-si) Furnitures.
-* 【牀】(Tshn̂g) A table.
+* 【床】(Tshn̂g) A table.
 * 【桌】(Toh) A table.
 * 【交椅】(Kau-íⁿ) A chair.
 * 【琴】(Khîm) An organ or piano.
@@ -23,14 +23,14 @@ date: 2022-11-20 21:59:00
 * 【鐵鉗】(Thih-kîⁿ) Tongs.
 * 【鐵匙】(Thih-sî) A fire shovel.
 * 【氈】(Chiⁿ) A rug, a carpet.
-* 【三骹圓牀】(Saⁿ-kha îⁿ-tshn̂g) A tripod round table.
-* 【四方牀】(Sì-pang tshn̂g) A square table.
+* 【三骹圓床】(Saⁿ-kha îⁿ-tshn̂g) A tripod round table.
+* 【四方床】(Sì-pang tshn̂g) A square table.
 * 【茶几】(Tê-kí) A small tea-table.
-* 【牀落凍石】(Tshn̂g lóh tàng-chiéh) Tables with marble-top.
+* 【床落凍石】(Tshn̂g lóh tàng-chiéh) Tables with marble-top.
 * 【冊架】(Chheh-kè) A book-stand.
 * 【冊櫥】(Chheh-tû) A book-case.
-* 【寫字牀刻嘅】(Siá-jī-tshn̂g khek--kâi) A carved writing desk.
-* 【牀櫃】(Tshn̂g-kūiⁿ) A Chinese writing desk.
+* 【寫字床刻嘅】(Siá-jī-tshn̂g khek--kâi) A carved writing desk.
+* 【床櫃】(Tshn̂g-kūiⁿ) A Chinese writing desk.
 * 【鉛筆】(În-pit) Pencil (lead.)
 * 【鐵筆】(Thih-pit) Steel-pen.
 * 【筆架】(Pit-kè) A pen-stand.
@@ -66,12 +66,12 @@ date: 2022-11-20 21:59:00
 * 【猛猛凊在。火起熱熱】(Méⁿ méⁿ chhìn-tsãi, húe-khí jiét-jiét) Look sharp, it is very cold, and make the fire very fierce.
 * 【塗炭落㩼㩼】(Thôu-thùaⁿ lóh tsōi-tsōi) Put plenty of coals on.
 * 【此領氈挈去拂掉塗粉】(Chí-niáⁿ chiⁿ khiéh khṳ̀ pũaⁿ-tiòu thôu-hún) Take this rug and beat off the dust.
-* 【在此好放一張四方牀】(Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g) Here can be put a square table.
-* 【此張圓牀來徙放別處】(Chí-tieⁿ îⁿ-tshn̂g lâi suá pàng pát-kò) Let us remove this round table to some other place.
+* 【在此好放一張四方床】(Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g) Here can be put a square table.
+* 【此張圓床來徙放別處】(Chí-tieⁿ îⁿ-tshn̂g lâi suá pàng pát-kò) Let us remove this round table to some other place.
 * 【欲徙放底塊】(Àiⁿ-súa pàng tî-kò?) Where shall we remove it to?
 * 【此張冊架來徙放此塊】(Chí-tieⁿ chheh-kè lài súa pàng chié;) Let us remove the book-stand here;
-* 【圓牀來放彼】(Îⁿ-tshn̂g lâi-sāi pàng-hié…) And place the round table there.
-* 【汝去我寫字牀挈一枝鉛筆來】(Lṳ́ khṳ̀ uá siá-jī-tshn̂g khiéh chék-ki în-pit lâi) You go to my writing desk and get me a pencil
+* 【圓床來放彼】(Îⁿ-tshn̂g lâi-sāi pàng-hié…) And place the round table there.
+* 【汝去我寫字床挈一枝鉛筆來】(Lṳ́ khṳ̀ uá siá-jī-tshn̂g khiéh chék-ki în-pit lâi) You go to my writing desk and get me a pencil
 * 【佮挈一張紙】(Kah khiéh chék-tieⁿ tsúa) And a sheet of paper.
 * 【是可紙。白竹紙亞是西國紙】(Sĩ-mih tsúa, péh-tek-tsúa a-sĩ sai-kok-tsúa) What sort of paper, Chinese or foreign?
 * 【任都好】(Zuãn tou-hó) Either will do.
@@ -89,14 +89,14 @@ date: 2022-11-20 21:59:00
 
 ### Bed Room.
 
-* 【眠牀】(Mîn-tshn̂g) A bedstead.
-* 【炕牀】(Khàng-tshn̂g) A Chinese couch.
+* 【眠床】(Mîn-tshn̂g) A bedstead.
+* 【炕床】(Khàng-tshn̂g) A Chinese couch.
 * 【鋪】(Phou) A bed formed of two benches with boards laid across.
 * 【褥】(Zók) Mattress.
 * 【枕頭】(Chím-thâu) A pillow.
 * 【攬嘅枕頭】(Nám--kâi chím-thâu) A bolster.
 * 【蠓帳】(Máng-tiàⁿ) Mosquito curtain.
-* 【眠牀白布】(Mîn-tshn̂g péh-pòu) Bed-sheet.
+* 【眠床白布】(Mîn-tshn̂g péh-pòu) Bed-sheet.
 * 【枕頭囊】(Chím-thâu-lông) Pillow-case.
 * 【被】(Phũe) Bed clothes (cotton.)
 * 【袒】(Thán) Do. (woollen.)
@@ -119,7 +119,7 @@ date: 2022-11-20 21:59:00
 * 【燭】(Chek) Candles.
 * 【燭檯】(Chek-tâi) A candle-stick.
 * 【放衫褲嘅筐】(Tshō saⁿ-khòu kâi kheng) A clothes basket.
-* 【洗面嘅牀】(Sói-mīn kâi tshn̂g) A toilet table.
+* 【洗面嘅床】(Sói-mīn kâi tshn̂g) A toilet table.
 * 【面盆】(Mīn-phûn) A wash basin.
 * 【面桶】(Mīn-tháng) Do. (wooden.)
 * 【面桶架】(Mīn-tháng-kè) Do. stand.
@@ -138,15 +138,15 @@ date: 2022-11-20 21:59:00
 
 ------
 
-* 【眠牀排瞑起着物好】(Mīn-tshn̂g pâi-mêng-khí tiéh muéh-hó) Every morning the bed must be put right.
+* 【眠床排瞑起着物好】(Mīn-tshn̂g pâi-mêng-khí tiéh muéh-hó) Every morning the bed must be put right.
 * 【褥挈去晒】(Zók khiéh khṳ̀ phák) Take the mattress and put it in the sun.
 * 【枕頭亦着晒】(Chím-thâu iā tiéh phák) The pillows must be aired too.
 * 【蠓帳垃圾了。着乞洗衫嘅洗】(Máng-tiàⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
-* 【眠牀白布一個禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
+* 【眠床白布一個禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
 * 【枕頭囊亦着排個禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
 * 【被毋孬洗較業】(Phũe m̃-móⁿ sói khah-giáp) Bed-clothes shouldn't be washed too often.
 * 【洗較業袂燒】(Sói khah-giáp bõi-sie) (If) washed too often they will not be warm.
-* 【眠牀拂蠓。了蠓帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
+* 【眠床拂蠓。了蠓帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
 * 【伊好睒鏡】(I hàuⁿ-iám-kìaⁿ) He is fond of looking in the looking-glass.
 * 【挈我嘅梳佮虱箆來】(Khiéh uá kâi siu kah sat-pìn lâi) Get me my comb and my small-tooth comb.
 * 【汝佮我梳。了佮我箆】(Lṳ́ kâh uá siu, lióu kah uá pìn) You comb my hair, then use the small-tooth comb.
@@ -157,7 +157,7 @@ date: 2022-11-20 21:59:00
 * 【汝嘅箱有鎖定亞無】(Lṳ́ kâi sieⁿ ũ só-tiāⁿ a-bô?) Is your box locked?
 * 【無鎖。我毋知鎖定】(Bô--só, uá m̃-tsai só--tiāⁿ) No. I have forgotten to lock it.
 * 【囥放櫃底】(Khǹg-pàng kūiⁿ-tói) Keep it in the chest of drawers.
-* 【番梘在洗面嘅牀隔底】(Huan-káng tõ sói-mīn kâi tshn̂g-keh-tói) The soap is in the drawer of the toilet table.
+* 【番梘在洗面嘅床隔底】(Huan-káng tõ sói-mīn kâi tshn̂g-keh-tói) The soap is in the drawer of the toilet table.
 * 【挈一塊就好。芳嘅】(Khiéh chék-kò chĩu-hó, phang--kâi) Get one piece, a fragrant one.
 * 【水罐有水亞無】(Tsúi-kuàn ũ tsúi a-bô?) Is there any water in the jug?
 * 【水完了。我來去挈】(Tsúi lióu--lō, uá lâi khṳ̀-khiéh) The water is finished, I will go and get (some.)
@@ -170,8 +170,8 @@ date: 2022-11-20 21:59:00
 
 ### Dining Room.
 
-* 【食牀】(Chiáh-tshn̂g) A dining table.
-* 【牀布】(Tshn̂g-pòu) Table cloth.
+* 【食床】(Chiáh-tshn̂g) A dining table.
+* 【床布】(Tshn̂g-pòu) Table cloth.
 * 【手巾】(Chhiú-kṳn) Napkins.
 * 【刀】(To) Knives.
 * 【叉】(Chhe) Forks.
@@ -209,10 +209,10 @@ date: 2022-11-20 21:59:00
 
 ------
 
-* 【食牀披牀布亞未】(Chiáh-tshn̂g phi tshn̂g-pòu a-būe?) Has the table cloth been spread on the dining table?
+* 【食床披床布亞未】(Chiáh-tshn̂g phi tshn̂g-pòu a-būe?) Has the table cloth been spread on the dining table?
 * 【披好了。刀叉未擺】(Phi hó--lō, to-chhe būe-pái) It has, but the knives and forks haven't been laid.
-* 【牀擺未好】(Tshn̂g pái būe-hó) The table is not ready.
-* 【豉油架放鎭中】(Sī-iû-kè pàng tìn-tang) Put the cruet-stand in the middle.
+* 【床擺未好】(Tshn̂g pái būe-hó) The table is not ready.
+* 【豉油架放鎮中】(Sī-iû-kè pàng tìn-tang) Put the cruet-stand in the middle.
 * 【食了挈洗手杯來】(Chiáh-lióu khiéh sói-chhiú-pue lái) After dinner get the finger bowls.
 * 【盤一樣食了着換】(Pûaⁿ chék-iēⁿ chiáh-lióu tiéh-uāⁿ) The plates must be changed after every course.
 * 【刀叉亦是此樣生】(To-chhe iā sĩ chièⁿ-seⁿ) So also the knives and forks.
@@ -220,7 +220,7 @@ date: 2022-11-20 21:59:00
 * 【我欲食】(Uá àiⁿ-chiáh) I want to drink.
 * 【盤碗食了着洗】(Pûaⁿ-uáⁿ chiáh-lióu tiéh-sói) After dinner you must wash the dishes.
 * 【洗了着拭灱】(Sói-lióu tiéh chhit-ta) After washing you must wipe them dry.
-* 【牀布佮手巾垃圾好換】(Tshn̂g-pòu kah chhiú-kṳn nah-sap hó-uāⁿ) The table-cloth and the napkins may be changed, if they are dirty.
+* 【床布佮手巾垃圾好換】(Tshn̂g-pòu kah chhiú-kṳn nah-sap hó-uāⁿ) The table-cloth and the napkins may be changed, if they are dirty.
 * 【調雞湯個匙。拭就好。毋孬磨】(Ié-koi-thng kâi-sî chhit chiũ-hó, m̃-móⁿ chhiù) Just wipe the soup ladle, you must not rub it.
 * 【茶盅有幾個】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
 * 【有五個定定】(Ũ ngõu-kâi tiāⁿ-tiāⁿ) There are only five.

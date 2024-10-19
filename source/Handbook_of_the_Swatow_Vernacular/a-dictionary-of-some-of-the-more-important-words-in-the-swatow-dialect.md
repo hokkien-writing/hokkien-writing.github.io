@@ -138,7 +138,7 @@ date: 2022-11-20 23:55:00
 * 【Beau】(Hàuⁿ-héhⁿ--kâi-nâng) 好赫嘅儂
 * 【Beautiful】(Ngiá; hó-thóiⁿ) 雅　好睇
 * 【Beckon】(Iáh; iáh-chhiú) 曳　曳手
-* 【Bed】(Mîn-tshn̂g) 眠牀
+* 【Bed】(Mîn-tshn̂g) 眠床
 * 【Before】(Soiⁿ; tsôiⁿ) 先　前
 * 【„ as】(I-nguân) 依原
 * 【Befoul】(Mak--tiéh nah-sap; hú--tiéh nah-sap) 衊着垃圾  附着垃圾
@@ -158,7 +158,7 @@ date: 2022-11-20 23:55:00
 * 【Belong】(Sók) 屬
 * 【Belt】(Khòu-thâu-tūa) 褲頭帶
 * 【Bench】(Íⁿ; tn̂g-íⁿ) 椅　長椅
-* 【Bench, magistrate's】(Uàⁿ-tshǹg) 案牀
+* 【Bench, magistrate's】(Uàⁿ-tshǹg) 案床
 * 【Bend】(Á-uan; muéh-uan) 拗彎　物彎
 * 【Beneath】(Ẽ) 下
 * 【Benefit】(Iah) 益
@@ -399,7 +399,7 @@ date: 2022-11-20 23:55:00
 * 【Celebrated】(Tshut-miâⁿ) 出名
 * 【Celestial】(Thiⁿ-téng kâi-sṳ̄) 天頂嘅事
 * 【Cemetery, public】(Kong-si-suaⁿ) 公司山
-* 【Centre】(Tìn-tang) 鎭中
+* 【Centre】(Tìn-tang) 鎮中
 * 【Ceremony】(Lói) 禮
 * 【„ perform】(Kiâⁿ-lói) 行禮
 * 【Certain】(Tiāⁿ-tiéh) 定着
@@ -562,7 +562,7 @@ date: 2022-11-20 23:55:00
 * 【„ take work by】(Māuⁿ) 包
 * 【Contradict】(Piẽn-poh) 辯駁
 * 【Contrary】(Siang-huán; siang-tùi; ngék) 相反　相對  逆
-* 【„ on the】(Tin-tò; huán-tńg) 顚倒　反轉
+* 【„ on the】(Tin-tò; huán-tńg) 顛倒　反轉
 * 【Contribute】(Tôi; tôi-chîⁿ) 題　題錢
 * 【„ amongst a small poor party】(Phài) 派
 * 【Convenient】(Háh) 合
@@ -1169,7 +1169,7 @@ date: 2022-11-20 23:55:00
 * 【Method】(Huap) 法
 * 【Microscope】(Hién-mûiⁿ-kiàⁿ) 顯微鏡
 * 【Midday】(Tong-ngóu; jít-tàu) 中午　日晝
-* 【Middle】(Tìn-tang) 鎭中
+* 【Middle】(Tìn-tang) 鎮中
 * 【Middling】(Tong; tong-pān) 中　中辦
 * 【Midwife】(Seⁿ-kiaⁿ-bó) 生囝母
 * 【Mild】(Láu-sít) 老實
@@ -1227,7 +1227,7 @@ date: 2022-11-20 23:55:00
 * 【Obey】(Sũn; thiaⁿ) 順　聽
 * 【Oblige, by force】(Ngẽ-liáh) 硬掠
 * 【Obstinate】(Chip-ì; chip-piah; jĩm-ì) 執意　?  任意
-* 【Obstruct, a road】(Tìn-lōu; tsáh-lōu) 鎭路　閘路
+* 【Obstruct, a road】(Tìn-lōu; tsáh-lōu) 鎮路　閘路
 * 【Occupation】(Sṳ̄-ngiáp) 事業
 * 【Offend】(Tit-tsũe; tit-tsõ--tiéh) 得罪　得坐着
 * 【Often】(Ē-ē; giáp; giáp-giáp) 下下  ?  ?
@@ -2028,7 +2028,7 @@ date: 2022-11-20 23:55:00
 * 【„ round the corner of a street】(Uat) 斡
 * 【„ round as a table】(Hui-lìn-tńg) 回輪轉
 * 【„ back】(Hui-tńg--lâi) 回轉來
-* 【„ upside down】(Tin-tò-táu) 顚倒倒
+* 【„ upside down】(Tin-tò-táu) 顛倒倒
 * 【„ by, alternately】(Sie-lûn) 相輪
 * 【„ whose?】(Lûn-tiéh-tî-tiâng) 輪着底誰
 * 【Twinkle】(Iăp-iáp-sih) 灼灼晃
@@ -2054,7 +2054,7 @@ date: 2022-11-20 23:55:00
 * 【Untie】(Kói; tháu) 解  㪗
 * 【Unworthy】(M̃-kham; m̃-kham-kai) 毋堪　毋堪該
 * 【Upset】(Tò-póiⁿ; póiⁿ) 倒反　反
-* 【Upside down】(Tin-tò-thâu) 顚倒頭
+* 【Upside down】(Tin-tò-thâu) 顛倒頭
 * 【Urge】(Tshui; pek; tshui-kín; tshui-piàⁿ) 催　迫　催緊　催拚
 * 【Useful】(Ŭ-ēng) 有用
 * 【Usual】(Siêⁿ-siêⁿ; pâi-tńg; siam-put-sî) 常常  排轉  ?不時

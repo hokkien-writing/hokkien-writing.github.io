@@ -50,7 +50,7 @@ date: 2022-11-20 23:46:00
 * 【老爺戴頂就出來在堂】(Lãu-tia tì-téng chiũ tshut--lâi tsõ-tn̂g) The mandarin put on his button, and came out and sat on the bench.
 * 【秀才就跪落去】(Sìu-tsâi chiũ kũi--lóh-khṳ̀) The graduate knelt down.
 * 【老爺審到酷久了。儂熱在】(Lãu-tia sím kàu hoh-kú--lō, nâng zuáh-tsãi) The mandarin after a long trial found it rather warm.
-* 【粒頂就脫掉放在牀頂】(Liáp-téng chiũ thut-tiòu pàng tõ tshn̂g-téng) And he took off his hat to which the button was attached and put it on the table.
+* 【粒頂就脫掉放在床頂】(Liáp-téng chiũ thut-tiòu pàng tõ tshn̂g-téng) And he took off his hat to which the button was attached and put it on the table.
 * 【秀才在跪隨時就起來】(Siù-tsâi tõ-kũi sûi-sî chiû khí--lâi) The graduate who was kneeling down at once got up.
 * 【老爺問伊呾。汝怎呢起來呢】(Lãu-tia mn̄g i tàⁿ, "lṳ́ tsò-nîⁿ khí--lâi nē?") The mandarin asked him and said, "Why do you get up"?
 * 【秀才就呾。曰。我是跪皇帝。非是跪汝】(Siù-tsâi chiũ tàⁿ-tàⁿ, "uá sĩ kũi Huâng-tì, m̃-sĩ kũi-lṳ́") The graduate said, "I kneel down to the Emperor, not to you."
