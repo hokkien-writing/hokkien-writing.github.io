@@ -1,6 +1,6 @@
 ---
 title: 同文輸入法伴潮州話拍字方案
-date: 2025-04-26 22:28:30
+date: 2025-04-26 22:39:15
 source: https://github.com/hokkien-writing/trime-with-teochew
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
