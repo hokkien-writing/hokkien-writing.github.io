@@ -1,6 +1,6 @@
 ---
 title: 潮州話拍字方案 (beta)
-date: 2025-04-26 21:51:46
+date: 2025-04-26 22:28:30
 source: https://github.com/hokkien-writing/rime-teochew
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---

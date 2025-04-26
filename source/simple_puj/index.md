@@ -1,6 +1,6 @@
 ---
 title: 簡明潮州白話字 (Simple PUJ) 
-date: 2025-04-26 21:51:46
+date: 2025-04-26 22:28:30
 source: https://github.com/hokkien-writing/simple-puj
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---

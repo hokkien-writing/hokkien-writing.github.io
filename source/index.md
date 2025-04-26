@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2024-06-19 20:29:12
+date: 2025-04-26 22:28:30
 source: https://github.com/hokkien-writing/reference
 ---
 
