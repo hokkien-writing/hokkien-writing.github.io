@@ -76,8 +76,8 @@ date: 2022-11-20 22:51:00
 * 【船主】(Tsûn-tsú) Captain.
 * 【大伙】(Tūa-húe) Chief mate.
 * 【二伙】(Jī-húe) Second mate.
-* 【管藥機嘅儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
-* 【燃火嘅儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
+* 【管藥機个儂】(Kuán-iéh-kúi--kâi-nâng) Engineer.
+* 【燃火个儂】(Hiâⁿ-húe--kâi-nâng) Stoker.
 * 【掠舵】(Liáh-tũa) Steersman.
 * 【舵工】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.

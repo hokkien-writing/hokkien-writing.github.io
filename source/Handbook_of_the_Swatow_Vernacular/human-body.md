@@ -85,29 +85,29 @@ date: 2022-11-20 21:44:00
 ------
 
 * 【此個儂壯在】(Chí-kâi nàng tsàng-tsãi) This man is very strong.
-* 【我嘅頭毛長了】(Uá kâi thâu-môⁿ tn̂g--lō) My hair is long.
+* 【我个頭毛長了】(Uá kâi thâu-môⁿ tn̂g--lō) My hair is long.
 * 【我欲剃頭】(Uá àiⁿ thì-thâu) I want to shave.
-* 【汝嘅手伸出來】(Lṳ́ kâi chhiú tshun--tshut-lâi) Stretch out your hand.
-* 【我嘅手指流血】(Uá kâi chhiú-tsóiⁿ lâu-hueh) My finger is bleeding.
+* 【汝个手伸出來】(Lṳ́ kâi chhiú tshun--tshut-lâi) Stretch out your hand.
+* 【我个手指流血】(Uá kâi chhiú-tsóiⁿ lâu-hueh) My finger is bleeding.
 * 【我在批物件。割着】(Uá tō phoi muéh-kiãⁿ, kuah--tiéh) I was cutting something, and it got cut.
 * 【伊跋到骹折去】(I puáh kàu kha chíh--khṳ̀) He fell down, and broke his leg.
 * 【骹手勿㩼】(Kha-chhiú màiⁿ-tsōi) Don't be mischievous.
 * 【伊死了】(I sí--lō) He is dead.
 * 【汝在批底個】(Lṳ́ tõ phoi tî-kâi?) What are you cutting?
-* 【我在批我嘅指甲】(Uá tõ phoi uá kái tsńg-kah) I am cutting my nails.
+* 【我在批我个指甲】(Uá tõ phoi uá kái tsńg-kah) I am cutting my nails.
 * 【此個儂肥在】(Chí-kâi nâng pûi-tsãi) This man is very fat.
 * 【伊欲留鬚】(I àiⁿ lâu-chhiu) He wants to keep his beard.
-* 【伊嘅頭毛挐挐】(I kâi thâu-môⁿ zṳ̂-zṳ̂) His hair is rough.
+* 【伊个頭毛挐挐】(I kâi thâu-môⁿ zṳ̂-zṳ̂) His hair is rough.
 * 【伊無梳頭】(I bô siu-thâu) He doesn't comb his hair.
-* 【汝嘅儂會毋孬亞袂】(Lṳ́ kâi nâng õi m̃-móⁿ a-bõi?) Are you unwell?
-* 【會。我嘅儂熱】(Õi, uá kâi nâng zuáh) Yes, I am suffering from fever.
+* 【汝个儂會毋孬亞袂】(Lṳ́ kâi nâng õi m̃-móⁿ a-bõi?) Are you unwell?
+* 【會。我个儂熱】(Õi, uá kâi nâng zuáh) Yes, I am suffering from fever.
 * 【汝欲食零須藥嗎】(Lṳ́ àiⁿ-chiáh lân-ló iéh mē?) Do you wish to take some medicine?
 * 【欲亞。請汝挈零須分我】(Àiⁿ a, chhiáⁿ lṳ́ khiéh lân-ló pun uá) Oh yes, please get me some.
-* 【我嘅肚此幾日澀在】(Uá kâi tóu chí-kua-jít siap-tsãi) I have been very costive during the last few days.
+* 【我个肚此幾日澀在】(Uá kâi tóu chí-kua-jít siap-tsãi) I have been very costive during the last few days.
 * 【我一身流汗】(Uá chék-sin lâu-kūaⁿ) I am in a perspiration.
 * 【儂困在】(Nâng khùn-tsãi) I am very weak.
 * 【我病有三個禮拜】(Uá pēⁿ ũ saⁿ-kâi lói-pài) I have been sick for about three weeks.
-* 【汝嘅儂會稍絀亞袂】(Lṳ́ kâi nâng õi ióu-tsuáh a-bõi?) Are you any better?
+* 【汝个儂會稍絀亞袂】(Lṳ́ kâi nâng õi ióu-tsuáh a-bõi?) Are you any better?
 * 【會。稍絀須囝】(Õi, ióu-tsúah su-kiáⁿ) Yes, a little better.
 * 【儂會食亞袂】(Nâng õi-chiáh a-bõi?) Can you eat?
 * 【會零須】(Õi lân-ló) I can eat a little.

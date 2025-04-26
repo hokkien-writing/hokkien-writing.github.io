@@ -15,9 +15,9 @@ date: 2022-11-20 23:44:00
 * 【在底一間舖買】(Tõ tî-chék-koiⁿ phòu bói?) From which shop have you just bought them?
 <!--more-->
 * 【在順合隔壁】(Tõ Sũn-háh keh-piah) Next to (chop) Sun-hah.
-* 【順合嘅貨毋孬比阮嘅】(Sũn-háh kâi-hùe m̃-móⁿ ún--kâi) Sun-hah's goods cannot be compared with our goods.
-* 【阮嘅攏總是正上海嘅】(Ún--kâi lóng-tsóng sĩ chiàⁿ Siāng-hái--kâi) Ours are all genuine Shanghai goods.
-* 【無假嘅】(Bô-ké--kâi) None are false.
+* 【順合个貨毋孬比阮个】(Sũn-háh kâi-hùe m̃-móⁿ ún--kâi) Sun-hah's goods cannot be compared with our goods.
+* 【阮个攏總是正上海个】(Ún--kâi lóng-tsóng sĩ chiàⁿ Siāng-hái--kâi) Ours are all genuine Shanghai goods.
+* 【無假个】(Bô-ké--kâi) None are false.
 * 【較值錢我毋敢買】(Khah-tát-chîⁿ, uá m̃-káⁿ-bói) They are too costly, I dare not buy.
 * 【底誰是財主】(Tî-tiâng sĩ tshâi-tsú?) Who is the proprietor (of the shop)?
 * 【財主在彼內】(Tshâi-tsú tõ hṳ́-lãi) The proprietor is inside.
@@ -31,7 +31,7 @@ date: 2022-11-20 23:44:00
 * 【葵扇一枝若㩼錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
 * 【一枝八個錢】(Ki poih-kâi chîⁿ) Eight cash each.
 * 【此些時無生理】(Chí-chùaⁿ-sî bô seng-lí) My trade is very dull of late.
-* 【恁嘅生理酷熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
+* 【恁个生理酷熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
 * 【四個銀。二式四個錢】(Sì-kâi-ngṳ̂n, nõⁿ-sek sì-kâi chîⁿ) Four dollars, twenty cents and four cash.
 * 【百五個錢】(Peh-ngõu kâi chîⁿ) Hundred and fifty cash.
 * 【六斤四】(Lák-kṳn-si) Six catties and four taels.

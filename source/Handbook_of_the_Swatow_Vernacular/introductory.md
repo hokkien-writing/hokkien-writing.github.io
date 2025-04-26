@@ -48,7 +48,7 @@ date: 2022-11-15 21:43:00
 * 【怎呢】(Tsò-nîⁿ) Why?
 * 【因爲】(In-ûi) Because, on account of.
 * 【底誰】(Tî-tiâng) Who?
-* 【底誰嘅】(Tî-tiâng-kâi) Whose?
+* 【底誰个】(Tî-tiâng-kâi) Whose?
 * 【此些個】(Chí-chùaⁿ-kâi) These.
 * 【彼些個】(Hṳ́-chùaⁿ-kâi) Those.
 * 【怎呢　若】(Tsò-nîⁿ, jiéh) How?
@@ -90,7 +90,7 @@ date: 2022-11-15 21:43:00
 * 【伊怎呢無來】(I tsò-nîⁿ bô-lâi?) Why did he not come?
 * 【是因爲怎呢】(Sĩ in-ûi tsò-nîⁿ?) For what reason?
 * 【汝是底誰】(Lṳ́ sĩ tî-tiâng?) Who are you?
-* 【此是底誰嘅】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
+* 【此是底誰个】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
 * 【此些個毋是】(Chí-chùaⁿ-kâi m̃-sĩ) These are not them.
 * 【彼些個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
 * 【汝有若㩼】(Lṳ́ ũ jiéh-tsōi?) How much have you?
@@ -114,8 +114,8 @@ date: 2022-11-15 21:43:00
 * 【無】(Bô) No.
 * 【怎呢無呢】(Tsò-nîⁿ bô--nē?) Why not?
 * 【因爲我毋去】(In-ûi uá m̃-khṳ̀) Because I don't want to go.
-* 【此個是我嘅】(Chí-kâi sĩ uá-kâi) This is mine.
-* 【毋是汝嘅】(M̃-sĩ lṳ́-kâi) It isn't yours.
-* 【是伊嘅】(Si i-kâi) It is his.
-* 【汝嘅毋是此樣生】(Lṳ́-kâi m̃-sĩ chièⁿ-seⁿ) Yours is not like his.
-* 【伊嘅是此樣生】(I kâi sĩ chièⁿ-seⁿ) His is like this.
+* 【此個是我个】(Chí-kâi sĩ uá-kâi) This is mine.
+* 【毋是汝个】(M̃-sĩ lṳ́-kâi) It isn't yours.
+* 【是伊个】(Si i-kâi) It is his.
+* 【汝个毋是此樣生】(Lṳ́-kâi m̃-sĩ chièⁿ-seⁿ) Yours is not like his.
+* 【伊个是此樣生】(I kâi sĩ chièⁿ-seⁿ) His is like this.
