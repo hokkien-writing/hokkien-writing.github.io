@@ -80,7 +80,7 @@ date: 2022-11-16 20:16:00
 * 【雷公攝目。了正响】(Lûi-kong nih-mák, lióu chiàⁿ-tân) The lightning flashes first, then the thunder roars.
 * 【雨定着是大】(Hõu tiāⁿ-tiéh sĩ tūa) The rain is sure to be a heavy one.
 * 【唐儂講究雷公毋對】(Tn̂g-nâng káng-kiù lûi-kong m̃-tùi) What the Chinese discuss about the lightning is not correct.
-* 【唐儂此個事毋曉】(Tn̂g-nâng chí-kâi sū m̃-hióu) The Chinese do not understand about this matter.
+* 【唐儂此个事毋曉】(Tn̂g-nâng chí-kâi sū m̃-hióu) The Chinese do not understand about this matter.
 * 【英國儂就曉】(Eng-kok-nâng chiũ-hióu) The English understand.
 * 【虹有加加色】(Khẽng ũ ke-ke sek) The rainbow has many colours.
 * 【有紅有白有藍有青有黄】(Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g) It has red, white, blue, green and yellow.
@@ -154,7 +154,7 @@ date: 2022-11-16 20:16:00
 * 【夜昏囝伊欲來我塊】(Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò) He is coming to my place to-night.
 * 【我請伊】(Uá chhiáⁿ i) I have invited him.
 * 【伊作有幾㩼日工】(I tsoh ũ jiéh-tsōi jít kang?) How many days' work has he done?
-* 【伊作有一個月】(I tsoh ũ chék-kâi guéh) He has worked one month.
+* 【伊作有一个月】(I tsoh ũ chék-kâi guéh) He has worked one month.
 * 【伊日間作。夜間亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
 * 【伊个工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
 * 【日未暗】(Jít būe-àm) It is not yet dark.

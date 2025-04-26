@@ -238,7 +238,7 @@ date: 2022-11-20 23:55:00
 * 【Born】(Seⁿ; tshut-sì) 生　出世
 * 【Borrow】(Chieh) 借
 * 【Both, persons】(Jī-ke) 二家
-* 【„ things】(Nõⁿ-kâi) 兩個
+* 【„ things】(Nõⁿ-kâi) 兩个
 * 【Bottom】(Tói) 底
 * 【Bough】(Chhiū-ki) 樹枝
 * 【Boundary】(Tī-kài) 地界
@@ -1588,7 +1588,7 @@ date: 2022-11-20 23:55:00
 * 【„ domestic】(Ke-nouⁿ) 家奴
 * 【Set, a】(Chék-hù) 一副
 * 【Settle, an affair】(Tít; chheng-tshó) 直　清楚
-* 【Several】(Kua-kâi) 寡個
+* 【Several】(Kua-kâi) 寡个
 * 【Severe】(Ngiâm; tãng) 嚴　重
 * 【„, wound】(Tãng-sieⁿ) 重傷
 * 【Sew, to】(Thīⁿ) 縫

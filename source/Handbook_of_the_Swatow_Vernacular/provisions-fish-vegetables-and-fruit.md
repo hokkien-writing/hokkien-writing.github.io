@@ -63,8 +63,8 @@ date: 2022-11-20 22:19:00
 * 【俺明旦起欲出門。食有夠亞無】(Nán màⁿ-khí àiⁿ tshut-mǹg, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
 * 【着預夠】(Tiéh ṳ̃-kàu) You must prepare enough.
 * 【勿毋夠。了在路就無食】(Màiⁿ-m̃-kàu, lióu tõ lōu chiũ bô-chiáh) For if there is not enough, then we shall get no food on the way.
-* 【今俺有底個】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
-* 【麫包有三個。牛乳油有一盒】(Mīⁿ-pau ũ saⁿ-kâi, gû-nĩⁿ iû ũ chék-áp) We have three loaves of bread, and one tin of butter.
+* 【今俺有底个】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
+* 【麫包有三个。牛乳油有一盒】(Mīⁿ-pau ũ saⁿ-kâi, gû-nĩⁿ iû ũ chék-áp) We have three loaves of bread, and one tin of butter.
 * 【若是毋夠一路好買】(Nāⁿ-sĩ m̃-kàu chék-lōu hó-bói) If we haven't got enough, we can buy on the way.
 * 【叫伙頭來】(Kiè húe-thâu lâi) Call the cook here.
 * 【明夜昏我欲請儂】(Màⁿ-mêⁿ-hng uá àiⁿ-chhiáⁿ-nâng) To-morrow night I wish to invite a few persons.

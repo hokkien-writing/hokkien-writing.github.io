@@ -72,7 +72,7 @@ The chief signs of the Future Tense are àiⁿ, 正欲 chiàⁿ-àiⁿ, (want) �
 * 【霎時欲落雨】(Khiã-tiām àiⁿ-lóh-hõu) It will rain bye-and-bye.
 * 【伊底當時正欲來】(I tiang-sî chiàⁿ-àiⁿ lâi?) When will he come?[3]
 * 【伊霎時正欲來】(I khiã-tiām chiàⁿ-àiⁿ-lâi) He will come bye-and-bye.
-* 【我下個月欲轉】(Uá ẽ-kâi-guêh àiⁿ-tńg) I shall go home next month.
+* 【我下个月欲轉】(Uá ẽ-kâi-guêh àiⁿ-tńg) I shall go home next month.
 * 【伊會死亞袂】(I õi sí a-bõi?) Will he die?
 * 【伊袂死】(I bõi--sí) He will not die.
 * 【伊將來會做大】(I chiang-lâi õi tsò-tūa) He will be great in the future.
@@ -139,9 +139,9 @@ The Progressive Form is formed by the use of the word 在 tõ (in the act of) an
 The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 ióu, (a little) 過 kùe, (over) 贏 iâⁿ (to be superior, to defeat,) and 輸, (to be inferior, to be defeated.)
 
 * 【愈㩼愈好】(Zú-tsōi zú-hó) The more the better.
-* 【此個稍大】(Chí--kâi ióu-tūa) This is a little larger.
+* 【此个稍大】(Chí--kâi ióu-tūa) This is a little larger.
 * 【伊有愈㩼我】(I ũ zú-tsōi uá) He has more than I.
-* 【此個敬長過彼個】(Chí--kâi kèng-tn̂g kùe hṳ́-kâi) This is longer than that.
+* 【此个敬長過彼个】(Chí--kâi kèng-tn̂g kùe hṳ́-kâi) This is longer than that.
 * 【汝个好。我个愈敬好】(Lṳ́--kâi hó, uá--kâi zú-kèng hó) Yours is good, (but) mine better.
 * 【伊會走猛過我】(I õi-tsáu méⁿ-kùe uá) He can run faster than I.
 * 【伊行猛過伊走】(Lṳ́ kiâⁿ méⁿ-kùe i tsáu) You walk faster than he runs.
@@ -157,7 +157,7 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 The words employed in the superlative degrree are 上 siãng and 上頂 siãng-téng (supreme); the latter generally refers to the qualities of goods, viz.—
 
 * 【有上大个嗎】(Ũ siãng-tūa--kâi mē?) Have you the largest one?
-* 【此個就是上大个】(Chí--kâi chiũ-sĩ siãng-tūa kâi) This is the largest one.
+* 【此个就是上大个】(Chí--kâi chiũ-sĩ siãng-tūa kâi) This is the largest one.
 * 【我欲上頂好个】(Uá àiⁿ siãng-téng-hó--kâi) I want the best (quality.)
 
 ------

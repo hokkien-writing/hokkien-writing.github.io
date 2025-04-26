@@ -8,7 +8,7 @@ date: 2022-11-20 23:39:00
 
 ## Lesson XXVII. a list of classifiers.
 
-* 【個】(Kâi) Applied to, men and things generally.
+* 【个】(Kâi) Applied to, men and things generally.
 * 【粒】(Liáp) Applied to, fruit, spherical things, as balls, pills, &c.
 * 【條】(Tiôu) Applied to, rivers, roads, collars, ropes, laws, hair, snakes, lizards, &c. and things in stripes.
 * 【枝】(Ki) Applied to, masts, sticks, knives, spoons, pencils, pillars, branches of trees or plants, &c.

@@ -38,9 +38,9 @@ date: 2022-11-20 21:38:00
 * 【此枝柱大枝】(Chí-ki thiõu tuā-ki) This pillar is large.
 * 【塗骹个紅磚破】(Thôu-kha kâi âng-tsng phùa) The bricks of the floor are broken.
 * 【叫司阜來補】(Kiè sai-pẽ lâi póu) Call the builder to mend them.
-* 【塗骹一個禮拜着洗一次】(Thôu-kha chék-kâi lói-pài tiéh sói chék-ē) The floor must be washed once a week.
+* 【塗骹一个禮拜着洗一次】(Thôu-kha chék-kâi lói-pài tiéh sói chék-ē) The floor must be washed once a week.
 * 【樓頂樓枋亦是此樣生】(Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ) The floor up-stairs the same.
-* 【個個禮拜着洗清潔清潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
+* 【个个禮拜着洗清潔清潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
 * 【灰埕亦着洗】(Hue-tiâⁿ iā tiéh sói) The lime floor must be washed.
 * 【此塊排瞑起早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
 * 【我欲作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
@@ -87,7 +87,7 @@ date: 2022-11-20 21:38:00
 * 【洗浴房有水亞無】(Sói-ék-pâng ũ tsúi a-bô?) Is there any water in the bath-room?
 * 【無。我來去擔】(Bô, uá lâi khṳ̀ taⁿ) No, I will go and carry some.
 * 【猛猛去。我欲洗浴】(Méⁿ-méⁿ khṳ̀, uá àiⁿ sói-ék) Go quickly, I am going to bathe.
-* 【此個挈去囥放底塊】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
+* 【此个挈去囥放底塊】(Chiá khiéh khṳ̀ khǹg pàng tî-kò?) Where shall I keep this?
 * 【窗關玻璃免用關】(Theng kueⁿ, po-lî mín-ēng kueⁿ) Shut the window, you needn't shut the glass.
 * 【若是有雨鱟伯策就着關】(Naⁿ-sĩ ũ hõu hāu-peh-chheh chiũ tiéh-kueⁿ) If there is rain, then shut the venetians.
 * 【欲落樓梯勿乒乓叫】(Àiⁿ-lóh lâu-thui màiⁿ pĩn-põng-kiè) If you are coming down the stair-case, don't make a trampling noise.
@@ -120,7 +120,7 @@ date: 2022-11-20 21:38:00
 * 【信關在角石】(Sìn-kuan tõ Kak-chiéh) The post-office is at Kak-chieh.
 * 【汝知炮臺在底塊】(Lṳ́ tsai phàu-thâi tõ tî-kò?) You know where the fort is?
 * 【毋知。我早毋識來此汕頭】(M̃ tsai, uá tsá m̃-pat lâi chí Suaⁿ-thâu) I don't know, I have never been at Swatow before.
-* 【我此個地方毋熟】(Uá chí-kâi tī-hng m̃-sék) I am not familiar with this place.
+* 【我此个地方毋熟】(Uá chí-kâi tī-hng m̃-sék) I am not familiar with this place.
 * 【汝貴處】(Lṳ́ tî-kò húe?) Where do you belong to?
 * 【我菴埠處】(Uá Am-pou húe) I belong to Am-pou.
 * 【汝嘗識去府城嗎】(Lṳ́ khah-pat khṳ̀ Hú-siâⁿ mē?) Have you ever been to Ch'ao-chow-fu?
@@ -132,13 +132,13 @@ date: 2022-11-20 21:38:00
 * 【恁个鄉里有塔亞無】(Nín kâi hieⁿ-lí ũ thah a-bô?) Is there any pagoda in your village?
 * 【阮个鄉里無】(Ún kâi hieⁿ-lí bô) None in our village.
 * 【汕頭埠有市亞無】(Suaⁿ-thâu-pou ũ chhĩ a-bô?) Is there any market in the town of Swatow?
-* 【各個埠頭都有市】(Kâi-kâi pou-thâu tou ũ chhĩ) There is a market in every town.
+* 【各个埠頭都有市】(Kâi-kâi pou-thâu tou ũ chhĩ) There is a market in every town.
 * 【香港有大行】(Hiang-káng ũ tūa-hâng) There are large hongs in Hong Kong.
-* 【在彼個舖危大】(Tõ-hié kâi phòu kûiⁿ-tūa) The shops there are high and large.
+* 【在彼个舖危大】(Tõ-hié kâi phòu kûiⁿ-tūa) The shops there are high and large.
 * 【有个舖三四沿危】(Ũ-kâi phòu saⁿ-sì în kûiⁿ) Some shops there are three or four stories high.
 * 【汝在彼有幾間厝】(Lṳ́ tõ-hié ũ kúi-koiⁿ tshù?) How many houses have you there?
 * 【我在彼有一間】(Uá tõ-hié ũ chék-koiⁿ) I have one house there.
-* 【一個月稅一百個銀】(Chék-kâi guéh sùe chék-peh kâi ngṳ̂n) It is let at $100 a month.
+* 【一个月稅一百个銀】(Chék-kâi guéh sùe chék-peh kâi ngṳ̂n) It is let at $100 a month.
 
 ------
 

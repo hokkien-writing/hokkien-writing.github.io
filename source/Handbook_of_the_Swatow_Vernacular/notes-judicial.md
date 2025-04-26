@@ -27,25 +27,25 @@ date: 2022-11-20 23:46:00
 * 【伊个案欲延到明旦起】(I kâi uàⁿ àiⁿ-àn-kàu màⁿ-khí) His case will be postponed till to-morrow.
 * 【毋孬做賊】(M̃-móⁿ tsǒ-tshát) Don't be a thief.
 * 【毋孬盜取儂个物】(M̃-móⁿ thau-khiéh nâng kâi muéh) Mustn't steal other peoples things.
-* 【此個賊是離經】(Chí-kâi tshát sĩ lî-keng) This thief is dangerous.
+* 【此个賊是離經】(Chí-kâi tshát sĩ lî-keng) This thief is dangerous.
 * 【昨夜伊剌死儂】(Tsa-mêⁿ i tshǹg-sí nâng) Last night he stabbed a man to deat.h
 * 【伊乞我掠着】(I khoih uá liáh--tiéh) He was caught by me.
 * 【我就掠伊去衙門處】(Uá chiũ liáh i khṳ̀ gê-mn̂g--kō) And I took him to the yamên.
 * 【交伊分差役个手】(Kau i pun chhe-hiáh kái chhiú) And handed him over to the police.
 * 【着拍伊到爛爛】(Tiéh-phah i kàu lok-lok) Must beat him very severely;
 * 【下日伊正毋敢】(Ẽ-jít i chiàⁿ-m̃-káⁿ) So that he may not dare to do it again.
-* 【此個官府公道】(Chí-kâi kuaⁿ-hú kong-tãu) This mandarin is just.
+* 【此个官府公道】(Chí-kâi kuaⁿ-hú kong-tãu) This mandarin is just.
 * 【無枉屈儂】(Bô-uáng-khut nâng) He does not deal with people unjustly.
 * 【亦無食儂个錢】(Iā bô chiáh nâng kâi chîⁿ) Nor does he take bribes.
 * 【儂忠直】(Nâng tong-tít) He is a straight-forward man.
-* 【百姓呵咾此個官府】(Peh-sèⁿ o-ló chí-kâi kuaⁿ-hú) The people praise this mandarin.
+* 【百姓呵咾此个官府】(Peh-sèⁿ o-ló chí-kâi kuaⁿ-hú) The people praise this mandarin.
 * 【伊欲高升了】(I àiⁿ-kau-seng--lō) He is going to be promoted.
 * 【雖然律是嚴。還了恁着順】(Sui-jiên lút sĩ ngiâm, huân-lióu nín tiéh sũn) Though the law is strict, yet you must obey it.
 * 【犯律个儂着受罰】(Huãm-lút--kâi-nâng tiéh siũ-huát) Those who break the law should be punished.
 
 ------
 
-* 【在澄海縣有一個秀才。有犯着律】(Tõ Thêng-hái-kūiⁿ ũ chék-kâi siù-tsâi, ũ huãm-tiéh-lút) There was a graduate in the district of Theng-hai, who had broken the law.
+* 【在澄海縣有一个秀才。有犯着律】(Tõ Thêng-hái-kūiⁿ ũ chék-kâi siù-tsâi, ũ huãm-tiéh-lút) There was a graduate in the district of Theng-hai, who had broken the law.
 * 【伊就去被官府審】(I chiũ khṳ̀-pun kuaⁿ-hú sím) And he went to be tried by the mandarin.
 * 【老爺戴頂就出來在堂】(Lãu-tia tì-téng chiũ tshut--lâi tsõ-tn̂g) The mandarin put on his button, and came out and sat on the bench.
 * 【秀才就跪落去】(Sìu-tsâi chiũ kũi--lóh-khṳ̀) The graduate knelt down.

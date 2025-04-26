@@ -26,8 +26,8 @@ date: 2022-11-17 23:28:00
 
 * 【今旦日拜幾】(Kiáⁿ-jít pài-kúi?) What day of the week is to-day?
 * 【今旦日拜一】(Kiáⁿ-jít pài-it) To-day is Monday.
-* 【汝下個拜一來】(Lṳ́ ẽ-kâi pài-it lâi) You come on Monday next.
-* 【我此個禮拜毋閒在】(Uá chí-kâi lói-pài m̃-ôiⁿ tsãi) I am very busy this week.
+* 【汝下个拜一來】(Lṳ́ ẽ-kâi pài-it lâi) You come on Monday next.
+* 【我此个禮拜毋閒在】(Uá chí-kâi lói-pài m̃-ôiⁿ tsãi) I am very busy this week.
 * 【我明旦起个事㩼在】(Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi) I shall have a great deal of work to-morrow.
 * 【先生汝明旦起早些來】(Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi) Teacher, you come a little earlier tomorrow.
 * 【我欲讀零些。了汝好轉來】(Uá àiⁿ-ták lân-ló, lióu lṳ́ hó-tńg--khṳ̀) I will read a little, and then you can go.
@@ -68,7 +68,7 @@ date: 2022-11-17 23:28:00
 * 【我睇歷日就知】(Uá thóiⁿ láh-jíh chiũ-tsai) Let me see the calendar, and I will know it.
 * 【歷日在此。十二正是禮拜】(Láh-jít tõ--chié, tsáp-jī chiàⁿ-sĩ lói-pài) Here's the calendar, the twelfth will be Sunday.
 * 【毋是十一】(M̃-sĩ tsáp-it) It's not the eleventh.
-* 【此個月大亞是小】(Chí-kâi guéh tuā a-sĩ sié?) Is this moon long or short?
+* 【此个月大亞是小】(Chí-kâi guéh tuā a-sĩ sié?) Is this moon long or short?
 * 【毋知】(M̃-tsai) I don't know.
 * 【月大就三十。月小就廿九】(Guéh tuā chiũ saⁿ-tsáp, guéh sié chiũ jíh-káu) In a great moon there will be thirty days, and in a small moon twenty nine.
 * 【今年有閏月嗎】(Ke-nîⁿ ũ zūn-guéh mē?) Is there an intercalary moon this year?

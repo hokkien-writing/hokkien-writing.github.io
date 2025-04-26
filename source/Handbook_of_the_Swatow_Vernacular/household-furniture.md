@@ -56,7 +56,7 @@ date: 2022-11-20 21:59:00
 * 【樓頂个氈。舒】(Lâu-téng kâi chiⁿ, tshṳ) Spread the carpet up-stairs.
 * 【汝曉彈琴亞毋曉】(Lṳ́ hióu tūaⁿ-khîm a m̃-hióu?) Do you know how to play the piano?
 * 【我曉】(Uá hióu) I know.
-* 【此個尪囝雅在】(Chí-kâi ang-kiáⁿ ngiá-tsãi) This picture is very beautiful.
+* 【此个尪囝雅在】(Chí-kâi ang-kiáⁿ ngiá-tsãi) This picture is very beautiful.
 * 【燈拭毋清潔】(Teng chhit m̃-chheng-khi) The lamps are not wiped clean.
 * 【佮四指呾，叫伊另外拭】(Kah sì-tsóiⁿ tàⁿ, hàm i lêng-ngūa chhit) Tell the boy to wipe the lamps again.
 * 【汝此內有一撮奇巧物】(Lṳ́ chí-lãi ũ chék-tshoh khî-khá-muéh) You have a quantity of curiosities in your house.
@@ -142,8 +142,8 @@ date: 2022-11-20 21:59:00
 * 【褥挈去晒】(Zók khiéh khṳ̀ phák) Take the mattress and put it in the sun.
 * 【枕頭亦着晒】(Chím-thâu iā tiéh phák) The pillows must be aired too.
 * 【蠓帳垃圾了。着乞洗衫个洗】(Máng-tiàⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
-* 【眠床白布一個禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
-* 【枕頭囊亦着排個禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
+* 【眠床白布一个禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
+* 【枕頭囊亦着排个禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
 * 【被毋孬洗較業】(Phũe m̃-móⁿ sói khah-giáp) Bed-clothes shouldn't be washed too often.
 * 【洗較業袂燒】(Sói khah-giáp bõi-sie) (If) washed too often they will not be warm.
 * 【眠床拂蠓。了蠓帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
@@ -183,8 +183,8 @@ date: 2022-11-20 21:59:00
 * 【酒杯】(Chiú-pue) Liquor glasses.
 * 【酒鍾】(Chiú-cheng) Chinese liquor cups.
 * 【玻璃杯】(Po-lî-pue) Tumblers.
-* 【調雞湯個匙】(Ié koi-thng kâi sî) A soup ladle.
-* 【貯雞湯個甌】(Tshō koi-thng kâi au) A soup tureen.
+* 【調雞湯个匙】(Ié koi-thng kâi sî) A soup ladle.
+* 【貯雞湯个甌】(Tshō koi-thng kâi au) A soup tureen.
 * 【盤】(Pûaⁿ) Plates.
 * 【碗】(Uáⁿ) Bowls.
 * 【碗公】(Uáⁿ-kong) Large bowls.
@@ -221,14 +221,14 @@ date: 2022-11-20 21:59:00
 * 【盤碗食了着洗】(Pûaⁿ-uáⁿ chiáh-lióu tiéh-sói) After dinner you must wash the dishes.
 * 【洗了着拭灱】(Sói-lióu tiéh chhit-ta) After washing you must wipe them dry.
 * 【床布佮手巾垃圾好換】(Tshn̂g-pòu kah chhiú-kṳn nah-sap hó-uāⁿ) The table-cloth and the napkins may be changed, if they are dirty.
-* 【調雞湯個匙。拭就好。毋孬磨】(Ié-koi-thng kâi-sî chhit chiũ-hó, m̃-móⁿ chhiù) Just wipe the soup ladle, you must not rub it.
-* 【茶盅有幾個】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
-* 【有五個定定】(Ũ ngõu-kâi tiāⁿ-tiāⁿ) There are only five.
-* 【五個定定。加一個乞底誰敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
+* 【調雞湯个匙。拭就好。毋孬磨】(Ié-koi-thng kâi-sî chhit chiũ-hó, m̃-móⁿ chhiù) Just wipe the soup ladle, you must not rub it.
+* 【茶盅有幾个】(Tê-cheng ũ kúi-kâi?) How many tea-cups are there?
+* 【有五个定定】(Ũ ngõu-kâi tiāⁿ-tiāⁿ) There are only five.
+* 【五个定定。加一个乞底誰敲破】(Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu?) Only five? Who has broken the other five?
 * 【我哩毋知】(Uá li m̃-tsai) I don't know.
 * 【汝怎呢好毋知。物件是汝管个】(Lṳ́ tsò-nîⁿ hó m̃-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi) How is it you don't know, the things are in your charge.
 * 【我煩惱。我哩割汝个工錢】(Uá huân-ló, uá li kuah lṳ́ kâi kang-chîⁿ) I don't care, I will cut your wages.
-* 【無。汝哩去買一個來賠我】(Bô, lṳ́ li khṳ̀-bói chék-kâi lâi pûe uá) Otherwise, you had better go and buy one to compensate me.
+* 【無。汝哩去買一个來賠我】(Bô, lṳ́ li khṳ̀-bói chék-kâi lâi pûe uá) Otherwise, you had better go and buy one to compensate me.
 * 【汝此近時惰在。做事無詳細】(Lṳ́ chí-chùaⁿ-sî tũaⁿ-tsāi, tsò-sṳ̄ bô tsṳ́-sòi) You have been very idle of late, and do things carelessly.
 * 【我欲算汝歇】(Uá àiⁿ-sǹg lṳ́ hiah) I want to discharge you.
 * 【食便。搖鐘】(Chiáh piēn, iẽ-cheng) Ring the bell, when the dinner is ready.
@@ -276,19 +276,19 @@ date: 2022-11-20 21:59:00
 
 ------
 
-* 【風爐在煲底個】(Huang-lôu tõ pû tî-kâi?) What is boiling on the stove?
+* 【風爐在煲底个】(Huang-lôu tõ pû tî-kâi?) What is boiling on the stove?
 * 【煲零些温水】(Pû lân-ló sie-tsúi) Some hot water is boiling.
 * 【鼎裂。毋孬用】(Tiáⁿ líh, m̃-móⁿ ēng) The pan is cracked and cannot be used.
-* 【着另外買一個新个】(Tiéh lêng-ngūa bói chék-kâi sin--kâi) You must buy a new one.
+* 【着另外買一个新个】(Tiéh lêng-ngūa bói chék-kâi sin--kâi) You must buy a new one.
 * 【若是好補。免用買新个】(Nāⁿ-sĩ hó-póu mín-ēng bói sin--kâi) If it can be mended you needn't buy a new one.
 * 【欲斫物着在砧頂】(Àiⁿ tok-muéh tiéh nāⁿ tiam-téng) If you want to cut things you must cut them on the chopping block.
 * 【我毋曉執箸】(Uá m̃-hióu khiâ-tṳ̄) I don't know how to use chop-sticks.
 * 【阮執刀叉】(Ún khiâ to-chhe) We use knives and forks.
-* 【甕底貯底個】(Àng-tói tshō tî-kâi?) What does the jar contain?
+* 【甕底貯底个】(Àng-tói tshō tî-kâi?) What does the jar contain?
 * 【貯水】(Tshō tsúi) It contains water.
 * 【虧一桶水來】(Kũaⁿ chék-tháng tsúi lâi) Get me a bucket of water.
 * 【骹桶貯水】(Kha-tháng tshō-tsúi) Put water in the bath-tub.
-* 【水缸個水倒掉】(Tsúi-kng kâi tsúi tò-tiòu;) Pour the water out of the jar;
+* 【水缸个水倒掉】(Tsúi-kng kâi tsúi tò-tiòu;) Pour the water out of the jar;
 * 【另外貯清潔个】(Lêng-ngūa tshō chheng-khih--kâi) And put clean water in it.
 * 【方刀斫着鐵釘缺去】(Pang-to tok--tiéh thih-teng khih-khṳ̀) The chopper struck against a nail and is blunt.
 * 【另外磨會利】(Lêng-ngūa bûa õi-lāi) Whet it, and it will be sharp again.

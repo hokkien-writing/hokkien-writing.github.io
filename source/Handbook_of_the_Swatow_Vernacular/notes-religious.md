@@ -9,7 +9,7 @@ date: 2022-11-20 23:49:00
 ## Lesson XXXIII. Notes—Religious.
 
 * 【汝禮拜日有去禮拜亞無】(Lṳ́ lói-pài-jít ũ khṳ̀ lói-pài a-bô?) Do you go to worship on Sunday?
-* 【有。我個個禮拜去】(Ũ, uá kâi-kâi lói-pài khṳ̀) Yes, I go every Sunday.
+* 【有。我个个禮拜去】(Ũ, uá kâi-kâi lói-pài khṳ̀) Yes, I go every Sunday.
 * 【汝是天主教亞毋是】(Lṳ́ sĩ Thien-tsú-kà a m̃-sĩ?) Are you a Roman Catholic?
 * 【阮是耶穌教】(Ún sĩ Iâ-sou-kà) We are Protestant.
 * 【汝是傳道理个儂亞毋是】(Lṳ́ sĩ thuân-tõ-lí--kâi-nâng a m̃-sĩ?) Are you a preacher?

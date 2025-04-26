@@ -29,15 +29,15 @@ date: 2022-11-20 23:44:00
 * 【我尚英國人】(Uá siãng Eng-kok-nâng) I like Englishmen.
 * 【花旗行倒賬了】(Hue-kî-hâng tó-tièⁿ--lō) The American firm is bankrupt.
 * 【葵扇一枝若㩼錢】(Kûe-sìⁿ chék-ki jiéh-tsōi chîⁿ?) How much for a palm-leaf fan?
-* 【一枝八個錢】(Ki poih-kâi chîⁿ) Eight cash each.
+* 【一枝八个錢】(Ki poih-kâi chîⁿ) Eight cash each.
 * 【此些時無生理】(Chí-chùaⁿ-sî bô seng-lí) My trade is very dull of late.
 * 【恁个生理酷熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
-* 【四個銀。二式四個錢】(Sì-kâi-ngṳ̂n, nõⁿ-sek sì-kâi chîⁿ) Four dollars, twenty cents and four cash.
-* 【百五個錢】(Peh-ngõu kâi chîⁿ) Hundred and fifty cash.
+* 【四个銀。二式四个錢】(Sì-kâi-ngṳ̂n, nõⁿ-sek sì-kâi chîⁿ) Four dollars, twenty cents and four cash.
+* 【百五个錢】(Peh-ngõu kâi chîⁿ) Hundred and fifty cash.
 * 【六斤四】(Lák-kṳn-si) Six catties and four taels.
 * 【二斤半】(Nõⁿ-kṳn-pùaⁿ) Two catties and a half.
 * 【汝支秤閃】(Lṳ́ ki chhìn siám) Your scale is not correct.
 * 【戥正。毋孬戥閃】(Téng-chiàⁿ, m̃-móⁿ téng-siám) Weigh properly, and don't cheat in weighing.
-* 【個銀挈去倒錢】(Kâi-ngṳ̂n khiéh-khṳ̀ táu-chîⁿ) Take the dollar and change it into cash.
-* 【個銀毋夠重。無七二】(Kâi-ngṳ̂n m̃-kàu-tãng, bô chhit-jī) The dollar is short in weight, it's not 7 candareens and 2 mace.
+* 【个銀挈去倒錢】(Kâi-ngṳ̂n khiéh-khṳ̀ táu-chîⁿ) Take the dollar and change it into cash.
+* 【个銀毋夠重。無七二】(Kâi-ngṳ̂n m̃-kàu-tãng, bô chhit-jī) The dollar is short in weight, it's not 7 candareens and 2 mace.
 * 【鬧熱】(Lãu-jiét.) A phrase used by customers or visitor on leaving the shop, which means may your shop be crowded with customers.

@@ -41,16 +41,16 @@ date: 2022-11-15 21:43:00
 * 【彼塊】(Hṳ́-kò, hié) There.
 * 【底塊】(Tî-kò) Where?
 * 【底當時  底時】(Tiang-sî; tî-sî) When?
-* 【此個】(Chí-kâi; chiá) This.
-* 【彼個】(Hṳ́-kâi; hiá) That.
-* 【底一個　底個】(Tî-chék-kâi; tî-kâi) Which?
-* 【底個　是乜】(Tî-kâi; sĩ-mih) What?
+* 【此个】(Chí-kâi; chiá) This.
+* 【彼个】(Hṳ́-kâi; hiá) That.
+* 【底一个　底个】(Tî-chék-kâi; tî-kâi) Which?
+* 【底个　是乜】(Tî-kâi; sĩ-mih) What?
 * 【怎呢】(Tsò-nîⁿ) Why?
 * 【因爲】(In-ûi) Because, on account of.
 * 【底誰】(Tî-tiâng) Who?
 * 【底誰个】(Tî-tiâng-kâi) Whose?
-* 【此些個】(Chí-chùaⁿ-kâi) These.
-* 【彼些個】(Hṳ́-chùaⁿ-kâi) Those.
+* 【此些个】(Chí-chùaⁿ-kâi) These.
+* 【彼些个】(Hṳ́-chùaⁿ-kâi) Those.
 * 【怎呢　若】(Tsò-nîⁿ, jiéh) How?
 * 【此樣生】(Chièⁿ-seⁿ) Like this, thus.
 * 【彼樣生】(Hièⁿ-seⁿ) Like that.
@@ -83,27 +83,27 @@ date: 2022-11-15 21:43:00
 * 【汝在彼塊】(Lṳ́ tõ hṳ́-kò) You are there.
 * 【伊在底塊】(I tõ tî-kò?) Where is he?
 * 【恁底當時去】(Nín tiang-sî khṳ̀?) When did you go?
-* 【此個是底個】(Chí-kâi sĩ tî-kâi?) What is this?
-* 【彼個我勿】(Hṳ́-kâi uá màiⁿ) I don't want that one.
-* 【汝欲底一個】(Lṳ́ àiⁿ tî-chék-kâi?) Which do you want?
-* 【汝欲底個】(Lṳ́ aìⁿ tî-kâi?) What do you want?
+* 【此个是底个】(Chí-kâi sĩ tî-kâi?) What is this?
+* 【彼个我勿】(Hṳ́-kâi uá màiⁿ) I don't want that one.
+* 【汝欲底一个】(Lṳ́ àiⁿ tî-chék-kâi?) Which do you want?
+* 【汝欲底个】(Lṳ́ aìⁿ tî-kâi?) What do you want?
 * 【伊怎呢無來】(I tsò-nîⁿ bô-lâi?) Why did he not come?
 * 【是因爲怎呢】(Sĩ in-ûi tsò-nîⁿ?) For what reason?
 * 【汝是底誰】(Lṳ́ sĩ tî-tiâng?) Who are you?
 * 【此是底誰个】(Chiá sĩ tî-tiâng-kâi?) Whose is this?
-* 【此些個毋是】(Chí-chùaⁿ-kâi m̃-sĩ) These are not them.
-* 【彼些個是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
+* 【此些个毋是】(Chí-chùaⁿ-kâi m̃-sĩ) These are not them.
+* 【彼些个是嗎】(Hṳ́-chùaⁿ-kâi sĩ--mē?) Are those them?
 * 【汝有若㩼】(Lṳ́ ũ jiéh-tsōi?) How much have you?
-* 【汝有若㩼個】(Lṳ́ ũ jiéh-tsōi kâi?) How many have you?
+* 【汝有若㩼个】(Lṳ́ ũ jiéh-tsōi kâi?) How many have you?
 * 【是此樣生】(Sĩ chièⁿ-seⁿ) It is like this.
 * 【毋是彼樣生】(M̃-sĩ hièⁿ-seⁿ) Not like that.
 
 ------
 
 * 【伊還了未去】(I huân-lióu būe-khṳ̀) He hasn't gone yet.
-* 【此個佮彼個】(Chí-kâi kah hṳ́-kâi) This one and that one.
-* 【此個毋是】(Chía m̃-sĩ) This is not it.
-* 【彼個就是】(Hiá chiũ-sĩ) That is it.
+* 【此个佮彼个】(Chí-kâi kah hṳ́-kâi) This one and that one.
+* 【此个毋是】(Chía m̃-sĩ) This is not it.
+* 【彼个就是】(Hiá chiũ-sĩ) That is it.
 * 【汝亦有】(Lṳ́ iā ũ) You have got it too.
 * 【從底塊到底塊】(Tshông tî-kò kàu tî-kò?) From where to where?
 * 【在此塊到彼塊】(Tõ chí-kò kàu hṳ́-kò) From here to there.
@@ -114,7 +114,7 @@ date: 2022-11-15 21:43:00
 * 【無】(Bô) No.
 * 【怎呢無呢】(Tsò-nîⁿ bô--nē?) Why not?
 * 【因爲我毋去】(In-ûi uá m̃-khṳ̀) Because I don't want to go.
-* 【此個是我个】(Chí-kâi sĩ uá-kâi) This is mine.
+* 【此个是我个】(Chí-kâi sĩ uá-kâi) This is mine.
 * 【毋是汝个】(M̃-sĩ lṳ́-kâi) It isn't yours.
 * 【是伊个】(Si i-kâi) It is his.
 * 【汝个毋是此樣生】(Lṳ́-kâi m̃-sĩ chièⁿ-seⁿ) Yours is not like his.
