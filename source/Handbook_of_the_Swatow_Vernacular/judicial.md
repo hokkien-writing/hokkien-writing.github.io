@@ -12,14 +12,14 @@ date: 2022-11-20 23:28:00
 * 【Forgery, of another's name】(Ké-chhiú-pit) 假手筆
 * 【„ of seal】(Ké-ìn) 假印
 * 【Arson】(Pàng-húe) 放火
-* 【Robbery】(Pak-ko-kúe, chhiéⁿ-pak) 剝糕粿　搶剝
+* 【Robbery】(Pak-ko-kúe; chhiéⁿ-pak) 剝糕粿　搶剝
 <!--more-->
 * 【Suicide】(Tsṳ̃-chĩn) 自盡
 * 【„ by hanging】(Tiòu-ãm) 吊頷
 * 【Theft】(Tsò-tshát) 做賊
 * 【Breach of trust】(Tîm-sìn) 沈信
 * 【„ faith】(Sit-sìn) 失信
-* 【Cheating】(Láu-nâng, phièn-nâng) 漏儂　騙儂
+* 【Cheating】(Láu-nâng; phièn-nâng) 漏儂　騙儂
 * 【Causing hurt】(Sieⁿ-nâng) 傷儂
 * 【Assault】(Phah-nâng) 拍儂
 * 【Drunkenness】(Chiáh-chiú-tsùi) 食酒醉
@@ -35,7 +35,7 @@ date: 2022-11-20 23:28:00
 * 【Accused】(Pĩ-kò) 被告
 * 【Witness, a】(Kan-chèng) 干証
 * 【Eye-witness, an】(Chhin-mák thóiⁿ-kìⁿ) 親目睇見
-* 【Try, (a case)】(Sím, phōiⁿ) 審　辦
+* 【Try, (a case)】(Sím; phōiⁿ) 審　辦
 * 【Clear】(Mêng-péh) 明白
 * 【Examine, to】(Kháu-mn̄g) 考問
 * 【Evidence】(Kháu-keng) 口供
@@ -55,7 +55,7 @@ date: 2022-11-20 23:28:00
 * 【Flog severely】(Phah thiám-thiám) 拍忝忝
 * 【Strangle to death】(Liû-sí) 絞死
 * 【Behead, to】(Tsám-thâu) 斬頭
-* 【Imprison, to】(Kìm-kam, siu-kam) 禁監　收監
+* 【Imprison, to】(Kìm-kam; siu-kam) 禁監　收監
 * 【Prison, a】(Kam) 監
 * 【Prison keeper】(Kìm-chí) 禁子
 * 【Prisoner, a】(Huãm-jîn) 犯人
@@ -83,28 +83,28 @@ date: 2022-11-20 23:28:00
 * 【„ low rank】(Sòi-kuaⁿ) 細官
 * 【Magistrate, district】(Kūiⁿ-kuaⁿ) 縣官
 * 【„ town】(Thôu-phóu-si) 巡檢司
-* 【Policeman, a】(A-tsóng, chhe-hiáh) 阿總　差役
+* 【Policeman, a】(A-tsóng; chhe-hiáh) 阿總　差役
 * 【Arrest, to】(Liáh) 掠
 * 【Lock up, to】(Kìm) 禁
 * 【Yamen】(Gê-mn̂g) 衙門
-* 【Court】(Tn̂g, kong-tn̂g) 堂　公堂
+* 【Court】(Tn̂g; kong-tn̂g) 堂　公堂
 * 【Sit, on bench】(Tsõ-tn̂g) 坐堂
 * 【Retire, to】(Thó-tn̂g) 退堂
 * 【Warrant, to issue】(Tshut-chhiam) 出簽
 * 【Summons, to issue】(Tshut-phiè) 出票
 * 【Prosecute, to】(Kò) 告
 * 【Withdraw, to】(Khai-pàng) 開放
-* 【Accuse falsely】(Bū-lūa, uáng-khut) 誣賴　枉屈
-* 【Petition, to send in】(Jíp-tiâⁿ, jíp-pín) 入呈　入禀
-* 【Your Worship】(Lãu-iâ, thài-iâ) 老爺　太爺
+* 【Accuse falsely】(Bū-lūa; uáng-khut) 誣賴　枉屈
+* 【Petition, to send in】(Jíp-tiâⁿ; jíp-pín) 入呈　入禀
+* 【Your Worship】(Lãu-iâ; thài-iâ) 老爺　太爺
 * 【„ Excellency】(Tãi-jîn) 大人
 * 【Promote, to】(Kau-seng) 高升
 * 【Degrade, to】(Kàng-khip) 降級
-* 【Dismiss, to】(Pã-cheh, lut-tiōu) 罷職　黜掉
+* 【Dismiss, to】(Pã-cheh; lut-tiōu) 罷職　黜掉
 * 【Appoint, to】(Siet-líp) 設立
 * 【Appointment, an】(Cheh-jĩm) 職任
-* 【Case, a】(Uàⁿ, uàⁿ-kiãⁿ) 案　案件
-* 【„ to have it tried】(Phah-kuaⁿ-si, sie-kò) 拍官司　相告
+* 【Case, a】(Uàⁿ; uàⁿ-kiãⁿ) 案　案件
+* 【„ to have it tried】(Phah-kuaⁿ-si; sie-kò) 拍官司　相告
 * 【„ to win】(Kò-iâⁿ) 告贏
 * 【Case, to lose】(Kò-su) 告輸
 * 【Discharge, (a case)】(Pàng) 放
@@ -120,7 +120,7 @@ date: 2022-11-20 23:28:00
 * 【Truth, speak the】(Sít-uē tàⁿ) 實話呾
 * 【Lie, to】(Hue-niouⁿ) 花貓
 * 【Swear, to】(Chiù-tshūa) 咒誓
-* 【Plead guilty】(Jīn-tsũe, jīn-tshò) 認罪　認錯
+* 【Plead guilty】(Jīn-tsũe; jīn-tshò) 認罪　認錯
 * 【According to law】(Chiè-lút) 照律
 * 【Against the law】(Ngék-lút) 逆律
 * 【Break the law】(Huãm-lút) 犯律

@@ -12,7 +12,7 @@ date: 2022-11-20 23:30:00
 * 【General】(Chiàng-kun) 將軍
 * 【Admiral】(Tsúi-sṳ thî-tok) 水師提督
 * 【Officers】(Bú-kuaⁿ) 武官
-* 【Soldiers】(Piaⁿ, ióng-chiàng) 兵　勇將
+* 【Soldiers】(Piaⁿ; ióng-chiàng) 兵　勇將
 * 【Cavalry】(Bé-piaⁿ) 馬兵
 * 【Drill, to】(Tshau-liēn) 操練
 * 【Practise, to】(Liēn) 練
@@ -23,11 +23,11 @@ date: 2022-11-20 23:30:00
 * 【Weapon】(Ke-húe) 軍火
 * 【Sword, a】(Kiàm) 劍
 * 【Gun, a】(Chhèng) 銃
-* 【„ large】(Tūa-chhèng, kòng) 大銃　𨫋
+* 【„ large】(Tūa-chhèng; kòng) 大銃　𨫋
 * 【„ to fire】(Phah-chhèng) 拍銃
 * 【Gun-powder】(Chhèng-iéh) 銃藥
 * 【Shots】(Chhèng-chí) 銃子
-* 【Fight, to】(Thâi, chièn) 刣　戰
+* 【Fight, to】(Thâi; chièn) 刣　戰
 * 【Bombard, to】(Bū) 霧
 * 【Advance, to】(Chìn) 進
 * 【Retreat, to】(Thò) 退
@@ -38,12 +38,12 @@ date: 2022-11-20 23:30:00
 * 【Spear】(Pie) 標
 * 【Shield】(Tîn-pâi) 藤牌
 * 【Travel】(Kiâⁿ) 行
-* 【Baggage】(Pau-kó, hêng-lí) 包裹　行李
+* 【Baggage】(Pau-kó; hêng-lí) 包裹　行李
 * 【Camp】(Iâⁿ-pûaⁿ) 營盤
 * 【Encamp】(Tshàng-iâⁿ) 創營
-* 【War, a】(Sie-thâi, kau-chièn) 相刣　交戰
-* 【Victory, gain a】(Thâi-iâⁿ, chièn-iâⁿ) 刣羸　戰羸
-* 【„ lose a】(Thâi-su, chièn-su) 刣輸　戰輸
+* 【War, a】(Sie-thâi; kau-chièn) 相刣　交戰
+* 【Victory, gain a】(Thâi-iâⁿ; chièn-iâⁿ) 刣羸　戰羸
+* 【„ lose a】(Thâi-su; chièn-su) 刣輸　戰輸
 * 【Settle, to】(Tít) 直
 * 【Indemnify, to】(Pûe) 賠
 * 【Reconcile, to】(Hûa) 和

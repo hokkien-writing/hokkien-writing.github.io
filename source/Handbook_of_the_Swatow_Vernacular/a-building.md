@@ -16,7 +16,7 @@ date: 2022-11-20 21:38:00
 * 【牆】(Chhiêⁿ) Wall.
 * 【厝頂】(Tshù-téng) Roof.
 * 【厝瓦】(Tshù-hiã) Tiles (roof.)
-* 【棟樑　樑】(Tòng-êⁿ, êⁿ) A beam.
+* 【棟樑　樑】(Tòng-êⁿ; êⁿ) A beam.
 <!--more-->
 * 【柱】(Thiõu) A pillar, a post.
 * 【磚】(Tsng) Tiles (floor.)

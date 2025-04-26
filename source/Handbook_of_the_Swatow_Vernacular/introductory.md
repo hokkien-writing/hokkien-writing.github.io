@@ -40,11 +40,11 @@ date: 2022-11-15 21:43:00
 * 【此塊】(Chí-kò, chié) Here.
 * 【彼塊】(Hṳ́-kò, hié) There.
 * 【底塊】(Tî-kò) Where?
-* 【底當時  底時】(Tiang-sî, tî-sî) When?
-* 【此個】(Chí-kâi, chiá) This.
-* 【彼個】(Hṳ́-kâi, hiá) That.
-* 【底一個　底個】(Tî-chék-kâi, tî-kâi) Which?
-* 【底個　是乜】(Tî-kâi, sĩ-mih) What?
+* 【底當時  底時】(Tiang-sî; tî-sî) When?
+* 【此個】(Chí-kâi; chiá) This.
+* 【彼個】(Hṳ́-kâi; hiá) That.
+* 【底一個　底個】(Tî-chék-kâi; tî-kâi) Which?
+* 【底個　是乜】(Tî-kâi; sĩ-mih) What?
 * 【怎呢】(Tsò-nîⁿ) Why?
 * 【因爲】(In-ûi) Because, on account of.
 * 【底誰】(Tî-tiâng) Who?
@@ -65,7 +65,7 @@ date: 2022-11-15 21:43:00
 * 【佮】(Kah) And.
 * 【是】(Sĩ) But.
 * 【亦】(Iā) Also.
-* 【從　在】(Tshông, tõ) From.
+* 【從　在】(Tshông; tõ) From.
 * 【到】(Kàu) To.
 * 【較】(Khah) Too.
 * 【約量】(Iak-liãng) About.

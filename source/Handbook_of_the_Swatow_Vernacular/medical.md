@@ -70,7 +70,7 @@ date: 2022-11-20 23:02:00
 * 【食粥】(Chiáh-mûeⁿ) Measles.
 * 【大頷奎】(Tūn-ãm-kui) Goitre.
 * 【瘤】(Liû) Tumour.
-* 【軟疕？】(Nńg-nîⁿ) Palsy.
+* 【軟nîⁿ】(Nńg-nîⁿ) Palsy.
 * 【癱瘓】(Kuàn-pien) Palsy.
 * 【癲】(Sióu) Mad.
 * 【心神毋定】(Sim-sîn m̃-tiāⁿ) Insane.

@@ -277,13 +277,13 @@ date: 2022-11-20 23:22:00
 * 【Deposit, entrust】(Tah) 搭
 * 【Discount, to】(Thiu-kiám) 抽減
 * 【Dollar, silver】(Ngṳ̂n) 銀
-* 【Draft, a】(Ngṳ̂n-tuaⁿ, tùi-tuaⁿ) 銀單　對單
+* 【Draft, a】(Ngṳ̂n-tuaⁿ; tùi-tuaⁿ) 銀單　對單
 * 【Dun, to】(Tshui-pek) 催迫
 * 【Earnest money】(Tiāⁿ-ngṳ̂n) 定銀
 * 【Expend, to】(Sái) 使
 * 【Expenditure】(Só-hùi) 所費
 * 【Guarantee, to】(Pau-niáⁿ) 包領
-* 【Instalments】(Hãng, tshṳ̀) 項　次
+* 【Instalments】(Hãng; tshṳ̀) 項　次
 * 【Insure, to】(Pó-ke) 保家
 * 【Insurance policy】(Pó-ke-jī) 保家字
 * 【Insurance office】(Pó-ke-kuán) 保家館
@@ -291,10 +291,10 @@ date: 2022-11-20 23:22:00
 * 【Invest, to】(Lóh-pńg) 落本
 * 【Lend, to】(Chieh) 借
 * 【Loss, in commerce】(Síh-pńg) 蝕本
-* 【Money】(Chiⁿ, chiⁿ-ngṳ̂u) 錢　錢銀
-* 【„ changer】(Táu-chiⁿ-hâng, táu-toh-kūiⁿ) 倒錢行　倒桌櫃
-* 【„ lender】(Pàng-seⁿ-chè, pàng-seⁿ-siòu) 放生債　放生數
-* 【Mortgage, to】(Tǹg, tóiⁿ) 當　典
+* 【Money】(Chiⁿ; chiⁿ-ngṳ̂u) 錢　錢銀
+* 【„ changer】(Táu-chiⁿ-hâng; táu-toh-kūiⁿ) 倒錢行　倒桌櫃
+* 【„ lender】(Pàng-seⁿ-chè; pàng-seⁿ-siòu) 放生債　放生數
+* 【Mortgage, to】(Tǹg; tóiⁿ) 當　典
 * 【„ deed】(Tóiⁿ-khòi) 典契
 * 【Mortgagor】(Tóiⁿ-tsú) 典主
 * 【„ original】(Tói-tsṳ́) 底子
@@ -307,23 +307,23 @@ date: 2022-11-20 23:22:00
 * 【„ current】(Hâng-chhêng) 行情
 * 【„ fair】(Phêng-kè) 平價
 * 【„ fall in】(Lóh-kè) 落價
-* 【„ rise in】(Hó-kè, khí-kè) 好價　起價
+* 【„ rise in】(Hó-kè; khí-kè) 好價　起價
 * 【Prime cost】(Nguân-kè) 原價
-* 【Profit】(Thàn, tit-lĩ) 趁　得利
+* 【Profit】(Thàn; tit-lĩ) 趁　得利
 * 【Refund, to】(Hôiⁿ) 還
 * 【Rent】(Sùe) 稅
 * 【Safe, an iron】(Thih-kap-buān) 鐵甲萬
-* 【Security, to stand】(Pó-niáⁿ, tam-sêng) 保領　擔承
+* 【Security, to stand】(Pó-niáⁿ; tam-sêng) 保領　擔承
 * 【Treasury】(Khòu-pâng) 庫房
-* 【Usury】(Tãng-lāi, guéh-kiáⁿ) 重利　月囝
-* 【Valuable】(Kùi-khì, tát-chîⁿ) 貴氣　值錢
+* 【Usury】(Tãng-lāi; guéh-kiáⁿ) 重利　月囝
+* 【Valuable】(Kùi-khì; tát-chîⁿ) 貴氣　值錢
 * 【Worth, to be】(Tát) 值
 
 ### A List of words used in Commerce.
 
 * 【Advertise, to】(Tshut-jī-péh) 出字白
 * 【Agreement, an】(Háp-tâng) 合同
-* 【Agreement, make an】(Tsò-háp-tâng, háp-ieh) 做合同　合約
+* 【Agreement, make an】(Tsò-háp-tâng; háp-ieh) 做合同　合約
 * 【Arbitrator, an】(Kong-chhin) 公親
 * 【Arbitrate, to】(Tsò-kong-chhin) 做公親
 * 【Assistant, an】(Jī-chhiú) 二手
@@ -334,7 +334,7 @@ date: 2022-11-20 23:22:00
 * 【Broker, a】(Phah-khang) 拍空
 * 【Bundle, a】(Pau) 包
 * 【Business】(Sṳ̄, seng-lí) 事　生理
-* 【Busy】(M̃-ôiⁿ, sṳ̄ tsōi) 毋閒　事㩼
+* 【Busy】(M̃-ôiⁿ; sṳ̄ tsōi) 毋閒　事㩼
 * 【Cargo】(Hùe) 貨
 * 【Cask, a】(Tháng) 桶
 * 【Certificate, a】(Phêng-tuaⁿ) 憑單
@@ -346,13 +346,13 @@ date: 2022-11-20 23:22:00
 * 【Commerce】(Seng-lí) 生理
 * 【Commissioner of Customs】(Sùe-bũ-si) 稅務司
 * 【Commodity】(Hùe) 貨
-* 【Compradore】(Kau-tshài-kuán) 高菜館?
+* 【Compradore】(Kàu-tshái-kuán) 購採館
 * 【Confiscate, to】(Tshong-kong) 充公
-* 【Consign a vessel】(Tsûn kua hâng) 船倚行?
+* 【Consign a vessel】(Tsûn kua hâng) 船倚行
 * 【Contract】(Háp-táng) 合約
 * 【Correspondence】(Phoi-sìn) 批信
-* 【Courier】(Tshoiⁿ lí-bé, tsáu-bûn-tsṳ) 千里馬　走文書
-* 【Customer】(Bói-kheh, kau-kuan--kâi-nâng) 買客　交關嘅儂
+* 【Courier】(Tshoiⁿ lí-bé; tsáu-bûn-tsṳ) 千里馬　走文書
+* 【Customer】(Bói-kheh; kau-kuan--kâi-nâng) 買客　交關嘅儂
 * 【Defraud】(Tshuah) 掇
 * 【Demurrage】(Thiap-kùe-hãn kâi-ngṳ̂n) 貼過限嘅銀
 * 【Dissolve partnership】(Thiah-húe-kì) 拆夥計
@@ -360,10 +360,10 @@ date: 2022-11-20 23:22:00
 * 【„ to collect】(Khieh-hiàng) 𢭪餉
 * 【„ to pay】(Láp-hiàng) 納餉
 * 【„ to avoid】(Tsáu-hiàng) 走餉
-* 【Employment】(Thâu-lōu, sṳ̄) 頭路　事
+* 【Employment】(Thâu-lōu; sṳ̄) 頭路　事
 * 【Estate, (lands and houses,)】(Súaⁿ-ngiáp) 產業
 * 【„ (properties of all kinds,)】(Ke-húe) 家伙
-* 【Estimate, to】(Kóu-kè, pān) 估價　酌?
+* 【Estimate, to】(Kóu-kè; pān) 估價　pān
 * 【Examine, to】(Chhê-thóiⁿ) 查睇
 * 【Exhibit, to, (goods,)】(Pái) 擺
 * 【Exorbitant price】(Kùi-tsãi) 貴在
@@ -380,7 +380,7 @@ date: 2022-11-20 23:22:00
 * 【Landlord】(Tshù-tsú) 厝主
 * 【Lease, to】(Tsou) 租
 * 【Leisure】(Oiⁿ) 閒
-* 【Letter, a】(Phoi, sìn) 批　信
+* 【Letter, a】(Phoi; sìn) 批　信
 * 【Mail (from Europe,)】(Tsóu-ke-sìn) 祖家信
 * 【Manage, to】(Lí, phōiⁿ) 理　辨
 * 【Manager】(Ke-tiéⁿ) 家長
@@ -389,9 +389,9 @@ date: 2022-11-20 23:22:00
 * 【„ price】(Hâng-chhêng) 行情
 * 【Merchandise】(Hùe) 貨
 * 【Merchant, a】(Kheh-siang) 客商
-* 【Miscellaneous】(Lân-san, tshàm-tshùi) 零些　零碎
+* 【Miscellaneous】(Lân-san; tshàm-tshùi) 零些　零碎
 * 【Monthly】(Guéh-guéh) 月月
-* 【News】(Sin-bũn, sié-sit) 新聞　消息
+* 【News】(Sin-bũn; sié-sit) 新聞　消息
 * 【Newspaper】(Sin-bũn-tsúa) 新聞紙
 * 【Note-book】(Phõu-kiáⁿ) 簿囝
 * 【Notify, to】(Thong-tsai) 通知
@@ -402,7 +402,7 @@ date: 2022-11-20 23:22:00
 * 【Partner, a】(Húe-kì) 夥計
 * 【Passport, a】(Lōu-phiè) 路票
 * 【Postage】(Chiú-chîⁿ) 酒錢
-* 【Purchase, to】(Bói, kau-kuan) 買　交關
+* 【Purchase, to】(Bói; kau-kuan) 買　交關
 * 【„ stock in trade】(Phah-phòu) 拍舖
 * 【Register, to】(Chhiam-miâⁿ) 簽名
 * 【Retail, to】(Lân-san-bōi) 零些賣
@@ -410,7 +410,7 @@ date: 2022-11-20 23:22:00
 * 【Salary】(Kang-tsṳ) 工資
 * 【Sale, for】(Aîⁿ-bōi--kâi) 欲賣嘅
 * 【„ no】(Bõi-siou) 袂消
-* 【Sample】(Pān-thâu, pān) 辦頭　辦
+* 【Sample】(Pān-thâu; pān) 辦頭　辦
 * 【Sell, to】(Bōi) 賣
 * 【„ stock in trade】(Phòu phah--khṳt-náng) 舖拍乞儂
 * 【Share, a】(Hūn) 分
@@ -424,7 +424,7 @@ date: 2022-11-20 23:22:00
 * 【„ brisk】(Seng-lí jiét) 生理熱
 * 【„ dull】(Bô-seng-lí) 無生理
 * 【Tradesman, a】(Seng-lí-nâng) 生理儂
-* 【Transaction, business】(Kau-kùa, bói-bōi) 交掛　買賣
+* 【Transaction, business】(Kau-kùa; bói-bōi) 交掛　買賣
 * 【Undersell, to】(Bōi-phiⁿ--nâng) 賣平儂
 * 【Unprofitable】(Oh-thàn) 難趁
 * 【Wages】(Kang-chîⁿ) 工錢
@@ -457,5 +457,5 @@ date: 2022-11-20 23:22:00
 * 【秤錘】(Chhìn-thûi) A weight.
 * 【戥】(Téng) To weigh.
 * 【戥減】(Téng-siám) To cheat in weighing.
-* 【秤。正】(Chhìn chhiàⁿ) A correct scale.
-* 【秤。閃】(Chhìn siám) An incorrect scale.
+* 【秤正】(Chhìn chhiàⁿ) A correct scale.
+* 【秤閃】(Chhìn siám) An incorrect scale.

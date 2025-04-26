@@ -9,11 +9,11 @@ date: 2022-11-20 23:36:00
 ## Lesson XXVI. a list of animals and birds.
 
 * 【Lion】(Sai) 獅
-* 【Tiger】(Hóuⁿ, lãu-hóuⁿ) 虎　老虎
+* 【Tiger】(Hóuⁿ; lãu-hóuⁿ) 虎　老虎
 * 【Elephant】(Chhiẽⁿ) 象
 * 【Rhinoceros】(Sai-gû) 犀牛
 * 【Camel】(Lóh-thóh) 駱駝
-* 【Ass】(Lṳ̂, lô) 驢　騾
+* 【Ass】(Lṳ̂; lô) 驢　騾
 * 【Deer】(Ték) 鹿
 * 【Wolf】(Tshâi-lâng) 豺狼
 <!--more-->
@@ -29,7 +29,7 @@ date: 2022-11-20 23:36:00
 * 【Bird】(Chióu) 鳥
 * 【Parrot】(Eng-ko) 鸚哥
 * 【Hawk】(Eng-pô) 鸚婆
-* 【Stork】(Hóh, péh-liōu-si) 鶴　白鷺絲
+* 【Stork】(Hóh; péh-liōu-si) 鶴　白鷺絲
 * 【Rabbit】(Chiéh-tshṳ́) 石鼠
 * 【Sparrow】(MÛaⁿ-chiah-chióu) 麻雀鳥
 * 【Pigeon】(Hún-chióu) 粉鳥

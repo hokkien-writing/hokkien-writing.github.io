@@ -102,7 +102,7 @@ date: 2022-11-20 22:51:00
 * 【一儎】(Chék-tsāi) A load.
 * 【倚船邊】(Uá-tsûn-piⁿ) Go alongside the ship.
 * 【直透】(Tít-thàu) To go direct without calling at any port.
-* 【跨?】(Kua) To call at a port.
+* 【Kua】(Kua) To call at a port.
 * 【落船】(Lóh-tsûn) To go on board.
 * 【起】(Khí) To go on shore.
 * 【船租】(Tsûn-tsou) Passage money or freight.

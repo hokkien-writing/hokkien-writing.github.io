@@ -10,7 +10,7 @@ date: 2022-11-20 22:19:00
 
 ### Provisions.
 
-* 【Food】(Chiáh, bí-niêⁿ) 食　米糧
+* 【Food】(Chiáh; bí-niêⁿ) 食　米糧
 * 【Bread】(Mīⁿ-pau) 麫包  麵包
 * 【Butter】(Gû-nĩⁿ-iû) 牛乳油
 * 【Soup, Gravy】(Thng) 湯
@@ -20,12 +20,12 @@ date: 2022-11-20 22:19:00
 <!--more-->
 * 【Turkey】(Húe-koi) 火雞
 * 【Pigeon】(Hún-chióu) 粉鳥
-* 【Beef】(Gû-bah, gû-nék) 牛肉
-* 【Mutton】(Iêⁿ-bah, iêⁿ-nék) 羊肉
-* 【Pork】(Tṳ-bah, tṳ-nék) 豬肉
+* 【Beef】(Gû-bah; gû-nék) 牛肉
+* 【Mutton】(Iêⁿ-bah; iêⁿ-nék) 羊肉
+* 【Pork】(Tṳ-bah; tṳ-nék) 豬肉
 * 【Ham】(Húe-thúi) 火腿
 * 【Potatoes】(Hô-lan-tsṳ̂) 荷蘭薯
-* 【„ sweet】(Huan-kuah, huan-tsṳ̂) 番葛　番薯
+* 【„ sweet】(Huan-kuah; huan-tsṳ̂) 番葛　番薯
 * 【Cakes】(Kúe) 粿
 * 【Sponge cake】(Koi-nñg-kúe) 雞卵粿
 * 【Blanc-mange】(Béh-hún-kúe) 麥粉粿
@@ -118,11 +118,11 @@ date: 2022-11-20 22:19:00
 * 【Turtle】(Hang-ku) 魴龜
 * 【Oysters】(Ô) 蠔
 * 【Cockles】(Ham) 蚶
-* 【Dried salt fish】(Hṳ̂-kuaⁿ, hṳ̂-póu) 魚干　魚脯
+* 【Dried salt fish】(Hṳ̂-kuaⁿ; hṳ̂-póu) 魚干　魚脯
 * 【Salt fish】(Kiâm-hṳ̂) 鹹魚
 * 【Dried prawns】(Hê-bí) 蝦米
 * 【Dried cuttle-fish】(Jiû-hṳ̂) 魷魚  鰇魚
-* 【Fish-roe】(Hṳ̂-chí, hṳ̂-tshun) 魚子　魚春
+* 【Fish-roe】(Hṳ̂-chí; hṳ̂-tshun) 魚子　魚春
 * 【Preserved fish】(Hṳ̂-kôi) 魚鮭
 * 【Classifier of fish】(Búe) 尾
 
@@ -166,9 +166,9 @@ date: 2022-11-20 22:19:00
 * 【Mint】(Pô-hò) 薄荷
 * 【Celery】(Khṳ̂n-tshài) 芹菜
 * 【Coriander】(Uân-sui) 莞荽
-* 【Salad】(Phang-tshài, chheⁿ-tshài) 芳菜　生菜
+* 【Salad】(Phang-tshài; chheⁿ-tshài) 芳菜　生菜
 * 【Ginger】(Kieⁿ) 薑
-* 【Chillies】(Hiam-chie, kim-kaⁿ-náⁿ) 薟椒　金橄欖
+* 【Chillies】(Hiam-chie; kim-kaⁿ-náⁿ) 薟椒　金橄欖
 * 【Onion, fresh】(Tshang) 蔥
 * 【„ root, dried】(Tshang-thâu) 蔥頭
 * 【Garlic, fresh】(Sǹg) 蒜
@@ -206,7 +206,7 @@ date: 2022-11-20 22:19:00
 * 【Lime, sour】(Sng-kaⁿ) 酸柑
 * 【Banana】(Keng-chie) 芎蕉
 * 【Pumelo】(Iū) 柚
-* 【Pineapple】(Uâng-lâi, huan-lâi) 旺梨　番梨
+* 【Pineapple】(Uâng-lâi; huan-lâi) 旺梨　番梨
 * 【Peach】(Thô) 桃
 * 【Pear】(Lâi) 梨
 * 【„ Shantung】(Suaⁿ-tang-lâi) 山東梨
