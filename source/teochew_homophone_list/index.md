@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2025-04-30 23:15:31
+date: 2025-04-30 23:40:55
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -356,7 +356,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |tsh| ① tshue 吹 炊   ② tshúe 髓   ④ tshueh 啜   ⑤ tshûe 箠{棰}   ⑦ tshūe 覓{覔觅}  |
 |s| ① sue 衰   ③ sùe 戍 帥{帅} 稅{税} 歲{岁} 蛻{蜕} 說{说}   ④ sueh 刷 說{说}  |
 |z| ⑤ zûe 挼   ⑥ zũe 睿 銳{锐}  |
-|k| ① kue 瓜 渦{涡}   ② kúe 果 菓 裹 粿 餜{馃}   ③ kùe 怪 掛{挂} 過{过}   ④ kueh 刮 郭   ⑤ kûe 葵   ⑧ ku̍eh 橛`(褲~/khòu-~)`  |
+|k| ① kue 瓜 渦{涡}   ② kúe 果 菓 裹 粿 餜{馃}   ③ kùe 怪 掛{挂} 過{过}   ④ kueh 刮 郭   ⑤ kûe 葵   ⑧ ku̍eh 𰉗 橛`(褲~/khòu-~)`  |
 |kh| ① khue 恢 科 盔 魁   ③ khùe 快 卦 課{课}   ④ khueh 缺   ⑤ khûe 瘸  |
 |g| ⑧ gu̍eh 月 鑰{钥}  |
 |h| ① hue 化 灰 花 華{华}   ② húe 火 伙`(~食/~-chia̍h)` 夥{伙}`(~伴/~-phuãⁿ)`   ③ hùe 化 悔 晦 貨{货} 歲{岁} 誨{诲}   ④ hueh 血   ⑤ hûe 回{囘}`(~頭/~-thâu)` 和 迴{回}`(巡~/sûn-~,~轉/~-tńg)` 茴 蛔   ⑥ hũe 會{会} 匯{汇}`(~款/~-khuán)` 彙{汇}`(詞~/sṳ̂-~)` 燴{烩}  |
@@ -402,7 +402,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 | | ⑤ ôiⁿ 閒{閑闲}  |
 |p| ① poiⁿ 斑   ② póiⁿ 反 版 板   ⑤ pôiⁿ 爿`(底~/tî-~)` 畔  |
 |ph| ⑦ phōiⁿ 稗 辦{办}  |
-|t| ⑥ tõiⁿ 佃 第   ⑦ tōiⁿ 𠕆 殿`(宮~/keng-~)` 靛  |
+|t| ⑥ tõiⁿ 佃 第   ⑦ tōiⁿ 𠕆 𠕇 殿`(宮~/keng-~)` 靛  |
 |th| ② thóiⁿ 看 睇  |
 |n| ⑤ nôiⁿ 蓮{莲}  |
 |ts| ② tsóiⁿ 指   ⑤ tsôiⁿ 前 齊{齐}  |
@@ -673,7 +673,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 | |ang / ak|
 |-|----|
 | | ① ang 翁 骯{肮}   ③ àng 盎`(~然/~-jiên)` 甕{瓮}   ④ ak 沃 抑 軋{轧} 惡{恶}`(罪~/tsũe-~)`   ⑤ âng 洪 紅{红}  |
-|p| ① pang 方 邦 肪 枋 梆 崩 彭 楓{枫} 幫{帮} 繃{绷} 蹦   ② páng 綁{绑} 榜 膀`(肩~/koiⁿ-~)` 耪   ③ pàng 放   ④ pak 八 北 別{别}`(~人/~-nâng)` 剝{剥} 亳 幅 腹 膊 輻{辐}   ⑤ pâng 房 馮{冯}   ⑥ pãng 棒 謗{谤}   ⑧ pa̍k 縛{缚}  |
+|p| ① pang 方 邦 肪 枋 梆 崩 彭 楓{枫} 幫{帮} 繃{绷} 蹦   ② páng 綁{绑} 榜 膀`(肩~/koiⁿ-~)` 耪   ③ pàng 放   ④ pak 八 北 別{别} 剝{剥} 亳 幅 腹 膊 𧧸 輻{辐}   ⑤ pâng 房 馮{冯}   ⑥ pãng 棒 謗{谤}   ⑧ pa̍k 別{别}`(~人/~-nâng)` 縛{缚}  |
 |ph| ① phang 芳 蜂   ② pháng 紡{纺}   ④ phak 伏 趴 博 搏   ⑤ phâng 帆 彷`(~徨/~-huâng)` 航 旁 傍 彭 膀`(~胱/~-kuang)` 磅`(~礴/~-po̍h)` 篷 龐{庞}   ⑦ phāng 縫{缝}   ⑧ pha̍k 雹 暴 瀑 曝  |
 |b| ⑧ ba̍k 木 墨  |
 |m| ② máng 莽 蚊 蟒 蠓   ④ mak 衊{蔑}`(~着/~--tie̍h)`   ⑤ mâng 芒 忙 盲 氓 茫   ⑥ mãng 幕 網{网}   ⑦ māng 夢{梦}   ⑧ ma̍k 目  |
