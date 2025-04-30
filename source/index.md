@@ -1,12 +1,12 @@
 ---
 title: 頭頁
-date: 2025-04-26 23:45:31
+date: 2025-04-30 22:10:41
 source: https://github.com/hokkien-writing/reference
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/reference](https://github.com/hokkien-writing/reference) 相輔修訂。
 
-    
+
 📌 下底 PDF 等資料已攏總放入[微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4bWO4AbwiSrX1_O0?e=5hXHR2) | [阿里雲盤](https://www.alipan.com/s/Wp8vC9RFfv2)，作爲備用。
 
 ## 🔍 查詞

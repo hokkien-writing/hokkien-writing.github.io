@@ -1,13 +1,13 @@
 ---
 title: 潮州話詞庫 (beta)
-date: 2025-04-26 23:45:31
+date: 2025-04-30 23:15:31
 source: https://github.com/hokkien-writing/teochew-lexicon
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/teochew-lexicon](https://github.com/hokkien-writing/teochew-lexicon) 相輔修訂。
 
-    
+
 ## 簡介
 
 本項目收集潮州話所用字詞，無論是漢字還是白話字寫其。

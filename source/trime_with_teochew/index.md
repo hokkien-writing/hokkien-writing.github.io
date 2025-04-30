@@ -1,13 +1,13 @@
 ---
 title: 同文輸入法伴潮州話拍字方案
-date: 2025-04-26 23:45:31
+date: 2025-04-30 23:15:31
 source: https://github.com/hokkien-writing/trime-with-teochew
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/trime-with-teochew](https://github.com/hokkien-writing/trime-with-teochew) 相輔修訂。
 
-    
+
 附帶[潮州話拍字方案](https://github.com/hokkien-writing/rime-teochew)其同文輸入法，適用於 Android平臺 (TRIME IM for Android with rime-teochew schema)。
 
 潮語文 | [简体中文](https://github.com/hokkien-writing/trime-with-teochew/raw/master/README_sc.md)

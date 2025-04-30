@@ -1,13 +1,13 @@
 ---
 title: 潮州話拍字方案 (beta)
-date: 2025-04-26 23:45:31
+date: 2025-04-30 23:15:31
 source: https://github.com/hokkien-writing/rime-teochew
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/rime-teochew](https://github.com/hokkien-writing/rime-teochew) 相輔修訂。
 
-    
+
 ![拍字效果](https://github.com/hokkien-writing/rime-teochew/raw/master/assets/u-oinn-lai-chiah-te.GIF)
 
 ```

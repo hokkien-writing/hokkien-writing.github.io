@@ -1,13 +1,13 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2025-04-26 23:45:31
+date: 2025-04-30 23:15:31
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/teochew-homophone-list](https://github.com/hokkien-writing/teochew-homophone-list) 相輔修訂。
 
-    
+
 ## a / ah
 
 | |a / ah|
