@@ -349,7 +349,7 @@ date: 2022-11-20 23:22:00
 * 【Compradore】(Kàu-tshái-kuán) 購採館
 * 【Confiscate, to】(Tshong-kong) 充公
 * 【Consign a vessel】(Tsûn kua hâng) 船倚行
-* 【Contract】(Háp-táng) 合約
+* 【Contract】(Háp-táng) 合同
 * 【Correspondence】(Phoi-sìn) 批信
 * 【Courier】(Tshoiⁿ lí-bé; tsáu-bûn-tsṳ) 千里馬　走文書
 * 【Customer】(Bói-kheh; kau-kuan--kâi-nâng) 買客　交關个儂

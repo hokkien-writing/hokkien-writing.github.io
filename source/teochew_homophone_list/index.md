@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2025-05-02 16:59:30
+date: 2025-05-02 22:50:05
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -119,7 +119,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 | |ṳ / ṳh|
 |-|----|
-| | ① ṳ 於{于}`(屬~/so̍k-~)` 于`(~右任/~ iũ-jĩm)`   ② ṳ́ 與{与} 予   ③ ṳ̀ 淤 翳   ⑤ ṳ̂ 餘{余}`(剩~/sīn-~,~數/~-siòu)` 予 輿{舆} 余   ⑥ ṳ̃ 與{与} 譽{誉} 豫 預{预}   ⑦ ṳ̄ 與{与}  |
+| | ① ṳ 於{于}`(屬~/so̍k-~)` 于`(~右任/~ iũ-jĩm)`   ② ṳ́ 與{与} 予   ③ ṳ̀ 淤 翳   ⑤ ṳ̂ 餘{余}`(剩~/sīn-~,~數/~-siàu)` 予 輿{舆} 余   ⑥ ṳ̃ 與{与} 譽{誉} 豫 預{预}   ⑦ ṳ̄ 與{与}  |
 |t| ① tṳ 豬{猪}   ⑤ tṳ̂ 除 鋤{锄}`(~頭/~-thâu)`   ⑦ tṳ̄ 箸  |
 |l| ② lṳ́ 汝 你 爾{尔}   ⑤ lṳ̂ 勞{劳} 閭{闾} 驢{驴}   ⑥ lṳ̃ 侶{侣} 呂{吕} 慮{虑} 濾{滤} 鋁{铝}  |
 |ts| ① tsṳ 姿 書{书} 資{资} 之 孜 孳 淄 滋 芝 茲{兹} 諮{咨} 輜{辎} 鷀{鹚} 齎{赍}   ② tsṳ́ 子 煮 仔 籽   ③ tsṳ̀ 恣 漬{渍}   ⑤ tsṳ̂ 薯   ⑥ tsṳ̃ 自  |
@@ -780,14 +780,14 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |p| ② piáu 表`(~示/~-sī)` 殍  |
 |ph| ① phiau 標{标}`(~緻/~-tì)` 漂 飄{飘} 瓢 膘 飆{飙} 驃{骠}  |
 |m| ② miáu 渺`(~茫/~-mâng)` 秒 杳 淼`(煙波浩~/in-po-hau-~)` 藐   ⑤ miâu 描 苗 瞄 錨{锚}   ⑥ miãu 妙  |
-|t| ① tiau 雕 凋 刁 叼 碉 貂   ③ tiàu 吊`(~燈/~-teng)` 弔{吊}`(憑~/phêng-~)`   ⑥ tiãu 兆 召   ⑦ tiāu 掉 調{调}`(聲~/siaⁿ-~)`  |
-|th| ① thiau 挑 迢   ② thiáu 眺 窕   ③ thiàu 跳 超   ⑤ thiâu 調{调}`(~整/~-chiáⁿ)`  |
+|t| ① tiau 雕 凋 刁 叼 碉 貂   ③ tiàu 吊`(~燈/~-teng)` 弔{吊}`(憑~/phêng-~)`   ⑤ tiâu 條{条}   ⑥ tiãu 兆 召   ⑦ tiāu 掉 調{调}`(聲~/siaⁿ-~)`  |
+|th| ① thiau 挑 迢   ② thiáu 眺 窕   ③ thiàu 跳 超   ⑤ thiâu 調{调}`(~整/~-chiáⁿ)` 鮡{𬶐}   ⑥ thiãu 柱  |
 |n| ② niáu 嫋{袅} 溺   ③ niàu 皺{皱}  |
-|l| ② liáu 瞭{了}`(明~/mêng-~,~解/~-kòi)`   ⑤ liâu 聊 僚 寥 寮 撈{捞} 撩 潦 燎 獠 療{疗} 瞭{了}`(~望/~-mō)` 遼{辽} 醪 鐐{镣}   ⑦ liāu 料 廖  |
+|l| ② liáu 了`(~斷/~-tuãn)` 瞭{了}`(明~/mêng-~,~解/~-kòi)`   ③ liàu 了`(到~/kàu-~)`   ⑤ liâu 聊 僚 寥 寮 撈{捞} 撩 潦 燎 獠 療{疗} 瞭{了}`(~望/~-mō)` 遼{辽} 醪 鐐{镣}   ⑦ liāu 料 廖  |
 |ch| ① chiau 招 朝`(今~/kim-~)` 昭 焦 礁   ② chiáu 鳥{鸟}   ③ chiàu 照   ④ chiauh 雀  |
-|chh| ① chhiau 悄 鍬{锹}   ② chhiáu 悄 俏 嘲 峭 稍   ⑤ chhiâu 晁 朝`(~代/~-tō)` 瞧  |
-|s| ① siau 搜 宵 宿 捎 消 稍 肖 蕭{萧} 銷{销} 霄 鞘   ② siáu 小   ③ siàu 少   ⑥ siãu 紹{绍} 肇 肖 邵 韶  |
-|j| ② jiáu 擾{扰} 爪   ③ jiàu 沼 繞{绕}   ⑤ jiâu 饒{饶}  |
+|chh| ① chhiau 悄 鍬{锹} 𢲵   ② chhiáu 悄 俏 嘲 峭 稍   ⑤ chhiâu 晁 朝`(~代/~-tō)` 瞧  |
+|s| ① siau 搜 宵 宿 捎 消 硝 稍 肖 蕭{萧} 銷{销} 霄 鞘   ② siáu 小 癲{癫}   ③ siàu 少 數{数}   ⑥ siãu 紹{绍} 肇 肖 邵 韶  |
+|j| ② jiáu 擾{扰} 爪   ③ jiàu 沼 皺{皱} 繞{绕}   ⑤ jiâu 饒{饶}  |
 |k| ① kiau 嬌{娇} 澆{浇} 邀 驕{骄}   ② kiáu 攪{搅} 矯{矫} 繳{缴} 餃{饺}   ⑥ kiãu 撬 橇  |
 |kh| ① khiau 敲 橇   ② khiáu 巧   ③ khiàu 竅{窍} 翹{翘}   ⑤ khiâu 僑{侨} 喬{乔} 翹{翘} 蕎{荞}  |
 |ng| ① ngiau 貓{猫}   ⑤ ngiâu 堯{尧}  |

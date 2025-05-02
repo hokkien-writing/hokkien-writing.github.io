@@ -12,7 +12,7 @@ date: 2022-11-20 23:34:00
 * 【Great-grand-father, paternal】(Lãu-kong) 老公
 * 【Great-grand-mother, paternal】(Lãu-máⁿ) 老媽
 * 【Grand-father, paternal】(A-kong; tsóu-pẽ) 阿公　祖父
-* 【Grand-mother, paternal】(A-máⁿ; tsóu-bó) 阿媽　祖母
+* 【Grand-mother, paternal】(A-má; tsóu-bó) 阿媽　祖母
 * 【Grand-father, maternal】(Gūa-kong) 外公
 * 【Grand-mother, maternal】(Gūa-máⁿ) 外媽
 <!--more-->

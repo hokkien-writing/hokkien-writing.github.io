@@ -75,7 +75,7 @@ date: 2022-11-20 23:02:00
 * 【癲】(Sióu) Mad.
 * 【心神毋定】(Sim-sîn m̃-tiāⁿ) Insane.
 * 【愩】(Kòng) Crazy.
-* 【痱】(Bùi, Pùi) Prickly heat.
+* 【痱】(Bùi; Pùi) Prickly heat.
 * 【癬】(Sién) Ringworm.
 * 【目痛】(Mák--thiàⁿ) Sore-eyes.
 * 【近視】(Kṳ̃n-sī) Near-sighted.
