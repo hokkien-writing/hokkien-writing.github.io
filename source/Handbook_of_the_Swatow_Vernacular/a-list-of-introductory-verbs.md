@@ -150,7 +150,7 @@ date: 2022-11-15 21:43:00
 * 【Undo, Untie】(Tháu) 㪗
 * 【Use】(Ēng) 用
 * 【Visit】(Sûn) 巡
-* 【Wait】(Tán, thāi) 等　待
+* 【Wait】(Tán; thāi) 等　待
 * 【Walk】(Kiâⁿ) 行
 * 【Waste】(Tak-nn̄g) 遭塌
 * 【Wear, (clothes.)】(Chhēng) 穿

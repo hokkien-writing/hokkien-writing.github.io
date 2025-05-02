@@ -1790,7 +1790,7 @@ date: 2022-11-20 23:55:00
 * 【Steal】(Thau-khiéh) 盜取
 * 【Steep】(Kiā) 崎
 * 【Step】(Pōu) 步
-* 【Stick, a】(Tshûe: kùn) 棍
+* 【Stick, a】(Tshûe; kùn) 棍
 * 【„ as gum】(Tùe) 搭
 * 【„ in】(Tshah) 插
 * 【Stiff】(Ngẽ) 硬

@@ -333,7 +333,7 @@ date: 2022-11-20 23:22:00
 * 【Bill of lading】(Nám-tsāi-jī) 攬儎字
 * 【Broker, a】(Phah-khang) 拍空
 * 【Bundle, a】(Pau) 包
-* 【Business】(Sṳ̄, seng-lí) 事　生理
+* 【Business】(Sṳ̄; seng-lí) 事　生理
 * 【Busy】(M̃-ôiⁿ; sṳ̄ tsōi) 毋閒　事㩼
 * 【Cargo】(Hùe) 貨
 * 【Cask, a】(Tháng) 桶
