@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2025-05-02 22:50:05
+date: 2025-05-05 17:42:39
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -36,7 +36,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |p| ② pé 把   ④ peh 伯 百 爬 佰 掰 柏   ⑤ pê 爬 扒 杷 琶 耙   ⑥ pẽ 父   ⑧ pe̍h 白 帛  |
 |ph| ③ phè 帕  |
 |b| ② bé 碼{码} 馬{马}   ⑧ be̍h 麥{麦}  |
-|m| ④ meh 咩`(~~叫/~-~-kiè)`   ⑤ mê 夜   ⑦ mē 嗎{吗} 罵{骂}   ⑧ me̍h 脈{脉}  |
+|m| ② mé 猛   ④ meh 咩`(~~叫/~-~-kiè)`   ⑤ mê 暝 盲 冥 夜 芒   ⑦ mē 嗎{吗} 罵{骂}   ⑧ me̍h 脈{脉}  |
 |t| ④ teh 壓{压}   ⑤ tê 茶  |
 |th| ⑦ thē 蜇`(海~/hái-~)`   ⑧ the̍h 宅  |
 |n| ② né 冷   ⑦ nē 呢  |
@@ -58,10 +58,10 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |p| ① pi 嗶{哔} 砒 碑 蓖 陂   ② pí 比 畀 俾 彼 毗 稗   ③ pì 庇 揹{背}`(~个衫包/~ kâi saⁿ-pau)` 臂 背`(~包/~-pau)` 匕 毖 泌 痹 祕{秘} 費{费}   ④ pih 憋 鱉{鳖}   ⑤ pî 啤 枇 琵 脾   ⑥ pĩ 被`(~告/~-kò)` 閉{闭} 備{备} 幣{币} 憊{惫} 敝 斃{毙} 陛   ⑦ pī 弊 避 蔽  |
 |ph| ① phi 披   ② phí 丕 否 疕 痞   ③ phì 譬 鄙   ⑤ phî 疲 脾 貔 陂   ⑥ phĩ 屁  |
 |b| ② bí 米   ③ bì 氼   ④ bih 癟{瘪} 覕   ⑦ bī 味 未  |
-|m| ① mi 乜 咪 眯   ② mí 美 靡   ④ mih 乜   ⑤ mî 迷 糜 醚 眯   ⑥ mĩ 媚 袂 謎{谜}  |
+|m| ① mi 乜 咪 眯   ② mí 美 靡   ④ mih 乜   ⑤ mî 迷 棉 糜 綿{绵} 醚 眯   ⑥ mĩ 媚 袂 謎{谜}   ⑦ mī 麵{面}`(~粉/~-hún)` 麫{面}`(~包/~-pau)`  |
 |t| ① ti 低 的 祗 蜘   ② tí 抵`(~押/~-ah)`   ③ tì 智 知 置 致`(~使/~-sài)` 緻{致}`(細~/sòi-~)` 帝 戴`(~帽/~ bō)`   ④ tih 滴 蒂   ⑤ tî 底`(~个/~-kâi)` 池 遞{递} 治   ⑥ tĩ 弟 彘 逮 銻{锑} 隸{隶}   ⑦ tī 地`(~點/~-tiám)` 治   ⑧ ti̍h 碟  |
 |th| ② thí 體{体}   ③ thì 滯{滞} 剃 嚏 屜{屉} 替 涕 締{缔} 翅 睇   ④ thih 鐵{铁} 佚 忒   ⑤ thî 持 提 啼   ⑥ thĩ 痔  |
-|n| ① ni 呢 奶   ② ní 女 弭 彌{弥}`(~補/~-póu)` 染 瀰{弥}`(~漫/~-buãn)` 獼{猕}   ③ nì 泥   ④ nih 𥍉`(~目/~-ma̍k)`   ⑤ nî 年 呢`(~喃/ni5lâm)` 妮 尼 泥   ⑥ nĩ 奶 泥`(滯~/thì-~)` 膩{腻}  |
+|n| ① ni 呢 奶   ② ní 女 弭 彌{弥}`(~補/~-póu)` 染 瀰{弥}`(~漫/~-buãn)` 獼{猕}   ③ nì 泥   ④ nih 𥍉`(~目/~-ma̍k)`   ⑤ nî 年 呢`(~喃/ni5lâm)` 妮 尼 泥 𦮴   ⑥ nĩ 奶 泥`(滯~/thì-~)` 膩{腻}  |
 |l| ② lí 理 旅 李 裏{里} 里`(公~/kong-~,鄰~/lîn-~)` 履 禮{礼} 蠡 鯉{鲤} 哩   ⑤ lî 離{离} 漓 犛{牦} 狸 璃 籬{篱} 罹 釐{厘} 魑 鸝{鹂} 麗{丽} 黎   ⑥ lĩ 利 厲{厉} 勵{励} 麗{丽} 俐 戾 痢 癘{疠} 礪{砺} 荔 莉 蒞{莅}   ⑦ lī 哩 例 俐 吏   ⑧ li̍h 裂 咧  |
 |ch| ① chi 膣   ② chí 只`(~是/~-sĩ)` 此`(~搭/~-tah)` 址 指 止 旨 紫 姊 子 祇 祉 稚 籽 脂 芷 詣{诣} 趾 霽{霁}   ③ chì 制`(~度/~-tōu)` 志`(~向/~-hiàng)` 至 幟{帜} 製{制}`(~造/~-tsãu)` 誌{志}`(事~/tāi-~,墓~銘/mõ-~-mêng)` 劑{剂} 掣 摯{挚} 擠{挤} 濟{济} 熾{炽} 痣 祭 識{识} 際{际} 齏{齑}   ④ chih 折`(拍~/phah-~)` 接 摺{折}`(存~/tshûn-~,~衫褲/~ saⁿ-khòu)`   ⑥ chĩ 舐 巳   ⑧ chi̍h 舌 折`(~服/~-ho̍k,~腰/~-ie,拗~/á-~)`  |
 |chh| ① chhi 妻 差`(參~/tsham-~)` 悽{凄}`(~慘/~-tshám)` 棲{栖} 淒{凄}`(~涼/~-liâng)` 癡{痴} 鰓{鳃}   ② chhí 恥{耻} 侈 齒{齿}   ③ chhì 試{试} 刺`(魚~/hṳ̂-~)` 弒{弑} 莿   ⑤ chhî 薺{荠} 遲{迟} 馳{驰} 齊{齐}   ⑥ chhĩ 市   ⑦ chhī 飼{饲}   ⑧ chhi̍h 彳  |
@@ -137,7 +137,6 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |-|----|
 | | ① aⁿ 掩   ⑦ āⁿ 餡{馅}  |
 |ph| ③ phàⁿ 冇 怕  |
-|m| ② máⁿ 媽{妈}`(~祖/~-tsóu)`  |
 |t| ① taⁿ 今 擔{担}`(扁~/pién-~)`   ② táⁿ 膽{胆}   ③ tàⁿ 呾 擔{担}`(一~/che̍k-~)` 石   ⑥ tãⁿ 淡`(~水/~-tsúi)` 擲{掷} 氮   ⑦ tāⁿ 賺{赚}  |
 |s| ① saⁿ 三 衫 叄{叁}  |
 |k| ① kaⁿ 柑   ② káⁿ 敢   ③ kàⁿ 酵   ⑤ kâⁿ 銜{衔}  |
@@ -149,7 +148,6 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 | | ⑤ êⁿ 楹  |
 |p| ③ pèⁿ 柄   ⑤ pêⁿ 棚 平   ⑦ pēⁿ 病  |
 |ph| ⑤ phêⁿ 平 彭 澎 膨  |
-|m| ② méⁿ 猛   ⑤ mêⁿ 暝 盲 冥 芒  |
 |t| ③ tèⁿ 詐{诈}   ⑥ tẽⁿ 𢯰`(一~花/che̍k-~-hue)`   ⑦ tēⁿ 鄭{郑}  |
 |th| ① theⁿ 撐{撑}  |
 |ch| ① cheⁿ 爭{争}   ② chéⁿ 井 阱   ⑤ chêⁿ 晴   ⑥ chẽⁿ 靜{静}  |
@@ -166,10 +164,8 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 | | ② íⁿ 以 已 椅   ③ ìⁿ 燕   ⑤ îⁿ 圓{圆} 丸   ⑥ ĩⁿ 夗   ⑦ īⁿ 院 硯{砚}  |
 |p| ① piⁿ 邊{边}`(厝~/tshù-~)` 鞭`(馬~/bé-~)` 辮{辫}`(留~/lâu ~)`   ② píⁿ 扁   ③ pìⁿ 變{变}`(~面/~ mīn)`   ⑥ pĩⁿ 辮{辫}`(~~/~ piⁿ)`  |
 |ph| ① phiⁿ 便   ③ phìⁿ 片   ⑦ phīⁿ 鼻  |
-|m| ⑤ mîⁿ 棉 糜 綿{绵}   ⑦ mīⁿ 麵{面}`(~粉/~-hún)` 麫{面}`(~包/~-pau)`  |
 |t| ⑤ tîⁿ 纏{缠}   ⑥ tĩⁿ 漲{涨}  |
 |th| ① thiⁿ 天 添   ⑦ thīⁿ 縫{缝}  |
-|n| ⑤ nîⁿ 呢 𦮴  |
 |ch| ① chiⁿ 支`(~持/~-thî)` 吱 歧 氈{毡} 氏 肢 脂 薦{荐}   ② chíⁿ 稚   ③ chìⁿ 擠{挤} 煎 箭   ⑤ chîⁿ 錢{钱} 薺{荠}  |
 |chh| ① chhiⁿ 鮮{鲜}   ⑤ chhîⁿ 尋{寻}  |
 |s| ③ sìⁿ 扇`(紙~/tsuá-~)`  |
@@ -256,7 +252,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |ts| ① tsou 租 謅{诌} 鄒{邹}   ② tsóu 祖   ⑥ tsõu 驟{骤}  |
 |tsh| ① tshou 粗   ③ tshòu 湊{凑} 揍 醋   ⑤ tshôu 愁  |
 |s| ① sou 甦{苏}`(~醒/~-chhéⁿ)` 蘇{苏}`(~州/~-chiu)` 酥   ② sóu 擻{擞} 瘦 艘   ⑦ sōu 素  |
-|k| ① kou 估 姑 孤 枯 沽 罛`(敲~/khà-~)` 菇 菰 辜   ② kóu 古 股 估 嘏 牡`(鹿~/te̍k-~)` 牯 苟 鼓   ③ kòu 夠{够} 構{构} 購{购} 僱{雇} 垢 妒 顧{顾}   ⑤ kôu 糊 罟`(牽~/khan-~)` 餬{糊}`(麵線~/mīⁿ-suàⁿ-~)`  |
+|k| ① kou 估 姑 孤 枯 沽 罛`(敲~/khà-~)` 菇 菰 辜   ② kóu 古 股 估 嘏 牡`(鹿~/te̍k-~)` 牯 苟 鼓   ③ kòu 夠{够} 構{构} 購{购} 僱{雇} 垢 妒 顧{顾}   ⑤ kôu 糊 罟`(牽~/khan-~)` 餬{糊}`(麵線~/mī-suàⁿ-~)`  |
 |kh| ① khou 枯 呼 箍   ② khóu 苦 許{许}   ③ khòu 庫{库} 寇 蔻 褲{裤}  |
 |g| ⑤ gôu 吳{吴}   ⑦ gōu 誤{误}  |
 |ng| ② ngóu 偶 午 五 伍 牾 藕   ⑥ ngõu 五 伍  |
@@ -349,7 +345,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |p| ① pue 杯 飛{飞}   ③ pùe 背`(~誦/~-sõng)` 貝{贝} 輩{辈}   ⑤ pûe 培 賠{赔} 陪   ⑥ pũe 倍 貝{贝} 佩 狽{狈} 鋇{钡}   ⑦ pūe 焙  |
 |ph| ① phue 坯 壞{坏} 胚   ③ phùe 配   ⑤ phûe 皮 裴   ⑥ phũe 被`(~席/~-chhie̍h)`   ⑧ phu̍eh 𠱀  |
 |b| ② búe 尾 美   ⑤ bûe 媒 梅 枚 煤 酶 黴{霉}   ⑦ būe 未   ⑧ bu̍eh 襪{袜}  |
-|m| ② múe 每   ⑥ mũe 妹 寐 昧 魅   ⑧ mu̍eh 物  |
+|m| ② múe 每   ⑤ mûe 糜   ⑥ mũe 妹 寐 昧 魅   ⑧ mu̍eh 物  |
 |t| ③ tùe 綴{缀}   ⑥ tũe 兌{兑}  |
 |th| ① thue 頹{颓}  |
 |ts| ③ tsùe 最   ⑥ tsũe 罪  |
@@ -479,7 +475,6 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 | |ueⁿ|
 |-|----|
-|m| ⑤ mûeⁿ 糜  |
 |k| ① kueⁿ 關{关}  |
 |h| ⑤ hûeⁿ 橫{横}  |
 

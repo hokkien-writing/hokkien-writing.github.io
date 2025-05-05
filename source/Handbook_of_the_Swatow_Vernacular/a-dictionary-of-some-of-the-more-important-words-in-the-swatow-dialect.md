@@ -11,7 +11,7 @@ date: 2022-11-20 23:55:00
 * 【Abandon】(Pàng-tiòu) 放掉
 * 【Ability】(Pún-sṳ̃; pún-niáⁿ; tshâi-chhêng) 本事　本領　才情
 * 【Able】(Õi; miâⁿ-ke) 會　名家
-* 【Abolish】(Tṳ̂-tiòu; hùi-tiòu) 除掉　廢掉
+* 【Abolish】(Tṳ̂-tiōu; hùi-tiōu) 除掉　廢掉
 * 【Abominable】(Khó-ù) 可惡
 * 【Abrasion】(Phiù-phûe; lṳ̄--tiéh) 破皮
 * 【Abscond】(Tsáu-khṳ̀-tiàm) 走去坫
