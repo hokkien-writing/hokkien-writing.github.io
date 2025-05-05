@@ -60,7 +60,7 @@ date: 2022-11-20 22:19:00
 
 ------
 
-* 【俺明旦起欲出門。食有夠亞無】(Nán màⁿ-khí àiⁿ tshut-mǹg, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
+* 【俺明旦起欲出門。食有夠亞無】(Nán màⁿ-khí àiⁿ tshut-mn̂g, chiáh ũ-kàu a bô?) To-morrow, we are going out, have we got enough provisions?
 * 【着預夠】(Tiéh ṳ̃-kàu) You must prepare enough.
 * 【勿毋夠。了在路就無食】(Màiⁿ-m̃-kàu, lióu tõ lōu chiũ bô-chiáh) For if there is not enough, then we shall get no food on the way.
 * 【今俺有底个】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
@@ -129,13 +129,13 @@ date: 2022-11-20 22:19:00
 ------
 
 * 【巿瞑起無魚】(Chhĩ mêng-khí bô-hṳ̂) There are no fish this morning in the market.
-* 【有一尾我出一百錢賣魚个儂還了毋好賣我】(Ũ chék-búe uá tshut chék-peh-chî, bōi-hṳ̂--kâi-nâng huân-lióu m̃-hàuⁿ bōi uá) There is one, which I offered a hundred cash for yet the fisherman wouldn't sell it to me.
+* 【有一尾我出一百錢賣魚个儂還了毋好賣我】(Ũ chék-búe uá tshut chék-peh-chîⁿ, bōi-hṳ̂--kâi-nâng huân-lióu m̃-hàuⁿ bōi uá) There is one, which I offered a hundred cash for yet the fisherman wouldn't sell it to me.
 * 【一尾紅鰽欲二百錢】(Chék-búe âng-tsô àiⁿ nõⁿ-peh-chîⁿ) Two hundred cash for a red-fish.
 * 【鯧魚上減一尾欲百五錢】(Chhieⁿ-hṳ̂ siãng-kiám chék-búe àiⁿ peh-ngõu-chîⁿ) At least one hundred and fifty cash for a flounder.
 * 【馬鮫若是一尾無三百錢免用出】(Bé-ka nãⁿ-sĩ chék-búe bô saⁿ-peh-chîⁿ, mín-ēng tshut) As for mackeral you needn't offer for it, unless you are prepared to give three hundred cash for it.
 * 【我買零些墨斗佮零些蝦】(Uá bói lân-ló bák-táu, kah tshoh-hê) I bought some cuttle-fish, and some shrimps.
 * 【一條鰻。寡隻蟹】(Chék tiôu mûaⁿ, kuá-chiah hõi) One eel, several crabs.
-* 【十粒蠔。二十粒蚶】(Tsáp-liáp ô, jī-tsáp liáp ham) Ten oysters, twenty cockles.
+* 【十粒蠔。二十粒蚶】(Tsáp-liáp ô, jĩ-tsáp liáp ham) Ten oysters, twenty cockles.
 * 【魚干六両。佮鹹魚半斤】(Hṳ̂-kuaⁿ lák-niéⁿ, kah kiâm-hṳ̂ pùaⁿ-kṳn) Dried salt fish six taels, and salt fish half a catty.
 * 【蝦米一擔若㩼】(Hê-bí chék-tàⁿ jiéh-tsōi?) How much for a picul of dried prawns?
 * 【一擔敢是五箍亞】(Chék-tàⁿ káⁿ-sĩ ngõu-khou ã) I think five dollars a picul.

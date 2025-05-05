@@ -1,6 +1,6 @@
 ---
 title: 潮州話怎呢呾？(beta)
-date: 2025-05-05 17:42:39
+date: 2025-05-06 00:06:38
 source: https://github.com/hokkien-writing/teochew-mandarin
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---

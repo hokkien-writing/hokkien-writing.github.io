@@ -69,7 +69,7 @@ date: 2022-11-20 23:31:00
 * 【Happiness】(Hok-khì) 福氣
 * 【Misery】(Chhi-tshám; kan-khóu) 悽慘　艱苦
 * 【Angel】(Thiⁿ-sài) 天師
-* 【Devil】(Mòⁿ-kúi) 魔鬼
+* 【Devil】(Môⁿ-kúi) 魔鬼
 * 【Demon】(Kúi) 鬼
 * 【Heaven】(Thiⁿ-tn̂g) 天堂
 * 【Hell】(Tī-gék) 地獄

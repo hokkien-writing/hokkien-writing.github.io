@@ -107,7 +107,7 @@ date: 2022-11-20 23:55:00
 * 【Backbone】(Ie-kut; ie-chiah-kut) 腰骨　腰脊骨
 * 【Bad】(Ak; phái; m̃-móⁿ) 惡　痞  毋孬
 * 【Bag】(Tō; pòu-tō) 袋　布袋
-* 【Baggage】(Hêng-lí; pan-kó) 行李　包裹
+* 【Baggage】(Hêng-lí; pau-kó) 行李　包裹
 * 【Bail】(Tam-sêng) 擔承
 * 【Bait】(Jī; hṳ̂-jī) 餌　魚餌
 * 【Bald】(Tshàu-thâu) 臭頭
@@ -127,7 +127,7 @@ date: 2022-11-20 23:55:00
 * 【Bark】(Chhiū-phûe) 樹皮
 * 【Bark as dogs】(Pūi) 吠
 * 【Barn】(Chhek-tshng) 粟倉
-* 【Barometer】(Huang-hōu-tsam) 風雨針
+* 【Barometer】(Huang-hõu-tsam) 風雨針
 * 【Bawl】(Jiáng) 嚷
 * 【Beak】(Chióu-tshùi) 鳥喙
 * 【Bear, endure】(Nãiⁿ) 耐
@@ -237,7 +237,7 @@ date: 2022-11-20 23:55:00
 * 【Borer】(Tsǹg-kiáⁿ) 鑽囝
 * 【Born】(Seⁿ; tshut-sì) 生　出世
 * 【Borrow】(Chieh) 借
-* 【Both, persons】(Jī-ke) 二家
+* 【Both, persons】(Jĩ-ke) 二家
 * 【„ things】(Nõⁿ-kâi) 兩个
 * 【Bottom】(Tói) 底
 * 【Bough】(Chhiū-ki) 樹枝
@@ -280,7 +280,7 @@ date: 2022-11-20 23:55:00
 * 【Bright】(Kng) 光
 * 【„ very】(Tãng-tãng-kng) 重重光
 * 【Bring】(Khiéh--lâi; tsah--lâi; tūa) 挈來　紮來  帶
-* 【Brisk, as trade】(Jiét; lāu-jiét) 熱　鬧熱
+* 【Brisk, as trade】(Jiét; lãu-jiét) 熱　鬧熱
 * 【Brittle】(Sou) 酥
 * 【Broad】(Khuah; khùaⁿ) 闊　寛
 * 【Broken】(Phùa) 破
@@ -441,7 +441,7 @@ date: 2022-11-20 23:55:00
 * 【Chink】(Phāng) 縫
 * 【Chisel】(Tshák-kiáⁿ) 鑿囝
 * 【„ for cutting iron】(Tsãm; thih-tsãm) 鏨　鐵鏨
-* 【Choke】(Kéⁿ--tiéh; kéⁿ-tiéh-aû) 逆着　逆着喉
+* 【Choke】(Kéⁿ--tiéh; kéⁿ-tiéh-aû) 鯁着　鯁着喉
 * 【Choose】(Suán; tóh) 選　擇
 * 【Chop, house mark】(Jī-hō) 字號
 * 【„ to】(Tok) 斫
@@ -531,7 +531,7 @@ date: 2022-11-20 23:55:00
 * 【Concern, to】(Ũ-kan-siáp) 有干涉
 * 【„ does not】(Bô-kan-siáp) 無干涉
 * 【Conciliate】(Hûa; kiâⁿ-hûa) 和　行和
-* 【Concubine】(Jī-nâng; tsáu-kúi; chhiah-kha) 二儂　走鬼　赤骹
+* 【Concubine】(Jĩ-nâng; tsáu-kúi; chhiah-kha) 二儂　走鬼　赤骹
 * 【Condemn】(Tiāⁿ-tsũe) 定罪
 * 【Conduct】(Kiâⁿ-ûi) 行爲
 * 【Confess】(Jīn) 認
@@ -617,7 +617,7 @@ date: 2022-11-20 23:55:00
 * 【Crimson】(Tūa-âng) 大紅
 * 【Cripple】(Kuái-kha) 拐骹
 * 【Crockery】(Hûi) 𦈢
-* 【Crocodile】(Bā-kiáⁿ; ngák-hû) 峇囝　鱷魚
+* 【Crocodile】(Bā-kiáⁿ; ngák-hṳ̂) 峇囝　鱷魚
 * 【Crooked】(Uan) 冤
 * 【Crop, of field】(Tang; niⁿ-tang) 冬　年冬
 * 【Cross, to】(Kùe) 過
@@ -810,7 +810,7 @@ date: 2022-11-20 23:55:00
 * 【Examine】(Chhê; sûn; thóiⁿ) 查　巡　睇
 * 【„ literature】(Kháu; kháu-mn̄g) 考　考問
 * 【Example】(Iēⁿ) 樣
-* 【Exchange】(Sie-uāⁿ; uāⁿ) 相喚　換
+* 【Exchange】(Sie-uāⁿ; uāⁿ) 相換　換
 * 【Exclude】(Tṳ̂; màiⁿ-sǹg) 除　勿算
 * 【Exercise, take】(Kiâⁿ-tsáu; uáh-tõng) 行走　活動
 * 【Exert, oneself】(Khat-khóu; kṳn-sim) 刻苦　謹心
@@ -1135,7 +1135,7 @@ date: 2022-11-20 23:55:00
 * 【Lodge】(Hiah) 歇
 * 【Loins】(Ie) 腰
 * 【Lonely】(Ka-kī; tuaⁿ-nâng) 家己　單儂
-* 【Longevity】(Tñg-miāⁿ) 長命
+* 【Longevity】(Tn̂g-miāⁿ) 長命
 * 【Loose, to get】(Lut--khṳ̀) 脫去
 * 【Lottery】(Hue-hũe) 花會
 * 【„ Manila】(Lṳ̃-sóng-pie) 呂宋票
@@ -1152,7 +1152,7 @@ date: 2022-11-20 23:55:00
 * 【Manure】(Pûi; pùn) 肥　糞
 * 【Mark】(Hō; hō-thâu) 號　號頭
 * 【Marry, of man】(Tshūa; tshūa-bóu; tshūa-chhin) 娶  娶𡚸  娶親
-* 【„ of woman】(Kè; tshut-mng) 嫁　出門
+* 【„ of woman】(Kè; tshut-mn̂g) 嫁　出門
 * 【Mason】(Tsoh-hue-kang) 作灰工
 * 【Master, of a house】(Ke-tsú) 家主
 * 【„ of a school】(Sin-seⁿ; kà-tsṳ sin-seⁿ) 先生　教書先生
@@ -1173,7 +1173,7 @@ date: 2022-11-20 23:55:00
 * 【Middling】(Tong; tong-pān) 中　中辦
 * 【Midwife】(Seⁿ-kiaⁿ-bó) 生囝母
 * 【Mild】(Láu-sít) 老實
-* 【Mile, Chinese】(Phòu; phòu-lōu) 鋪　鋪路
+* 【Mile, Chinese】(Phòu; phòu-lōu) 舖　舖路
 * 【„ a, equal to Chinese】(Saⁿ-lí) 三里
 * 【Mill, for removing the husk】(Lâng) 壟
 * 【„ for grinding】(Bō) 磨
@@ -1222,7 +1222,7 @@ date: 2022-11-20 23:55:00
 * 【North】(Pak; pak-pôiⁿ) 北　北爿
 * 【Number, figure】(Bé-kiáⁿ; bé-chí) 碼囝　碼子
 * 【„ one】(Tõiⁿ-it) 第一
-* 【„ two】(Tõiⁿ-jī) 第二
+* 【„ two】(Tõiⁿ-jĩ) 第二
 * 【Nurse】(Niⁿ-bó; zú-bó) 奶母  乳母
 * 【Obey】(Sũn; thiaⁿ) 順　聽
 * 【Oblige, by force】(Ngẽ-liáh) 硬掠
@@ -1238,7 +1238,7 @@ date: 2022-11-20 23:55:00
 * 【Oppose】(Tùi-thâu; tùi-ték) 對頭　對敵
 * 【Opposite】(Tùi-mīn; sie-tùi) 對面　相對
 * 【Orchard】(Kúe-chí-hn̂g) 果子園
-* 【Order, put in】(Siu-síp; sṳ̃-lí) 修拾　修理
+* 【Order, put in】(Siu-síp; sṳ̃-lí) 修拾　司理
 * 【„ an】(Mẽng; lẽng) 命　令
 * 【„ to】(Kiè; mẽng) 叫　命
 * 【Origin】(Pńg; kṳn-pńg) 本　根本
@@ -1290,7 +1290,7 @@ date: 2022-11-20 23:55:00
 * 【Peck】(Toh) 啄
 * 【Peculiar】(Koh-iēⁿ) 各樣
 * 【Peep】(Thau-thóiⁿ; thau-iám) 偷睇　偷睒
-* 【Pendulum】(Sî-cheng-thūi) 時鐘錘
+* 【Pendulum】(Sî-cheng-thūi) 時鐘墜
 * 【Penetrate】(Jíp; thàng; thàng--kùe) 入　通　通過
 * 【People】(Nâng; peh-sèⁿ) 儂　百姓
 * 【„ all the】(Chèng-nâng; tãi-ke) 眾儂　大家
@@ -1523,14 +1523,14 @@ date: 2022-11-20 23:55:00
 * 【Sacrifice】(Hõng; chì) 奉　祭
 * 【Sad】(Huân-ló) 煩惱
 * 【Saddle】(Bé-uaⁿ) 馬鞍
-* 【„ to】(Kùa-beⁿ-uaⁿ) 掛馬鞍
+* 【„ to】(Kùa-bé-uaⁿ) 掛馬鞍
 * 【Safe】(Ún-tǹg; thó-tàng) 穩當  妥當
 * 【Sage, a】(Gâu-nâng) 賢儂
 * 【Salary】(Kang-tsṳ) 工資
 * 【„ official】(Hóng-lók) 俸祿
 * 【Saliva】(Nũaⁿ) 涎
 * 【„ flowing】(Lâu-nũaⁿ) 流涎
-* 【Salt, to, as pickles】(Lõu; lõu-kiâm) 露　露鹽
+* 【Salt, to, as pickles】(Lõu; lõu-kiâm) 滷　滷鹹
 * 【„ to put some in a dish】(Lóh-iâm; suah-iâm) 落鹽
 * 【„ taste】(Kiâm) 鹹
 * 【Same, the】(Pêⁿ-iēⁿ; sie-tâng) 平樣　相同
@@ -1644,7 +1644,7 @@ date: 2022-11-20 23:55:00
 * 【Sieve, a】(Thai; bí-thai; bí-lô) 篩　米篩　米籮
 * 【„ for winnowing】(Pùa-ki) 簸箕
 * 【Sift】(Thai) 篩
-* 【Sigh】(Tháu-khùi) 嘆氣
+* 【Sigh】(Tháu-khùi) 㪗氣
 * 【Sight, of the eyes】(Mák-sít) 目實
 * 【Sign, a】(Hō; kì-hō) 號　記號
 * 【„ secret】(Àm-hō) 暗號
@@ -1694,7 +1694,7 @@ date: 2022-11-20 23:55:00
 * 【Smuggle】(Tsáu-hiàng) 走餉
 * 【Snail】(Lô; tshân-lô) 螺　田螺
 * 【Snare】(Lô-māng; khuán-thàu) 羅網　圈套
-* 【„ set a】(Tieⁿ-khuán-thàu) 設圈套
+* 【„ set a】(Tieⁿ-khuán-thàu) 張圈套
 * 【Snare, to】(Tng) 當
 * 【Snatch】(Chhiéⁿ) 搶
 * 【Sneeze】(Phah-ka-khì) 拍咳氣
@@ -1731,7 +1731,7 @@ date: 2022-11-20 23:55:00
 * 【South】(Nâm; nâm-pôiⁿ) 南　南爿
 * 【Sow, a】(Tṳ-bó) 豬母
 * 【„ to】(Iā-chéng) 播種
-* 【Spade】(Thih-chhiâm) 鐵鑽
+* 【Spade】(Thih-chhiâm) 鐵鑱
 * 【Span】(Liáh) 掠
 * 【Spatter】(Phuah; phùn) 潑　鍤
 * 【Spawn, of fish】(Hṳ̂-tshun; hṳ̂-nñg; hṳ̂-chí) 魚春　魚卵　魚子
@@ -1881,7 +1881,7 @@ date: 2022-11-20 23:55:00
 * 【Surety, to be】(Tam-sêng; pó-niáⁿ; tam-jīn) 擔承　保領　擔認
 * 【Surname】(Sèⁿ) 姓
 * 【Surpass】(Iâⁿ) 贏
-* 【Surprise】(Khî-ĩ; hāi-ĩ) 奇異　駭異
+* 【Surprise】(Khî-ĩ; hãi-ĩ) 奇異　駭異
 * 【Surrender】(Hâng; hók; hâng-hók) 降　服　降服
 * 【Surround】(Uî) 圍
 * 【Survey, land】(Niêⁿ-tī; chiāng-tī) 量地　丈地
@@ -1990,7 +1990,7 @@ date: 2022-11-20 23:55:00
 * 【Tough】(Zūn) 韌
 * 【Tow, a ship】(Tũa) 拕
 * 【Towards】(Hiàng; niáⁿ) 向  領
-* 【Town】(Pou; pou-thau) 埠　埠頭
+* 【Town】(Pou; pou-thâu) 埠　埠頭
 * 【Trace, to】(Chhim-tui tsong-chiah) 尋追踪跡
 * 【„ to, as in writing】(Piè) 裱
 * 【Track, mark】(Chiah) 跡
@@ -2021,7 +2021,7 @@ date: 2022-11-20 23:55:00
 * 【Try】(Chhì; chhì-thóiⁿ) 試　試睇
 * 【Tube】(Kóng; tâng) 管　筒
 * 【Tune】(Pán) 板
-* 【Turban】(Tháu-pòu) 頭布
+* 【Turban】(Thâu-pòu) 頭布
 * 【Turn, revolve】(Hui) 回
 * 【„ over】(Póiⁿ; póiⁿ-lìn-tńg) 反  反輪轉
 * 【„ the head】(Ut-tńg-thâu) 斡轉頭
@@ -2046,7 +2046,7 @@ date: 2022-11-20 23:55:00
 * 【Uniform】(Kuaⁿ-hók; kuaⁿ-i) 官服　官衣
 * 【Unite, to】(Háh-bûa) 合摩
 * 【Unlawful】(M̃-háh-huap) 毋合法
-* 【Unlimited】(Bô-hân) 無限
+* 【Unlimited】(Bô-hãn) 無限
 * 【Unload, a ship】(Khí-hùe; tshut-hùe) 起貨　出貨
 * 【Unnecessary】(Mín; mín-ēng) 免　免用
 * 【Unpleasant, feeling】(Kāu-uéh) 厚劃

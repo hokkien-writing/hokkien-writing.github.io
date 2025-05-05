@@ -89,7 +89,7 @@ date: 2022-11-20 23:28:00
 * 【Yamen】(Gê-mn̂g) 衙門
 * 【Court】(Tn̂g; kong-tn̂g) 堂　公堂
 * 【Sit, on bench】(Tsõ-tn̂g) 坐堂
-* 【Retire, to】(Thó-tn̂g) 退堂
+* 【Retire, to】(Thò-tn̂g) 退堂
 * 【Warrant, to issue】(Tshut-chhiam) 出簽
 * 【Summons, to issue】(Tshut-phiè) 出票
 * 【Prosecute, to】(Kò) 告

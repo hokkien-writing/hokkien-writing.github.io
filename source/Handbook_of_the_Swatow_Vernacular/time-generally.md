@@ -11,7 +11,7 @@ date: 2022-11-17 23:28:00
 ### section I.
 
 * 【拜一】(Pài-it) Monday.
-* 【拜二】(Pài-jī) Tuesday.
+* 【拜二】(Pài-jĩ) Tuesday.
 * 【拜三】(Pài-saⁿ) Wednesday.
 * 【拜四】(Pài-sì) Thursday.
 <!--more-->
@@ -19,7 +19,7 @@ date: 2022-11-17 23:28:00
 * 【拜六】(Pài-lák) Saturday.
 * 【禮拜】(Lói-pài) Sunday.
 * 【正月】(Chiaⁿ--guéh) First moon or New Year's days.
-* 【二月】(Jī--guéh) Second moon.
+* 【二月】(Jĩ--guéh) Second moon.
 * 【三月】(Saⁿ-guéh) Third moon.
 
 ------
@@ -38,23 +38,23 @@ date: 2022-11-17 23:28:00
 * 【汝拜六下旰來】(Lṳ́ pài-lák ẽ-kùa lâi) You come on Saturday afternoon.
 * 【禮拜日我欲去禮拜】(Lói-pài-jít uá àiⁿ-khṳ̀ lói-pài) On Sunday I go to worship.
 * 【加毋久就正月】(Ke m̃-kú chiũ chiaⁿ--guéh) Before long it will be the New Year.
-* 【二月還了是凊】(Jī--guéh huân-lióu sĩ chhìn) The second moon is still cold.
+* 【二月還了是凊】(Jĩ--guéh huân-lióu sĩ chhìn) The second moon is still cold.
 * 【三月稍絀】(Saⁿ--guéh ióu-tsuáh) The third moon is a little less (cold.)
 
 ### section II.
 
 * 【初一】(Chhiu-it) First day of the moon.
-* 【初二】(Chhiu-jī) Second day of the moon.
+* 【初二】(Chhiu-jĩ) Second day of the moon.
 * 【初三】(Chhiu-saⁿ) Third day of the moon.
 * 【十一】(Tsap2-it) Eleventh day of the moon.
-* 【十二】(Tsáp-jī) Twelfth day of the moon.
+* 【十二】(Tsáp-jĩ) Twelfth day of the moon.
 * 【月大】(Guéh tūa) A long moon.
 * 【月小】(Guéh sié) A short moon.
 * 【閏月】(Zūn-guéh) An intercalary moon.
 * 【日蝕】(Jít síh) An eclipse of the sun.
 * 【月蝕】(Guéh síh) An eclipse of the moon.
 * 【安更】(An-keⁿ) First watch from 7 to 9 p.m.
-* 【二更】(Jī-keⁿ) Second watch from 9 to 11 p.m.
+* 【二更】(Jĩ-keⁿ) Second watch from 9 to 11 p.m.
 * 【三更】(Saⁿ-keⁿ) Third watch from 11 to 1 a.m.
 * 【四更】(Sì-keⁿ) Fourth watch from 1 to 9 a.m.
 * 【五更】(Ngõu-keⁿ) Fifth watch from 3 to 5 a.m.
@@ -66,7 +66,7 @@ date: 2022-11-17 23:28:00
 * 【十一禮拜】(Tsáp-it lói-pài) The eleventh (Chinese month) will be Sunday.
 * 【是亞毋是】(Sĩ a m̃-sĩ?) Is it or is it not?
 * 【我睇歷日就知】(Uá thóiⁿ láh-jíh chiũ-tsai) Let me see the calendar, and I will know it.
-* 【歷日在此。十二正是禮拜】(Láh-jít tõ--chié, tsáp-jī chiàⁿ-sĩ lói-pài) Here's the calendar, the twelfth will be Sunday.
+* 【歷日在此。十二正是禮拜】(Láh-jít tõ--chié, tsáp-jĩ chiàⁿ-sĩ lói-pài) Here's the calendar, the twelfth will be Sunday.
 * 【毋是十一】(M̃-sĩ tsáp-it) It's not the eleventh.
 * 【此个月大亞是小】(Chí-kâi guéh tuā a-sĩ sié?) Is this moon long or short?
 * 【毋知】(M̃-tsai) I don't know.

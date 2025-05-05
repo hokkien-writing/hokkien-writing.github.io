@@ -52,7 +52,7 @@ date: 2022-11-16 20:14:00
 * 【伊袂食】(I bõi-chiáh) He can't eat.
 * 【怎呢袂食】(Tsò-nîⁿ bõi-chiáh) Why can't he eat?
 * 【我毋知】(Uá m̃-tsai) I don't know.
-* 【入來】(Jíp--lái) Come in.
+* 【入來】(Jíp--lâi) Come in.
 * 【出去】(Tshut--khṳ̀) Go out.
 * 【汝聽我會見嗎】(Lṳ́ thiaⁿ uá õi-kìⁿ mē?) Can you hear me?
 * 【我聽毋見】(Uá thiaⁿ m̃-kìⁿ) I can't hear you.
@@ -63,7 +63,7 @@ date: 2022-11-16 20:14:00
 * 【底个】(Tî-kâi) What is it?
 * 【是此个亞毋是】(Sĩ chiá a m̃-sĩ?) Is this it?
 * 【就是】(Chiũ-sĩ) That is it.
-* 【挈來】(Khiéh--lài) Bring it here.
+* 【挈來】(Khiéh--lâi) Bring it here.
 * 【感謝】(Kám-siā) Thank you.
 * 【好了】(Hó--lō) That will do.
 * 【伊會傷着嗎】(I õi sieⁿ--tiéh mē?) Is he hurt?
@@ -87,8 +87,7 @@ date: 2022-11-16 20:14:00
 * 【來去佚佗】(Lâi-khṳ̀ thit-thô) Come let us go out to amuse ourselves.
 * 【俺勿對彼塊過】(Nán màiⁿ tùi-hié kùe) Let us not pass by that way.
 * 【由此過】(Tùi-chié kùe) Pass by this way.
-* 【彼擇起來】(
-* tóh--khí-lâi) Pick that up.
+* 【彼擇起來】(tóh--khí-lâi) Pick that up.
 
 ### section IV.
 

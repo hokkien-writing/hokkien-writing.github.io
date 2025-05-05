@@ -39,5 +39,5 @@ date: 2022-11-20 23:44:00
 * 【汝支秤閃】(Lṳ́ ki chhìn siám) Your scale is not correct.
 * 【戥正。毋孬戥閃】(Téng-chiàⁿ, m̃-móⁿ téng-siám) Weigh properly, and don't cheat in weighing.
 * 【个銀挈去倒錢】(Kâi-ngṳ̂n khiéh-khṳ̀ táu-chîⁿ) Take the dollar and change it into cash.
-* 【个銀毋夠重。無七二】(Kâi-ngṳ̂n m̃-kàu-tãng, bô chhit-jī) The dollar is short in weight, it's not 7 candareens and 2 mace.
+* 【个銀毋夠重。無七二】(Kâi-ngṳ̂n m̃-kàu-tãng, bô chhit-jĩ) The dollar is short in weight, it's not 7 candareens and 2 mace.
 * 【鬧熱】(Lãu-jiét.) A phrase used by customers or visitor on leaving the shop, which means may your shop be crowded with customers.

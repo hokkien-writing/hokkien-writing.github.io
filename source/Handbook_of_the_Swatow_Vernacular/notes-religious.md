@@ -17,7 +17,7 @@ date: 2022-11-20 23:49:00
 * 【是。汝有欲聽零些嗎】(Sĩ, lṳ́ ũ àiⁿ-thiaⁿ lân-ló mē?) Yes, do you wish to hear me a little?
 * 【我有閒。我來去禮拜堂聽】(Uá ũ-ôiⁿ, uá lâi-khṳ̀ lói-pài-tn̂g thiaⁿ) If I have time, I shall go to the church and hear.
 * 【今旦日菴埠閙熱】(Kíaⁿ-jît Am-pou lãu-jiét) To-day is a festival day in Am-pou.
-* 【做二十棚戯。佮迎老爺】(Tsò jī-tsáp-pêⁿ hì, kah iâⁿ-lãu-iâ) They have twenty theatre stages besides a procession.
+* 【做二十棚戯。佮迎老爺】(Tsò jĩ-tsáp-pêⁿ hì, kah iâⁿ-lãu-iâ) They have twenty theatre stages besides a procession.
 * 【來去佚佗】(Lâi-khṳ̀ thit-thô) Let us go for amusement.
 * 【我欲去拜老爺】(Uá àiⁿ-khṳ̀ pài-lãu-iâ) I am going to worship the idol.
 * 【欲去拜媽祖】(Aìⁿ-khṳ̀-pài Máⁿ-tsóu) I wish to worship the Goddess of sailors.

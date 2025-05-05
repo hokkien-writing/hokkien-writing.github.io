@@ -137,7 +137,7 @@ date: 2022-11-20 23:22:00
 * 【藤】(Tîn) Rattan.
 * 【大黃】(Tūa-n̂g) Rhubarb.
 * 【火箭】(Húe-súh) Rockets.
-* 【香柴】(Hioⁿ-tshâ) Sandal-wood.
+* 【香柴】(Hieⁿ-tshâ) Sandal-wood.
 * 【燕菜】(Ièn-tshài) Seaweeds.
 * 【魚翼】(Hṳ̂-sít) Shark-fins.
 * 【螺】(Lô) Shells.
@@ -166,7 +166,7 @@ date: 2022-11-20 23:22:00
 * 【鑿囝】(Tshák-kiáⁿ) A chisel.
 * 【鑽囝】(Tsǹg-kiáⁿ) An awl.
 * 【銼】(Tshò) A file.
-* 【斧頭】(Póu-tháu) An axe.
+* 【斧頭】(Póu-thâu) An axe.
 * 【鐵釘】(Thih-teng) A nail.
 * 【羅絲釘】(Lô-si-teng) A screw.
 * 【羅絲轉】(Lô-si-zuán) A screw.
@@ -291,8 +291,8 @@ date: 2022-11-20 23:22:00
 * 【Invest, to】(Lóh-pńg) 落本
 * 【Lend, to】(Chieh) 借
 * 【Loss, in commerce】(Síh-pńg) 蝕本
-* 【Money】(Chiⁿ; chiⁿ-ngṳ̂u) 錢　錢銀
-* 【„ changer】(Táu-chiⁿ-hâng; táu-toh-kūiⁿ) 倒錢行　倒桌櫃
+* 【Money】(Chîⁿ; chîⁿ-ngṳ̂u) 錢　錢銀
+* 【„ changer】(Táu-chîⁿ-hâng; táu-toh-kūiⁿ) 倒錢行　倒桌櫃
 * 【„ lender】(Pàng-seⁿ-chè; pàng-seⁿ-siòu) 放生債　放生數
 * 【Mortgage, to】(Tǹg; tóiⁿ) 當　典
 * 【„ deed】(Tóiⁿ-khòi) 典契
@@ -326,7 +326,7 @@ date: 2022-11-20 23:22:00
 * 【Agreement, make an】(Tsò-háp-tâng; háp-ieh) 做合同　合約
 * 【Arbitrator, an】(Kong-chhin) 公親
 * 【Arbitrate, to】(Tsò-kong-chhin) 做公親
-* 【Assistant, an】(Jī-chhiú) 二手
+* 【Assistant, an】(Jĩ-chhiú) 二手
 * 【Auction】(Khà-lōi-long) 和黎郞
 * 【Bale, a】(Khún) 綑
 * 【Barter, to】(Hùe uāⁿ hùe) 貨換貨
@@ -428,9 +428,9 @@ date: 2022-11-20 23:22:00
 * 【Undersell, to】(Bōi-phiⁿ--nâng) 賣平儂
 * 【Unprofitable】(Oh-thàn) 難趁
 * 【Wages】(Kang-chîⁿ) 工錢
-* 【Wholesale, buy】(Bói-chiēⁿ-pûaⁿ) 買上盤
-* 【„ sell】(Bōi-chiēⁿ-pûaⁿ) 賣上盤
-* 【„ trade】(Tsò-chiēⁿ-pûaⁿ) 做上盤
+* 【Wholesale, buy】(Bói-chiẽⁿ-pûaⁿ) 買上盤
+* 【„ sell】(Bōi-chiẽⁿ-pûaⁿ) 賣上盤
+* 【„ trade】(Tsò-chiẽⁿ-pûaⁿ) 做上盤
 
 ### Weights and measures.
 

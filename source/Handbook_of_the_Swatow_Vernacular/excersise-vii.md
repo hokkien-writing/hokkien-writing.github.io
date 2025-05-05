@@ -129,14 +129,14 @@ date: 2022-11-16 20:16:00
 * 【瞑起】(Mêng-khí) Morning.
 * 【日晝】(Jít-tàu) Noon.
 * 【夜昏】(Mêⁿ-hng) Evening.
-* 【上午】(Chiēⁿ-kùa) Forenoon.
+* 【上旰】(Chiẽⁿ-kùa) Forenoon.
 * 【下旰】(Ẽ-kùa) Afternoon.
 * 【夜昏囝】(Mêⁿ-hng-kiáⁿ) To-night (early.)
 * 【今夜】(Ke-mêⁿ) To-night (rather late.)
 * 【日】(Jít) Sun or day.
 * 【月】(Guéh) Moon or month.
-* 【日間】(Jít--kùa) In the day.
-* 【夜間】(Mêⁿ--kùa) In the night.
+* 【日旰】(Jít--kùa) In the day.
+* 【夜旰】(Mêⁿ--kùa) In the night.
 * 【日晏】(Jít uàⁿ) Late in the day.
 * 【日暗】(Jít àm) Late in the night.
 * 【半夜】(Puàⁿ-mêⁿ) Midnight
@@ -155,7 +155,7 @@ date: 2022-11-16 20:16:00
 * 【我請伊】(Uá chhiáⁿ i) I have invited him.
 * 【伊作有幾㩼日工】(I tsoh ũ jiéh-tsōi jít kang?) How many days' work has he done?
 * 【伊作有一个月】(I tsoh ũ chék-kâi guéh) He has worked one month.
-* 【伊日間作。夜間亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
+* 【伊日旰作。夜旰亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
 * 【伊个工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
 * 【日未暗】(Jít būe-àm) It is not yet dark.
 * 【汝夗到日彼樣晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.

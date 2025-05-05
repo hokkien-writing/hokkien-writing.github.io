@@ -1,6 +1,6 @@
 ---
 title: 簡明潮州白話字 (Simple PUJ)
-date: 2025-05-05 17:42:39
+date: 2025-05-06 00:06:38
 source: https://github.com/hokkien-writing/simple-puj
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -113,8 +113,8 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 | 韻母 | 大寫 | IPA  | 例字                                |
 | ---- | ---- | ---- |-----------------------------------|
-| aiⁿ  | Aiⁿ  | ãĩ   | àiⁿ愛  màiⁿ無愛\|勿                   |
-| auⁿ  | Auⁿ  | ãũ   | mauⁿ包  hàuⁿ好                      |
+| aiⁿ  | Aiⁿ  | ãĩ   | àiⁿ愛                   |
+| auⁿ  | Auⁿ  | ãũ   | hàuⁿ好                      |
 | oiⁿ  | Oiⁿ  | õĩ   | ôiⁿ閒  póiⁿ反  koiⁿ間  thóiⁿ睇  hôîⁿ還 |
 | ouⁿ  | Ouⁿ  | õũ   | hóuⁿ虎                             |
 |      |      |      |                                   |
@@ -123,8 +123,10 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 | iuⁿ  | Iuⁿ  | ĩũ   | iùⁿ幼  hiuⁿ休                       |
 |      |      |      |                                   |
 | uaⁿ  | Uaⁿ  | ũã   | uàⁿ案  puàⁿ半  tuaⁿ單  kuaⁿ官  huaⁿ歡  |
-| ueⁿ  | Ueⁿ  | ũẽ   | mûeⁿ糜 kueⁿ關  kúeⁿ果  hûeⁿ橫         |
+| ueⁿ  | Ueⁿ  | ũẽ   | kueⁿ關  kúeⁿ果  hûeⁿ橫         |
 | uiⁿ  | Uiⁿ  | ũĩ   | kũiⁿ跪  mûiⁿ微                      |
+
+注意：在m,n及ng聲母後，鼻化韻ⁿ可省略，例如：糜 mûeⁿ => mûe。
 
 #### 入聲
 

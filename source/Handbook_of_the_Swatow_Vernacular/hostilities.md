@@ -20,7 +20,7 @@ date: 2022-11-20 23:30:00
 <!--more-->
 * 【„ to】(Mẽng) 命
 * 【„ rule over】(Kuán) 管
-* 【Weapon】(Ke-húe) 軍火
+* 【Weapon】(Ke-húe) 傢伙
 * 【Sword, a】(Kiàm) 劍
 * 【Gun, a】(Chhèng) 銃
 * 【„ large】(Tūa-chhèng; kòng) 大銃　𨫋
