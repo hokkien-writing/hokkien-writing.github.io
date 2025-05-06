@@ -43,7 +43,7 @@ date: 2022-11-20 23:31:00
 * 【Temple, a】(Lãu-iâ-keng) 老爺宮
 * 【Monastery, a】(Am) 庵
 * 【Ancestral hall】(Sṳ̂-tn̂g) 祠堂
-* 【„ tablet】(Ke-sín) 家神
+* 【„ tablet】(Ke-sîn) 家神
 * 【Shrine】(Sîn-kham) 神龕
 * 【Censor, a】(Hieⁿ-lou) 香爐
 * 【Incense】(Hieⁿ) 香
@@ -68,7 +68,7 @@ date: 2022-11-20 23:31:00
 * 【Sympathy】(Thói-thiap) 體貼
 * 【Happiness】(Hok-khì) 福氣
 * 【Misery】(Chhi-tshám; kan-khóu) 悽慘　艱苦
-* 【Angel】(Thiⁿ-sài) 天師
+* 【Angel】(Thiⁿ-sài) 天使
 * 【Devil】(Môⁿ-kúi) 魔鬼
 * 【Demon】(Kúi) 鬼
 * 【Heaven】(Thiⁿ-tn̂g) 天堂

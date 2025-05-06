@@ -33,7 +33,7 @@ date: 2022-11-20 23:02:00
 * 【吐】(Thòu) To vomit.
 * 【漏屎】(Làu-sái) Diarrhoea.
 * 【肚漏】(Tóu làu) Diarrhoea.
-* 【放血】(Pàng-àng) Dysentery.
+* 【放紅】(Pàng-âng) Dysentery.
 * 【滯氣】(Thì-khì) Dysentery.
 * 【痢疾】(Lĩ-chit) Dysentery.
 * 【肚澀】(Tóu-siap) Costiveness.
@@ -67,7 +67,7 @@ date: 2022-11-20 23:02:00
 * 【食痘】(Chiáh-tāu) Chicken-pox.
 * 【出痘】(Tshut-tāu) Chicken-pox.
 * 【種珠】(Chèng-tsu) To vacinate.
-* 【食粥】(Chiáh-mûeⁿ) Measles.
+* 【食糜】(Chiáh-mûeⁿ) Measles.
 * 【大頷奎】(Tūn-ãm-kui) Goitre.
 * 【瘤】(Liû) Tumour.
 * 【軟nîⁿ】(Nńg-nîⁿ) Palsy.

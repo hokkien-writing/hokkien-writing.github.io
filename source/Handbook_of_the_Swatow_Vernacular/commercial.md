@@ -23,7 +23,7 @@ date: 2022-11-20 23:22:00
 * 【番布】(Huan-pòu) Gray shirting.
 * 【白布】(Péh-pòu) White cloth.
 * 【烏布】(Ou-pòu) Black cloth.
-* 【青布】(Chhíⁿ-pòu) Blue cloth.
+* 【青布】(Chheⁿ-pòu) Blue cloth.
 * 【膠𤿤】(Ka-pùa) Cotton cloth.
 * 【熱布】(Zuáh-pòu) Grass cloth.
 * 【樹皮】(Chhiū-phûe) Holland.
@@ -61,7 +61,7 @@ date: 2022-11-20 23:22:00
 * 【石】(Chiéh) Stone.
 * 【火石】(Húe-chiéh) Flint.
 * 【硝】(Siou) Saltpetre.
-* 【鹽硝】(Iám-siou) Saltpetre.
+* 【鹽硝】(Iâm-siou) Saltpetre.
 * 【硫磺】(Liû-n̂g) Sulphur, brimstone.
 * 【白礬】(Péh-huân) Alum.
 * 【生礬】(Chheⁿ-huân) „ green.
@@ -199,7 +199,7 @@ date: 2022-11-20 23:22:00
 * 【夾】(Koih) Lining.
 * 【緄】(Kún) To braid.
 * 【補】(Póu) To patch.
-* 【較緊】(Khah-kin) Too tight.
+* 【較緊】(Khah-kín) Too tight.
 * 【較狹】(Khah-oíh) Too narrow.
 * 【較闊】(Khah-khuah) Too loose.
 
@@ -264,7 +264,7 @@ date: 2022-11-20 23:22:00
 * 【„ ready】(Hiēn-chîⁿ) 現錢
 * 【Change, money】(Táu) 倒
 * 【Cheap】(Phiⁿ) 便
-* 【Commission】(Thiu-hùn) 抽分
+* 【Commission】(Thiu-hun) 抽分
 * 【Compensate】(Pûe) 賠
 * 【Costly】(Tát-chîⁿ) 值錢
 * 【Credit, give】(Chhia) 賒
@@ -327,7 +327,7 @@ date: 2022-11-20 23:22:00
 * 【Arbitrator, an】(Kong-chhin) 公親
 * 【Arbitrate, to】(Tsò-kong-chhin) 做公親
 * 【Assistant, an】(Jĩ-chhiú) 二手
-* 【Auction】(Khà-lōi-long) 和黎郞
+* 【Auction】(Khà-lōi-long) 和黎郎
 * 【Bale, a】(Khún) 綑
 * 【Barter, to】(Hùe uāⁿ hùe) 貨換貨
 * 【Bill of lading】(Nám-tsāi-jī) 攬儎字

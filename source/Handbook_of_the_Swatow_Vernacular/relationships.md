@@ -58,7 +58,7 @@ date: 2022-11-20 23:34:00
 * 【Brother's daughter】(Tiét-nńg; tsáu-sun) 姪女　走孫
 * 【Sister, elder】(A-ché) 阿姊
 * 【Sister, younger】(A-mūeⁿ) 阿妹
-* 【Sister's husband】(A-nn̂g) 阿郞
+* 【Sister's husband】(A-nn̂g) 阿郎
 * 【Sister's son】(Gūa-seng) 外甥
 * 【Sister's daughter】(Gūa-seng-nńg) 外甥女
 * 【Son】(Kiáⁿ) 囝

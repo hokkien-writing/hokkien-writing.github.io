@@ -39,4 +39,4 @@ date: 2022-11-20 23:43:00
 * 【着力在。欲死】(Tih-lát-tsãi, àiⁿ-sí) Very serious, almost dying.
 * 【無救了】(Bô-kiù--lō) There is no hope, (lit. there is no salvation.)
 * 【勿亂食】(Màiⁿ-thèng-chiáh) Don't be eating what you shouldn't eat.
-* 【食粥配鹹梅就好】(Chiáh-mûeⁿ phùe kiâm-bûe chiũ-hó) Take congee with salted plums.
+* 【食糜配鹹梅就好】(Chiáh-mûeⁿ phùe kiâm-bûe chiũ-hó) Take congee with salted plums.

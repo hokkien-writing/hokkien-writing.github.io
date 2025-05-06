@@ -42,7 +42,7 @@ date: 2022-11-20 23:28:00
 * 【„ to take down】(Kì-kháu-keng) 記口供
 * 【„ corroborated】(Kháu-keng siang-hûa) 口供相和
 * 【„ contradicted】(Kháu-keng siang-huán) 口供相反
-* 【Statement, make your】(Sú--lâi) 訴來
+* 【Statement, make your】(Sù--lâi) 訴來
 * 【„ wish to make】(Aìⁿ-sù) 欲訴
 * 【„ allow to make】(Iông-sù) 容訴
 * 【Guilty】(Ũ-tsũe) 有罪
@@ -68,7 +68,7 @@ date: 2022-11-20 23:28:00
 * 【King】(Uâng) 王
 * 【Queen】(Ûang-hõu) 王后
 * 【Prime minister】(Tsái-siàng) 宰相
-* 【Statesman】(Tãi-chhin) 太臣
+* 【Statesman】(Tãi-chhîn) 大臣
 * 【Viceroy, or Governor-General of a province】(Tsóng-tok) 總督
 * 【Lieut. Governor of a province】(Bú-īⁿ) 撫院
 * 【Judge of a province】(Àn-tshat) 按察

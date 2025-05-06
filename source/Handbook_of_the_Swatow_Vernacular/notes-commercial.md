@@ -34,7 +34,7 @@ date: 2022-11-20 23:44:00
 * 【恁个生理酷熱】(Nín-kâi seng-lí hoh-jiêt) Your trade is pretty brisk.
 * 【四个銀。二式四个錢】(Sì-kâi-ngṳ̂n, nõⁿ-sek sì-kâi chîⁿ) Four dollars, twenty cents and four cash.
 * 【百五个錢】(Peh-ngõu kâi chîⁿ) Hundred and fifty cash.
-* 【六斤四】(Lák-kṳn-si) Six catties and four taels.
+* 【六斤四】(Lák-kṳn-sì) Six catties and four taels.
 * 【二斤半】(Nõⁿ-kṳn-pùaⁿ) Two catties and a half.
 * 【汝支秤閃】(Lṳ́ ki chhìn siám) Your scale is not correct.
 * 【戥正。毋孬戥閃】(Téng-chiàⁿ, m̃-móⁿ téng-siám) Weigh properly, and don't cheat in weighing.

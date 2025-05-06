@@ -109,7 +109,7 @@ date: 2022-11-20 22:19:00
 * 【Cuttle-fish】(Bák-táu) 墨斗
 * 【Shark】(Sua-hṳ̂) 鯊魚
 * 【Chinese whitebait】(Kang-hṳ̂) 江魚
-* 【Little fish】(Hṳ̂-káiⁿ) 魚囝
+* 【Little fish】(Hṳ̂-kiáⁿ) 魚囝
 * 【Eel】(Mûaⁿ) 鰻
 * 【Crab】(Hõi) 蟹
 * 【Shrimps】(Hê) 蝦
@@ -182,7 +182,7 @@ date: 2022-11-20 22:19:00
 
 * 【菜頭煮魚甜】(Tshài-thâu tsṳ́-hṳ̂ tiâm) Turnip boiled with fish is good.
 * 【西國儂好食高麗菜】(Sai-kok-nâng hàuⁿ-chiáh ko-lẽ-tshài) Europeans are fond of eating foreign cabbage.
-* 【磽囝儂食粥配鹹菜】(Khiou-kiáⁿ-nâng chiáh mûeⁿ phùe kiâm-tshài) Poor people take congee with salted vegetable.
+* 【磽囝儂食糜配鹹菜】(Khiou-kiáⁿ-nâng chiáh mûeⁿ phùe kiâm-tshài) Poor people take congee with salted vegetable.
 * 【簥好煮咖喱】(Kiê hó-tsṳ́ ka-lî) Brinjal can be curried.
 * 【冬瓜食凉】(Tang-kue chiáh-liâng) Vegetable melon is taken for cooling purposes.
 * 【有个竹笋苦】(Ũ-kâi tek-sún khóu) Some bamboo shoots are bitter.
@@ -211,7 +211,7 @@ date: 2022-11-20 22:19:00
 * 【Pear】(Lâi) 梨
 * 【„ Shantung】(Suaⁿ-tang-lâi) 山東梨
 * 【Mango】(Suāiⁿ) 榱
-* 【Persimmon】(Sãi) 杮
+* 【Persimmon】(Sãi) 柿
 * 【Guava】(Pát-kiáⁿ) 菝囝
 * 【Water-melon】(Si-kue) 西瓜
 * 【Jack-fruit】(Māng-ka) 綱膠
@@ -238,7 +238,7 @@ date: 2022-11-20 22:19:00
 * 【Sugarcane, small kind like bamboo】(Tek-chià) 竹蔗
 * 【Small yellow plums】(Bûe) 梅
 * 【Dates】(Tsó) 棗
-* 【Dried persimmon】(Sāi-piáⁿ) 杮餅
+* 【Dried persimmon】(Sãi-piáⁿ) 柿餅
 * 【Melon cut into small pieces and dried with sugar】(Kue-chheh) 瓜冊
 * 【Dried dragon's eye】(Nék-óiⁿ-kuaⁿ) 龍眼干
 * 【Lotus nuts】(Nôiⁿ-chí) 蓮子

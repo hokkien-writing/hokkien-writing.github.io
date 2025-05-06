@@ -20,7 +20,7 @@ date: 2022-11-20 21:59:00
 * 【花干】(Hue-kan) A flower vase.
 * 【奇巧物】(Khî-khá-muéh) Curiosities.
 * 【佚佗物】(Thit-thô-muéh) Fancy articles.
-* 【鐵鉗】(Thih-kîⁿ) Tongs.
+* 【鐵鉗】(Thih-khîⁿ) Tongs.
 * 【鐵匙】(Thih-sî) A fire shovel.
 * 【氈】(Chiⁿ) A rug, a carpet.
 * 【三骹圓床】(Saⁿ-kha îⁿ-tshn̂g) A tripod round table.
@@ -231,7 +231,7 @@ date: 2022-11-20 21:59:00
 * 【無。汝哩去買一个來賠我】(Bô, lṳ́ li khṳ̀-bói chék-kâi lâi pûe uá) Otherwise, you had better go and buy one to compensate me.
 * 【汝此近時惰在。做事無詳細】(Lṳ́ chí-chùaⁿ-sî tũaⁿ-tsāi, tsò-sṳ̄ bô tsṳ́-sòi) You have been very idle of late, and do things carelessly.
 * 【我欲算汝歇】(Uá àiⁿ-sǹg lṳ́ hiah) I want to discharge you.
-* 【食便。搖鐘】(Chiáh piēn, iẽ-cheng) Ring the bell, when the dinner is ready.
+* 【食便。搖鐘】(Chiáh piēn, iê-cheng) Ring the bell, when the dinner is ready.
 
 ### Kitchen.
 

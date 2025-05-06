@@ -1,6 +1,6 @@
 ---
 title: 潮州話詞庫 (beta)
-date: 2025-05-06 00:06:38
+date: 2025-05-06 23:38:06
 source: https://github.com/hokkien-writing/teochew-lexicon
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
