@@ -1,6 +1,6 @@
 ---
 title: 潮州話詞庫 (beta)
-date: 2025-05-11 16:38:27
+date: 2025-05-11 17:38:10
 source: https://github.com/hokkien-writing/teochew-lexicon
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -19,12 +19,12 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 ### 字表
 
-修改 [character.csv](https://github.com/hokkien-writing/teochew-lexicon/raw/master/character.csv) 後提交 PR。
+修改 [character.csv](https://github.com/hokkien-writing/teochew-lexicon/raw/main/character.csv) 後提交 PR。
 
 
 ### 詞庫
 
-修改 [phrase.csv](https://github.com/hokkien-writing/teochew-lexicon/raw/master/phrase.csv) 後提交 PR。
+修改 [phrase.csv](https://github.com/hokkien-writing/teochew-lexicon/raw/main/phrase.csv) 後提交 PR。
 
 
 #### 分級

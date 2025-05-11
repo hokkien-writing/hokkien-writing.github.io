@@ -1,6 +1,6 @@
 ---
 title: 潮州話怎呢呾？(beta)
-date: 2025-05-11 16:38:27
+date: 2025-05-11 17:38:12
 source: https://github.com/hokkien-writing/teochew-mandarin
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -15,8 +15,8 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ## 閱讀
 
 此地方有兩個版本供選，列舉如下：
-1. 原版：[潮州話怎呢呾](https://github.com/hokkien-writing/teochew-mandarin/raw/master/潮州話怎呢呾.md) 
-2. 简体版：[潮州话怎呢呾](https://github.com/hokkien-writing/teochew-mandarin/raw/master/潮州话怎呢呾.md)
+1. 原版：[潮州話怎呢呾](https://github.com/hokkien-writing/teochew-mandarin/raw/main/潮州話怎呢呾.md) 
+2. 简体版：[潮州话怎呢呾](https://github.com/hokkien-writing/teochew-mandarin/raw/main/潮州话怎呢呾.md)
 
 ## 相輔
 

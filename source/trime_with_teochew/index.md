@@ -1,6 +1,6 @@
 ---
 title: 同文輸入法伴潮州話拍字方案
-date: 2025-05-11 16:38:27
+date: 2025-05-11 17:38:24
 source: https://github.com/hokkien-writing/trime-with-teochew
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -10,7 +10,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 附帶[潮州話拍字方案](https://github.com/hokkien-writing/rime-teochew)其同文輸入法，適用於 Android平臺 (TRIME IM for Android with rime-teochew schema)。
 
-潮語文 | [简体中文](https://github.com/hokkien-writing/trime-with-teochew/raw/master/README_sc.md)
+潮語文 | [简体中文](https://github.com/hokkien-writing/trime-with-teochew/raw/main/README_sc.md)
 
 > 📌 本文採用漢字佮潮州白話字寫成，請參考[簡明潮州白話字](https://hokkien-writing.github.io/simple_puj/)。
 
