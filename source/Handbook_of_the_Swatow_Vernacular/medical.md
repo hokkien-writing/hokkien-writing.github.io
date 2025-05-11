@@ -16,8 +16,8 @@ date: 2022-11-20 23:02:00
 * 【着力】(Tíh-lát) To be very ill, almost dying.
 <!--more-->
 * 【醫袂好】(Ui bõi-hó) Incurable.
-* 【醫難好】(Ui oh-hó) Difficult to cure.
-* 【難醫】(Oh-ui) Difficult to cure.
+* 【醫僫好】(Ui oh-hó) Difficult to cure.
+* 【僫醫】(Oh-ui) Difficult to cure.
 * 【稍好】(Ióu-hó) Better.
 * 【絀】(Tsuáh) Better.
 * 【全愈】(Tshuân-zú) Quite recovered.
@@ -31,14 +31,14 @@ date: 2022-11-20 23:02:00
 * 【肚痛】(Tóu-thiàⁿ) Stomachache.
 * 【抽痛】(Thiu-thiàⁿ) Cramp.
 * 【吐】(Thòu) To vomit.
-* 【漏屎】(Làu-sái) Diarrhoea.
-* 【肚漏】(Tóu làu) Diarrhoea.
+* 【漏屎】(Lāu-sái) Diarrhoea.
+* 【肚漏】(Tóu lāu) Diarrhoea.
 * 【放紅】(Pàng-âng) Dysentery.
 * 【滯氣】(Thì-khì) Dysentery.
 * 【痢疾】(Lĩ-chit) Dysentery.
 * 【肚澀】(Tóu-siap) Costiveness.
 * 【着痧】(Tiéh-sua) Colic.
-* 【損病】(Sùn-pēⁿ) Consumption.
+* 【損病】(Sún-pēⁿ) Consumption.
 * 【瘋痛】(Huang-thiàⁿ) Rheumatism.
 * 【生瘋】(Seⁿ-huang) Rheumatism.
 * 【傷風】(Sieⁿ-huang) To catch cold when ill, or just after being ill.
@@ -62,16 +62,16 @@ date: 2022-11-20 23:02:00
 * 【眩船】(Hîn-tsûn) Sea-sick.
 * 【齒痛】(Khí-thiàⁿ) Toothache.
 * 【吐瀉】(Thòu-sià) Cholera.
-* 【賢阿娘】(Gâu-a-niêⁿ) Small-pox.
+* 【𠢕阿娘】(Gâu-a-niêⁿ) Small-pox.
 * 【出珠】(Tshut-tsu) Small-pox.
 * 【食痘】(Chiáh-tāu) Chicken-pox.
 * 【出痘】(Tshut-tāu) Chicken-pox.
 * 【種珠】(Chèng-tsu) To vacinate.
 * 【食糜】(Chiáh-mûeⁿ) Measles.
-* 【大頷奎】(Tūn-ãm-kui) Goitre.
+* 【大頷奎】(Tūa-ãm-kui) Goitre.
 * 【瘤】(Liû) Tumour.
 * 【軟nîⁿ】(Nńg-nîⁿ) Palsy.
-* 【癱瘓】(Kuàn-pien) Palsy.
+* 【Kuàn-pien】(Kuàn-pien) Palsy.
 * 【癲】(Sióu) Mad.
 * 【心神毋定】(Sim-sîn m̃-tiāⁿ) Insane.
 * 【愩】(Kòng) Crazy.
@@ -98,7 +98,7 @@ date: 2022-11-20 23:02:00
 * 【痣】(Kì) A wart.
 * 【侯蠅屎痣】(Hôu-sîn-sái-kì) A mole.
 * 【破相】(Phùa-sièⁿ) Deformed.
-* 【瘟疫】(Un-chiàng) A plague.
+* 【瘟瘴】(Un-chiàng) A plague.
 * 【天時粗澀】(Thiⁿ-sî tshou-siap) A plague.
 * 【平安】(Phêng-an) Peace.
 * 【藥單】(Iéh-tuaⁿ) A prescription.
@@ -110,7 +110,7 @@ date: 2022-11-20 23:02:00
 * 【藥末】(Iéh-buáh)  Powder, for taking, applying.
 * 【寒藥】(Kûaⁿ-iéh) Quinine.
 * 【紅藥】(Âng-iéh) Pain-killer.
-* 【戒薰丸】(Kói-hun-îⁿ) “Stop-opium” pills.
+* 【解薰丸】(Kói-hun-îⁿ) “Stop-opium” pills.
 * 【卑麻油】(Pi-mûaⁿ-iû) Castor oil.
 * 【食瀉】(Chiáh-sià) To take an aperient.
 * 【瀉】(Sià) To purge.

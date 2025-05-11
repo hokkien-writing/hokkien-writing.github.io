@@ -21,10 +21,10 @@ date: 2022-11-20 23:31:00
 * 【„ Roman Catholic】(Sîn-hũ) 神父
 * 【Preach, to】(Thuân-tõ-lí) 傳道理
 * 【Preacher, a】(Thuân-tõ-lí--kâi-nâng) 傳道理个儂
-* 【Christians】(Hông-kà) 奉教
+* 【Christians】(Hõng-kà) 奉教
 * 【„ Protestant】(Iâ-sou-kà; pài-siãng-tì-nâng) 耶穌教　拜上帝儂
 * 【„ R. Catholics】(Thien-tsú-kà) 天主教
-* 【„ to be】(Tshap-hông-kà; jíp-kà) 入奉教　入教
+* 【„ to be】(Tshap-hõng-kà; jíp-kà) 入奉教　入教
 * 【Church, members】(Siàⁿ-hũe) 聖會
 * 【„ building】(Lói-pài-tn̂g) 禮拜堂
 * 【Church, building, Roman Catholics】(Sèng-tn̂g) 聖堂
@@ -45,7 +45,7 @@ date: 2022-11-20 23:31:00
 * 【Ancestral hall】(Sṳ̂-tn̂g) 祠堂
 * 【„ tablet】(Ke-sîn) 家神
 * 【Shrine】(Sîn-kham) 神龕
-* 【Censor, a】(Hieⁿ-lou) 香爐
+* 【Censor, a】(Hieⁿ-lôu) 香爐
 * 【Incense】(Hieⁿ) 香
 * 【Sacrificial paper】(Chîⁿ-tsúa; ngṳ̂n-tiãⁿ) 錢紙　銀錠
 * 【Worship, to】(Pài) 拜

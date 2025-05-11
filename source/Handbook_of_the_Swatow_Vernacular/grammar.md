@@ -142,7 +142,7 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 * 【此个稍大】(Chí--kâi ióu-tūa) This is a little larger.
 * 【伊有愈㩼我】(I ũ zú-tsōi uá) He has more than I.
 * 【此个敬長過彼个】(Chí--kâi kèng-tn̂g kùe hṳ́-kâi) This is longer than that.
-* 【汝个好。我个愈敬好】(Lṳ́--kâi hó, uá--kâi zú-kèng hó) Yours is good, (but) mine better.
+* 【汝个好。我个愈更好】(Lṳ́--kâi hó, uá--kâi zú-kèng hó) Yours is good, (but) mine better.
 * 【伊會走猛過我】(I õi-tsáu méⁿ-kùe uá) He can run faster than I.
 * 【伊行猛過伊走】(Lṳ́ kiâⁿ méⁿ-kùe i tsáu) You walk faster than he runs.
 * 【潮州府會贏過汕頭亞袂】(Tiê-chiu-hú õi iâⁿ-kùe Suaⁿ-thâu a-bõi?) Is Ch'ao-chow-fu better than Swatow?

@@ -38,11 +38,11 @@ date: 2022-11-20 21:38:00
 * 【此枝柱大枝】(Chí-ki thiõu tuā-ki) This pillar is large.
 * 【塗骹个紅磚破】(Thôu-kha kâi âng-tsng phùa) The bricks of the floor are broken.
 * 【叫司阜來補】(Kiè sai-pẽ lâi póu) Call the builder to mend them.
-* 【塗骹一个禮拜着洗一次】(Thôu-kha chék-kâi lói-pài tiéh sói chék-ē) The floor must be washed once a week.
+* 【塗骹一个禮拜着洗一下】(Thôu-kha chék-kâi lói-pài tiéh sói chék-ē) The floor must be washed once a week.
 * 【樓頂樓枋亦是此樣生】(Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ) The floor up-stairs the same.
 * 【个个禮拜着洗清潔清潔】(Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih) Every week you must wash it clean.
 * 【灰埕亦着洗】(Hue-tiâⁿ iā tiéh sói) The lime floor must be washed.
-* 【此塊排瞑起早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
+* 【此塊排眠起早熱在】(Chíe pâi-mêng-khí-tsá zuáh-tsãi) Here it is very warm every morning.
 * 【我欲作欄杆】(Uá àiⁿ-tsò lân-kan) I want to make a railing.
 * 【汝叫司阜霎時來】(Lṳ́ kiè sai-pẽ khiã-tiām lâi) You tell the carpenter to come bye-and-bye.
 * 【佮伊呾我此塊欲作欄杆】(Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan) Tell him I want to make a railing here.
@@ -57,7 +57,7 @@ date: 2022-11-20 21:38:00
 * 【廳】(Thiaⁿ) A drawing room, a hall.
 * 【睇書房】(Thóiⁿ-tsṳ-pâng) A reading room.
 * 【食房】(Chiáh-pâng) A dining room.
-* 【臥房】(Út-pâng) A bed room.
+* 【夗房】(Út-pâng) A bed room.
 * 【洗浴房】(Sói-ék-pâng) A bath-room.
 * 【洗浴棚】(Sói-ék-pêⁿ) A bath-room.
 * 【囤貨房】(Tun-hùe-pâng) A store-room.
@@ -80,7 +80,7 @@ date: 2022-11-20 21:38:00
 * 【我个房怎用鎖】(Uá kâi pâng tsò-ēng só) Why? my room needn't be locked.
 * 【廳有儂客亞無】(Thiaⁿ ũ nâng-kheh a-bô?) Are there any guests in the drawing room?
 * 【四指呾無】(Sì-tsóiⁿ tàⁿ-bô) The boy says "no".
-* 【我个臥房汝有掃亞未】(Uá-kâi út-pâng lṳ́ ũ sàu a-būe?) Have you swept my bed-room?
+* 【我个夗房汝有掃亞未】(Uá-kâi út-pâng lṳ́ ũ sàu a-būe?) Have you swept my bed-room?
 * 【有。樓頂攏總掃清潔】(Ũ, lâu-téng lóng-tsóng sàu chheng-khih) Yes, I have swept the whole of up-stairs clean.
 * 【有洗亞無】(Ũ sói a-bô?) Did you wash it?
 * 【無。樓頂還了是清潔】(Bô, lâu-téng huân-lióu sĩ chheng-khih) No, up-stairs is still clean.
@@ -124,7 +124,7 @@ date: 2022-11-20 21:38:00
 * 【汝貴處】(Lṳ́ tî-kò húe?) Where do you belong to?
 * 【我菴埠處】(Uá Am-pou húe) I belong to Am-pou.
 * 【汝嘗識去府城嗎】(Lṳ́ khah-pat khṳ̀ Hú-siâⁿ mē?) Have you ever been to Ch'ao-chow-fu?
-* 【識也。我有去四五次】(Pat a, uá ũ khṳ̀ sì-ngõu tsūa) Oh yes, I have been there four or five times.
+* 【識也。我有去四五逝】(Pat a, uá ũ khṳ̀ sì-ngõu tsūa) Oh yes, I have been there four or five times.
 * 【城是大在】(Siâⁿ sĩ tūa-tsãi) The city is very large.
 * 【有个街大汕頭个街㩼亞】(Ũ-kâi koi tūa Suaⁿ-thâu kâi koi tsōi a) Some streets are much larger than the streets in Swatow.
 * 【阮个鄉里莊隴】(Ún kâi hieⁿ-lí Tsng-léng) Our village is Tsng-leng.

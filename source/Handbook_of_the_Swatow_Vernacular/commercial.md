@@ -98,13 +98,13 @@ date: 2022-11-20 23:22:00
 * 【色料】(Sek-liōu) Dye.
 * 【烏木】(Ou-bák) Ebony.
 * 【象牙】(Chhiẽⁿ-gê) Elephant's teeth.
-* 【毛扇】(Môⁿ-sîⁿ) Fans, feather.
-* 【鱟殼扇】(Hâu-khak-sîⁿ) Fans, cloth.
-* 【葵扇】(Kûe-sîⁿ) Fans, palm-leaf.
+* 【毛扇】(Môⁿ-sìⁿ) Fans, feather.
+* 【鱟殼扇】(Hāu-khak-sìⁿ) Fans, cloth.
+* 【葵扇】(Kûe-sìⁿ) Fans, palm-leaf.
 * 【佚佗物】(Thit-thô-muéh) Fancy articles.
 * 【雞毛筅】(Koi-môⁿ-tshóiⁿ) Feather-duster.
 * 【魚肚】(Hṳ̂-tõu) Fishmaws.
-* 【魚膘】(Hṳ̂-phiẽ) Fishmaws.
+* 【魚鰾】(Hṳ̂-phiẽ) Fishmaws.
 * 【甘蜜】(Kam-bít) Gambier.
 * 【人參】(Jîn-siam) Gin-seng.
 * 【高麗】(Kau-lî) Gin-seng.
@@ -192,7 +192,7 @@ date: 2022-11-20 23:22:00
 * 【布尺】(Pòu-chhieh) A tape-line, or cloth measure.
 * 【縫】(Thīⁿ) To sew.
 * 【䌜】(Nn̂g) To stitch.
-* 【摺痕】(Chih-tsūe) To them.
+* 【摺襊】(Chih-tsūe) To them.
 * 【鉸】(Ka) To cut with scissors.
 * 【做衫褲】(Tsò-saⁿ-khòu) To make clothes.
 * 【鉸衫褲】(Ka-saⁿ-khòu) To cut out a dress.
@@ -214,7 +214,7 @@ date: 2022-11-20 23:22:00
 * 【來往】(Lâi-uáng) A ledger.
 * 【歸原】(Kui-nguân) A stock ledger.
 * 【算】(Sǹg) To count.
-* 【算數】(Sńg-siòu) To make up accounts.
+* 【算數】(Sǹg-siòu) To make up accounts.
 * 【收數】(Siu-siòu) To collect accounts.
 * 【押數】(Ap-siòu) To balance accounts between two persons.
 * 【面會】(Mīn-hũe) To meet together (so as to see if the accounts of each other correspond.)
@@ -246,7 +246,7 @@ date: 2022-11-20 23:22:00
 * 【乘】(Sêng) To multiply.
 * 【分】(Pun) To divide.
 * 【財副】(Tshâi-hù) A clerk.
-* 【大財副】(Tūa-tshái-hù) A chief clerk.
+* 【大財副】(Tūa-tshâi-hù) A chief clerk.
 * 【掌櫃】(Chiáng-kūiⁿ) A cashier.
 * 【收數】(Siu-siòu) A bill-collector.
 
@@ -291,7 +291,7 @@ date: 2022-11-20 23:22:00
 * 【Invest, to】(Lóh-pńg) 落本
 * 【Lend, to】(Chieh) 借
 * 【Loss, in commerce】(Síh-pńg) 蝕本
-* 【Money】(Chîⁿ; chîⁿ-ngṳ̂u) 錢　錢銀
+* 【Money】(Chîⁿ; chîⁿ-ngṳ̂n) 錢　錢銀
 * 【„ changer】(Táu-chîⁿ-hâng; táu-toh-kūiⁿ) 倒錢行　倒桌櫃
 * 【„ lender】(Pàng-seⁿ-chè; pàng-seⁿ-siòu) 放生債　放生數
 * 【Mortgage, to】(Tǹg; tóiⁿ) 當　典
@@ -369,10 +369,10 @@ date: 2022-11-20 23:22:00
 * 【Exorbitant price】(Kùi-tsãi) 貴在
 * 【Exports】(Tshut-kháu-hùe) 出口貨
 * 【Farm, to】(Pák) 縛
-* 【Godown, a】(Tsàn-páng) 棧房
+* 【Godown, a】(Tsàn-pâng) 棧房
 * 【Hire, to】(Kòu) 雇
 * 【Hong, a】(Hâng) 行
-* 【House rent】(Tshu-sùe) 厝稅
+* 【House rent】(Tshù-sùe) 厝稅
 * 【Imports】(Jíp-kháu-hùe) 入口貨
 * 【Intercourse】(Lâi-uáng) 來往
 * 【Invoice of goods】(Hùe-tuaⁿ) 貨單
@@ -391,7 +391,7 @@ date: 2022-11-20 23:22:00
 * 【Merchant, a】(Kheh-siang) 客商
 * 【Miscellaneous】(Lân-san; tshàm-tshùi) 零些　零碎
 * 【Monthly】(Guéh-guéh) 月月
-* 【News】(Sin-bũn; sié-sit) 新聞　消息
+* 【News】(Sin-bũn; sie-sit) 新聞　消息
 * 【Newspaper】(Sin-bũn-tsúa) 新聞紙
 * 【Note-book】(Phõu-kiáⁿ) 簿囝
 * 【Notify, to】(Thong-tsai) 通知
@@ -408,7 +408,7 @@ date: 2022-11-20 23:22:00
 * 【Retail, to】(Lân-san-bōi) 零些賣
 * 【Rough draft】(Tshó-kó) 草稿
 * 【Salary】(Kang-tsṳ) 工資
-* 【Sale, for】(Aîⁿ-bōi--kâi) 欲賣个
+* 【Sale, for】(Àiⁿ-bōi--kâi) 欲賣个
 * 【„ no】(Bõi-siou) 袂消
 * 【Sample】(Pān-thâu; pān) 辦頭　辦
 * 【Sell, to】(Bōi) 賣
@@ -425,7 +425,7 @@ date: 2022-11-20 23:22:00
 * 【„ dull】(Bô-seng-lí) 無生理
 * 【Tradesman, a】(Seng-lí-nâng) 生理儂
 * 【Transaction, business】(Kau-kùa; bói-bōi) 交掛　買賣
-* 【Undersell, to】(Bōi-phiⁿ--nâng) 賣平儂
+* 【Undersell, to】(Bōi-phiⁿ--nâng) 賣偏儂
 * 【Unprofitable】(Oh-thàn) 難趁
 * 【Wages】(Kang-chîⁿ) 工錢
 * 【Wholesale, buy】(Bói-chiẽⁿ-pûaⁿ) 買上盤
@@ -456,6 +456,6 @@ date: 2022-11-20 23:22:00
 * 【柴秤】(Tshâ-chhìn) A steelyard.
 * 【秤錘】(Chhìn-thûi) A weight.
 * 【戥】(Téng) To weigh.
-* 【戥減】(Téng-siám) To cheat in weighing.
+* 【戥閃】(Téng-siám) To cheat in weighing.
 * 【秤正】(Chhìn chhiàⁿ) A correct scale.
 * 【秤閃】(Chhìn siám) An incorrect scale.

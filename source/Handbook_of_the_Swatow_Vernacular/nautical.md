@@ -82,7 +82,7 @@ date: 2022-11-20 22:51:00
 * 【舵工】(Tãi-kong) Steersman.
 * 【水手】(Tsúi-siú) Sailors.
 * 【行船儂】(Kiâⁿ-tsûn-nâng) A sea-faring man.
-* 【帶水】(Tshūa-tsúi) A pilot.
+* 【𤆬水】(Tshūa-tsúi) A pilot.
 * 【船欲行】(Tsûn àiⁿ-kiàⁿ) Ships leaving.
 * 【船行了】(Tsûn kiàⁿ--lō) Ships have gone.
 * 【船袂行】(Tsûn bõi-kiâⁿ) Ships can't go.
@@ -98,7 +98,7 @@ date: 2022-11-20 22:51:00
 * 【下貨】(Hẽ-hùe) To ship cargo.
 * 【起貨】(Khí-hùe) To discharge cargo.
 * 【載貨】(Tsài-hùe) To convey cargo.
-* 【夠載】(Kàu-tsāi) (A ship) fully laden.
+* 【夠儎】(Kàu-tsāi) (A ship) fully laden.
 * 【一儎】(Chék-tsāi) A load.
 * 【倚船邊】(Uá-tsûn-piⁿ) Go alongside the ship.
 * 【直透】(Tít-thàu) To go direct without calling at any port.

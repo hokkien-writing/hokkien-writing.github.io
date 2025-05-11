@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2025-04-30 22:10:41
+date: 2025-05-06 23:48:29
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -166,6 +166,7 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 
 * 鹭水芗南－閩南語部落 [官網](https://hokkienese.com)
 * 台語半桶師雜記 [官網](https://hik-u-tw.blogspot.com/)
+* 臺灣話的語源與理據（劉建仁著）[官網](https://taiwanlanguage.wordpress.com/)
 
 ## 🧩 社區
 

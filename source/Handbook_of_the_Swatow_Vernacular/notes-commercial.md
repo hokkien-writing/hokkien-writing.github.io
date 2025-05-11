@@ -23,7 +23,7 @@ date: 2022-11-20 23:44:00
 * 【財主在彼內】(Tshâi-tsú tõ hṳ́-lãi) The proprietor is inside.
 * 【貨船到來。欲叫伊去起貨】(Húe-tsṳ̂n kâu--lâi, àiⁿ-kiè i khṳ̀ khí-hùe) The steamer has arrived, I want to ask him to go and unload his cargo.
 * 【我佮此間雜港行交關㩼】(Uá kah chí-koiⁿ Tsáp-káng-háng kau-kuan tsōi) I have a large transaction with this German firm.
-* 【佮荷蘭西行。有交關亞無】(Kah Hô-lan-se hâng nē, ũ kau-kuan a-bô?) And with the French firms, do you have any transaction?
+* 【佮荷蘭西行。有交關亞無】(Kah Hô-lân-se hâng nē, ũ kau-kuan a-bô?) And with the French firms, do you have any transaction?
 * 【有零些亞。我識寄去法國賣物】(Ũ--lân-ló ā, uá pat kià-khṳ̀ Huap-kok--kò bói-muéh) Well, a little, I have ordered something from France.
 * 【我佮大英國儂就大交關哪】(Uá kah Tãi-eng-kok-nâng chiũ tūa kau-kuan nō) Oh, I do much business with Englishmen.
 * 【我尚英國人】(Uá siãng Eng-kok-nâng) I like Englishmen.

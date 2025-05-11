@@ -34,7 +34,7 @@ date: 2022-11-20 23:30:00
 * 【Surround, to】(Uî) 圍
 * 【Enemy】(Uan-chhiû) 冤仇
 * 【Arrow】(Chìⁿ) 箭
-* 【„ to shoot】(Siã-chîⁿ) 射箭
+* 【„ to shoot】(Siā-chìⁿ) 射箭
 * 【Spear】(Pie) 標
 * 【Shield】(Tîn-pâi) 藤牌
 * 【Travel】(Kiâⁿ) 行
@@ -42,7 +42,7 @@ date: 2022-11-20 23:30:00
 * 【Camp】(Iâⁿ-pûaⁿ) 營盤
 * 【Encamp】(Tshàng-iâⁿ) 創營
 * 【War, a】(Sie-thâi; kau-chièn) 相刣　交戰
-* 【Victory, gain a】(Thâi-iâⁿ; chièn-iâⁿ) 刣羸　戰羸
+* 【Victory, gain a】(Thâi-iâⁿ; chièn-iâⁿ) 刣贏　戰贏
 * 【„ lose a】(Thâi-su; chièn-su) 刣輸　戰輸
 * 【Settle, to】(Tít) 直
 * 【Indemnify, to】(Pûe) 賠

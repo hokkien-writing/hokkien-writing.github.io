@@ -117,7 +117,7 @@ date: 2022-11-16 20:14:00
 * 【坐】(Tsõ) Sit down.
 * 【請汝教我】(Chhiáⁿ lṳ́ kà uá) You teach me, please.
 * 【伊來巡汝】(I lâi-sûn lṳ́) He comes to visit you.
-* 【請待】(Chhiáⁿ-táⁿ) Just wait please.
+* 【請待】(Chhiáⁿ-tán) Just wait please.
 * 【好】(Hó) Very Well.
 * 【此个勿。捔掉】(Chiá màiⁿ, kák-tiòu) This is not wanted, throw it away.
 * 【我袂寫】(Uá bõi-siá) I can't write.

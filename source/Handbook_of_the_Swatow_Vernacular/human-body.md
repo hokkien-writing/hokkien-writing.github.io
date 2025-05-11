@@ -46,13 +46,13 @@ date: 2022-11-20 21:44:00
 * 【手】(Chhiú) Arms, hands.
 * 【手肘】(Chhiú-thñg) Elbow.
 * 【手指】(Chhiú-tsóiⁿ) Fingers.
-* 【指頭公】(Tsńng-thâu-kong) Thumb.
+* 【指頭公】(Tsńg-thâu-kong) Thumb.
 * 【指甲】(Tsńg-kah) Nail.
 * 【骹】(Kha) Legs, feet.
 * 【骹腿】(Kha-thúi) Thigh.
 * 【骹頭趺】(Kha-thâu-u) Knees.
 * 【骹目】(Kha-mák) Ankles.
-* 【骹趾】(Kha-tsóiⁿ) Toes.
+* 【骹指】(Kha-tsóiⁿ) Toes.
 * 【皮】(Phûe) Skin.
 
 ### External.
@@ -61,14 +61,14 @@ date: 2022-11-20 21:44:00
 * 【牙頭齒】(Gê-thâu-khí) Back teeth.
 * 【齒齦】(Khí-ngṳ̂n) Gum.
 * 【舌】(Chíh) Tongue.
-* 【喉嚨】(Âu-lèng) Throat.
+* 【喉嚨】(Âu-lêng) Throat.
 * 【涎】(Nũaⁿ) Spittle.
 * 【痰】(Thâm) Phlegm.
 * 【肺】(Hùi) Lungs.
 * 【腸】(Tn̂g) Intestines.
 * 【心】(Sim) Heart.
 * 【肝】(Kuaⁿ) Liver.
-* 【腎子】(SIẽⁿ-chí) Kidney.
+* 【腎子】(Siẽn-chí) Kidney.
 * 【膽】(Táⁿ) Gall.
 * 【筋】(Kṳn) Veins.
 * 【骨】(Kut) Bones.

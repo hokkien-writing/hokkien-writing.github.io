@@ -17,7 +17,7 @@ date: 2022-11-20 23:36:00
 * 【Deer】(Ték) 鹿
 * 【Wolf】(Tshâi-lâng) 豺狼
 <!--more-->
-* 【Fox】(Hõu-lâi) 狐狸
+* 【Fox】(Hôu-lâi) 狐狸
 * 【Snake】(Tsûa) 蛇
 * 【Monkey】(Kâu) 猴
 * 【Orang-outang】(Suaⁿ-nâng) 山儂

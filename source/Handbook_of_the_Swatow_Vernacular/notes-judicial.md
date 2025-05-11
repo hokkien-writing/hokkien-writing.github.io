@@ -26,7 +26,7 @@ date: 2022-11-20 23:46:00
 * 【老爹聽了就點頭】(Lãu-tia thiaⁿ-lióu chiũ tak-thâu) The mandarin after hearing him, nodded his head.
 * 【伊个案欲延到明旦起】(I kâi uàⁿ àiⁿ-àn-kàu màⁿ-khí) His case will be postponed till to-morrow.
 * 【毋孬做賊】(M̃-móⁿ tsǒ-tshát) Don't be a thief.
-* 【毋孬盜取儂个物】(M̃-móⁿ thau-khiéh nâng kâi muéh) Mustn't steal other peoples things.
+* 【毋孬偷取儂个物】(M̃-móⁿ thau-khiéh nâng kâi muéh) Mustn't steal other peoples things.
 * 【此个賊是離經】(Chí-kâi tshát sĩ lî-keng) This thief is dangerous.
 * 【昨夜伊剌死儂】(Tsa-mêⁿ i tshǹg-sí nâng) Last night he stabbed a man to deat.h
 * 【伊乞我掠着】(I khoih uá liáh--tiéh) He was caught by me.

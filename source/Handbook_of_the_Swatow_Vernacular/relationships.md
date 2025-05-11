@@ -25,7 +25,7 @@ date: 2022-11-20 23:34:00
 * 【Grand-aunt's child, younger, paternal】(Piè-chek) 表叔
 * 【Father】(A-pẽ; a-tia) 阿父　阿爹
 * 【Father step】(Kì-pẽ; aũ-pẽ) 繼父　後父
-* 【Mother】(A-bó; a-neⁿ) 阿母　阿妮
+* 【Mother】(A-bó; a-neⁿ) 阿母　阿嬭
 * 【Mother step】(Kì-bó) 繼母
 * 【Elder paternal uncle】(A-peh) 阿伯
 * 【Elder paternal uncle's wife】(A-ḿ) 阿姆
@@ -56,7 +56,7 @@ date: 2022-11-20 23:34:00
 * 【Elder brother's wife】(A-só) 阿嫂
 * 【Brother's son】(Tiét; tau-sun) 姪　兜孫
 * 【Brother's daughter】(Tiét-nńg; tsáu-sun) 姪女　走孫
-* 【Sister, elder】(A-ché) 阿姊
+* 【Sister, elder】(A-ché) 阿姐
 * 【Sister, younger】(A-mūeⁿ) 阿妹
 * 【Sister's husband】(A-nn̂g) 阿郎
 * 【Sister's son】(Gūa-seng) 外甥

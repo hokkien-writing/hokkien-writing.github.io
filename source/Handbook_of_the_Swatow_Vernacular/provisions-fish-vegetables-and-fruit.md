@@ -12,7 +12,7 @@ date: 2022-11-20 22:19:00
 
 * 【Food】(Chiáh; bí-niêⁿ) 食　米糧
 * 【Bread】(Mīⁿ-pau) 麫包  麵包
-* 【Butter】(Gû-nĩⁿ-iû) 牛乳油
+* 【Butter】(Gû-nĩⁿ-iû) 牛奶油
 * 【Soup, Gravy】(Thng) 湯
 * 【Fowl】(Koi) 雞
 * 【Duck】(Ah) 鴨
@@ -24,7 +24,7 @@ date: 2022-11-20 22:19:00
 * 【Mutton】(Iêⁿ-bah; iêⁿ-nék) 羊肉
 * 【Pork】(Tṳ-bah; tṳ-nék) 豬肉
 * 【Ham】(Húe-thúi) 火腿
-* 【Potatoes】(Hô-lan-tsṳ̂) 荷蘭薯
+* 【Potatoes】(Hô-lân-tsṳ̂) 荷蘭薯
 * 【„ sweet】(Huan-kuah; huan-tsṳ̂) 番葛　番薯
 * 【Cakes】(Kúe) 粿
 * 【Sponge cake】(Koi-nñg-kúe) 雞卵粿
@@ -33,7 +33,7 @@ date: 2022-11-20 22:19:00
 * 【Eggs】(Nñg) 卵
 * 【Rice, (raw)】(Bí) 米
 * 【„ (boiled)】(Pñg) 飯
-* 【Congee】(Mûeⁿ) 粥
+* 【Congee】(Mûeⁿ) 糜
 * 【Rice water】(Ám) 飲
 * 【Relish】(Kiâm-sng) 鹹酸
 * 【Curry】(Ka-lî) 咖喱
@@ -64,7 +64,7 @@ date: 2022-11-20 22:19:00
 * 【着預夠】(Tiéh ṳ̃-kàu) You must prepare enough.
 * 【勿毋夠。了在路就無食】(Màiⁿ-m̃-kàu, lióu tõ lōu chiũ bô-chiáh) For if there is not enough, then we shall get no food on the way.
 * 【今俺有底个】(Taⁿ nán ũ tî-kâi?) Now, what have we got?
-* 【麫包有三个。牛乳油有一盒】(Mīⁿ-pau ũ saⁿ-kâi, gû-nĩⁿ iû ũ chék-áp) We have three loaves of bread, and one tin of butter.
+* 【麫包有三个。牛奶油有一盒】(Mīⁿ-pau ũ saⁿ-kâi, gû-nĩⁿ iû ũ chék-áp) We have three loaves of bread, and one tin of butter.
 * 【若是毋夠一路好買】(Nāⁿ-sĩ m̃-kàu chék-lōu hó-bói) If we haven't got enough, we can buy on the way.
 * 【叫伙頭來】(Kiè húe-thâu lâi) Call the cook here.
 * 【明夜昏我欲請儂】(Màⁿ-mêⁿ-hng uá àiⁿ-chhiáⁿ-nâng) To-morrow night I wish to invite a few persons.
@@ -75,7 +75,7 @@ date: 2022-11-20 22:19:00
 * 【割四斤牛肉。三斤羊肉。二斤豬朥】(Kuah sì-kṳn gû-bah, saⁿ kṳn iêⁿ-bah, nõⁿ-kṳn tṳ-lâ) Buy (lit. cut) four catties of beef, three catties of mutton, two catties of lard.
 * 【火腿去高菜館挈】(Húe-thúi khṳ̀ kau-tshài-kuán khiéh) For ham, go to the compradore and get it.
 * 【挈一腿】(Khiéh chék-thúi) Get one ham.
-* 【荷蘭薯還了有亞無】(Hô-lan-tsṳ̂ huân-lióu ũ a-bô?) Have you any more potatoes?
+* 【荷蘭薯還了有亞無】(Hô-lân-tsṳ̂ huân-lióu ũ a-bô?) Have you any more potatoes?
 * 【有加零些】(Ũ ke lân-ló) I have a few more.
 * 【𤰉亞毋𤰉】(Lã a m̃-lã?) Have you enough?
 * 【我想𤰉亞】(Uá siẽⁿ lã--a) I think there are enough.
@@ -94,7 +94,7 @@ date: 2022-11-20 22:19:00
 * 【伊个伙頭會在】(I kâi húe-thâu õi-tsãi) His cook is very clever.
 * 【樣樣伊煮來好在】(Iēⁿ-Iēⁿ i tsṳ́-lâi hó-tsãi) Every thing he made was very nice indeed.
 * 【頭彩就食雞囝湯。佮麪包焙个】(Thâu-tshái chiũ chiáh koi-kiáⁿ-thng, kah mīⁿ-pau pūe--kâi) First of all, we had chicken soup and toasted bread.
-* 【了羊肉烙。佮荷蘭薯】(Lióu iêⁿ-bah luah, kah hô-lan-tsṳ̂) Then mutton-chop and potatoes.
+* 【了羊肉烙。佮荷蘭薯】(Lióu iêⁿ-bah luah, kah hô-lân-tsṳ̂) Then mutton-chop and potatoes.
 * 【了火雞浮。煴芥辣。了還了㩼㩼樣】(Lióu húe-koi phû, ùn kài-luáh, lióu huân-lióu tsōi-tsōi iēⁿ) Then turkey fried in oil, and eaten with mustard, and many other kinds.
 
 ### Fish.
@@ -128,7 +128,7 @@ date: 2022-11-20 22:19:00
 
 ------
 
-* 【巿瞑起無魚】(Chhĩ mêng-khí bô-hṳ̂) There are no fish this morning in the market.
+* 【巿眠起無魚】(Chhĩ mêng-khí bô-hṳ̂) There are no fish this morning in the market.
 * 【有一尾我出一百錢賣魚个儂還了毋好賣我】(Ũ chék-búe uá tshut chék-peh-chîⁿ, bōi-hṳ̂--kâi-nâng huân-lióu m̃-hàuⁿ bōi uá) There is one, which I offered a hundred cash for yet the fisherman wouldn't sell it to me.
 * 【一尾紅鰽欲二百錢】(Chék-búe âng-tsô àiⁿ nõⁿ-peh-chîⁿ) Two hundred cash for a red-fish.
 * 【鯧魚上減一尾欲百五錢】(Chhieⁿ-hṳ̂ siãng-kiám chék-búe àiⁿ peh-ngõu-chîⁿ) At least one hundred and fifty cash for a flounder.
@@ -149,7 +149,7 @@ date: 2022-11-20 22:19:00
 * 【Turnip】(Tshài-thâu) 菜頭
 * 【Cabbage】(Péh-tshài) 白菜
 * 【„ a large kind】(Tūa-tshài) 大菜
-* 【„ foreign】(Ko-lẽ-tshài) 高麗菜
+* 【„ foreign】(Ko-lê-tshài) 高麗菜
 * 【„ salted】(Kiâm-tshài) 鹹菜
 * 【Brinjal, egg plant】(Kiê) 簥
 * 【Cucumber】(Tiòu-kue) 吊瓜
@@ -157,7 +157,7 @@ date: 2022-11-20 22:19:00
 * 【Pumpkin, white】(Pû) 匏
 * 【Melon, (vegetable)】(Tang-kue) 冬瓜
 * 【Bamboo shoots】(Tek-sún) 竹笋
-* 【Peas】(Hô-lan-tāu) 荷蘭豆
+* 【Peas】(Hô-lân-tāu) 荷蘭豆
 * 【Long beans】(Tshài-tāu) 菜豆
 * 【Name of bitter vegetable】(Khóu-kue) 苦瓜
 * 【Name of vegetable】(Kak-kue) 角瓜
@@ -181,12 +181,12 @@ date: 2022-11-20 22:19:00
 ------
 
 * 【菜頭煮魚甜】(Tshài-thâu tsṳ́-hṳ̂ tiâm) Turnip boiled with fish is good.
-* 【西國儂好食高麗菜】(Sai-kok-nâng hàuⁿ-chiáh ko-lẽ-tshài) Europeans are fond of eating foreign cabbage.
+* 【西國儂好食高麗菜】(Sai-kok-nâng hàuⁿ-chiáh ko-lê-tshài) Europeans are fond of eating foreign cabbage.
 * 【磽囝儂食糜配鹹菜】(Khiou-kiáⁿ-nâng chiáh mûeⁿ phùe kiâm-tshài) Poor people take congee with salted vegetable.
 * 【簥好煮咖喱】(Kiê hó-tsṳ́ ka-lî) Brinjal can be curried.
 * 【冬瓜食凉】(Tang-kue chiáh-liâng) Vegetable melon is taken for cooling purposes.
 * 【有个竹笋苦】(Ũ-kâi tek-sún khóu) Some bamboo shoots are bitter.
-* 【荷蘭豆拍掉皮挈伊个仁】(Hô-lan-tāu, peh-tiòu phûe, khiéh i kâi jîn) Break the pods of the peas and take the seed.
+* 【荷蘭豆拍掉皮挈伊个仁】(Hô-lân-tāu, peh-tiòu phûe, khiéh i kâi jîn) Break the pods of the peas and take the seed.
 * 【苦瓜亦是食凉】(Khóu-kue iā-sĩ chiáh-liâng) The bitter vegetable is also taken as a cooling eatables.
 * 【菜豆唐儂炒】(Tshài-tāu Tn̂g-nâng tshá) The Chinese fry long beans.
 * 【芋翕】(Ōu hip) Steam the taro.
@@ -206,7 +206,7 @@ date: 2022-11-20 22:19:00
 * 【Lime, sour】(Sng-kaⁿ) 酸柑
 * 【Banana】(Keng-chie) 芎蕉
 * 【Pumelo】(Iū) 柚
-* 【Pineapple】(Uâng-lâi; huan-lâi) 旺梨　番梨
+* 【Pineapple】(Uâng-lâi; huan-lâi) 王梨　番梨
 * 【Peach】(Thô) 桃
 * 【Pear】(Lâi) 梨
 * 【„ Shantung】(Suaⁿ-tang-lâi) 山東梨
@@ -214,7 +214,7 @@ date: 2022-11-20 22:19:00
 * 【Persimmon】(Sãi) 柿
 * 【Guava】(Pát-kiáⁿ) 菝囝
 * 【Water-melon】(Si-kue) 西瓜
-* 【Jack-fruit】(Māng-ka) 綱膠
+* 【Jack-fruit】(Māng-ka) 芒膠
 * 【Custard apple】(Lîm-khîm) 林擒
 * 【Pomegranate】(Siéh-liû) 石榴
 * 【Durian】(Liû-liân) 榴蓮
@@ -224,9 +224,9 @@ date: 2022-11-20 22:19:00
 * 【„】(Nãiⁿ) 柰
 * 【Carambola, or Chinese gooseberry】(Iêⁿ-tô) 楊桃
 * 【Loquat】(Pî-pê) 枇杷
-* 【Grapes】(Phû-thô) 萄葡
+* 【Grapes】(Phû-thô) 葡萄
 * 【Fig】(Bô-hue-kúe) 無花果
-* 【Mangoostine】(Māng-hek) 綱黑
+* 【Mangoostine】(Māng-hek) 芒黑
 * 【Name of a kind of fruit】(Chîⁿ-tshang) 薺蔥
 * 【Olives】(Kaⁿ-náⁿ) 橄欖
 * 【Dragon's eye】(Nék-óiⁿ) 龍眼
@@ -246,7 +246,7 @@ date: 2022-11-20 22:19:00
 ------
 
 * 【果子个時欲到】(Kué-chí kâi sî àiⁿ-kàu) The fruit season is near at hand.
-* 【旺梨是好在】(Uâng-lâi sĩ hó-tsãi) Pineapple is very nice.
+* 【王梨是好在】(Uâng-lâi sĩ hó-tsãi) Pineapple is very nice.
 * 【芎蕉熟就甜。生就澀】(Keng-chie sék chiũ tiâm, chheⁿ chiũ siap.) Bananas when ripe are sweet, but when unripe are sour.
 * 【柚一粒欲一百錢】(Iū chék-liáp àiⁿ chék-peh-chîⁿ.) A hundred cash is wanted for a pumelo.
 * 【山東梨還了未到】(Suaⁿ-tang-lâi huân-lióu būe-kàu.) Shantung pears have not yet arrived.

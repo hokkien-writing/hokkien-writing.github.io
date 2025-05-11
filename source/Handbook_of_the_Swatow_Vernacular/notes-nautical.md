@@ -15,7 +15,7 @@ date: 2022-11-20 23:41:00
 * 【汝寧可搭火船】(Lṳ́ nêng-kò tah húe-tsûn) You had better go by steamer.
 <!--more-->
 * 【搭彼隻藍煙筒】(Tah hṳ́-chiah nâm-in-tâng) Go by the blue funnel (steamer.)
-* 【明旦瞑起入來】(Màⁿ-mêng-khí jíp--lâi) She comes in to-morrow morning.
+* 【明旦眠起入來】(Màⁿ-mêng-khí jíp--lâi) She comes in to-morrow morning.
 * 【舵工好行了】(Tãi-kong hó-kiâⁿ--lō) Steersman, you had better start now.
 * 【天時好了】(Thiⁿ-sî hó--lō) The weather is fine.
 * 【我起來睇】(Uá khí--lâi thóiⁿ) Let me come up and see.
@@ -30,7 +30,7 @@ date: 2022-11-20 23:41:00
 * 【此隻船好駛】(Chí-chiah-tsûn hó-sái) This boat sails well.
 * 【行猛在】(Kiâⁿ-méⁿ-tsãi) It goes very fast.
 * 【火船免用駛風會行】(Húe-tsûn mín-ēng sái-huang õi-kiâⁿ) Steamers can go without setting sails.
-* 【下次船我就欲去】(Ẽ-tsūa-tsûn uá chiũ-àiⁿ-khṳ̀) I am going next trip.
+* 【下逝船我就欲去】(Ẽ-tsūa-tsûn uá chiũ-àiⁿ-khṳ̀) I am going next trip.
 * 【直透。無往底塊】(Tít-thàu, bô-kua tî-kò) I go direct without calling any where.
 * 【撐去火船邊】(Theⁿ-khṳ̀ húe-tsûn-piⁿ) Row along the steamer.
 * 【我欲下貨】(Uá àiⁿ-hẽ-hùe) I want to ship cargo.

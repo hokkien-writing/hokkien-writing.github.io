@@ -30,7 +30,7 @@ date: 2022-11-16 20:15:00
 * 【Cheap】(Phiⁿ) 便
 * 【Clear, (of water.)】(Chheng) 清
 * 【Clear; (of affairs.)】(Mêng; mêng-péh) 明　明白
-* 【Clever】(Gâu; khiàng) 賢　勥
+* 【Clever】(Gâu; khiàng) 𠢕　勥
 * 【Close, (not airy.)】(Hip) 翕
 * 【Coarse】(Tshou) 粗
 * 【Cold】(Chhìn; ngân) 凊　凝

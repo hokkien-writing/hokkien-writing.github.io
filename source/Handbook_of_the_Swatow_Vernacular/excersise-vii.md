@@ -45,8 +45,8 @@ date: 2022-11-16 20:16:00
 * 【有石部。有沙】(Ũ chiéh-põu, ũ sua) There are stones, and there is sand.
 * 【儂在世毋久】(Nâng tõ sì m̃-kú) Man is not long in the world.
 * 【丈夫愈壯過諸娘】(Ta-pou zú-tsàng kùe tsṳ-niêⁿ) Man is stronger than woman.
-* 【有个諸娘愈賢過丈夫】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
-* 【在祖家有加加諸娘。賢過丈夫】(Tõ Tsóu-ke ũ ke-ke tsṳ-niêⁿ, gâu kùe ta-pou) There are many ladies in England cleverer than men.
+* 【有个諸娘愈𠢕過丈夫】(Ũ-kâi tsṳ-niêⁿ zú-gâu kùe ta-pou) Some women are cleverer than men.
+* 【在祖家有加加諸娘。𠢕過丈夫】(Tõ Tsóu-ke ũ ke-ke tsṳ-niêⁿ, gâu kùe ta-pou) There are many ladies in England cleverer than men.
 * 【唐儂个諸娘少少識字】(Tn̂g-nâng kâi tsṳ-niêⁿ chié-chié pat-jī) Very few Chinese ladies can read.
 * 【阮个諸娘攏總識字】(Ún--kâi tsṳ-niêⁿ lóng-tsóng pat-jī) Our ladies can all read.
 
@@ -126,7 +126,7 @@ date: 2022-11-16 20:16:00
 
 ### section IV.
 
-* 【瞑起】(Mêng-khí) Morning.
+* 【眠起】(Mêng-khí) Morning.
 * 【日晝】(Jít-tàu) Noon.
 * 【夜昏】(Mêⁿ-hng) Evening.
 * 【上旰】(Chiẽⁿ-kùa) Forenoon.
@@ -142,7 +142,7 @@ date: 2022-11-16 20:16:00
 * 【半夜】(Puàⁿ-mêⁿ) Midnight
 * 【三更半夜】(Saⁿ-keⁿ puàⁿ-mêⁿ) Third watch or midnight, (meaning a very late hour at night.)
 ------
-* 【瞑起有儂來亞無】(Mêng-khí ũ nâng lâi a-bô?) Did any body come this morning?
+* 【眠起有儂來亞無】(Mêng-khí ũ nâng lâi a-bô?) Did any body come this morning?
 * 【汝知亞毋知】(Lṳ́ tsai a m̃-tsai?) Do you know or not?
 * 【我毋知】(Uá m̃-tsai.) I don't know.
 * 【日晝我毋在此塊食】(Jít-tàu uá m̃-tõ chié chiáh.) I am not going to take dinner here at noon.
@@ -158,7 +158,7 @@ date: 2022-11-16 20:16:00
 * 【伊日旰作。夜旰亦作】(I jít--kùa tsoh, mêⁿ--kùa iā tsoh) He worked in the day, and he also worked in the night.
 * 【伊个工是重在】(I kái khang-khùe sĩ tàng-tsãi) His work is very heavy.
 * 【日未暗】(Jít būe-àm) It is not yet dark.
-* 【汝夗到日彼樣晏正走起】(Lṳ́ út-kàu jít hièⁿ-uáⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
+* 【汝夗到日彼樣晏正走起】(Lṳ́ út-kàu jít hièⁿ-uàⁿ chiàⁿ-tsáu-khí) You have slept far into the day, before you got up.
 * 【下日汝毋孬夗到彼樣晏】(Ê-jít lṳ́ m̃-móⁿ út-kàu-hièⁿ uàⁿ) For the future, you must not sleep so late into the day.
 * 【日暗着去夗】(Jít àm tiéh khṳ̀-út) When it is late at night, you must go to bed.
 * 【勿到半夜正去夗】(Màiⁿ-kàu puàⁿ-méⁿ chiàⁿ-khṳ̀-út) Don't let it be midnight before you go to bed.
@@ -178,13 +178,13 @@ date: 2022-11-16 20:16:00
 * 【日日】(Jít-jít) Every day.
 * 【排日】(Pâi-jít) Every day.
 * 【明年】(Mêⁿ-nîⁿ) Next year.
-* 【年年】(Nî-niⁿ) Yearly.
-* 【排年】(Pâi-niⁿ) Yearly.
+* 【年年】(Nî-nîⁿ) Yearly.
+* 【排年】(Pâi-nîⁿ) Yearly.
 * 【終久】(Tsong-kú) Always.
-* 【次次】(Tsūa-tsūa) Every occasion.
+* 【逝逝】(Tsūa-tsūa) Every occasion.
 * 【下下】(Ē-ē) Every occasion.
 ------
-* 【明旦瞑起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
+* 【明旦眠起早汝着早早走起】(Màⁿ-mêng-khí lṳ́ tiéh tsá-tsá tsáu-khí) To-morrow morning, you must get up very early.
 * 【汝毋孬夗到日晏正走起】(Lṳ́ m̃-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí) You must not sleep until late in the day before you get up.
 * 【着早些】(Tiéh tsá--chē) You must be early.
 * 【今。汝着憶得】(Taⁿ, lṳ́ tiéh it-tit) Now, you must remember.
@@ -198,7 +198,7 @@ date: 2022-11-16 20:16:00
 * 【明旦起我毋在】(Màⁿ-khí uá m̃-tõ) I shall not be at home tomorrow.
 * 【汝免用來】(Lṳ́ mín-ēng lâi) You need not come.
 * 【後日我就轉來】(Aũ--jít uá chiũ tńg--lâi) I shall be back the day after to-morrow.
-* 【我次次來到覓汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̃-tõ) On every occasion of my coming, I could not find you.
+* 【我逝逝來到覓汝毋在】(Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̃-tõ) On every occasion of my coming, I could not find you.
 * 【我昨日來。昨夜亦來】(Uá tsa-jít lâi, tsa-mêⁿ iā lâi) I came yesterday, and last night as well.
 * 【伊終久是此樣生】(I tsong-kú sĩ chièⁿ-seⁿ) He is always like this.
 * 【伊是惰。做事隨便做】(I sĩ tuãⁿ, tsò-sṳ̄ chhìn-tshái tsò) He is idle, and does things carelessly.

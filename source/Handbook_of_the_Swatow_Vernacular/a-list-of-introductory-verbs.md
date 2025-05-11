@@ -30,10 +30,10 @@ date: 2022-11-15 21:43:00
 * 【Brush】(Tshóiⁿ; chhiù) 筅　刷
 * 【Buy】(Bói) 買
 * 【Call】(Kiè; hàm) 叫　喊
-* 【Care】(Chién; kuan-kù) 掌　觀顧
+* 【Care】(Chiéⁿ; kuan-kù) 掌　觀顧
 * 【Carry, (between two equal weights.)】(Taⁿ) 擔
 * 【Carry, (one weight by two persons.)】(Kng) 扛
-* 【Carry, (over the shoulder.)】(Pì) 負
+* 【Carry, (over the shoulder.)】(Pì) 背
 * 【Carry, (with the hand, as a bucket.)】(Kũaⁿ) 摜
 * 【Carry (on the shoulder, as a basket,)】(Khiâ) 騎
 * 【Catch】(Liáh) 掠
@@ -152,7 +152,7 @@ date: 2022-11-15 21:43:00
 * 【Visit】(Sûn) 巡
 * 【Wait】(Tán; thāi) 等　待
 * 【Walk】(Kiâⁿ) 行
-* 【Waste】(Tak-nn̄g) 遭塌
+* 【Waste】(Tak-nn̄g) Tak-nn̄g
 * 【Wear, (clothes.)】(Chhēng) 穿
 * 【Wear, (jewels.)】(Kùa) 掛
 * 【Wind, (as a clock.)】(Ká) 絞

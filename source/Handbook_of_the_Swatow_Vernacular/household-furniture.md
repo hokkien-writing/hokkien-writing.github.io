@@ -37,7 +37,7 @@ date: 2022-11-20 21:59:00
 * 【刀囝】(To-kiáⁿ) A pen-knife.
 * 【墨】(Bák) Ink (Chinese.)
 * 【墨水】(Bák-tsúi) Ink (foreign.)
-* 【墨硯】(Bák-ìⁿ) Ink-stone.
+* 【墨硯】(Bák-īⁿ) Ink-stone.
 * 【墨水罐】(Bák-tsúi-kuàn) Ink-stand.
 * 【白竹紙】(Péh-tek-tsúa) Chinese note paper.
 * 【西國紙】(Sai-kok-tsúa) Foreign paper.
@@ -95,12 +95,12 @@ date: 2022-11-20 21:59:00
 * 【褥】(Zók) Mattress.
 * 【枕頭】(Chím-thâu) A pillow.
 * 【攬个枕頭】(Nám--kâi chím-thâu) A bolster.
-* 【蠓帳】(Máng-tiàⁿ) Mosquito curtain.
+* 【蠓帳】(Máng-tièⁿ) Mosquito curtain.
 * 【眠床白布】(Mîn-tshn̂g péh-pòu) Bed-sheet.
 * 【枕頭囊】(Chím-thâu-lông) Pillow-case.
 * 【被】(Phũe) Bed clothes (cotton.)
 * 【袒】(Thán) Do. (woollen.)
-* 【蠓帳鈎】(Máng-tiàⁿ-kau) A hook for mosquito net.
+* 【蠓帳鈎】(Máng-tièⁿ-kau) A hook for mosquito net.
 * 【鏡】(Kiàⁿ) A looking glass.
 * 【梳】(Siu) A comb.
 * 【虱箆】(Sat-pìn) A Chinese small-tooth comb.
@@ -138,15 +138,15 @@ date: 2022-11-20 21:59:00
 
 ------
 
-* 【眠床排瞑起着物好】(Mīn-tshn̂g pâi-mêng-khí tiéh muéh-hó) Every morning the bed must be put right.
+* 【眠床排眠起着物好】(Mīn-tshn̂g pâi-mêng-khí tiéh muéh-hó) Every morning the bed must be put right.
 * 【褥挈去晒】(Zók khiéh khṳ̀ phák) Take the mattress and put it in the sun.
 * 【枕頭亦着晒】(Chím-thâu iā tiéh phák) The pillows must be aired too.
-* 【蠓帳垃圾了。着乞洗衫个洗】(Máng-tiàⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
-* 【眠床白布一个禮拜着換一次】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
+* 【蠓帳垃圾了。着乞洗衫个洗】(Máng-tièⁿ nah-sap--lō, tiéh khoih sói-saⁿ--kâi sói) The mosquito curtain is dirty, it must be given to the washerman to wash.
+* 【眠床白布一个禮拜着換一下】(Mîn-tshn̂g péh-pòu chék-kâi lói-pài tiéh uāⁿ chék-ē) The bed-sheet must be changed once a week.
 * 【枕頭囊亦着排个禮拜換】(Chím-thâu-lông iā tiéh pâi-kâi lói-pài uāⁿ) The pillow cases must also be changed every week.
 * 【被毋孬洗較業】(Phũe m̃-móⁿ sói khah-giáp) Bed-clothes shouldn't be washed too often.
 * 【洗較業袂燒】(Sói khah-giáp bõi-sie) (If) washed too often they will not be warm.
-* 【眠床拂蠓。了蠓帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tìaⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
+* 【眠床拂蠓。了蠓帳放好】(Mîn-tshn̂g pũaⁿ-máng, lióu máng-tièⁿ pàng-hó) Drive out the mosquitoes in the bed, and then let down the curtain properly.
 * 【伊好睒鏡】(I hàuⁿ-iám-kìaⁿ) He is fond of looking in the looking-glass.
 * 【挈我个梳佮虱箆來】(Khiéh uá kâi siu kah sat-pìn lâi) Get me my comb and my small-tooth comb.
 * 【汝佮我梳。了佮我箆】(Lṳ́ kâh uá siu, lióu kah uá pìn) You comb my hair, then use the small-tooth comb.
@@ -189,11 +189,11 @@ date: 2022-11-20 21:59:00
 * 【碗】(Uáⁿ) Bowls.
 * 【碗公】(Uáⁿ-kong) Large bowls.
 * 【盤囝】(Pûaⁿ-kiáⁿ) Dessert plates, saucers.
-* 【茶盅】(Tẽ-cheng) Tea-cups.
+* 【茶盅】(Tê-cheng) Tea-cups.
 * 【茶匙】(Tê-sî) Tea spoons.
 * 【茶罐】(Tê-kuàn) A tea-pot.
 * 【糖罐】(Thn̂g-kuàn) A sugar basin.
-* 【牛乳罐】(Gû-nĩⁿ-kùan) A milk jug.
+* 【牛奶罐】(Gû-nĩⁿ-kùan) A milk jug.
 * 【羔丕罐】(Ko-pî-kuàn) A coffee pot.
 * 【羔丕磨】(Ko-pî-bō) A coffee mill.
 * 【桶盤】(Tháng-pûaⁿ) A tray.
@@ -270,7 +270,7 @@ date: 2022-11-20 21:59:00
 * 【塗炭】(Thôu-thùaⁿ) Coal.
 * 【火炭】(Húe-thùaⁿ) Charcoal.
 * 【火柴】(Húe-tshâ) Fire-wood.
-* 【火灰】(Húe-hu) Ashes.
+* 【火烌】(Húe-hu) Ashes.
 * 【掃帚】(Sàu-siú) A broom.
 * 【糞斗】(Pùn-táu) A shovel.
 
@@ -302,4 +302,4 @@ date: 2022-11-20 21:59:00
 * 【燈心盡了】(Teng-sim lióu--lō) The wick is burnt down.
 * 【用火炭。勿用火柴】(Ēng húe-thùaⁿ, màiⁿ ēng húe-tshâ) Use charcoal, don't use fire-wood.
 * 【用柴通間內烟】(Ēng tshâ thong-koiⁿ-lãi huu) If you use wood the whole house will be full of smoke.
-* 【灶空个火灰抔去】(Tsàu-khang kâi húe-hu put-tiòu) Remove the ashes in the furnace.
+* 【灶空个火烌抔去】(Tsàu-khang kâi húe-hu put-tiòu) Remove the ashes in the furnace.

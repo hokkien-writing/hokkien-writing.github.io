@@ -51,9 +51,9 @@ date: 2022-11-20 23:28:00
 * 【Condemn, to death】(Tiāⁿ-sí tsũe) 定死罪
 * 【Punish, to】(Huát) 罰
 * 【Fine, to】(Huát-ngṳ̂n) 罰銀
-* 【Flogging, on buttocks】(Phah kha-tshng-póiⁿ) 拍尻川板
+* 【Flogging, on buttocks】(Phah kha-tshng-póiⁿ) 拍尻川爿
 * 【Flog severely】(Phah thiám-thiám) 拍忝忝
-* 【Strangle to death】(Liû-sí) 絞死
+* 【Strangle to death】(Liû-sí) Liû-sí
 * 【Behead, to】(Tsám-thâu) 斬頭
 * 【Imprison, to】(Kìm-kam; siu-kam) 禁監　收監
 * 【Prison, a】(Kam) 監
@@ -94,7 +94,7 @@ date: 2022-11-20 23:28:00
 * 【Summons, to issue】(Tshut-phiè) 出票
 * 【Prosecute, to】(Kò) 告
 * 【Withdraw, to】(Khai-pàng) 開放
-* 【Accuse falsely】(Bū-lūa; uáng-khut) 誣賴　枉屈
+* 【Accuse falsely】(Bû-lūa; uáng-khut) 誣賴　枉屈
 * 【Petition, to send in】(Jíp-tiâⁿ; jíp-pín) 入呈　入禀
 * 【Your Worship】(Lãu-iâ; thài-iâ) 老爺　太爺
 * 【„ Excellency】(Tãi-jîn) 大人
@@ -119,7 +119,7 @@ date: 2022-11-20 23:28:00
 * 【Unjust】(M̃-kong-tãu) 毋公道
 * 【Truth, speak the】(Sít-uē tàⁿ) 實話呾
 * 【Lie, to】(Hue-niouⁿ) 花貓
-* 【Swear, to】(Chiù-tshūa) 咒誓
+* 【Swear, to】(Chiù-tsūa) 咒誓
 * 【Plead guilty】(Jīn-tsũe; jīn-tshò) 認罪　認錯
 * 【According to law】(Chiè-lút) 照律
 * 【Against the law】(Ngék-lút) 逆律

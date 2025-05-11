@@ -22,7 +22,7 @@ date: 2022-11-20 22:29:00
 * 【衫袋】(Saⁿ-tō) Pockets.
 * 【手布】(Chhiú-pòu) Handkerchiefs.
 * 【手綢】(Chhiú-tiû) Handkerchiefs.
-* 【手套】(Chhiú-lap) Gloves.
+* 【手lap】(Chhiú-lap) Gloves.
 * 【鈕】(Liú) Buttons.
 * 【鈕縫】(Liú-phāng) Button holes.
 * 【棕蓑】(Tsang-sui) A rain coat, made of husk.
@@ -37,8 +37,8 @@ date: 2022-11-20 22:29:00
 * 【褲腿】(Khòu-thúi) Leggings.
 * 【褲橛】(Khòu-kuéh) Short trowsers.
 * 【褲頭帶】(Khòu-thâu-tūa) A belt.
-* 【褲頭綾】(Khòu-thâu-léng) A belt, do silk.
-* 【肚腰】(Tói-ie) A purse worn on the waist.
+* 【褲頭綾】(Khòu-thâu-lêng) A belt, do silk.
+* 【肚腰】(Tóu-ie) A purse worn on the waist.
 * 【荷包】(Hô-pau) A purse worn on the waist.
 * 【襪】(Buéh) Stockings.
 * 【烏布鞋】(Ou-pòu-ôi) Shoes, black-cloth.
