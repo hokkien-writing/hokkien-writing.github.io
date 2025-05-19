@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2025-05-06 23:48:29
+date: 2025-05-19 23:23:36
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -125,6 +125,9 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 * 三字經 [Wikibooks 📖](https://zh.wikibooks.org/wiki/%E8%87%BA%E7%81%A3%E8%A9%B1/%E4%B8%89%E5%AD%97%E7%B6%93%E8%AE%80%E9%9F%B3)
 * 千字文 [Wikibooks 📖](https://zh.wikibooks.org/zh-hk/%E8%87%BA%E7%81%A3%E8%A9%B1/%E5%8D%83%E5%AD%97%E6%96%87%E8%AE%80%E9%9F%B3)
 * 聖經 bible.com [現代台語譯本漢字版 📖](https://www.bible.com/bible/3620/GEN.1.TTVH) | [現代台語譯本羅馬字版 📖](https://www.bible.com/bible/3619/GEN.1.TTVR)
+* Siau Lah-jih(蕭平治).《Hêng Góa Tâi-oân Chiáu-á Miâ（還我台灣鳥仔名）》 [GitHub Page 📖](https://siaulahjih.github.io/TaiOanChiauA/)
+* Siau Lah-jih(蕭平治).《Choh-chhân-lâng Phok-bu̍t-koán (作田人博物館)》 [GitHub Page 📖](https://siaulahjih.github.io/ChohChhanLang/)
+* Siau Lah-jih(蕭平治).《Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ (台灣俗語鹹酸甜)》 [第一冊 GitHub Page 📖](https://siaulahjih.github.io/KiamSngTinn1/) [第二冊 GitHub Page 📖](https://siaulahjih.github.io/KiamSngTinn2/) [第三冊 GitHub Page 📖](https://siaulahjih.github.io/KiamSngTinn3/) [第四冊 前衛出版社](http://www.avanguard.com.tw/m/2001-1609-835620-1.php)
 
 ## ⌨️ 輸入法
 
