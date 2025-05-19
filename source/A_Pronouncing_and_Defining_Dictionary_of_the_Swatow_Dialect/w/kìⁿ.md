@@ -143,7 +143,9 @@ date: 2024-04-01 23:00:00
 
 - kìⁿ tîeh cū huaⁿ-hí;
 
-  when he saw it he was much pleased. m̄ kìⁿ mûeh kâi nâng;
+  when he saw it he was much pleased. 
+  
+- m̄ kìⁿ mûeh kâi nâng;
 
   the loser of the stolen goods.
 

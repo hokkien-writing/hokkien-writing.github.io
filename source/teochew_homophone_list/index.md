@@ -1,6 +1,6 @@
 ---
 title: 潮州話同音字表 (beta)
-date: 2025-05-11 17:38:12
+date: 2025-05-19 23:00:06
 source: https://github.com/hokkien-writing/teochew-homophone-list
 dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
@@ -229,7 +229,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |t| ① toi 堤   ② tói 底`(到~/kàu-~)` 抵   ⑤ tôi 題{题} 蹄  |
 |th| ② thói 體{体}   ③ thòi 代`(~理/~-lí)` 替   ④ thoih 代`(~職/~-cheh)`  |
 |l| ② lói 禮{礼}   ⑤ lôi 犁 黎   ⑦ lōi 籬{篱}   ⑧ lo̍ih 笠  |
-|ts| ④ tsoih 節{节}   ⑦ tsōi 㩼   ⑧ tso̍ih 截  |
+|ts| ④ tsoih 節{节}   ⑤ tsôi 齊{齐}   ⑦ tsōi 㩼   ⑧ tso̍ih 截  |
 |s| ① soi 嘶 帚`(掃~星/sàu-~-chheⁿ)` 菷`(掃~星/sàu-~-chheⁿ)`   ② sói 洗 灑{洒}   ③ sòi 細{细}   ④ soih 細{细} 襭  |
 |k| ① koi 雞{鸡} 街   ② kói 改 解   ③ kòi 解 計{计} 戒`(勸~/khǹg-~)` 疥   ④ koih 圿`(垢~/káu-~)` 夾{夹} 莢{荚}   ⑤ kôi 鮭{鲑}   ⑦ kōi 易 慧   ⑧ ko̍ih 夾{夹} 挾{挟} 葵`(~笠/~-lo̍ih)`  |
 |kh| ① khoi 溪 揩   ③ khòi 契 喫{吃}`(~草/~-tsháu)`   ④ khoih 乞 軋{轧}  |
@@ -405,7 +405,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |t| ② tóiⁿ 典`(~契/~-khòi)`   ⑥ tõiⁿ 第 佃   ⑦ tōiⁿ 殿`(宮~/keng-~)` 靛 𠕆 𠕇  |
 |th| ② thóiⁿ 睇 看  |
 |n| ⑤ nôiⁿ 荔`(~果/~-kúe)` 蓮{莲}  |
-|ts| ② tsóiⁿ 指   ⑤ tsôiⁿ 前 齊{齐}  |
+|ts| ② tsóiⁿ 指   ⑤ tsôiⁿ 前  |
 |tsh| ① tshoiⁿ 千`(~萬/~-buān)` 仟   ② tshóiⁿ 筅   ⑤ tshôiⁿ 蠶{蚕}  |
 |s| ① soiⁿ 先  |
 |k| ① koiⁿ 間{间}`(一~/che̍k-~)` 肩   ② kóiⁿ 繭{茧} 襇{裥}`(~/~)`   ③ kòiⁿ 間{间}`(~隔/koinn3keh)`  |
@@ -577,7 +577,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 |-|----|
 | | ① in 因 煙{烟} 茵 咽`(~喉/~-âu)` 姻 甄 胭 鷹{鹰}`(~架/~-kè)`   ② ín 引 隱{隐} 蚓   ③ ìn 印 應{应}   ④ it 一 乙 咽`(哽~/kéⁿ-~)` 噎 憶{忆}`(毋~得/m̃-~-t~)`   ⑤ în 沿 演 寅 縈{萦} 鉛{铅}   ⑦ īn 暈{晕}   ⑧ i̍t 佚 軼{轶} 逸  |
 |p| ① pin 賓{宾} 乒 彬 摒`(~擋/~-tǹg)` 斌 檳{槟} 濱{滨}   ② pín 品 匾 屏 摒 禀`(入~/ji̍p-~)` 稟{禀}   ③ pìn 擯{摈} 箆`(虱~/sat-~)` 遍 髕{髌} 鬢{鬓}   ④ pit 必 筆{笔}   ⑤ pîn 平   ⑧ pi̍t 畢{毕} 䘃 癟{瘪}  |
-|ph| ② phín 貶{贬}   ④ phit 匹`(~配/~-phùe)` 疋`(布~/pòu-~)`   ⑤ phîn 蘋{苹} 頻{频} 瓶 屏 摒`(~掉/~-tiāu)` 瀕{濒} 貧{贫}  |
+|ph| ② phín 品 貶{贬}   ④ phit 匹`(~配/~-phùe)` 疋`(布~/pòu-~)`   ⑤ phîn 蘋{苹} 頻{频} 瓶 屏 摒`(~掉/~-tiāu)` 瀕{濒} 貧{贫}  |
 |b| ⑧ bi̍t 蜜  |
 |m| ② mín 免 甭   ⑤ mîn 民 眠 抿 氓 泯   ⑦ mīn 面`(~子/~-tsṳ́)`   ⑧ mi̍t 密 滅{灭} 默 冪{幂} 蔑`(輕~/khin-~)` 蜜 衊{蔑}`(污~/u-~)` 覓{觅}  |
 |t| ① tin 籐{藤}`(~牌/~-pâi)` 顛{颠}`(~倒/~-tò)`   ② tín 振   ③ tìn 鎮{镇}   ④ tit 得   ⑤ tîn 塵{尘}`(~埃/~-ai)` 藤 陳{陈}`(鋪~/phou-~)`   ⑦ tīn 陣{阵}   ⑧ ti̍t 直  |

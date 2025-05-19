@@ -508,7 +508,7 @@ date: 2024-04-01 23:00:00
 
   a visit expressive of gratitude.
 
-- sīa ṳu;
+- sīa ṳn;
 
   express gratitude for favors.
 
