@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2025-06-01 09:28:39
+date: 2025-06-01 09:52:24
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -46,6 +46,7 @@ source: https://github.com/hokkien-writing/reference
 * 臺灣閩南語羅馬字拼音教學網 [官網 📖🗣️](https://tailo.moe.edu.tw/)
 * 臺灣台語羅馬字拼音方案使用手冊 [官網 📖](https://language.moe.gov.tw/files/people_files/tshiutsheh_1131025.pdf) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/EeQLRMl3ofpOsMiv7ED_5C8BOfRWjrILd0yxeQk4GIOQSg?e=598PKV) 
 * 2009,《臺灣閩南語推薦用字700字表》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQUljIyyJtM3liJE?e=wClajs) 
+* 《閩南語會話手冊》[維基導遊 📖](https://zh.wikivoyage.org/zh/%E9%96%A9%E5%8D%97%E8%AA%9E%E6%9C%83%E8%A9%B1%E6%89%8B%E5%86%8A)
 * 腾达. 潮语拼音教程 [官網 📖](https://kahaani.github.io/gatian/index.html) | [GitHub](https://github.com/kahaani/gatian)
 * 南舍郎. 潮汕话拼音 [Bilibili 📀](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531)
 * 潮州白話字 [Wikipedia 📖](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)
