@@ -9,7 +9,7 @@ date: 2022-11-20 23:30:00
 ## Lesson XXIII. hostilities.
 
 * 【Commander-in-chief】(Nguân-sùe) 元帥
-* 【General】(Chiàng-kun) 將軍
+* 【General】(Chiang-kun) 將軍
 * 【Admiral】(Tsúi-sṳ thî-tok) 水師提督
 * 【Officers】(Bú-kuaⁿ) 武官
 * 【Soldiers】(Piaⁿ; ióng-chiàng) 兵　勇將

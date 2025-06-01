@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2025-05-19 23:23:36
+date: 2025-06-01 09:28:39
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -44,6 +44,7 @@ source: https://github.com/hokkien-writing/reference
 
 * 用十分鐘學讀學寫福建文 [官網 📖](https://www.speakhokkien.org/oh-thak-oh-sia)
 * 臺灣閩南語羅馬字拼音教學網 [官網 📖🗣️](https://tailo.moe.edu.tw/)
+* 臺灣台語羅馬字拼音方案使用手冊 [官網 📖](https://language.moe.gov.tw/files/people_files/tshiutsheh_1131025.pdf) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/EeQLRMl3ofpOsMiv7ED_5C8BOfRWjrILd0yxeQk4GIOQSg?e=598PKV) 
 * 2009,《臺灣閩南語推薦用字700字表》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQUljIyyJtM3liJE?e=wClajs) 
 * 腾达. 潮语拼音教程 [官網 📖](https://kahaani.github.io/gatian/index.html) | [GitHub](https://github.com/kahaani/gatian)
 * 南舍郎. 潮汕话拼音 [Bilibili 📀](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531)
@@ -51,7 +52,7 @@ source: https://github.com/hokkien-writing/reference
 * 潮州话拼音方案 [潮州音字典 📖](http://www.czyzd.com/data/chaopin) | [Wikipedia 📖](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E8%A9%B1%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88) | [百度百科](https://baike.baidu.com/item/%E6%BD%AE%E5%B7%9E%E8%AF%9D%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88/2344643)
 * 2017, 潮州話正音正字促進會.《潮州話羅馬字注音方案(第二版)》 [官網PDF ⬇️](http://tappcdn.resources.teochew.pw/files/20170114001.pdf) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQcostIoSdeJrBn7?e=bJfaZs)
 * 林倫倫, 朱永鍇.《潮州話一月通》[微軟雲盤 傳統漢字版 EPUB ⬇️](https://1drv.ms/u/s!AgqX3Jd3VLa4dYSvCjDQWnoqyjs?e=9yw9xI) | [微軟雲盤 简体字版 EPUB ⬇️](https://1drv.ms/u/s!AgqX3Jd3VLa4djgkTgMiBp40EYk?e=gIbp9x) | [潮舖 YouTube 📀](https://www.youtube.com/watch?v=ZWEzSVDanGE&ab_channel=%E6%BD%AE%E8%88%96theteochewstore) | [潮舖 🛒](https://www.theteochewstore.org/collections/teochew-language/products/chaozhouhua-yiyuetong-fantiziban)
-
+* 2011, 林倫倫, 黃挺.《潮州話入門》 [Scribd ⬇️](https://www.scribd.com/document/766747403/20210712%E6%BD%AE%E5%B7%9E%E8%AF%9D%E5%85%A5%E9%97%A8) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/EbylqvBhBClFl-IbF9KaSyAB45V1mmt_B1vt06U_JxF-Pw?e=T3rLz7)
 ---
 
 * 1604, 西班牙耶穌會會士Pedro Chirino, 菲律賓唐人.《西班牙─華語辭典》(Dictionario Hispánico Sinicum): 藏於菲律賓聖多瑪斯(Santo Tomas)大學檔案，共計一千餘頁，二萬七千個閩南語詞條。
@@ -164,6 +165,7 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 ## 🧐 研究
 
 * 2010, 潘家懿, 鄭守治.《粵東閩南語的分布及方言片的劃分》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQJod39hhuZOJMip?e=QPOe7i) 
+* 2010, 洪惟仁.《閩南語書寫法的理想與現實》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/EcOgRBCAWMJJtnMW3STNwzkBOn2Ai1aPzF4V-AaRhrbLnw?e=VicPXi) 
 
 ## 📝 部落格
 
