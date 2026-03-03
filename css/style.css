@@ -581,7 +581,7 @@ body {
   background-color: #fff;
   border: 1px solid #ccc;
   border-radius: 4px;
-  margin-top: 16px;
+  margin-top: -2px;
   min-width: 200px;
   -webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
