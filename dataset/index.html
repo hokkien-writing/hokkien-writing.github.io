@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <html lang="en"></html>
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'G-C250XQX539', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+  
+  <title>閩南語數據集專案 | 閩南語書寫</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="📌 若有缺漏，歡迎移步 hokkien-writing&#x2F;dataset 相輔修訂。 閩南語文字數位化專案，書籍、歌詞等等經原文經人工校注後，可透過腳本匯出原版與修改版。 專案結構 books&#x2F;               校注後的書籍來源（含編輯標記）lyrics&#x2F;              校注後的歌詞來源（含編輯標記）clippings&#x2F;           採集詞條（從書本或日常對話中摘錄">
+<meta property="og:type" content="website">
+<meta property="og:title" content="閩南語數據集專案">
+<meta property="og:url" content="https://hokkien-writing.github.io/dataset/index.html">
+<meta property="og:site_name" content="閩南語書寫">
+<meta property="og:description" content="📌 若有缺漏，歡迎移步 hokkien-writing&#x2F;dataset 相輔修訂。 閩南語文字數位化專案，書籍、歌詞等等經原文經人工校注後，可透過腳本匯出原版與修改版。 專案結構 books&#x2F;               校注後的書籍來源（含編輯標記）lyrics&#x2F;              校注後的歌詞來源（含編輯標記）clippings&#x2F;           採集詞條（從書本或日常對話中摘錄">
+<meta property="og:locale" content="zh_TW">
+<meta property="article:published_time" content="2026-04-28T13:37:00.000Z">
+<meta property="article:modified_time" content="2026-04-28T13:37:42.348Z">
+<meta property="article:author" content="Lim">
+<meta name="twitter:card" content="summary">
+  
+  
+  
+  
+    <link href="//fonts.font.im/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 7.3.0"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">閩南語書寫</a>
+      </h1>
+      
+      <h2 id="subtitle-wrap">
+        <a href="/" id="subtitle">HOKKIEN WRITING</a>
+      </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"><span class="fa fa-bars"></span></a>
+        
+          
+            <a class="main-nav-link" href="/">頭頁</a>
+          
+        
+          
+            <div class="main-nav-link">
+              專案
+              <div class="submenu">
+                
+                  <a href="/dataset">數據集</a>
+                
+                  <a href="/simple_puj">簡明潮州白話字</a>
+                
+              </div>
+            </div>
+          
+        
+          
+            <div class="main-nav-link">
+              拍字
+              <div class="submenu">
+                
+                  <a href="/rime_hokkien">福建話拍字方案 (beta)</a>
+                
+                  <a href="/rime_teochew">潮州話拍字方案 (beta)</a>
+                
+              </div>
+            </div>
+          
+        
+          
+            <div class="main-nav-link">
+              工具冊
+              <div class="submenu">
+                
+                  <a href="/holodict">臺灣閩南語常用詞辭典</a>
+                
+                  <a href="/Handbook_of_the_Swatow_Vernacular">汕頭話讀本</a>
+                
+                  <a href="/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow">英漢汕頭方言口語詞典</a>
+                
+                  <a href="/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect">汕頭方言音義字典</a>
+                
+                  <a href="/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect">漢英潮州方言字典</a>
+                
+              </div>
+            </div>
+          
+        
+          
+            <a class="main-nav-link" target="_blank" rel="noopener" href="https://github.com/hokkien-writing">GitHub</a>
+          
+        
+      </nav>
+      <!-- <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+        <a class="main-nav-link" href="/">頭頁</a>
+        
+        <a class="main-nav-link" href="/%5Bobject%20Object%5D">專案</a>
+        
+        <a class="main-nav-link" href="/%5Bobject%20Object%5D">拍字</a>
+        
+        <a class="main-nav-link" href="/%5Bobject%20Object%5D">工具冊</a>
+        
+        <a class="main-nav-link" target="_blank" rel="noopener" href="https://github.com/hokkien-writing">GitHub</a>
+        
+      </nav> -->
+      <nav id="sub-nav">
+        
+        <a id="nav-search-btn" class="nav-icon" title="搜尋"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <div class="search-form">
+          <input type="search" id="local-search-input" name="q" results="0" placeholder="搜尋"
+            class="search-form-input" />
+        </div>
+      </div>
+    </div>
+
+    <div id="local-search-result" class="local-search-result-cls"></div>
+
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="page-" class="article article-type-page" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/dataset/index.html" class="article-date">
+  <time datetime="2026-04-28T13:37:00.000Z" itemprop="datePublished">2026-04-28</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      閩南語數據集專案
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <!-- Table of Contents -->
+        
+          <div id="toc" class="toc-article">
+              <strong class="toc-title">目錄</strong>
+              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B0%88%E6%A1%88%E7%B5%90%E6%A7%8B"><span class="toc-number">1.</span> <span class="toc-text">專案結構</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%B7%A8%E8%BC%AF%E6%A8%99%E8%A8%98%E8%A6%8F%E5%89%87"><span class="toc-number">2.</span> <span class="toc-text">編輯標記規則</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AF%84%E4%BE%8B"><span class="toc-number">2.1.</span> <span class="toc-text">範例</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F"><span class="toc-number">3.</span> <span class="toc-text">使用方式</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%8C%AF%E5%87%BA"><span class="toc-number">3.1.</span> <span class="toc-text">匯出</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#CSV-%E5%8C%AF%E5%87%BA"><span class="toc-number">3.2.</span> <span class="toc-text">CSV 匯出</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%8E%A1%E9%9B%86%E8%A9%9E%E6%A2%9D%EF%BC%88Clippings%EF%BC%89"><span class="toc-number">3.3.</span> <span class="toc-text">採集詞條（Clippings）</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B8%AC%E8%A9%A6"><span class="toc-number">4.</span> <span class="toc-text">測試</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%B3%BB%E7%B5%B1%E9%96%93%E8%BD%89%E6%8F%9B"><span class="toc-number">5.</span> <span class="toc-text">系統間轉換</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%94%B6%E9%8C%84%E5%85%A7%E5%AE%B9"><span class="toc-number">6.</span> <span class="toc-text">收錄內容</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%8E%88%E6%AC%8A"><span class="toc-number">7.</span> <span class="toc-text">授權</span></a></li></ol>
+          </div>
+        
+        <p>📌 若有缺漏，歡迎移步 <a target="_blank" rel="noopener" href="https://github.com/hokkien-writing/dataset">hokkien-writing/dataset</a> 相輔修訂。</p>
+<p>閩南語文字數位化專案，書籍、歌詞等等經原文經人工校注後，可透過腳本匯出原版與修改版。</p>
+<h2 id="專案結構">專案結構</h2>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">books/               校注後的書籍來源（含編輯標記）</span><br><span class="line">lyrics/              校注後的歌詞來源（含編輯標記）</span><br><span class="line">clippings/           採集詞條（從書本或日常對話中摘錄的 CSV）</span><br><span class="line">external/            外部資料集原始檔（由 sync_external.sh 同步）</span><br><span class="line">export/              匯出輸出</span><br><span class="line">  books/             書籍匯出</span><br><span class="line">  lyrics/            歌詞匯出</span><br><span class="line">  clippings/         採集詞條匯出</span><br><span class="line">  external/          外部資料集標準化 CSV</span><br><span class="line">scripts/             工具腳本</span><br><span class="line">  export.py          匯出原版 / 修改版 Markdown</span><br><span class="line">  export_csv.py      匯出結構化 CSV</span><br><span class="line">  import_external.py 轉換外部資料集為標準化 CSV</span><br><span class="line">  importers/         各外部資料集的轉換器</span><br><span class="line">  processors/        各書籍的 CSV 解析處理器</span><br><span class="line">    base.py          基礎類別與共用函數</span><br><span class="line">  tests/             單元測試</span><br><span class="line">build.sh             一鍵建置腳本</span><br><span class="line">sync_external.sh     同步外部資料集</span><br><span class="line">test.sh              一鍵測試腳本</span><br></pre></td></tr></table></figure>
+<h2 id="編輯標記規則">編輯標記規則</h2>
+<p>在 <code>books/</code>、<code>lyrics/</code> 等目錄中的 Markdown 檔案使用以下五種標記記錄校勘修改：</p>
+<table>
+<thead>
+<tr>
+<th>標記</th>
+<th>含義</th>
+<th>原版輸出</th>
+<th>修改版輸出</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>~~餮~~</code></td>
+<td>刪除，不需改正</td>
+<td>餮</td>
+<td>（移除）</td>
+</tr>
+<tr>
+<td><code>~~餮~~(餐)</code></td>
+<td>刪除並改正為括號內文字</td>
+<td>餮</td>
+<td>餐</td>
+</tr>
+<tr>
+<td><code>~~小暑~~()</code></td>
+<td>刪除但不知如何改正，暫時留白</td>
+<td>小暑</td>
+<td><code>〔〕</code></td>
+</tr>
+<tr>
+<td><code>++等++</code></td>
+<td>新增文字</td>
+<td>（移除）</td>
+<td>等</td>
+</tr>
+<tr>
+<td><code>++++</code></td>
+<td>需要新增但暫時找不到合適文字</td>
+<td>（移除）</td>
+<td><code>〔〕</code></td>
+</tr>
+<tr>
+<td><code>人[訓]</code></td>
+<td>訓用字，<code>[訓]</code> 標記前方為訓用字</td>
+<td>人</td>
+<td>人[訓]</td>
+</tr>
+<tr>
+<td><code>丕[音]</code></td>
+<td>借音字，<code>[音]</code> 標記前方為借音字</td>
+<td>丕</td>
+<td>丕[音]</td>
+</tr>
+</tbody>
+</table>
+<h3 id="範例">範例</h3>
+<p><strong>來源（校注版）：</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">~~菓~~(果)子</span><br><span class="line">~~污穢~~(垃圾)  ++污糟++</span><br><span class="line">~~巧語~~()</span><br><span class="line">++漉++</span><br><span class="line">++++</span><br></pre></td></tr></table></figure>
+<p><strong>原版輸出：</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">菓子</span><br><span class="line">污穢</span><br><span class="line">巧語</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p><strong>修改版輸出：</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">果子</span><br><span class="line">垃圾  污糟</span><br><span class="line">〔〕</span><br><span class="line">漉</span><br><span class="line">〔〕</span><br></pre></td></tr></table></figure>
+<h2 id="使用方式">使用方式</h2>
+<h3 id="匯出">匯出</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">./build.sh</span><br></pre></td></tr></table></figure>
+<p>會在 <code>export/</code> 目錄下按來源目錄分別匯出，每個檔案產生三個版本：</p>
+<ul>
+<li><code>*_original.md</code> — 原版（移除標記，保留原始文字）</li>
+<li><code>*_modified.md</code> — 修改版（套用所有校勘修改）</li>
+<li><code>*.csv</code> - 詞句列表</li>
+</ul>
+<h3 id="CSV-匯出">CSV 匯出</h3>
+<p>每個檔案還會匯出結構化 CSV（需在 <code>scripts/processors/</code> 中有對應的處理器）：</p>
+<table>
+<thead>
+<tr>
+<th>欄位</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>puj</code></td>
+<td>潮州白話字（校注後）</td>
+</tr>
+<tr>
+<td><code>puj_orig</code></td>
+<td>潮州白話字（原始，僅當與 puj 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>poj</code></td>
+<td>白話字（校注後）</td>
+</tr>
+<tr>
+<td><code>poj_orig</code></td>
+<td>白話字（原始，僅當與 poj 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>tl</code></td>
+<td>台灣話羅馬字（校注後）</td>
+</tr>
+<tr>
+<td><code>tl_orig</code></td>
+<td>台灣話羅馬字（原始，僅當與 tl 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>dp</code></td>
+<td>潮州話拼音（校注後）</td>
+</tr>
+<tr>
+<td><code>dp_orig</code></td>
+<td>潮州話拼音（原始，僅當與 dp 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>bp</code></td>
+<td>閩南話拼音（校注後）</td>
+</tr>
+<tr>
+<td><code>bp_orig</code></td>
+<td>閩南話話拼音（原始，僅當與 bp 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>han</code></td>
+<td>漢字（校注後）</td>
+</tr>
+<tr>
+<td><code>han_orig</code></td>
+<td>漢字（原始，僅當與 han 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>en</code></td>
+<td>英文翻譯（校注後）</td>
+</tr>
+<tr>
+<td><code>en_orig</code></td>
+<td>英文翻譯（原始，僅當與 en 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>zh_CN</code></td>
+<td>普通話翻譯（校注後）</td>
+</tr>
+<tr>
+<td><code>zh_CN_orig</code></td>
+<td>普通話翻譯（原始，僅當與 zh_CN 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>zh_TW</code></td>
+<td>國語翻譯（校注後）</td>
+</tr>
+<tr>
+<td><code>zh_TW_orig</code></td>
+<td>國語翻譯（原始，僅當與 zh_TW 不同時填寫）</td>
+</tr>
+<tr>
+<td><code>source</code></td>
+<td>來源（書名 &gt; 章節）</td>
+</tr>
+</tbody>
+</table>
+<p>新增書籍時，只需在 <code>scripts/processors/</code> 新增同名的 <code>.py</code> 檔案，定義繼承 <code>BookProcessor</code> 的 <code>Processor</code> 類別即可。</p>
+<h3 id="採集詞條（Clippings）">採集詞條（Clippings）</h3>
+<p><code>clippings/</code> 目錄存放從書本或日常對話中採集的詞條，格式為 CSV，命名規則為 <code>&#123;teochew|hokkien&#125;.&#123;source&#125;.csv</code>。</p>
+<p>CSV 表頭：</p>
+<table>
+<thead>
+<tr>
+<th>欄位</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>latn_norm</code></td>
+<td>標準化羅馬字（帶調號數字，如 <code>ka2-thiann3</code>）</td>
+</tr>
+<tr>
+<td><code>han</code></td>
+<td>漢字，多個異體用 `</td>
+</tr>
+<tr>
+<td><code>zh_TW</code></td>
+<td>繁體中文釋義</td>
+</tr>
+<tr>
+<td><code>zh_CN</code></td>
+<td>簡體中文釋義</td>
+</tr>
+<tr>
+<td><code>en</code></td>
+<td>英文釋義</td>
+</tr>
+</tbody>
+</table>
+<p>檔名前綴 <code>teochew</code> 或 <code>hokkien</code> 決定 <code>latn_norm</code> 轉換為 PUJ 或 POJ。<code>|</code> 分隔的異體（<code>latn_norm</code>、<code>han</code>、<code>zh_TW</code> 皆支援）會在匯出時自動拆分為獨立行。</p>
+<h2 id="測試">測試</h2>
+<p>專案使用 Python 內置的 <code>unittest</code> 框架進行測試。執行以下指令即可運行所有單元測試：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">./test.sh</span><br></pre></td></tr></table></figure>
+<h2 id="系統間轉換">系統間轉換</h2>
+<p>支援 POJ、TL、PUJ、BP、DP 等系統間的互相轉換，以 LATN_NORM 為中介自動鏈式轉換。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> scripts.latn <span class="keyword">import</span> create_translator</span><br><span class="line"></span><br><span class="line"><span class="comment"># PUJ → POJ</span></span><br><span class="line">t = create_translator(<span class="string">&quot;PUJ&quot;</span>, <span class="string">&quot;POJ&quot;</span>)</span><br><span class="line">t.translate(<span class="string">&quot;tsàng&quot;</span>)  <span class="comment"># &quot;chàng&quot;</span></span><br><span class="line">t.translate(<span class="string">&quot;kóu&quot;</span>)    <span class="comment"># &quot;kó͘&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># POJ → TL</span></span><br><span class="line">t = create_translator(<span class="string">&quot;POJ&quot;</span>, <span class="string">&quot;TL&quot;</span>)</span><br><span class="line">t.translate(<span class="string">&quot;chùi&quot;</span>)   <span class="comment"># &quot;tsùi&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># POJ → BP</span></span><br><span class="line">t = create_translator(<span class="string">&quot;POJ&quot;</span>, <span class="string">&quot;BP&quot;</span>)</span><br><span class="line">t.translate(<span class="string">&quot;pàng&quot;</span>)   <span class="comment"># &quot;bàng&quot;</span></span><br></pre></td></tr></table></figure>
+<h2 id="收錄內容">收錄內容</h2>
+<ul>
+<li><a href="books/README.md">Books 書籍</a></li>
+<li><a href="lyrics/README.md">Lyrics 歌詞</a></li>
+<li><a href="clippings/">Clippings 採集詞條</a></li>
+<li><a href="external/README.md">External 外部資料集</a></li>
+</ul>
+<h2 id="授權">授權</h2>
+<p>本專案程式碼以 MIT License 授權。</p>
+<p>外部資料集各自有其授權條款，詳見 <a href="external/README.md">external/README.md</a>。其中包含 CC BY-SA 4.0、CC BY-NC-SA 3.0 TW、CC BY-ND 3.0 TW、CC0 等不同授權。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://hokkien-writing.github.io/dataset/index.html" data-id="cmoioju9t000c5cfq7qyi9s4v" class="article-share-link">分享</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  
+    
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      <a rel="license noopener" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="創用 CC 授權條款"
+          style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+      <br />
+      Edited by
+      <a xmlns:cc="http: //creativecommons.org/ns#" target="_blank" href="https://github.com/tsunhua" property="cc:attributionName"
+        rel="cc:attributionURL noopener">Lim
+      </a>
+
+      <br>
+      Powered by
+      <a href="https://github.com/" target="_blank">Github</a>&nbsp;&&nbsp;
+      <a href="https://hexo.io/" target="_blank">Hexo</a>
+      <br />
+
+    </div>
+  </div>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+  </script>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    
+      <a class="mobile-nav-link mobile-nav-main" href="/">頭頁</a>
+    
+  
+    
+      <div class="mobile-nav-main" data-submenu="專案">
+        <a href="#" class="mobile-nav-link">專案</a>
+        <div class="submenu" id="submenu_專案">
+          
+            <a class="mobile-nav-link" href="/dataset">數據集</a>
+          
+            <a class="mobile-nav-link" href="/simple_puj">簡明潮州白話字</a>
+          
+        </div>
+      </div>
+    
+  
+    
+      <div class="mobile-nav-main" data-submenu="拍字">
+        <a href="#" class="mobile-nav-link">拍字</a>
+        <div class="submenu" id="submenu_拍字">
+          
+            <a class="mobile-nav-link" href="/rime_hokkien">福建話拍字方案 (beta)</a>
+          
+            <a class="mobile-nav-link" href="/rime_teochew">潮州話拍字方案 (beta)</a>
+          
+        </div>
+      </div>
+    
+  
+    
+      <div class="mobile-nav-main" data-submenu="工具冊">
+        <a href="#" class="mobile-nav-link">工具冊</a>
+        <div class="submenu" id="submenu_工具冊">
+          
+            <a class="mobile-nav-link" href="/holodict">臺灣閩南語常用詞辭典</a>
+          
+            <a class="mobile-nav-link" href="/Handbook_of_the_Swatow_Vernacular">汕頭話讀本</a>
+          
+            <a class="mobile-nav-link" href="/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow">英漢汕頭方言口語詞典</a>
+          
+            <a class="mobile-nav-link" href="/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect">汕頭方言音義字典</a>
+          
+            <a class="mobile-nav-link" href="/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect">漢英潮州方言字典</a>
+          
+        </div>
+      </div>
+    
+  
+    
+      <a class="mobile-nav-link mobile-nav-main" target="_blank" rel="noopener" href="https://github.com/hokkien-writing">GitHub</a>
+    
+  
+</nav>
+
+    
+
+<script src="//cdn.bootcss.com/jquery/2.0.3/jquery.min.js"></script>
+<script src="/js/search.js"></script> 
+
+  <script type="text/javascript" id="local.search.active">
+    var inputArea       = document.querySelector("#local-search-input");
+    inputArea.onclick   = function(){ getSearchFile(); this.onclick = null }
+    inputArea.onkeydown = function(){ if(event.keyCode == 13) return false }
+  </script>
+
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+  </div>
+</body>
+</html>
