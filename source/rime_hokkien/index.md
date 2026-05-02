@@ -1,11 +1,10 @@
 ---
-title: 福建話拍字方案 (beta)
-date: 2026-04-28 21:37:00
+title: 福建話拍字方案（beta）
+date: 2026-05-02 23:33:06
 source: https://github.com/hokkien-writing/rime-hokkien
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/rime-hokkien](https://github.com/hokkien-writing/rime-hokkien) 相輔修訂。
-
 
 ```
 【漢字】汝好世界

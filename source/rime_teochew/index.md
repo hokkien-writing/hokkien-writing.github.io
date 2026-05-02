@@ -1,15 +1,12 @@
 ---
-title: 潮州話拍字方案 (beta)
-date: 2025-06-22 11:49:55
+title: 潮州話拍字方案（beta）
+date: 2026-05-02 23:33:06
 source: https://github.com/hokkien-writing/rime-teochew
-dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/rime-teochew](https://github.com/hokkien-writing/rime-teochew) 相輔修訂。
 
-
 ![拍字效果](https://github.com/hokkien-writing/rime-teochew/raw/master/assets/u-oinn-lai-chiah-te.GIF)
-
 
 ```
 【漢字】有閒來食茶
@@ -114,8 +111,8 @@ cp -f rime-teochew-master/*.lua ~/Library/Rime
 
 - `*.schema.yaml`：各輸入方案的配置定義
 - `*.dict.yaml`：字典文件，包含音節佮漢字
-- `lua/`：自定義 Lua 過濾器（[puj_filter.lua](lua/puj_filter.lua)、[dp_filter.lua](lua/dp_filter.lua)）
-- [rime.lua](rime.lua)：Lua 主入口文件
+- `lua/`：自定義 Lua 過濾器（[puj_filter.lua](https://github.com/hokkien-writing/rime-teochew/blob/master/lua/puj_filter.lua)、[dp_filter.lua](https://github.com/hokkien-writing/rime-teochew/blob/master/lua/dp_filter.lua)）
+- [rime.lua](https://github.com/hokkien-writing/rime-teochew/blob/master/rime.lua)：Lua 主入口文件
 
 ## 參考
 

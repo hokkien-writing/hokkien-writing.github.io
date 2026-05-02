@@ -1,16 +1,14 @@
 ---
-title: 簡明潮州白話字 (Simple PUJ)
-date: 2025-06-22 11:49:55
+title: 簡明潮州白話字（Simple PUJ）
+date: 2026-05-02 23:33:06
 source: https://github.com/hokkien-writing/simple-puj
-dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 ---
 
 📌 若有缺漏，歡迎移步 [hokkien-writing/simple-puj](https://github.com/hokkien-writing/simple-puj) 相輔修訂。
 
+潮州白話字（Tiê-chiu Pe̍h-ūe-jī），簡稱 PUJ，是潮州話（廣義）个羅馬字書寫系統。因其源自十九世紀个教會羅馬字，是故又喊做汕頭教會羅馬字。PUJ 自成系統，書寫簡便，尤其適合無字可寫个情況，是每個呾潮州話个儂居家必備良方。
 
-潮州白話字（Tiê-chiu Pe̍h-ūe-jī），簡稱 PUJ，是潮州話（廣義）其羅馬字書寫系統。因其源自十九世紀其教會羅馬字，是故又喊做汕頭教會羅馬字。PUJ 自成系統，書寫簡便，尤其適合無字可寫其情況，是每個呾潮州話其儂居家必備良方。
-
-本冊參考維基百科之[潮州白話字](https://zh.wikipedia.org/wiki/潮州白話字)、徐宇航博士其《十九世紀的潮州方言音系》以及「潮正會」其《潮州話羅馬字注音方案》，取十九世紀潮州話各類記錄之最大公約數而成，力求簡明易懂，僅供學習參考。若有錯漏，有勞在[Issue頁面](https://github.com/hokkien-writing/simple-puj/issues)登記。
+本冊參考維基百科之[潮州白話字](https://zh.wikipedia.org/wiki/潮州白話字)、徐宇航博士个《十九世紀的潮州方言音系》以及「潮正會」个《潮州話羅馬字注音方案》，取十九世紀潮州話各類記錄之最大公約數而成，力求簡明易懂，僅供學習參考。若有錯漏，有勞在[Issue頁面](https://github.com/hokkien-writing/simple-puj/issues)登記。
 
 ## 聲母
 
@@ -241,8 +239,8 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 1. 書面上只標示原調，免標示變調。
 2. 一般來呾，兩字連讀時，前字變調，後字毋變調，用連接號(-)連接。
-3. 多字連讀時，前面其字變調，最後個字免變調。此稱之爲「連續變調」，用連接號(-)連接。如：「tiê-chiu 潮州」。
-4. 多字連讀時，前字免變調，後字變爲較低其調，用雙連接號(--)連接。如：「kiâⁿ--tshut-lâi 行出來」。
+3. 多字連讀時，前面个字變調，最後個字免變調。此稱之爲「連續變調」，用連接號(-)連接。如：「tiê-chiu 潮州」。
+4. 多字連讀時，前字免變調，後字變爲較低个調，用雙連接號(--)連接。如：「kiâⁿ--tshut-lâi 行出來」。
 5. 一般變調規律見下表：
 
 | 原調號     | 1    | 2    | 3    | 4    | 5    | 6     | 7    | 8    |
@@ -267,7 +265,7 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 ### 代替輸入
 
-在輸入允許條件下，應盡量用正確其字母、符號來書寫。若是輸入毋便，可採用下底代替方案：
+在輸入允許條件下，應盡量用正確个字母、符號來書寫。若是輸入毋便，可採用下底代替方案：
 
 1. 字母「ⁿ」用「nn」代替。
 2. 字母「ṳ」用「ur」代替。
@@ -275,6 +273,6 @@ dependencies: ["https://github.com/hokkien-writing/teochew-lexicon"]
 
 
 
-[^1]: 無收錄其韻母有 18個，分別是：(1) iou、iouh、iouⁿ、iouhⁿ 4個被歸入 iau組韻母中。  (2) oa、oah、oaⁿ 3個被歸入 ua組韻母中。  (3) oⁿ 在十九世紀字典中只記錄了個「moⁿ」，表示「魔」或「⿱艹麾」，而有時又記爲「mo」，此地方將其攏總歸入「o」韻。  (4) aih、aihⁿ、uaihⁿ 3個現代潮州話中已無管着字。斐姑娘《汕頭方言音義字典》中記錄其「捱ngâih」現爲「捱ngâi」，「轉uâihⁿ」現爲「彎uâiⁿ」。   (5) ahⁿ、ehⁿ、ihⁿ、ohⁿ 4個在十九世紀字典中有時又記爲ah，例如「垃圾」在卓威廉《英漢汕頭方言口語詞典》中記錄爲「nahⁿ-sap」，在斐姑娘《汕頭方言音義字典》佮林雄成《汕頭話讀本》中記錄爲「nah-sap」，此地方攏總歸入 ah。其他類此。  (6) uehⁿ 僅在卓威廉《英漢汕頭方言口語詞典》中有「nuehⁿ 」表示「take up with two fingers」，此地方將其歸入「ueh」韻。   (7) auhⁿ 僅在卓威廉《英漢汕頭方言口語詞典》中有「hauhⁿ--chē-kiè」表示「grunt」，此地方將其歸入「auh」韻。  (8) iauhⁿ 覓無用例。
+[^1]: 無收錄个韻母有 18個，分別是：(1) iou、iouh、iouⁿ、iouhⁿ 4個被歸入 iau組韻母中。  (2) oa、oah、oaⁿ 3個被歸入 ua組韻母中。  (3) oⁿ 在十九世紀字典中只記錄了個「moⁿ」，表示「魔」或「⿱艹麾」，而有時又記爲「mo」，此地方將其攏總歸入「o」韻。  (4) aih、aihⁿ、uaihⁿ 3個現代潮州話中已無管着字。斐姑娘《汕頭方言音義字典》中記錄个「捱ngâih」現爲「捱ngâi」，「轉uâihⁿ」現爲「彎uâiⁿ」。   (5) ahⁿ、ehⁿ、ihⁿ、ohⁿ 4個在十九世紀字典中有時又記爲ah，例如「垃圾」在卓威廉《英漢汕頭方言口語詞典》中記錄爲「nahⁿ-sap」，在斐姑娘《汕頭方言音義字典》佮林雄成《汕頭話讀本》中記錄爲「nah-sap」，此地方攏總歸入 ah。其他類此。  (6) uehⁿ 僅在卓威廉《英漢汕頭方言口語詞典》中有「nuehⁿ 」表示「take up with two fingers」，此地方將其歸入「ueh」韻。   (7) auhⁿ 僅在卓威廉《英漢汕頭方言口語詞典》中有「hauhⁿ--chē-kiè」表示「grunt」，此地方將其歸入「auh」韻。  (8) iauhⁿ 覓無用例。
 
 [^2]: 調號9 爲低降調。
