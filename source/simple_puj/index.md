@@ -1,6 +1,6 @@
 ---
 title: 簡明潮州白話字（Simple PUJ）
-date: 2026-05-02 23:33:06
+date: 2026-05-03 08:41:23
 source: https://github.com/hokkien-writing/simple-puj
 ---
 

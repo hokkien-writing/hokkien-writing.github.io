@@ -56,3 +56,43 @@ sync_project() {
 sync_project "../rime-hokkien" "rime_hokkien" "hokkien-writing/rime-hokkien" "main"
 sync_project "../rime-teochew" "rime_teochew" "hokkien-writing/rime-teochew" "master"
 sync_project "../simple-puj" "simple_puj" "hokkien-writing/simple-puj" "main"
+
+# Special sync: reference/README.md -> source/index.md (homepage, strip H1 without preserving as title)
+(
+    src_dir="../reference"
+    target_file="index.md"
+    repo="hokkien-writing/reference"
+    branch="thau"
+    readme="$SCRIPT_DIR/$src_dir/README.md"
+    output="$SCRIPT_DIR/source/$target_file"
+
+    if [[ ! -f "$readme" ]]; then
+        echo "Warning: $readme not found, skipping" >&2
+    else
+        repo_url="https://github.com/$repo"
+        raw_base="https://github.com/$repo/raw/$branch"
+        blob_base="https://github.com/$repo/blob/$branch"
+        date_str="$(date '+%Y-%m-%d %H:%M:%S')"
+
+        {
+            echo "---"
+            echo "title: 頭頁"
+            echo "date: $date_str"
+            echo "source: $repo_url"
+            echo "---"
+            echo ""
+            echo "📌 若有缺漏，歡迎移步 [$repo]($repo_url) 相輔修訂。"
+            echo ""
+
+            awk 'NR != 1 || !/^# /' "$readme" | awk '/./{p=1} p' | \
+            RAW_BASE="$raw_base" BLOB_BASE="$blob_base" perl -pe '
+                s{!\[([^\]]*)\]\((?!https?:)(?!#)([^)]+)\)}
+                 {qq{!\[$1\]($ENV{RAW_BASE}/$2)}}ge;
+                s{(?<!!)\[([^\]]*)\]\((?!https?:)(?!mailto:)(?!#)([^)]+)\)}
+                 {qq{\[$1\]($ENV{BLOB_BASE}/$2)}}ge;
+            '
+        } > "$output"
+
+        echo "Synced: $src_dir/README.md -> source/$target_file"
+    fi
+)
