@@ -54,7 +54,7 @@ sync_project() {
 }
 
 sync_project "../rime-hokkien" "rime_hokkien" "hokkien-writing/rime-hokkien" "main"
-sync_project "../rime-teochew" "rime_teochew" "hokkien-writing/rime-teochew" "master"
+sync_project "../../OpenTeochew/rime-teochew" "rime_teochew" "hokkien-writing/rime-teochew" "master"
 sync_project "../simple-puj" "simple_puj" "hokkien-writing/simple-puj" "main"
 
 # Special sync: reference/README.md -> source/index.md (homepage, strip H1 without preserving as title)

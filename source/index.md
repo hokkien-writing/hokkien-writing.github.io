@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2026-05-03 08:41:23
+date: 2026-06-19 10:56:13
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -60,7 +60,7 @@ source: https://github.com/hokkien-writing/reference
 
 * 1604, 西班牙耶穌會會士Pedro Chirino, 菲律賓唐人.《西班牙─華語辭典》(Dictionario Hispánico Sinicum): 藏於菲律賓聖多瑪斯(Santo Tomas)大學檔案，共計一千餘頁，二萬七千個閩南語詞條。
 	* 2022, 李毓中, 陳宗仁, 石文誠, 吳昕泉, José Luis Caño Ortigosa, Regalado T. José.《閩南─西班牙歷史文獻叢刊四：華語—西班牙語辭典》(Hokkien Spanish Historical Document Series IV: Dictionarium Sino-Hispanicum)[博客來](https://www.books.com.tw/products/0010949394?sloc=main)
-* 1620, 西班牙道明會會士Melchior de Mançano, Fray Raymundo Feijoo.《漳州話語法》(Arte de la Lengua Chio Chiu): 藏於西班牙巴塞隆納大學圖書館。現存最早歐洲人所寫的閩南語文法書籍，以西班牙人的角度，向歐洲人介紹如何學習當時東亞海域最重要的商業語言--閩南話。
+* 1620, 西班牙道明會會士Melchior de Mançano, Fray Raymundo Feijoo.《漳州話語法》(Arte de la Lengua Chio Chiu): 藏於西班牙巴塞隆納大學圖書館。現存最早歐洲人所寫的閩南語文法書籍，以西班牙人的角度，向歐洲人介紹如何學習當時東亞海域最重要的商業語言--閩南話。 [BiPaDi PDF ⬇️](https://bipadi.ub.edu/digital/collection/manuscrits/id/29703)
 	* 2011, Henning Klöter.《The Language of the Sangleys: A Chinese Vernacular in Missionary Sources of the Seventeenth Century》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gR2GPREyWK2bBqQm?e=edVNc8)
 	* 2014, 洪惟仁.《十六、七世紀之間呂宋的漳州方言》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4cIiVt5dX8U1BtMg?e=hh7oTe)
 	* 2018, 李毓中, 陳宗仁, Regalado Trota José, José Caño Ortigosa.《閩南—西班牙歷史文獻叢刊 一》(Hokkien Spanish Historical Document Series I)[豆瓣](https://book.douban.com/subject/31214880/) ｜ [博客來](https://www.books.com.tw/products/0010813873?sloc=main) ｜ [書樣PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRpwqX76myr8BOi6?e=iBRASC)
@@ -76,6 +76,7 @@ source: https://github.com/hokkien-writing/reference
 * 1873, Carstairs Douglas([英]杜嘉德).《廈英大辭典》(Chinese-English Dictionary of Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects)
 	* 1923, Thomas Barclay([英]巴克禮).《增補廈音大辭典》(Supplement to Dictionary of the Vernacular or
 	Spoken Amoy.) [互聯網檔案館 📖](https://archive.org/details/chineseenglish00doug) | [Google Books 📖](https://www.google.com/books/edition/Chinese_English_Dictionary_of_the_Vernac/KoNkAAAAMAAJ) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRQ1ej4xGr2Vt1td?e=0jIJ1K)
+* 1878, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《汕頭話初級讀本》(First Lessons in the Swatow Dialect) [互聯網檔案館 📖](https://archive.org/details/FirstLessonsInTheSwatowDialect) | [Wikisource 📖](https://en.wikisource.org/wiki/First_Lessons_in_the_Swatow_Dialect)
 * 1883, John Macgowan([英]麥高溫).《廈門方言英漢字典》（English and Chinese dictionary of the Amoy dialect）[互聯網檔案館 📖](https://archive.org/details/cu31924023550878) | [Wikisource 📖](https://en.wikisource.org/wiki/Index:English_and_Chinese_dictionary_of_the_Amoy_dialect_(IA_cu31924023550878).pdf) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQD6xroZwahbRrAVKDC3lU8KAV5t82jT3ZWyh9gRpaLFUqU?e=mCajyn) | [博客來](https://www.books.com.tw/products/F019712435?loc=series_P_E251021000018568_title_001)
 * 1883, Rudolf Lechler([德]黎力基), Samuel Wells Williams([美]衛三畏), William Duffus([英]卓威廉).《英漢汕頭方言口語詞典》(English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow) [本站 📖](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource 📖](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRKgQNSnrQlJUIp3?e=q5Coer)
 * 1883, Josiah Goddard([美]高德, 哥達德).《漢英潮州方言字典》(A Chinese and English vocabulary, in the Tie-chiu dialect) [本站 📖](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQ05sJSwYnZtsMpm?e=AyVkZf)
