@@ -1,6 +1,6 @@
 ---
 title: 福建話拍字方案（beta）
-date: 2026-06-19 10:56:13
+date: 2026-06-19 18:18:12
 source: https://github.com/hokkien-writing/rime-hokkien
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 頭頁
-date: 2026-06-19 10:56:13
+date: 2026-06-19 18:18:12
 source: https://github.com/hokkien-writing/reference
 ---
 
@@ -76,18 +76,24 @@ source: https://github.com/hokkien-writing/reference
 * 1873, Carstairs Douglas([英]杜嘉德).《廈英大辭典》(Chinese-English Dictionary of Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects)
 	* 1923, Thomas Barclay([英]巴克禮).《增補廈音大辭典》(Supplement to Dictionary of the Vernacular or
 	Spoken Amoy.) [互聯網檔案館 📖](https://archive.org/details/chineseenglish00doug) | [Google Books 📖](https://www.google.com/books/edition/Chinese_English_Dictionary_of_the_Vernac/KoNkAAAAMAAJ) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRQ1ej4xGr2Vt1td?e=0jIJ1K)
+* 1877, Herbert Allen Giles（[英] 翟理斯）.《汕頭方言手冊》(Handbook of the Swatow Dialect) [Wikisource 📖](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Dialect)
 * 1878, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《汕頭話初級讀本》(First Lessons in the Swatow Dialect) [互聯網檔案館 📖](https://archive.org/details/FirstLessonsInTheSwatowDialect) | [Wikisource 📖](https://en.wikisource.org/wiki/First_Lessons_in_the_Swatow_Dialect)
 * 1883, John Macgowan([英]麥高溫).《廈門方言英漢字典》（English and Chinese dictionary of the Amoy dialect）[互聯網檔案館 📖](https://archive.org/details/cu31924023550878) | [Wikisource 📖](https://en.wikisource.org/wiki/Index:English_and_Chinese_dictionary_of_the_Amoy_dialect_(IA_cu31924023550878).pdf) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQD6xroZwahbRrAVKDC3lU8KAV5t82jT3ZWyh9gRpaLFUqU?e=mCajyn) | [博客來](https://www.books.com.tw/products/F019712435?loc=series_P_E251021000018568_title_001)
 * 1883, Rudolf Lechler([德]黎力基), Samuel Wells Williams([美]衛三畏), William Duffus([英]卓威廉).《英漢汕頭方言口語詞典》(English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow) [本站 📖](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource 📖](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRKgQNSnrQlJUIp3?e=q5Coer)
 * 1883, Josiah Goddard([美]高德, 哥達德).《漢英潮州方言字典》(A Chinese and English vocabulary, in the Tie-chiu dialect) [本站 📖](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQ05sJSwYnZtsMpm?e=AyVkZf)
 * 1883, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《汕頭方言音義字典》(A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones) [本站 📖](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRebDy57RcB0bIxX?e=LjpMh7)
+* 1884, William Ashmore（[美] 安士模）.《潮州話語法初階》(Primary Lessons in Swatow Grammar) [Wikisource 📖](https://en.wikisource.org/wiki/Primary_Lessons_in_Swatow_Grammar)
+* 1886, John Campbell Gibson（[英] 吉布生）.《〈漢英韻府〉潮州話索引》(A Swatow Index to the Syllabic Dictionary of Chinese, and to the Dictionary of the Vernacular of Amoy) [Google Books 📖](https://books.google.com/books/about/A_Swatow_Index_to_the_Syllabic_Dictionar.html?id=ERYpQwAACAAJ)。
 * 1886, Lim Hiong Seng([新加坡]林雄成).《汕頭話讀本》(Handbook of the Swatow Vernacular) [本站 📖](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource 📖](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRa-0BHj0H7BuBFc?e=OddimT)
+* 1889, William Duffus（[英] 杜嘉德） & John Campbell Gibson（[英] 吉布生）.《新約馬太福音全書》(Sin-Ieh Ma-Thai Hok-Im Tsu Tshuan-Tsu)
 * 1871, Baldwin, C. C. (Caleb Cook).《榕腔初學撮要》(A Manual of the Foochow Dialect) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990058288570203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQ_D0a_uFQEq3OPU?e=a8y2xa)
 * 1894, Rev. John Van Nest Talmage([美]打馬字, Táⁿ Má-jī),《廈門音个字典》(Ē-mn̂g im ê Jī-tián) [微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQBVvSt2bBiRTL3VP5k8ye6uAXr_5nyPtSL550lbCayYKvg?e=jiHdJc)
+* 1896, Anonymous（佚名）.《舊約創世紀全書》(Ku-Ieh Tshang-Si Ki Tshuan-Tsu)
 * 1908, C. M. S. and A. E. Champness.《福州話入門二十課》(A Manual of the Foochow Dialect In Twenty Lessons) [Wikisource 📖](https://en.wikisource.org/wiki/A_Manual_of_the_Foochow_Dialect_In_Twenty_Lessons) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQ49QHmkczi1PnKF?e=ytVsCg)
 * 1913, William Campbell(甘爲霖).《廈門音新字典》(A Dictionary of the Amoy Vernacular Spoken
 through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案館 📖](https://archive.org/details/dictionaryofamoy00camp) | [甘字典查詢 🔍](http://taigi.fhl.net/dick/index.html) | [Google Books 📖](https://play.google.com/books/reader?id=dJo3AQAAMAAJ&pg=GBS.PP1&hl=en) [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRG-_gcsYus3NbLl?e=2gmf2I)
 * 1915, 江夏懋亭氏.《彙集雅俗十五音全本》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4f4_QrTJB7LxGWmc?e=xFUJN3) 
+* 1924, John Steele（[英] 池約翰）.《潮正兩音字集》(The Swatow Syllabary with Mandarin Pronunciations)
 * 1933, 潘載和.《潮汕檢音字表》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQvwcreMZt08ywls?e=iUUNGv) 
 * 1936, 潭平章.《潮音字類辨正》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQylTdQgVx1NSSht?e=Cng4x5)
 * 1965, Leo Chen, Jerry Norman.《閩語入門》(An introduction to the Foochow dialect)
